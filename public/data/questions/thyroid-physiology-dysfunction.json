@@ -1,0 +1,1650 @@
+{
+  "categoryId": "thyroid-physiology-dysfunction",
+  "categoryName": "Thyroid Physiology & Dysfunction",
+  "questions": [
+    {
+      "id": "en10-001",
+      "stem": "A 31-year-old woman who gave birth 4 months ago has palpitations, tremor, heat intolerance, and a 4-kg weight loss. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Radioactive iodine uptake is very low. Which of the following best characterizes her thyroid state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperthyroidism from increased glandular hormone synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Thyrotoxicosis without increased glandular hormone synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Primary hypothyroidism from failure of the thyroid gland"
+        },
+        {
+          "label": "D",
+          "text": "Central hyperthyroidism from excess pituitary hormone secretion"
+        },
+        {
+          "label": "E",
+          "text": "Euthyroid state with an isolated laboratory abnormality"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thyrotoxicosis means excess thyroid hormone effect from any source; hyperthyroidism is the subset caused by increased glandular synthesis, and low uptake separates the two.",
+        "whyCorrect": "Suppressed thyroid-stimulating hormone with an elevated free thyroxine establishes thyrotoxicosis but does not identify the cause. Very low radioactive iodine uptake tells you the gland is not actively trapping iodine to make new hormone, so this is thyrotoxicosis without true hyperthyroidism. Postpartum thyroiditis, in which damaged follicles release preformed hormone, fits this pattern exactly.",
+        "whyWrongByChoice": {
+          "A": "Active synthesis of excess hormone produces increased, not very low, radioactive iodine uptake.",
+          "C": "Primary hypothyroidism produces an elevated thyroid-stimulating hormone with a low free thyroxine.",
+          "D": "Central hyperthyroidism produces a nonsuppressed thyroid-stimulating hormone with high hormone levels and increased uptake.",
+          "E": "She has both biochemical hormone excess and the clinical manifestations of it, so she is not euthyroid."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thyrotoxicosis vs hyperthyroidism",
+        "radioactive iodine uptake",
+        "thyroiditis"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-002",
+      "stem": "A 27-year-old woman has heat intolerance, weight loss, tremor, and a diffusely enlarged thyroid gland. Examination shows proptosis, diplopia, and conjunctival irritation. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Which of the following best explains her eye findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct toxic action of circulating thyroxine on orbital tissue"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune orbital fibroblast activation with glycosaminoglycan edema"
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory leak of preformed hormone into the orbital tissues"
+        },
+        {
+          "label": "D",
+          "text": "Autonomous nodule secretion exerting pressure on the orbital contents"
+        },
+        {
+          "label": "E",
+          "text": "Increased binding globulin falsely elevating measured hormone levels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Graves ophthalmopathy is an autoimmune orbital process, not a direct consequence of high circulating thyroid hormone.",
+        "whyCorrect": "In Graves disease, autoimmune activation of orbital fibroblasts drives glycosaminoglycan accumulation, edema, and extraocular muscle enlargement. That remodeling produces proptosis, eye discomfort, diplopia, and exposure keratopathy. Pretibial dermopathy reflects the same kind of fibroblast-directed autoimmune process in the skin of the anterior shins.",
+        "whyWrongByChoice": {
+          "A": "Excess circulating thyroid hormone alone does not explain the orbital changes; other thyrotoxic states lack ophthalmopathy.",
+          "C": "Leak of preformed hormone from damaged follicles describes thyroiditis, which does not classically cause ophthalmopathy.",
+          "D": "Her gland is diffusely enlarged rather than nodular, and a toxic adenoma does not cause eye disease.",
+          "E": "Binding globulin changes alter total hormone measurement and would not suppress thyroid-stimulating hormone or cause proptosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Graves disease",
+        "ophthalmopathy",
+        "autoimmune"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-003",
+      "stem": "A 68-year-old man has palpitations, tremor, and a 6-kg weight loss. Examination shows an irregularly enlarged, multinodular thyroid gland and no eye or shin findings. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Radioactive iodine uptake shows multiple irregular areas of increased uptake. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Graves disease"
+        },
+        {
+          "label": "B",
+          "text": "Toxic multinodular goiter"
+        },
+        {
+          "label": "C",
+          "text": "Toxic adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Subacute thyroiditis"
+        },
+        {
+          "label": "E",
+          "text": "Exogenous thyroid hormone exposure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Patchy, multifocal increased uptake in an older patient with a nodular gland is the signature of toxic multinodular goiter.",
+        "whyCorrect": "Toxic multinodular goiter is a true hyperthyroid state in which multiple autonomous nodules synthesize hormone independent of thyroid-stimulating hormone. It typically arises in older patients, often in a longstanding nodular goiter, and produces patchy increased uptake reflecting several hyperfunctioning areas. Graves-specific ophthalmopathy and dermopathy are absent.",
+        "whyWrongByChoice": {
+          "A": "Graves disease produces diffuse increased uptake and may include ophthalmopathy or pretibial dermopathy.",
+          "C": "Toxic adenoma produces focal increased uptake in a single hot nodule with suppression of surrounding tissue.",
+          "D": "Thyroiditis releases preformed hormone and produces low radioactive iodine uptake.",
+          "E": "Exogenous hormone suppresses the gland by negative feedback, producing low uptake."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "toxic multinodular goiter",
+        "radioactive iodine uptake",
+        "nodular disease"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-004",
+      "stem": "A 44-year-old woman has palpitations and tremor. Examination shows a single 3-cm right-sided thyroid nodule and no proptosis or shin lesions. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free triiodothyronine concentration. Radioactive iodine uptake shows intense focal uptake in the nodule with suppressed uptake in the rest of the gland. Which of the following best explains her thyrotoxicosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autonomous hormone production by one hyperfunctioning nodule"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune stimulation of receptors throughout the entire gland"
+        },
+        {
+          "label": "C",
+          "text": "Release of preformed hormone from inflamed thyroid follicles"
+        },
+        {
+          "label": "D",
+          "text": "Multiple autonomous nodules scattered through an enlarged gland"
+        },
+        {
+          "label": "E",
+          "text": "Hormone entering from a source outside the thyroid gland"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Focal increased uptake in one nodule with suppression of the surrounding gland defines a toxic adenoma.",
+        "whyCorrect": "In toxic adenoma, one autonomous nodule synthesizes excess hormone independent of central control. The resulting hormone excess suppresses thyroid-stimulating hormone, which in turn shuts down the normal surrounding tissue, so the scan shows a solitary hot nodule against a quiet background. Such hot nodules are less concerning for malignancy than cold nodules but can cause clinically important hyperthyroidism.",
+        "whyWrongByChoice": {
+          "B": "Diffuse autoimmune receptor stimulation would produce diffusely increased uptake across the whole gland.",
+          "C": "A hormone leak from inflamed follicles produces low uptake, not intense focal uptake.",
+          "D": "Multiple autonomous nodules would produce patchy uptake in several areas, not a single focus.",
+          "E": "An outside hormone source suppresses the gland by feedback and produces uniformly low uptake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "toxic adenoma",
+        "hot nodule",
+        "radioactive iodine uptake"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-005",
+      "stem": "A 34-year-old woman who works in a medical office has a 3-month history of palpitations, tremor, and weight loss. Examination shows a nontender thyroid gland of normal size and no eye findings. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Radioactive iodine uptake is low, and the serum thyroglobulin concentration is low. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Painless thyroiditis releasing hormone from damaged follicles"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of thyroid hormone from a source outside the gland"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune stimulation of the thyroid-stimulating hormone receptor"
+        },
+        {
+          "label": "D",
+          "text": "Autonomous secretion from a hyperfunctioning thyroid nodule"
+        },
+        {
+          "label": "E",
+          "text": "Nonthyroidal illness altering peripheral thyroid hormone conversion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Among low-uptake thyrotoxic states, a low serum thyroglobulin points to hormone coming from outside the gland.",
+        "whyCorrect": "Low radioactive iodine uptake places this patient in the non-synthesis group, which is chiefly thyroiditis versus exogenous hormone exposure. Thyroglobulin is made only by thyroid follicles, so it tends to be elevated when damaged follicles spill their contents in thyroiditis. A low thyroglobulin in a thyrotoxic patient indicates the hormone did not come from her own gland, as in factitious or exogenous thyroid hormone use.",
+        "whyWrongByChoice": {
+          "A": "Thyroiditis also gives low uptake, but follicular damage tends to raise rather than lower serum thyroglobulin.",
+          "C": "Graves disease is a synthesis-driven state and produces diffusely increased uptake.",
+          "D": "A hyperfunctioning nodule produces focal increased uptake, not low uptake.",
+          "E": "Nonthyroidal illness gives low T3 with a normal or low free thyroxine rather than frank hormone excess."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "exogenous thyroid hormone",
+        "thyroglobulin",
+        "low uptake"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-006",
+      "stem": "A 38-year-old man has a 10-day history of anterior neck pain, palpitations, and tremor that began after an upper respiratory illness. Examination shows a tender thyroid gland. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Radioactive iodine uptake is low. Which of the following treatment approaches best matches the mechanism of his disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methimazole to block the increased synthesis of new hormone"
+        },
+        {
+          "label": "B",
+          "text": "Propranolol with anti-inflammatory therapy for the hormone leak"
+        },
+        {
+          "label": "C",
+          "text": "Radioactive iodine to ablate the hyperfunctioning thyroid tissue"
+        },
+        {
+          "label": "D",
+          "text": "Levothyroxine to restore adequate circulating thyroid hormone"
+        },
+        {
+          "label": "E",
+          "text": "Pituitary surgery to remove the source of central stimulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thyroiditis is treated with symptom control and anti-inflammatory therapy because the problem is release of stored hormone, not new synthesis.",
+        "whyCorrect": "Neck pain, biochemical thyrotoxicosis, and low uptake indicate subacute thyroiditis, in which damaged follicles release preformed hormone. Because the gland is not making large amounts of new hormone, treatment targets the adrenergic symptoms and the inflammation while the leak runs its course. A beta-blocker rapidly reduces palpitations, tremor, anxiety, and tachycardia regardless of the underlying cause.",
+        "whyWrongByChoice": {
+          "A": "Thionamides block new synthesis, which is not the dominant mechanism when uptake is low.",
+          "C": "Radioactive iodine is used for selected synthesis-driven states and is not used for a hormone leak.",
+          "D": "Levothyroxine treats hypothyroidism and would worsen the current thyrotoxic phase.",
+          "E": "A central source would produce a nonsuppressed thyroid-stimulating hormone with increased uptake."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thyroiditis",
+        "mechanism-based treatment",
+        "beta-blocker"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-007",
+      "stem": "A 52-year-old woman with untreated Graves disease is admitted 2 days after an appendectomy with a temperature of 40.1 C, agitation, atrial fibrillation with a rate of 160/min, vomiting, and hypotension. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Which of the following treatment sequences is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iodine first, then a beta-blocker, then a thionamide and support"
+        },
+        {
+          "label": "B",
+          "text": "Beta-blocker and thionamide, then iodine, then steroids and support"
+        },
+        {
+          "label": "C",
+          "text": "Radioactive iodine immediately, then outpatient beta-blockade later"
+        },
+        {
+          "label": "D",
+          "text": "Levothyroxine with glucocorticoids and passive external rewarming"
+        },
+        {
+          "label": "E",
+          "text": "Observation until coma develops before starting emergency therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thyroid storm is treated with stacked therapy: beta-blockade, thionamide, iodine after thionamide, glucocorticoids, supportive care, and treatment of the trigger.",
+        "whyCorrect": "Fever, agitation, atrial fibrillation, vomiting, and hypotension in an untreated thyrotoxic patient after surgery indicate thyroid storm, a clinical diagnosis defined by systemic decompensation rather than by any free thyroxine number. Multiple processes must be controlled at once, so beta-blockade addresses adrenergic effects, a thionamide blocks new synthesis, iodine given afterward blocks hormone release, and glucocorticoids reduce T4-to-T3 conversion and support adrenal reserve. Supportive care and treatment of the precipitating infection or stressor complete the regimen.",
+        "whyWrongByChoice": {
+          "A": "Iodine given before a thionamide can supply substrate for new hormone synthesis.",
+          "C": "Radioactive iodine is a non-urgent definitive option, not immediate emergency therapy.",
+          "D": "Levothyroxine and rewarming treat myxedema coma, the opposite emergency.",
+          "E": "Thyroid storm does not require coma; delaying treatment for it is dangerous."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thyroid storm",
+        "treatment sequence",
+        "emergency"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-008",
+      "stem": "A 60-year-old man is being treated for thyroid storm. The team gives propranolol and methimazole and deliberately waits to administer potassium iodide until after the methimazole has been given. Which of the following best explains this sequencing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iodine given first supplies substrate for new hormone synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Iodine given first blocks absorption of the administered thionamide"
+        },
+        {
+          "label": "C",
+          "text": "Iodine given first raises uptake needed for later definitive therapy"
+        },
+        {
+          "label": "D",
+          "text": "Iodine given first accelerates peripheral conversion of T4 to T3"
+        },
+        {
+          "label": "E",
+          "text": "Iodine given first provokes autoimmune activation of orbital tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In thyroid storm, iodine is delayed until after a thionamide so it does not fuel new hormone synthesis.",
+        "whyCorrect": "Iodine is useful in storm because it blocks release of hormone from the gland. However, iodide is also the raw material for hormone synthesis, so giving it to a gland whose peroxidase is still active can worsen the hormone excess. Starting the thionamide first shuts down synthesis, after which iodine can safely be added to block release.",
+        "whyWrongByChoice": {
+          "B": "The concern is substrate supply to the gland, not interference with thionamide absorption.",
+          "C": "Raising uptake is not a goal in storm; radioactive iodine is not emergency therapy here.",
+          "D": "Glucocorticoids are added to reduce peripheral T4-to-T3 conversion; iodine is not given to change it.",
+          "E": "Ophthalmopathy reflects autoimmune fibroblast activation and is not the reason for the sequencing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "thyroid storm",
+        "iodine after thionamide",
+        "pharmacology"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-009",
+      "stem": "A 30-year-old woman with newly diagnosed Graves disease is started on methimazole and propranolol. She asks why she needs two medications. Which of the following best explains the role of propranolol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits thyroid peroxidase and reduces new hormone synthesis"
+        },
+        {
+          "label": "B",
+          "text": "It rapidly controls adrenergic symptoms while synthesis is blocked"
+        },
+        {
+          "label": "C",
+          "text": "It destroys hyperfunctioning follicular cells within the thyroid gland"
+        },
+        {
+          "label": "D",
+          "text": "It increases radioactive iodine uptake ahead of definitive therapy"
+        },
+        {
+          "label": "E",
+          "text": "It reverses the orbital fibroblast activation of Graves eye disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta-blockers give rapid symptomatic control while a thionamide slowly lowers hormone production.",
+        "whyCorrect": "Methimazole decreases new hormone synthesis but does not remove hormone already stored in the gland or circulating in blood, so the biochemical excess corrects only over time. A beta-blocker acts immediately on the adrenergic manifestations of thyrotoxicosis, including palpitations, tremor, anxiety, and tachycardia. That is why the two are paired at the start of therapy.",
+        "whyWrongByChoice": {
+          "A": "Blocking thyroid peroxidase is the action of methimazole and propylthiouracil, not propranolol.",
+          "C": "Radioactive iodine or surgery removes or destroys thyroid tissue; beta-blockers do not.",
+          "D": "Propranolol does not increase radioactive iodine uptake.",
+          "E": "Graves ophthalmopathy is autoimmune and is not directly treated by beta-blockade."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Graves disease",
+        "beta-blocker",
+        "thionamide"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-010",
+      "stem": "A 70-year-old man in the intensive care unit with septic shock and pneumonia undergoes thyroid function testing. Results show a low total triiodothyronine concentration, a low-normal thyroid-stimulating hormone concentration, a low-normal free thyroxine concentration, and an elevated reverse triiodothyronine concentration. He has no goiter, tremor, or weight loss attributable to thyroid disease. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe illness altering axis signaling and peripheral conversion"
+        },
+        {
+          "label": "B",
+          "text": "Autonomous overproduction of hormone by hyperfunctioning thyroid tissue"
+        },
+        {
+          "label": "C",
+          "text": "Follicular damage releasing preformed hormone into the circulation"
+        },
+        {
+          "label": "D",
+          "text": "Exogenous thyroid hormone suppressing the pituitary-thyroid axis"
+        },
+        {
+          "label": "E",
+          "text": "Pituitary adenoma secreting excess thyroid-stimulating hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nonthyroidal illness syndrome alters thyroid tests during severe illness without any primary thyroid disease.",
+        "whyCorrect": "In critical illness, hypothalamic-pituitary-thyroid signaling, peripheral deiodination, hormone binding, and assay interpretation are all disturbed. The classic pattern is a low T3 with a normal or low thyroid-stimulating hormone and a normal or low free thyroxine, with reverse T3 rising because more T4 is shunted to the inactive metabolite. The thyroid gland is not autonomously overproducing hormone, so this should not be treated as hyperthyroidism.",
+        "whyWrongByChoice": {
+          "B": "Autonomous overproduction causes a suppressed thyroid-stimulating hormone with clearly elevated free hormone levels.",
+          "C": "A hormone leak from damaged follicles produces biochemical thyrotoxicosis, not a low T3 pattern.",
+          "D": "Exogenous hormone raises free thyroid hormone levels and suppresses thyroid-stimulating hormone.",
+          "E": "A thyroid-stimulating hormone-secreting adenoma causes high thyroid hormone levels with nonsuppressed thyroid-stimulating hormone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nonthyroidal illness syndrome",
+        "reverse T3",
+        "testing trap"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-011",
+      "stem": "A 28-year-old woman at 10 weeks' gestation has palpitations, tremor, and heat intolerance. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration, and the cause of her thyrotoxicosis is not yet clear. Which of the following diagnostic steps is contraindicated in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Radioactive iodine uptake testing of the thyroid gland"
+        },
+        {
+          "label": "B",
+          "text": "Measurement of the serum free triiodothyronine concentration"
+        },
+        {
+          "label": "C",
+          "text": "Measurement of thyroid-stimulating hormone receptor antibodies"
+        },
+        {
+          "label": "D",
+          "text": "Physical examination of the thyroid gland and the orbits"
+        },
+        {
+          "label": "E",
+          "text": "Measurement of the serum thyroglobulin concentration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Radioactive iodine uptake testing is not used in pregnancy or breastfeeding because of fetal or infant radiation exposure.",
+        "whyCorrect": "Radioactive iodine uptake exploits the gland's iodide-trapping physiology and therefore delivers radioisotope that can reach the fetus or a nursing infant. Because of that exposure risk, the test is avoided in pregnant and breastfeeding patients even though it is the usual way to separate synthesis-driven states from hormone leak or ingestion. Clinical clues, thyroid function tests, and antibody testing must carry the diagnostic work instead.",
+        "whyWrongByChoice": {
+          "B": "Serum free hormone measurement is a simple blood test and carries no radiation exposure.",
+          "C": "Antibody testing supports a Graves diagnosis and is a blood test with no fetal risk.",
+          "D": "Examining for a diffuse goiter, lid lag, proptosis, or shin lesions is safe and informative.",
+          "E": "Thyroglobulin is a blood test used to separate low-uptake states and poses no fetal risk."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "radioactive iodine uptake",
+        "pregnancy",
+        "diagnostic workup"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en10-012",
+      "stem": "A 45-year-old man has a 4-month history of tremor, palpitations, and weight loss. Laboratory studies show an elevated free thyroxine concentration and an elevated free triiodothyronine concentration, with a thyroid-stimulating hormone concentration in the normal reference range. Radioactive iodine uptake is diffusely increased. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inappropriate pituitary secretion of thyroid-stimulating hormone"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid-stimulating immunoglobulin activation of the thyroid receptor"
+        },
+        {
+          "label": "C",
+          "text": "Release of preformed hormone from inflamed thyroid follicles"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of thyroid hormone from a source outside the gland"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous secretion by a single hyperfunctioning thyroid nodule"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A nonsuppressed thyroid-stimulating hormone alongside elevated free hormone levels points to a central, thyroid-stimulating hormone-driven cause.",
+        "whyCorrect": "In every peripheral cause of thyrotoxicosis, high free hormone feeds back to suppress thyroid-stimulating hormone. A thyroid-stimulating hormone concentration that is normal or elevated despite clearly high free thyroxine and free triiodothyronine is inappropriate and indicates the pituitary is driving the gland. The diffusely increased uptake fits ongoing central stimulation of an actively synthesizing thyroid.",
+        "whyWrongByChoice": {
+          "B": "Graves disease produces a suppressed thyroid-stimulating hormone because the stimulus bypasses pituitary control.",
+          "C": "A hormone leak from inflamed follicles suppresses thyroid-stimulating hormone and produces low uptake.",
+          "D": "Exogenous hormone suppresses thyroid-stimulating hormone and shuts down iodine trapping.",
+          "E": "A hyperfunctioning nodule suppresses thyroid-stimulating hormone and produces focal, not diffuse, uptake."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "central hyperthyroidism",
+        "TSH-secreting adenoma",
+        "lab interpretation"
+      ],
+      "topicId": "hyperthyroidism-and-thyroid-storm",
+      "topicName": "Hyperthyroidism and Thyroid Storm"
+    },
+    {
+      "id": "en11-001",
+      "stem": "A 35-year-old woman comes to the clinic because of fatigue, cold intolerance, and constipation for 6 months. She received radioactive iodine therapy for Graves disease 4 years ago. Laboratory studies show a markedly elevated thyroid-stimulating hormone concentration and a low free thyroxine concentration. Anti-thyroid peroxidase antibodies are negative. Which of the following best explains her thyroid function pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central hypothyroidism from pituitary underdrive"
+        },
+        {
+          "label": "B",
+          "text": "Subclinical hypothyroidism from early thyroid underfunction"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid-binding globulin deficiency altering measured hormone"
+        },
+        {
+          "label": "D",
+          "text": "Overt primary hypothyroidism from thyroid gland failure"
+        },
+        {
+          "label": "E",
+          "text": "Nonthyroidal illness syndrome from severe systemic illness"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A low free thyroxine with a high thyroid-stimulating hormone localizes the problem to the thyroid gland itself.",
+        "whyCorrect": "In primary hypothyroidism the gland cannot make enough hormone, free thyroxine falls, and the pituitary responds appropriately by raising thyroid-stimulating hormone. Prior radioactive iodine treatment destroys thyroid tissue and is one of the causes of primary hypothyroidism listed in this brick. Negative anti-thyroid peroxidase antibodies do not argue against primary disease; they simply make Hashimoto thyroiditis a less likely cause.",
+        "whyWrongByChoice": {
+          "A": "Central hypothyroidism produces a low free thyroxine with a low or inappropriately normal thyroid-stimulating hormone, not a markedly elevated one.",
+          "B": "Subclinical hypothyroidism requires a normal free thyroxine alongside the elevated thyroid-stimulating hormone.",
+          "C": "Binding-protein changes mainly shift total hormone levels while free thyroxine stays normal, so they cannot explain this pattern.",
+          "E": "Nonthyroidal illness occurs during severe illness and typically shows low triiodothyronine with variable thyroid-stimulating hormone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary hypothyroidism",
+        "TSH and free T4 interpretation"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-002",
+      "stem": "A 47-year-old man with a known pituitary macroadenoma reports several months of fatigue and cold intolerance. Laboratory studies show a low free thyroxine concentration and a thyroid-stimulating hormone concentration within the reference range. Which of the following is the most appropriate interpretation of these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal thyroid function despite the low free thyroxine"
+        },
+        {
+          "label": "B",
+          "text": "Central hypothyroidism from hypothalamic-pituitary disease"
+        },
+        {
+          "label": "C",
+          "text": "Primary hypothyroidism from thyroid gland failure"
+        },
+        {
+          "label": "D",
+          "text": "Subclinical hyperthyroidism from mild hormone excess"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid-binding globulin excess altering measured hormone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When free thyroxine is low, thyroid-stimulating hormone should rise; a normal value in that setting is inappropriately normal.",
+        "whyCorrect": "The pituitary is supposed to sense a low free thyroxine and increase thyroid-stimulating hormone output. A thyroid-stimulating hormone concentration sitting in the middle of the reference range therefore represents a failure of that response, which localizes the lesion to the pituitary or hypothalamus. A pituitary macroadenoma is exactly the kind of lesion that impairs thyrotroph output.",
+        "whyWrongByChoice": {
+          "A": "A normal thyroid-stimulating hormone is not reassuring when it is inappropriate for a low free thyroxine.",
+          "C": "Primary thyroid gland failure raises thyroid-stimulating hormone; a normal value argues against it.",
+          "D": "Subclinical hyperthyroidism shows a low thyroid-stimulating hormone with normal free thyroxine and free triiodothyronine.",
+          "E": "Binding-protein changes alter total hormone levels while leaving free thyroxine normal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central hypothyroidism",
+        "inappropriately normal TSH"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-003",
+      "stem": "A 44-year-old woman has 1 year of gradual fatigue, cold intolerance, constipation, and dry skin. On examination the thyroid gland is diffusely enlarged and nontender. Laboratory studies show an elevated thyroid-stimulating hormone concentration and a low free thyroxine concentration. If a thyroid biopsy were performed, which of the following findings would most likely be seen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse follicular hyperplasia with scalloped colloid"
+        },
+        {
+          "label": "B",
+          "text": "Suppurative neutrophilic inflammation with abscess formation"
+        },
+        {
+          "label": "C",
+          "text": "Lymphocytic infiltrates with germinal centers and Hürthle cell change"
+        },
+        {
+          "label": "D",
+          "text": "Papillary nuclear grooves with scattered psammoma bodies"
+        },
+        {
+          "label": "E",
+          "text": "Medullary nests of parafollicular C cells producing calcitonin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hashimoto thyroiditis is chronic autoimmune thyroiditis with lymphocytic infiltration, germinal centers, and Hürthle cell change.",
+        "whyCorrect": "Painless goiter with overt primary hypothyroidism is the classic presentation of Hashimoto thyroiditis. Autoimmune inflammation progressively damages thyroid follicles, and the histology shows lymphocytic thyroiditis with germinal-center formation plus oncocytic (Hürthle cell) change in injured follicular epithelium. As hormone output falls, the pituitary raises thyroid-stimulating hormone in an attempt to drive the failing gland.",
+        "whyWrongByChoice": {
+          "A": "Diffuse follicular hyperplasia with scalloped colloid is the Graves disease pattern, which causes hyperthyroidism.",
+          "B": "Suppurative neutrophilic inflammation indicates acute bacterial thyroiditis, which presents with a painful, tender gland and infectious symptoms.",
+          "D": "Nuclear grooves and psammoma bodies indicate papillary thyroid carcinoma, which presents as a nodule rather than autoimmune hypothyroidism.",
+          "E": "C-cell nests producing calcitonin describe medullary thyroid carcinoma, not autoimmune thyroid failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hashimoto thyroiditis",
+        "histology"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-004",
+      "stem": "A 39-year-old woman has 8 months of fatigue, weight gain, and heavy menses. Her sister has type 1 diabetes mellitus. On examination the thyroid gland is mildly enlarged and painless. Laboratory studies show an elevated thyroid-stimulating hormone concentration and a low free thyroxine concentration. Which of the following studies is most useful to confirm the underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-thyroid peroxidase antibody titer"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid-stimulating hormone receptor stimulating antibody titer"
+        },
+        {
+          "label": "C",
+          "text": "Radioactive iodine uptake and scan of the gland"
+        },
+        {
+          "label": "D",
+          "text": "Serum calcitonin with carcinoembryonic antigen"
+        },
+        {
+          "label": "E",
+          "text": "Serum thyroid-binding globulin concentration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anti-thyroid peroxidase antibodies are the most useful marker supporting Hashimoto thyroiditis as the cause of primary hypothyroidism.",
+        "whyCorrect": "This patient already has an established biochemical diagnosis of overt primary hypothyroidism; what remains is identifying the cause. Anti-thyroid peroxidase antibodies are the most useful diagnostic marker of chronic autoimmune thyroiditis, and anti-thyroglobulin antibodies may also be present. A personal or family history of autoimmune disease raises the pretest probability further.",
+        "whyWrongByChoice": {
+          "B": "Stimulating thyroid-stimulating hormone receptor antibodies drive Graves disease and hyperthyroidism, the opposite of this presentation.",
+          "C": "Radioiodine uptake testing is used to evaluate causes of thyrotoxicosis, not to establish the cause of hypothyroidism.",
+          "D": "Calcitonin and carcinoembryonic antigen are markers of medullary thyroid carcinoma, which does not cause this pattern.",
+          "E": "Binding-protein measurement addresses discordant total hormone levels, and free thyroxine is already low here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Hashimoto thyroiditis",
+        "anti-TPO antibodies"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-005",
+      "stem": "A 58-year-old woman has screening laboratory studies drawn during a wellness visit. She feels well and has no cold intolerance, constipation, or weight change. Her thyroid-stimulating hormone concentration is elevated and her free thyroxine concentration is within the reference range. Which of the following best describes her thyroid status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overt primary hypothyroidism from established gland failure"
+        },
+        {
+          "label": "B",
+          "text": "Subclinical primary hypothyroidism from early thyroid underfunction"
+        },
+        {
+          "label": "C",
+          "text": "Central hypothyroidism from hypothalamic-pituitary underdrive"
+        },
+        {
+          "label": "D",
+          "text": "Subclinical hyperthyroidism from mild autonomous hormone excess"
+        },
+        {
+          "label": "E",
+          "text": "Nonthyroidal illness syndrome from an unrecognized acute illness"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Subclinical primary hypothyroidism is a high thyroid-stimulating hormone with a still-normal free thyroxine.",
+        "whyCorrect": "Diagnosis rests on comparing thyroid-stimulating hormone with free thyroxine. Here the pituitary has already sensed early thyroid underperformance and raised thyroid-stimulating hormone, but the gland is still keeping free thyroxine inside the reference range, so tissue hormone effect is largely preserved. That combination defines the subclinical primary pattern.",
+        "whyWrongByChoice": {
+          "A": "Overt primary hypothyroidism requires a low free thyroxine along with the high thyroid-stimulating hormone.",
+          "C": "Central hypothyroidism shows a low free thyroxine with a low or inappropriately normal thyroid-stimulating hormone.",
+          "D": "Subclinical hyperthyroidism shows a low, not elevated, thyroid-stimulating hormone with normal free thyroid hormone levels.",
+          "E": "Nonthyroidal illness arises in the setting of severe illness, and this patient is asymptomatic and well."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "subclinical hypothyroidism",
+        "TSH and free T4 interpretation"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-006",
+      "stem": "A 61-year-old woman with untreated hypothyroidism has periorbital puffiness, coarse facial features, an enlarged tongue, hoarseness, and thickened, doughy swelling of the hands that does not indent with sustained pressure. Which of the following best explains this tissue swelling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of free interstitial fluid displaceable by external pressure"
+        },
+        {
+          "label": "B",
+          "text": "Increased capillary hydrostatic pressure from reduced cardiac output"
+        },
+        {
+          "label": "C",
+          "text": "Impaired renal free-water clearance producing whole-body fluid retention"
+        },
+        {
+          "label": "D",
+          "text": "Activating thyroid-stimulating hormone receptor antibodies acting on dermal tissue"
+        },
+        {
+          "label": "E",
+          "text": "Accumulation of hydrophilic glycosaminoglycans binding water in the matrix"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Myxedema is glycosaminoglycan-rich mucinous swelling of the tissue matrix, not ordinary salt-and-water edema.",
+        "whyCorrect": "In myxedema, hydrophilic glycosaminoglycans including hyaluronic acid-rich mucopolysaccharides accumulate in the dermis and other tissues and bind water within the extracellular matrix. The result is thickened, doughy, often nonpitting swelling that explains periorbital puffiness, coarse facies, macroglossia, hoarseness, and hand swelling. Most other hypothyroid findings reflect slowed organ function, but myxedematous change specifically reflects this matrix alteration.",
+        "whyWrongByChoice": {
+          "A": "Displaceable free interstitial fluid describes ordinary pitting edema, which pits under pressure unlike this patient's swelling.",
+          "B": "Reduced cardiac output does not produce nonpitting matrix swelling of the face and tongue.",
+          "C": "Impaired free-water clearance in hypothyroidism causes hyponatremia rather than nonpitting mucinous tissue change.",
+          "D": "Thyroid-stimulating hormone receptor antibody activity is linked to pretibial myxedema in Graves disease, not to generalized hypothyroid myxedema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myxedema",
+        "glycosaminoglycans"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-007",
+      "stem": "A 34-year-old woman has heat intolerance, palpitations, tremor, and a 6-kg weight loss. Her thyroid-stimulating hormone concentration is suppressed and her free thyroxine concentration is elevated. Examination shows firm, thickened, nonpitting plaques over both shins. Which of the following best characterizes this skin finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyroid dermopathy from thyroid-stimulating hormone receptor antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Generalized myxedema of severe longstanding untreated hypothyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Pitting edema from excess interstitial salt and water accumulation"
+        },
+        {
+          "label": "D",
+          "text": "Dry, coarse skin from reduced tissue thyroid hormone effect in the dermis"
+        },
+        {
+          "label": "E",
+          "text": "Periorbital mucinous puffiness of decompensated hypothyroidism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pretibial myxedema is thyroid dermopathy of Graves disease and should not be confused with generalized hypothyroid myxedema.",
+        "whyCorrect": "This patient is thyrotoxic, with a suppressed thyroid-stimulating hormone and elevated free thyroxine. Pretibial myxedema, also called thyroid dermopathy, is classically associated with Graves disease and thyroid-stimulating hormone receptor antibody activity and typically affects the shins. Despite sharing the word myxedema, it belongs with the hyperthyroidism material rather than with hypothyroidism.",
+        "whyWrongByChoice": {
+          "B": "Generalized hypothyroid myxedema occurs in severe or longstanding hypothyroidism, and this patient's labs show thyrotoxicosis.",
+          "C": "Pitting edema is displaceable free fluid, whereas these plaques are firm and nonpitting.",
+          "D": "Dry coarse skin reflects low thyroid hormone effect and does not produce localized thickened pretibial plaques.",
+          "E": "Periorbital mucinous puffiness is a hypothyroid finding and does not describe localized shin plaques in a thyrotoxic patient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pretibial myxedema",
+        "Graves dermopathy"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-008",
+      "stem": "A 52-year-old woman with primary hypothyroidism takes levothyroxine each morning together with calcium carbonate and ferrous sulfate. She reports taking every dose. Her thyroid-stimulating hormone concentration remains elevated on repeat testing. Which of the following mechanisms best explains the persistent abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Levothyroxine directly suppresses peripheral conversion of T4 to T3"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid-stimulating hormone is an unreliable signal in primary hypothyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Calcium and iron impair gastrointestinal absorption of levothyroxine"
+        },
+        {
+          "label": "D",
+          "text": "Anti-thyroid peroxidase antibodies inactivate ingested levothyroxine"
+        },
+        {
+          "label": "E",
+          "text": "Levothyroxine requires added liothyronine to lower thyroid-stimulating hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Apparent levothyroxine failure is often an absorption problem rather than an inadequate dose.",
+        "whyCorrect": "Levothyroxine absorption is reduced by calcium, iron, bile acid sequestrants, sucralfate, and inconsistent timing with meals or other medications. Before assuming the dose is too low, ask how and when the tablet is taken. A patient dosing simultaneously with calcium and iron can have a persistently elevated thyroid-stimulating hormone despite full adherence.",
+        "whyWrongByChoice": {
+          "A": "Levothyroxine is synthetic T4 and relies on peripheral deiodination to T3; it does not block that conversion.",
+          "B": "Thyroid-stimulating hormone is the usual monitoring signal in primary hypothyroidism; it is unreliable in central disease.",
+          "D": "Anti-thyroid peroxidase antibodies mark autoimmune thyroiditis and do not neutralize oral levothyroxine.",
+          "E": "Levothyroxine monotherapy is standard replacement for most patients with hypothyroidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "levothyroxine",
+        "drug and food interactions"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-009",
+      "stem": "A 46-year-old man with central hypothyroidism from a pituitary macroadenoma begins levothyroxine. After 8 weeks his free thyroxine concentration is in the target range and his symptoms have resolved, but his thyroid-stimulating hormone concentration remains low. Which of the following is the most appropriate interpretation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Levothyroxine should be stopped because thyroid-stimulating hormone is suppressed"
+        },
+        {
+          "label": "B",
+          "text": "The patient now has primary hyperthyroidism from excess gland activity"
+        },
+        {
+          "label": "C",
+          "text": "Calcium supplementation is the most likely explanation for the low value"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid-stimulating hormone is an unreliable monitoring signal in central hypothyroidism"
+        },
+        {
+          "label": "E",
+          "text": "Liothyronine should be added until thyroid-stimulating hormone normalizes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In central hypothyroidism, free thyroxine and clinical status guide therapy because the pituitary signal is broken.",
+        "whyCorrect": "The lesion in central hypothyroidism is in the hypothalamic-pituitary axis, so thyroid-stimulating hormone cannot report on the adequacy of replacement. It may stay low or inappropriately normal even when the patient is well replaced. Free thyroxine in the target range with resolved symptoms indicates appropriate dosing.",
+        "whyWrongByChoice": {
+          "A": "A low thyroid-stimulating hormone is expected here and is not a reason to stop an otherwise well-titrated replacement dose.",
+          "B": "Primary hyperthyroidism would show elevated thyroid hormone from excessive gland activity, not a free thyroxine sitting in target range.",
+          "C": "Calcium reduces levothyroxine absorption and would tend to leave the patient underreplaced, which is not the situation described.",
+          "E": "Normalizing thyroid-stimulating hormone is not the treatment target in central hypothyroidism, so adding liothyronine for that purpose is inappropriate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central hypothyroidism",
+        "levothyroxine monitoring"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-010",
+      "stem": "An 82-year-old woman with longstanding untreated hypothyroidism is brought to the emergency department after her family found her confused. Her temperature is 33.9°C (93°F), pulse is 44/min, and blood pressure is 84/50 mm Hg. She is hypoventilating. Laboratory studies show hyponatremia and hypoglycemia. Which of the following is the most appropriate management priority?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Repeat outpatient thyroid function testing with reassessment in two weeks"
+        },
+        {
+          "label": "B",
+          "text": "Intensive supportive care with IV thyroid hormone and stress-dose glucocorticoids"
+        },
+        {
+          "label": "C",
+          "text": "Urgent radioactive iodine uptake scan to define thyroid gland activity"
+        },
+        {
+          "label": "D",
+          "text": "Methimazole therapy to block further thyroid hormone synthesis in the gland"
+        },
+        {
+          "label": "E",
+          "text": "Urgent thyroidectomy to remove the source of excess thyroid hormone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Myxedema coma is decompensated hypothyroidism requiring urgent supportive care, thyroid hormone, and empiric glucocorticoids.",
+        "whyCorrect": "Hypothermia, bradycardia, hypotension, hypoventilation, hyponatremia, and altered mental status in a patient with untreated hypothyroidism describe myxedema coma, and coma itself is not required for the diagnosis. Initial management requires urgent supportive care, thyroid hormone replacement, empiric stress-dose glucocorticoids until adrenal insufficiency is excluded, and treatment of the precipitating trigger. These findings reflect collapse of thermogenesis, cardiac output, ventilatory drive, free-water clearance, and metabolic reserve simultaneously.",
+        "whyWrongByChoice": {
+          "A": "This patient has multisystem decompensation and cannot be managed with outpatient retesting.",
+          "C": "Radioiodine uptake testing evaluates causes of thyrotoxicosis and has no role in decompensated hypothyroidism.",
+          "D": "Methimazole blocks hormone synthesis and would worsen an already profound hormone deficit.",
+          "E": "Thyroidectomy removes remaining hormone-producing tissue and would deepen the deficiency."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "myxedema coma",
+        "emergency management"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-011",
+      "stem": "An 80-year-old man with longstanding untreated hypothyroidism is admitted with pneumonia and is hypothermic, bradycardic, hypotensive, and confused. Intravenous thyroid hormone is planned, and the team also orders empiric stress-dose glucocorticoids. Which of the following best explains why the glucocorticoids are given early?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They catalyze peripheral conversion of thyroxine to triiodothyronine"
+        },
+        {
+          "label": "B",
+          "text": "They keep thyroid-stimulating hormone from rising too rapidly with therapy"
+        },
+        {
+          "label": "C",
+          "text": "They reverse autoimmune destruction of thyroid follicles in the gland"
+        },
+        {
+          "label": "D",
+          "text": "They replace mineralocorticoid losses caused by primary aldosteronism"
+        },
+        {
+          "label": "E",
+          "text": "They reduce the risk of adrenal crisis if adrenal insufficiency coexists"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Empiric glucocorticoids protect against precipitating adrenal crisis when thyroid hormone is started in severe hypothyroidism.",
+        "whyCorrect": "Severe hypothyroidism may coexist with adrenal insufficiency, particularly in autoimmune polyglandular disease or pituitary disease. Thyroid hormone replacement raises metabolic demand and can increase cortisol clearance, which may unmask or precipitate adrenal crisis in a vulnerable patient. Stress-dose glucocorticoids are therefore given empirically until adrenal insufficiency has been excluded.",
+        "whyWrongByChoice": {
+          "A": "Peripheral conversion of T4 to T3 is mediated by deiodinases, not by glucocorticoids.",
+          "B": "Normalizing thyroid-stimulating hormone is not the acute management target in myxedema coma.",
+          "C": "Glucocorticoids do not reverse the chronic autoimmune follicular destruction of Hashimoto thyroiditis.",
+          "D": "Primary aldosteronism is a state of mineralocorticoid excess rather than deficiency requiring replacement."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "myxedema coma",
+        "adrenal insufficiency"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en11-012",
+      "stem": "A 3-week-old boy has prolonged jaundice, poor feeding, constipation, and hypotonia. Examination shows macroglossia and an umbilical hernia. Newborn screening obtained at birth showed an elevated thyroid-stimulating hormone concentration with a low thyroxine concentration, and the result was not acted upon. Which of the following complications is most likely if treatment continues to be delayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impaired neurodevelopment with reduced growth and skeletal maturation"
+        },
+        {
+          "label": "B",
+          "text": "Precocious puberty from excess adrenal androgen production"
+        },
+        {
+          "label": "C",
+          "text": "Hypertensive crises from progressive catecholamine excess"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune destruction of pancreatic beta cells with ketoacidosis"
+        },
+        {
+          "label": "E",
+          "text": "Increased radioiodine uptake from autonomous thyroid hormone synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Untreated congenital hypothyroidism impairs brain development, linear growth, and skeletal maturation, so early detection matters.",
+        "whyCorrect": "Thyroid hormone deficiency in infancy may arise from malformation or ectopic placement of the gland, and left untreated it severely impairs brain development, linear growth, and skeletal maturation. Infants with congenital hypothyroidism begin losing IQ points by day 16 of life, which is exactly why hypothyroidism is on the newborn screening panel of every US state. Prompt replacement is the intervention that protects neurodevelopment.",
+        "whyWrongByChoice": {
+          "B": "Precocious puberty from adrenal androgen excess points to congenital adrenal hyperplasia rather than thyroid hormone deficiency.",
+          "C": "Catecholamine excess with hypertensive crises describes pheochromocytoma or paraganglioma.",
+          "D": "Autoimmune beta-cell destruction describes type 1 diabetes mellitus and is unrelated to this screening result.",
+          "E": "Increased radioiodine uptake reflects autonomous hyperthyroidism, the opposite of congenital hypothyroidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital hypothyroidism",
+        "newborn screening"
+      ],
+      "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+    },
+    {
+      "id": "en12-001",
+      "stem": "A 44-year-old woman is evaluated for six months of fatigue, cold intolerance, and constipation. Laboratory studies show a low free thyroxine level and an elevated thyroid-stimulating hormone level. Which of the following is the most likely site of dysfunction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyrotrophs of the anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Thyrotropin-releasing hormone neurons of the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Follicular epithelial cells of the thyroid gland"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic synthesis of thyroid-binding globulin"
+        },
+        {
+          "label": "E",
+          "text": "Deiodinase enzymes of peripheral tissues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Low free T4 with an elevated TSH is primary hypothyroidism: the gland fails and the pituitary responds appropriately.",
+        "whyCorrect": "In primary thyroid disease, TSH moves in the opposite direction from free T4 and free T3. Here the free T4 is low and the pituitary has raised TSH to try to drive the gland, which is the expected appropriate response. That combination localizes the failure to the thyroid follicular cells themselves.",
+        "whyWrongByChoice": {
+          "A": "Pituitary disease produces central hypothyroidism, in which free T4 is low but TSH is low or inappropriately normal rather than elevated.",
+          "B": "Hypothalamic disease also gives low free T4 with a low or inappropriately normal TSH, since TRH drive on the thyrotrophs is lost.",
+          "D": "Binding protein changes shift total T4 and total T3; free T4 and TSH typically stay normal.",
+          "E": "Altered deiodination mainly changes T3 and reverse T3 levels and does not explain a high TSH with a low free T4."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary hypothyroidism",
+        "thyroid function tests",
+        "HPT axis"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-002",
+      "stem": "A 35-year-old woman with newly diagnosed hyperthyroidism is started on methimazole. Which of the following steps in thyroid hormone production is most directly inhibited by this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uptake of iodide across the basolateral membrane of the follicular cell"
+        },
+        {
+          "label": "B",
+          "text": "Oxidation of iodide and its attachment to tyrosine residues on thyroglobulin"
+        },
+        {
+          "label": "C",
+          "text": "Lysosomal proteolysis of endocytosed thyroglobulin within the follicular cell"
+        },
+        {
+          "label": "D",
+          "text": "Deiodination of thyroxine to triiodothyronine in peripheral tissues"
+        },
+        {
+          "label": "E",
+          "text": "Binding of circulating thyroid hormone to thyroid-binding globulin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thionamides such as methimazole and propylthiouracil inhibit thyroid peroxidase.",
+        "whyCorrect": "Thyroid peroxidase oxidizes trapped iodide and attaches iodine to tyrosine residues on thyroglobulin, then catalyzes coupling of the resulting iodotyrosines. Blocking the enzyme therefore decreases oxidation, organification, and coupling, so less new T3 and T4 are made.",
+        "whyWrongByChoice": {
+          "A": "Iodide uptake is performed by the sodium-iodide symporter, a transporter that thionamides do not target.",
+          "C": "Release of stored hormone by endocytosis and lysosomal proteolysis is TSH-driven and is not the step a thionamide blocks.",
+          "D": "Peripheral conversion of T4 to T3 is carried out by deiodinases in target tissues, not by thyroid peroxidase.",
+          "E": "Thyroid-binding globulin is a plasma transport protein and plays no part in intrathyroidal hormone synthesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thionamides",
+        "thyroid peroxidase",
+        "pharmacology"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-003",
+      "stem": "In cultured thyroid follicular cells, iodide uptake, thyroid peroxidase activity, organification, and coupling are all intact, but lysosomal proteolysis of endocytosed thyroglobulin is experimentally blocked. Which of the following findings is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of iodinated thyroglobulin with decreased release of T4 and T3"
+        },
+        {
+          "label": "B",
+          "text": "Failure to oxidize iodide at the apical surface of the follicular cell"
+        },
+        {
+          "label": "C",
+          "text": "Decreased transport of iodide across the basolateral cell membrane"
+        },
+        {
+          "label": "D",
+          "text": "Increased concentration of thyroid-binding globulin in the medium"
+        },
+        {
+          "label": "E",
+          "text": "Increased conversion of thyroxine to triiodothyronine by the cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "T4 and T3 are stored attached to thyroglobulin, so hormone release requires lysosomal proteolysis after endocytosis.",
+        "whyCorrect": "Newly formed T3 and T4 stay bound to thyroglobulin in the colloid until TSH stimulates the follicular cell to endocytose the iodinated protein. Lysosomes then digest it to liberate free hormone. If proteolysis is blocked, hormone continues to be built and stored but cannot be released, so iodinated thyroglobulin accumulates.",
+        "whyWrongByChoice": {
+          "B": "Oxidation of iodide is a thyroid peroxidase function, and the scenario states peroxidase activity is intact.",
+          "C": "Iodide entry is mediated by the sodium-iodide symporter, which the scenario also describes as intact.",
+          "D": "Thyroid-binding globulin is a plasma protein made outside the thyroid and is unrelated to intrafollicular storage or release.",
+          "E": "Conversion of T4 to T3 occurs through deiodinases in peripheral target tissues and would not compensate for blocked release."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thyroglobulin",
+        "hormone release",
+        "synthesis steps"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-004",
+      "stem": "Thyroid peroxidase couples iodinated tyrosine residues carried on thyroglobulin. Coupling of which of the following pairs directly yields thyroxine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One monoiodotyrosine with one diiodotyrosine"
+        },
+        {
+          "label": "B",
+          "text": "Two monoiodotyrosine residues"
+        },
+        {
+          "label": "C",
+          "text": "Two diiodotyrosine residues"
+        },
+        {
+          "label": "D",
+          "text": "One diiodotyrosine with one uniodinated tyrosine"
+        },
+        {
+          "label": "E",
+          "text": "Two uniodinated tyrosine residues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "DIT plus DIT makes T4; MIT plus DIT makes T3.",
+        "whyCorrect": "Thyroid peroxidase first attaches iodine to tyrosine residues on thyroglobulin, generating monoiodotyrosine and diiodotyrosine. The same enzyme then couples them. Joining two diiodotyrosines gives the four-iodine hormone thyroxine.",
+        "whyWrongByChoice": {
+          "A": "This pairing supplies three iodine atoms and forms triiodothyronine, not thyroxine.",
+          "B": "Two monoiodotyrosines would provide only two iodine atoms and is not a coupling reaction described in hormone synthesis.",
+          "D": "Coupling occurs between iodinated tyrosines; an uniodinated residue cannot contribute iodine to the hormone.",
+          "E": "Uniodinated tyrosine residues must first be iodinated during organification before any coupling can occur."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "organification",
+        "coupling",
+        "MIT and DIT"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-005",
+      "stem": "A 31-year-old woman presents with weight loss, palpitations, tremor, and anxiety. Laboratory studies show a suppressed thyroid-stimulating hormone level, an elevated free triiodothyronine level, and a low-normal free thyroxine level. Serum thyroglobulin is low, and radioactive iodine uptake is low. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ingestion of thyroid hormone from a source outside the body"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse gland stimulation by antibodies against the TSH receptor"
+        },
+        {
+          "label": "C",
+          "text": "Autonomous hormone synthesis within a single thyroid nodule"
+        },
+        {
+          "label": "D",
+          "text": "Release of preformed hormone from inflamed, damaged follicles"
+        },
+        {
+          "label": "E",
+          "text": "Inappropriate secretion of thyroid-stimulating hormone by a pituitary adenoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thyrotoxicosis with low radioactive iodine uptake and low thyroglobulin points to hormone taken from outside the gland.",
+        "whyCorrect": "Radioactive iodine uptake depends on the sodium-iodide symporter of a gland that is actively synthesizing hormone. With an exogenous hormone source, feedback suppresses TSH and the gland stops trapping iodide, so uptake is low. A low serum thyroglobulin further indicates that the circulating hormone did not come from the patient's own thyroid tissue.",
+        "whyWrongByChoice": {
+          "B": "Graves disease drives active synthesis, so radioactive iodine uptake is diffusely increased rather than low.",
+          "C": "A toxic adenoma produces focal increased uptake in the autonomous nodule with suppression of the surrounding gland.",
+          "D": "Thyroiditis also lowers uptake, but damaged follicles spill their contents, so thyroglobulin is typically elevated rather than low.",
+          "E": "A TSH-secreting adenoma keeps TSH nonsuppressed and continues to stimulate the gland; here TSH is suppressed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "radioactive iodine uptake",
+        "thyrotoxicosis",
+        "thyroglobulin"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-006",
+      "stem": "A 72-year-old man is in the intensive care unit with severe pneumonia and sepsis. Thyroid testing shows a low total triiodothyronine level, a low-normal thyroid-stimulating hormone level, a low-normal free thyroxine level, and an elevated reverse triiodothyronine level. Thyroid function tests six months ago were normal. Which of the following best explains the current pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Altered peripheral deiodination of thyroxine during severe systemic illness"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of thyroid follicles causing primary hypothyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen-driven increase in circulating thyroid-binding globulin levels"
+        },
+        {
+          "label": "D",
+          "text": "Autonomous thyroid hormone synthesis by a hyperfunctioning thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Inappropriate thyroid-stimulating hormone secretion from a pituitary tumor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Low T3 with elevated reverse T3 in a critically ill patient is nonthyroidal illness syndrome, not thyroid gland disease.",
+        "whyCorrect": "During severe illness, starvation, trauma, surgery, or systemic inflammation, more T4 is deiodinated to inactive reverse T3 rather than to active T3. The result is a low T3 with a normal or low TSH and a normal or low free T4. Previously normal testing supports a shift in peripheral handling of hormone rather than new intrinsic thyroid disease.",
+        "whyWrongByChoice": {
+          "B": "Primary hypothyroidism from follicular destruction produces an elevated TSH with a clearly low free T4.",
+          "C": "More thyroid-binding globulin raises total hormone levels and does not generate a low T3 with elevated reverse T3.",
+          "D": "Autonomous hormone production suppresses TSH and raises free T4 and/or free T3 rather than lowering T3.",
+          "E": "A TSH-secreting tumor produces elevated free thyroid hormone with a nonsuppressed TSH, the opposite of this picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nonthyroidal illness syndrome",
+        "reverse T3",
+        "deiodinases"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-007",
+      "stem": "A 29-year-old woman at 14 weeks' gestation is evaluated for fatigue. Total thyroxine is elevated, free thyroxine is within the pregnancy-adjusted reference range, and thyroid-stimulating hormone is slightly low but detectable. She has no tremor, palpitations, heat intolerance, goiter, or eye findings. Which of the following best explains her elevated total thyroxine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Estrogen-driven increase in thyroid-binding globulin concentration"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of thyroid follicles releasing stored hormone"
+        },
+        {
+          "label": "C",
+          "text": "Loss of negative feedback on pituitary thyroid-stimulating hormone release"
+        },
+        {
+          "label": "D",
+          "text": "Decreased synthesis of thyroglobulin by thyroid follicular cells"
+        },
+        {
+          "label": "E",
+          "text": "Increased peripheral conversion of thyroxine to reverse triiodothyronine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Total hormone levels follow binding proteins; free hormone levels better reflect biologically active hormone.",
+        "whyCorrect": "Pregnancy raises estrogen, which increases thyroid-binding globulin. More hormone becomes protein-bound, so total T4 and total T3 rise while free T4 stays appropriate for pregnancy. The mildly low TSH is also expected in early pregnancy, since human chorionic gonadotropin weakly stimulates the TSH receptor, and she has no clinical features of hormone excess.",
+        "whyWrongByChoice": {
+          "B": "Follicle destruction causing thyrotoxicosis would suppress TSH more strongly and typically produce symptoms.",
+          "C": "Loss of feedback would mean inappropriate TSH secretion despite elevated free hormone, which is not the pattern here.",
+          "D": "Less thyroglobulin would impair hormone production rather than raise measured total thyroxine.",
+          "E": "Increased reverse T3 occurs in nonthyroidal illness and does not raise total thyroxine in an otherwise well pregnant patient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pregnancy",
+        "thyroid-binding globulin",
+        "total versus free hormone"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-008",
+      "stem": "A 46-year-old man with nephrotic syndrome undergoes thyroid testing during evaluation for fatigue. Total thyroxine and total triiodothyronine are both low, while free thyroxine and thyroid-stimulating hormone are normal. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urinary loss of circulating thyroid hormone-binding proteins"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of the thyroid follicular epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Estrogen-stimulated production of thyroid-binding globulin"
+        },
+        {
+          "label": "D",
+          "text": "Autonomous secretion of thyroid-stimulating hormone by the pituitary"
+        },
+        {
+          "label": "E",
+          "text": "Increased thyroid peroxidase-mediated organification of iodide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Protein-losing states lower binding proteins, dropping total hormone while free hormone and TSH stay normal.",
+        "whyCorrect": "Most circulating thyroid hormone is bound to thyroid-binding globulin, transthyretin, and albumin. Nephrotic protein loss lowers these carriers, so total T4 and total T3 fall. Because biologically available hormone is preserved, free T4 and TSH remain normal and the patient is not truly hypothyroid.",
+        "whyWrongByChoice": {
+          "B": "Destruction of thyroid tissue would cause primary hypothyroidism with an elevated TSH and a low free T4.",
+          "C": "Estrogen raises thyroid-binding globulin and therefore raises total hormone levels rather than lowering them.",
+          "D": "Autonomous TSH secretion would elevate free thyroid hormone levels with a nonsuppressed TSH.",
+          "E": "Enhanced organification would affect hormone synthesis and would not lower total hormone with a normal free T4."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "binding proteins",
+        "nephrotic syndrome",
+        "total versus free hormone"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-009",
+      "stem": "A 52-year-old man reports several months of fatigue, cold intolerance, headaches, and decreased libido. He is not acutely ill and takes no medications. Laboratory studies show a low free thyroxine level with a thyroid-stimulating hormone level in the middle of the reference range. Which of the following best explains these results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the thyroid gland with an appropriate pituitary response"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic or pituitary disease failing to drive the thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Altered peripheral deiodination from an acute systemic illness"
+        },
+        {
+          "label": "D",
+          "text": "Reduced binding proteins lowering the measured hormone level"
+        },
+        {
+          "label": "E",
+          "text": "Exogenous thyroid hormone suppressing pituitary hormone output"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A TSH that is not elevated when free T4 is low is inappropriately normal and indicates central hypothyroidism.",
+        "whyCorrect": "In an intact axis, a fall in free T4 removes negative feedback and TSH should rise. A mid-range TSH with a low free T4 is inappropriate for the hormone level and localizes the lesion above the gland. His headaches and decreased libido further suggest hypothalamic or pituitary disease affecting more than one axis.",
+        "whyWrongByChoice": {
+          "A": "Primary gland failure with an appropriate pituitary response would produce a clearly elevated TSH.",
+          "C": "Nonthyroidal illness syndrome occurs during severe illness, starvation, trauma, or surgery, and this patient is not acutely ill.",
+          "D": "Binding protein changes alter total hormone levels; free T4, the value measured here, remains normal.",
+          "E": "Exogenous thyroid hormone would raise free T4 while suppressing TSH; he takes no medications and free T4 is low."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central hypothyroidism",
+        "inappropriately normal TSH",
+        "HPT axis"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-010",
+      "stem": "A 38-year-old woman has heat intolerance, tremor, and weight loss. Laboratory studies show an elevated free thyroxine level and an elevated free triiodothyronine level. Thyroid-stimulating hormone is also elevated rather than suppressed. Magnetic resonance imaging shows a pituitary mass. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inappropriate thyroid-stimulating hormone secretion by a pituitary adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Autonomous thyroid hormone production by the thyroid gland itself"
+        },
+        {
+          "label": "C",
+          "text": "Pituitary failure producing central hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Compensatory pituitary response to primary thyroid gland failure"
+        },
+        {
+          "label": "E",
+          "text": "Increased thyroid-binding globulin from exogenous estrogen exposure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "High free hormone with a nonsuppressed TSH means the pituitary is driving the gland inappropriately.",
+        "whyCorrect": "Elevated free T4 and free T3 should shut off TSH through negative feedback on the hypothalamus and pituitary. A TSH that is high or even inappropriately normal in this setting indicates continued central stimulation. With a pituitary mass on imaging, a TSH-secreting adenoma is the best explanation.",
+        "whyWrongByChoice": {
+          "B": "Autonomous gland production is primary hyperthyroidism, which suppresses TSH rather than elevating it.",
+          "C": "Central hypothyroidism gives a low free T4 with a low or inappropriately normal TSH, not thyrotoxic symptoms.",
+          "D": "A compensatory TSH rise occurs when the gland fails, and it accompanies a low free T4 rather than an elevated one.",
+          "E": "More binding globulin raises total hormone levels, leaves free hormone normal, and does not raise TSH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TSH-secreting adenoma",
+        "negative feedback",
+        "central dysfunction"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-011",
+      "stem": "A 34-year-old woman has weight loss, heat intolerance, palpitations, and tremor. Laboratory studies show a low thyroid-stimulating hormone level, a normal free thyroxine level, and an elevated free triiodothyronine level. Which of the following patterns do these results best represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T3-predominant thyrotoxicosis"
+        },
+        {
+          "label": "B",
+          "text": "Nonthyroidal illness syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Central hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Primary hypothyroidism"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid-binding globulin excess"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Free T3 is worth measuring when TSH is suppressed but free T4 is normal, because thyrotoxicosis can be T3-predominant.",
+        "whyCorrect": "The suppressed TSH shows that the pituitary is sensing excess thyroid hormone effect. Since free T4 is normal, the excess must lie with T3, and the elevated free T3 confirms it. Her adrenergic symptoms match true hormone excess rather than a laboratory artifact.",
+        "whyWrongByChoice": {
+          "B": "Nonthyroidal illness typically lowers T3 during severe illness rather than producing symptomatic T3 excess.",
+          "C": "Central hypothyroidism produces a low free T4 with a low or inappropriately normal TSH and hypothyroid symptoms.",
+          "D": "Primary hypothyroidism produces an elevated TSH with a low free T4, the opposite of these results.",
+          "E": "Excess binding globulin raises total T4 and total T3 while free hormone levels and TSH stay normal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "free T3",
+        "thyrotoxicosis",
+        "test interpretation"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    },
+    {
+      "id": "en12-012",
+      "stem": "A 40-year-old woman begins taking a thyroid hormone preparation, and her serum thyroid-stimulating hormone level falls over the following weeks. Which of the following best explains the decrease in her thyroid-stimulating hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circulating free T4 and T3 inhibit release of TRH and TSH"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid hormone accelerates renal clearance of circulating TSH"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid hormone blocks the TSH receptor on thyroid follicular cells"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid hormone displaces TSH from thyroid-binding globulin in plasma"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid hormone increases hypothalamic release of TRH"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The hypothalamic-pituitary-thyroid axis behaves like a thermostat: rising free hormone turns down TRH and TSH.",
+        "whyCorrect": "TRH from the hypothalamus stimulates pituitary thyrotrophs to release TSH, which drives the thyroid gland. As circulating free T4 and T3 rise, they feed back negatively on both the hypothalamus and the pituitary, reducing TRH and TSH secretion. Adding exogenous hormone raises free hormone levels and therefore suppresses TSH.",
+        "whyWrongByChoice": {
+          "B": "The fall in TSH reflects reduced secretion driven by feedback, not accelerated removal of the hormone from blood.",
+          "C": "Thyroid hormone acts on nuclear thyroid hormone receptors in target tissues; the TSH receptor is occupied by TSH itself.",
+          "D": "Thyroid-binding globulin carries thyroid hormone, not TSH, so displacement from it cannot explain the change.",
+          "E": "Feedback reduces rather than increases TRH release, which is why TSH falls instead of rising."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "negative feedback",
+        "TRH and TSH",
+        "HPT axis"
+      ],
+      "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+    }
+  ]
+}

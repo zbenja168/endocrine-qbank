@@ -1,0 +1,1662 @@
+{
+  "categoryId": "adrenal-cortex-medulla",
+  "categoryName": "Adrenal Cortex & Medulla",
+  "questions": [
+    {
+      "id": "en20-001",
+      "stem": "A 34-year-old woman has several months of fatigue, weight loss, nausea, and salt craving. Blood pressure is 88/56 mm Hg, and there is diffuse darkening of her skin including the palmar creases. Serum sodium is 128 mEq/L and potassium is 5.6 mEq/L. Morning cortisol is low, plasma ACTH is elevated, plasma renin activity is elevated, and aldosterone is low. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACTH-independent Cushing syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+        },
+        {
+          "label": "C",
+          "text": "Addison disease"
+        },
+        {
+          "label": "D",
+          "text": "Secondary adrenal insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Tertiary adrenal insufficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Low cortisol with high ACTH, low aldosterone, and high renin localizes the defect to the adrenal cortex itself.",
+        "whyCorrect": "In primary adrenal insufficiency the cortex cannot make cortisol despite rising ACTH drive, so cortisol is low while ACTH is elevated. The high ACTH increases proopiomelanocortin-derived melanocortin signaling and darkens palmar creases, scars, and mucous membranes. Concurrent aldosterone deficiency produces salt wasting with hypotension, hyponatremia, hyperkalemia, and a compensatory rise in renin.",
+        "whyWrongByChoice": {
+          "A": "ACTH-independent Cushing syndrome is cortisol excess with suppressed ACTH, the opposite of this laboratory pattern.",
+          "B": "SIADH can lower sodium but does not cause low cortisol, high ACTH, hyperkalemia, low aldosterone, or hyperpigmentation.",
+          "D": "Pituitary disease reduces ACTH drive, so ACTH would be low or inappropriately normal and there would be no hyperpigmentation.",
+          "E": "Glucocorticoid-induced suppression lowers both CRH and ACTH and spares aldosterone, so renin and potassium would not behave this way."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adrenal insufficiency",
+        "Addison disease",
+        "hyperpigmentation"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-002",
+      "stem": "A 62-year-old man with chronic obstructive pulmonary disease is brought to the emergency department with vomiting, abdominal pain, weakness, and a blood pressure of 78/44 mm Hg. His family reports that he stopped long-term prednisone abruptly several days ago because he felt better. Which of the following is the most appropriate initial step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obtain a late-night salivary cortisol level before treating"
+        },
+        {
+          "label": "B",
+          "text": "Administer parenteral glucocorticoid therapy and supportive care immediately"
+        },
+        {
+          "label": "C",
+          "text": "Withhold treatment until cosyntropin stimulation testing is completed"
+        },
+        {
+          "label": "D",
+          "text": "Start fludrocortisone replacement as the sole hormonal therapy"
+        },
+        {
+          "label": "E",
+          "text": "Perform high-dose dexamethasone suppression testing before treating"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Suspected adrenal crisis is treated immediately; confirmatory endocrine testing comes afterward.",
+        "whyCorrect": "Prolonged glucocorticoid therapy suppresses CRH and ACTH, so abrupt withdrawal can leave the patient unable to raise cortisol during stress. Vomiting, abdominal pain, weakness, and hypotension in that setting make adrenal crisis the working diagnosis. Cortisol is required to maintain vascular responsiveness to catecholamines, so hypotension can become refractory, and stress-dose parenteral hydrocortisone with supportive care must precede complete diagnostic evaluation.",
+        "whyWrongByChoice": {
+          "A": "Late-night salivary cortisol is a screening test for hypercortisolism and has no role in an unstable hypotensive patient.",
+          "C": "Cosyntropin testing is useful electively, but an unstable patient with suspected adrenal crisis cannot wait for it.",
+          "D": "Mineralocorticoid replacement alone does not correct the acute cortisol deficiency driving shock physiology.",
+          "E": "Dexamethasone suppression testing is used in selected evaluation of cortisol excess, not in acute cortisol deficiency."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adrenal crisis",
+        "glucocorticoid withdrawal",
+        "management"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-003",
+      "stem": "A 55-year-old woman who took high-dose prednisone for 10 months stopped it two weeks ago and now reports fatigue, nausea, and lightheadedness. Morning cortisol and plasma ACTH are both low, but serum potassium is 4.2 mEq/L. Which of the following best explains why her potassium is normal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The zona glomerulosa was destroyed along with the zona fasciculata during therapy"
+        },
+        {
+          "label": "B",
+          "text": "Residual prednisone provides enough mineralocorticoid receptor blockade"
+        },
+        {
+          "label": "C",
+          "text": "Elevated renin has been suppressed by chronic glucocorticoid exposure"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone secretion is driven mainly by angiotensin II and potassium, not ACTH"
+        },
+        {
+          "label": "E",
+          "text": "Cortisol deficiency directly increases renal potassium excretion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Central and glucocorticoid-induced adrenal insufficiency spare aldosterone because the zona glomerulosa is not ACTH-dependent.",
+        "whyCorrect": "Glucocorticoid-induced adrenal insufficiency reflects suppression of CRH and ACTH rather than destruction of the adrenal cortex. Aldosterone production in the zona glomerulosa is regulated primarily by the renin-angiotensin-aldosterone system and serum potassium, so it persists despite low ACTH drive. That is why abrupt steroid withdrawal produces cortisol deficiency without the marked hyperkalemia of primary adrenal insufficiency.",
+        "whyWrongByChoice": {
+          "A": "The cortex is structurally intact here and simply under-stimulated, which is precisely why the mineralocorticoid limb still works.",
+          "B": "Prednisone does not block mineralocorticoid receptors, and it has already been discontinued.",
+          "C": "Renin remains responsive to volume status in this setting and is not the reason potassium stays normal.",
+          "E": "Cortisol deficiency does not enhance renal potassium excretion; if anything, primary disease with aldosterone loss raises potassium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central adrenal insufficiency",
+        "aldosterone",
+        "mechanism"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-004",
+      "stem": "A 48-year-old man with headaches and low morning cortisol undergoes cosyntropin stimulation testing, and his cortisol rises appropriately. Which of the following conditions can still be present despite this normal result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral adrenal hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Recent-onset central adrenal insufficiency"
+        },
+        {
+          "label": "C",
+          "text": "Long-standing autoimmune adrenalitis"
+        },
+        {
+          "label": "D",
+          "text": "An aldosterone-producing adrenal adenoma"
+        },
+        {
+          "label": "E",
+          "text": "ACTH-independent Cushing syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A normal cosyntropin response does not exclude recently developed pituitary or hypothalamic adrenal insufficiency.",
+        "whyCorrect": "Cosyntropin is synthetic ACTH, so the test measures adrenal reserve rather than central drive. When pituitary or hypothalamic dysfunction is recent, the adrenal cortex has not yet lost its trophic stimulation and can still respond normally to exogenous ACTH. An appropriate cortisol rise therefore cannot rule out early central adrenal insufficiency.",
+        "whyWrongByChoice": {
+          "A": "Bilateral adrenal hemorrhage destroys adrenal tissue and would blunt the stimulated cortisol response.",
+          "C": "Long-standing autoimmune adrenalitis damages the cortex itself, so the cortisol response to cosyntropin is impaired.",
+          "D": "An aldosterone-producing adenoma causes mineralocorticoid excess with hypertension and hypokalemia, not cortisol deficiency.",
+          "E": "ACTH-independent Cushing syndrome is a state of cortisol excess and is not the condition missed by this test."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cosyntropin stimulation",
+        "diagnosis",
+        "central adrenal insufficiency"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-005",
+      "stem": "A 44-year-old woman has progressive central weight gain, facial rounding, easy bruising, proximal muscle weakness, and wide violaceous abdominal striae. Which of the following is the most appropriate first step in her evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Take a full history of oral, inhaled, topical, and injected steroid use"
+        },
+        {
+          "label": "B",
+          "text": "Measure plasma ACTH to determine whether the process is ACTH-dependent"
+        },
+        {
+          "label": "C",
+          "text": "Obtain pituitary MRI to look for a corticotroph adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Obtain adrenal CT to look for a cortisol-producing adrenal mass"
+        },
+        {
+          "label": "E",
+          "text": "Arrange bilateral inferior petrosal sinus sampling for source localization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Exogenous glucocorticoid exposure is the most common cause of Cushing syndrome and must be excluded before any biochemical workup.",
+        "whyCorrect": "Iatrogenic corticosteroid exposure is the leading cause of Cushing syndrome, and it reproduces cushingoid features while suppressing endogenous ACTH and cortisol. The medication history must cover every route, including inhaled, topical, intra-articular, intranasal, and non-prescription products. Only after exogenous exposure has been addressed does confirmatory testing for endogenous hypercortisolism make sense.",
+        "whyWrongByChoice": {
+          "B": "Plasma ACTH localizes the source only after hypercortisolism has been confirmed, and it is explicitly not recommended as a screening test.",
+          "C": "Pituitary imaging comes after biochemical confirmation and ACTH categorization, and incidental pituitary findings are common.",
+          "D": "Adrenal imaging is premature before cortisol excess is confirmed and before an exogenous source is excluded.",
+          "E": "Petrosal sinus sampling is reserved for confirmed ACTH-dependent disease that cannot otherwise be localized."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Cushing syndrome",
+        "exogenous glucocorticoids",
+        "evaluation"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-006",
+      "stem": "A 41-year-old woman has facial plethora, wide purple striae, proximal myopathy, easy bruising, hypertension, and new hyperglycemia. She takes no glucocorticoids in any form. Which of the following is the most appropriate initial test to confirm hypercortisolism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Morning serum cortisol after an overnight fast"
+        },
+        {
+          "label": "B",
+          "text": "Cosyntropin stimulation testing"
+        },
+        {
+          "label": "C",
+          "text": "Late-night salivary cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Random serum cortisol drawn at the office visit"
+        },
+        {
+          "label": "E",
+          "text": "Random plasma ACTH drawn at the office visit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypercortisolism is confirmed with tests such as late-night salivary cortisol, 24-hour urinary free cortisol, or dexamethasone suppression.",
+        "whyCorrect": "Cortisol normally falls to a trough late at night, and Cushing syndrome characteristically abolishes that circadian suppression. A late-night salivary cortisol is one of the recommended high-accuracy initial tests for confirming cortisol excess, alongside 24-hour urinary free cortisol and dexamethasone suppression testing. It answers whether cortisol is inappropriately high, though it does not identify the source.",
+        "whyWrongByChoice": {
+          "A": "Morning cortisol is used to evaluate suspected cortisol deficiency, not to establish cortisol excess.",
+          "B": "Cosyntropin stimulation assesses adrenal reserve in suspected adrenal insufficiency, the opposite clinical problem.",
+          "D": "Random serum cortisol is explicitly not recommended for screening because pulsatile secretion makes single values uninterpretable.",
+          "E": "Plasma ACTH is a localization tool used after confirmation and is specifically not recommended as a screening test."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypercortisolism",
+        "screening tests",
+        "circadian rhythm"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-007",
+      "stem": "A 52-year-old man with confirmed hypercortisolism has a suppressed plasma ACTH level. A careful history excludes glucocorticoid exposure by every route. Which of the following best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pituitary corticotroph adenoma secreting excess ACTH"
+        },
+        {
+          "label": "B",
+          "text": "A nonpituitary tumor secreting ACTH ectopically"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Hypothalamic disease reducing corticotropin-releasing hormone output"
+        },
+        {
+          "label": "E",
+          "text": "An autonomously functioning cortisol-producing adrenal tumor"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "High cortisol with suppressed ACTH defines ACTH-independent Cushing syndrome, which points to the adrenal gland or exogenous steroid.",
+        "whyCorrect": "Once hypercortisolism is confirmed, ACTH localizes the source. A suppressed ACTH means pituitary corticotrophs are being shut down by cortisol feedback, so the cortisol is not ACTH-driven. With exogenous exposure excluded, autonomous adrenal cortisol production is the remaining explanation.",
+        "whyWrongByChoice": {
+          "A": "Cushing disease is ACTH-dependent, so ACTH would be elevated or inappropriately normal despite the high cortisol.",
+          "B": "Ectopic ACTH syndrome is also ACTH-dependent and typically produces markedly elevated ACTH levels.",
+          "C": "Autoimmune adrenalitis causes low cortisol with elevated ACTH, not confirmed cortisol excess.",
+          "D": "Reduced CRH output causes central cortisol deficiency rather than hypercortisolism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ACTH-independent",
+        "localization",
+        "Cushing syndrome"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-008",
+      "stem": "A 39-year-old woman has confirmed hypercortisolism on two screening tests, and plasma ACTH is elevated. Which of the following diagnostic distinctions is most important to make next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cushing disease versus ectopic ACTH syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Primary versus secondary adrenal insufficiency"
+        },
+        {
+          "label": "C",
+          "text": "Addison disease versus autoimmune thyroid disease"
+        },
+        {
+          "label": "D",
+          "text": "Glucocorticoid withdrawal syndrome versus mineralocorticoid excess"
+        },
+        {
+          "label": "E",
+          "text": "Primary hyperaldosteronism versus hypoaldosteronism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Confirmed hypercortisolism with elevated ACTH is ACTH-dependent disease, which must then be localized to pituitary or ectopic source.",
+        "whyCorrect": "Elevated or inappropriately normal ACTH despite high cortisol means ACTH is driving adrenal cortisol production. The two important causes are a pituitary corticotroph adenoma, called Cushing disease, and a nonpituitary tumor producing ACTH ectopically. Separating them is essential because pituitary disease accounts for most cases yet inappropriate pituitary surgery would follow a missed ectopic source.",
+        "whyWrongByChoice": {
+          "B": "That distinction applies to cortisol-deficient states, not to confirmed hypercortisolism.",
+          "C": "Addison disease produces low cortisol with elevated ACTH and does not explain confirmed cortisol excess.",
+          "D": "Neither glucocorticoid withdrawal nor mineralocorticoid excess accounts for ACTH-dependent hypercortisolism.",
+          "E": "Aldosterone disorders are a separate axis and do not address the ACTH localization problem here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ACTH-dependent",
+        "Cushing disease",
+        "ectopic ACTH"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-009",
+      "stem": "A 61-year-old man with a 40-pack-year smoking history and a newly found lung mass has proximal weakness, blood pressure of 176/98 mm Hg, and serum potassium of 2.7 mEq/L. Cortisol is markedly elevated and plasma ACTH is markedly elevated. Which of the following best explains his hypokalemia and hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renin secreted by the tumor drives angiotensin II and adrenal aldosterone production"
+        },
+        {
+          "label": "B",
+          "text": "Loss of ACTH trophic support has atrophied the zona glomerulosa"
+        },
+        {
+          "label": "C",
+          "text": "Parathyroid hormone-related peptide from the tumor shifts potassium into cells"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol overwhelms local enzymatic protection and activates mineralocorticoid receptors"
+        },
+        {
+          "label": "E",
+          "text": "The tumor autonomously secretes aldosterone from ectopic glomerulosa tissue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In severe ACTH-driven hypercortisolism, cortisol itself acts as a mineralocorticoid, producing hypertension and hypokalemia.",
+        "whyCorrect": "Cortisol is normally kept from stimulating mineralocorticoid receptors by local enzymatic inactivation. When ACTH-dependent cortisol excess becomes severe, as in ectopic ACTH syndrome, that protection is overwhelmed and cortisol exerts mineralocorticoid-like effects. The result is hypertension with hypokalemia in a patient whose markedly elevated ACTH and cortisol point to an ectopic source.",
+        "whyWrongByChoice": {
+          "A": "A renin-secreting tumor would not produce the markedly elevated ACTH and cortisol described.",
+          "B": "Loss of ACTH drive would cause cortisol deficiency, whereas this patient has severe cortisol excess.",
+          "C": "PTHrP causes hypercalcemia of malignancy and does not explain hypokalemia with hypertension.",
+          "E": "The syndrome here is driven by ectopic ACTH acting on the normal adrenal cortex, not by ectopic aldosterone secretion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ectopic ACTH",
+        "hypokalemia",
+        "mineralocorticoid effect"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-010",
+      "stem": "A 26-year-old woman with primary adrenal insufficiency is noted to have darkening of her palmar creases, old surgical scars, and buccal mucosa. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced corticotroph output of ACTH from pituitary feedback"
+        },
+        {
+          "label": "B",
+          "text": "Increased proopiomelanocortin-derived melanocortin signaling from elevated ACTH"
+        },
+        {
+          "label": "C",
+          "text": "Direct stimulation of cutaneous melanocytes by circulating free cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Excess aldosterone acting on mineralocorticoid receptors in the skin"
+        },
+        {
+          "label": "E",
+          "text": "Cutaneous iron deposition resulting from adrenal cortical destruction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hyperpigmentation reflects the high-ACTH state of primary adrenal insufficiency, mediated through POMC-derived melanocortin signaling.",
+        "whyCorrect": "When the failing adrenal cortex cannot make cortisol, negative feedback on the pituitary is lost and corticotrophs increase production of ACTH from its precursor proopiomelanocortin. POMC processing is linked to melanocortin signaling, so chronically high ACTH states darken the skin. The pigment change is most visible in palmar creases, scars, mucous membranes, and sun-exposed areas, and it resolves with hormone replacement.",
+        "whyWrongByChoice": {
+          "A": "ACTH is elevated, not reduced; low-ACTH central disease is characteristically not associated with hyperpigmentation.",
+          "C": "Cortisol is deficient in this disease and does not act as the pigmentary stimulus.",
+          "D": "Aldosterone is typically deficient rather than excessive in primary adrenal insufficiency and does not drive pigmentation.",
+          "E": "Adrenal destruction does not deposit iron in skin; the pigment change here is ACTH-driven and reversible with treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hyperpigmentation",
+        "POMC",
+        "primary adrenal insufficiency"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-011",
+      "stem": "A 37-year-old woman underwent bilateral adrenalectomy for Cushing disease three years ago and takes hydrocortisone and fludrocortisone. She now has progressive darkening of her knuckles and face, new headaches, and loss of peripheral vision. Plasma ACTH is markedly elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recurrent hypercortisolism from residual adrenal tissue"
+        },
+        {
+          "label": "B",
+          "text": "Ectopic ACTH syndrome from an occult neuroendocrine tumor"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune adrenalitis involving the remaining adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Excess fludrocortisone causing mineralocorticoid-driven pigmentation"
+        },
+        {
+          "label": "E",
+          "text": "Nelson syndrome from corticotroph tumor progression"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nelson syndrome is growth of a pituitary corticotroph tumor after bilateral adrenalectomy removes cortisol feedback.",
+        "whyCorrect": "Removing both adrenal glands eliminates the cortisol that had been restraining the corticotroph tumor, so ACTH can rise markedly. High POMC-derived melanocortin signaling produces hyperpigmentation accentuated over areas of repeated trauma such as the knuckles. The enlarging pituitary tumor adds mass-effect symptoms including headache, visual field deficits, and hypopituitarism, and the ACTH source is pituitary rather than ectopic.",
+        "whyWrongByChoice": {
+          "A": "Residual adrenal tissue would raise cortisol and lower ACTH, and it would not explain the visual field loss.",
+          "B": "An ectopic ACTH source would not produce a pituitary mass effect, and she has known corticotroph disease.",
+          "C": "Both adrenal glands have already been removed, so autoimmune adrenalitis cannot account for these findings.",
+          "D": "Fludrocortisone replaces aldosterone activity and does not cause hyperpigmentation or visual field defects."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Nelson syndrome",
+        "bilateral adrenalectomy",
+        "ACTH"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en20-012",
+      "stem": "A 45-year-old woman underwent successful transsphenoidal resection of an ACTH-secreting pituitary adenoma three weeks ago. She now reports fatigue, nausea, myalgias, and lightheadedness, and her blood pressure is 92/58 mm Hg. Morning cortisol is low. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proceed with bilateral adrenalectomy for persistent disease"
+        },
+        {
+          "label": "B",
+          "text": "Perform a 1-mg overnight dexamethasone suppression test"
+        },
+        {
+          "label": "C",
+          "text": "Begin temporary glucocorticoid replacement while the HPA axis recovers"
+        },
+        {
+          "label": "D",
+          "text": "Begin fludrocortisone alone for volume support"
+        },
+        {
+          "label": "E",
+          "text": "Repeat transsphenoidal surgery for presumed residual adenoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Curing endogenous Cushing syndrome can unmask cortisol deficiency because the normal HPA axis remains suppressed.",
+        "whyCorrect": "Chronic cortisol excess suppresses CRH and ACTH, so removing the cortisol source can leave the patient transiently cortisol-deficient. Her low morning cortisol with fatigue, nausea, and hypotension reflects that suppressed axis rather than treatment failure. Patients therefore need temporary glucocorticoid replacement and monitoring until recovery, and some also experience glucocorticoid withdrawal symptoms as tissues adapt to lower cortisol exposure.",
+        "whyWrongByChoice": {
+          "A": "Adrenalectomy is directed at persistent hypercortisolism and would worsen an already cortisol-deficient state.",
+          "B": "Suppression testing evaluates cortisol excess and is not useful in a patient with documented low cortisol.",
+          "D": "Mineralocorticoid replacement does not address glucocorticoid deficiency, and the intact adrenal cortex still makes aldosterone.",
+          "E": "Her low cortisol indicates a successful resection, not residual ACTH-secreting tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "postoperative",
+        "HPA recovery",
+        "glucocorticoid replacement"
+      ],
+      "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+    },
+    {
+      "id": "en21-001",
+      "stem": "A 10-day-old male newborn is brought to the emergency department with poor feeding, vomiting, dehydration, and lethargy. Serum studies show sodium of 124 mEq/L, potassium of 7.1 mEq/L, and a metabolic acidosis. Which of the following enzyme deficiencies best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "11-beta-hydroxylase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "17-alpha-hydroxylase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "21-hydroxylase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone synthase overactivity"
+        },
+        {
+          "label": "E",
+          "text": "Phenylethanolamine N-methyltransferase deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Salt wasting with hyponatremia and hyperkalemia in a newborn is classic severe 21-hydroxylase deficiency.",
+        "whyCorrect": "21-hydroxylase is required in both the mineralocorticoid branch (progesterone to 11-deoxycorticosterone) and the glucocorticoid branch (17-hydroxyprogesterone to 11-deoxycortisol). Losing it impairs aldosterone and cortisol synthesis simultaneously, so the infant wastes sodium, retains potassium, and becomes hypotensive and dehydrated. Accumulated precursors are diverted into the still-open androgen pathway.",
+        "whyWrongByChoice": {
+          "A": "11-beta-hydroxylase deficiency lets 11-deoxycorticosterone accumulate, so the expected phenotype is hypertension rather than salt wasting.",
+          "B": "17-alpha-hydroxylase deficiency produces mineralocorticoid excess with hypertension and androgen deficiency, not a neonatal salt-losing crisis.",
+          "D": "Excess aldosterone effect would drive potassium excretion and sodium retention, the opposite of the electrolytes shown.",
+          "E": "Phenylethanolamine N-methyltransferase acts in the medulla on catecholamine conversion and does not affect cortical steroid or electrolyte handling."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "congenital adrenal hyperplasia",
+        "21-hydroxylase",
+        "salt wasting"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-002",
+      "stem": "A 9-year-old boy is evaluated for pubic hair that began at age 7 and for accelerated growth. Blood pressure is 142/90 mm Hg on repeated measurements. Serum ACTH is elevated and cortisol is low. Which of the following enzyme deficiencies is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "21-hydroxylase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "11-beta-hydroxylase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "17-alpha-hydroxylase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Steroidogenic acute regulatory protein deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Cholesterol side-chain cleavage enzyme deficiency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Androgen excess plus hypertension is the signature combination of 11-beta-hydroxylase deficiency.",
+        "whyCorrect": "Blocking conversion of 11-deoxycortisol to cortisol lowers cortisol, releases ACTH from negative feedback, and drives precursor buildup that is redirected toward adrenal androgens, producing premature pubic hair. At the same time 11-deoxycorticosterone accumulates and acts as a mineralocorticoid, retaining sodium and raising blood pressure.",
+        "whyWrongByChoice": {
+          "A": "21-hydroxylase deficiency also causes androgen excess, but severe disease classically causes salt wasting and hypotension rather than hypertension.",
+          "C": "17-alpha-hydroxylase deficiency causes hypertension with androgen deficiency, so premature pubic hair would not occur.",
+          "D": "Loss of steroidogenic acute regulatory protein impairs cholesterol delivery for all adrenal steroids globally and would not selectively drive androgen excess.",
+          "E": "Losing cholesterol side-chain cleavage blocks pregnenolone formation at the common entry step, starving every branch including androgens."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital adrenal hyperplasia",
+        "11-beta-hydroxylase",
+        "hypertension"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-003",
+      "stem": "A 16-year-old girl is evaluated for primary amenorrhea. She has minimal breast development and no axillary or pubic hair. Blood pressure is 152/96 mm Hg. Serum cortisol is low and ACTH is elevated. Which of the following enzyme deficiencies best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "21-hydroxylase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "11-beta-hydroxylase deficiency"
+        },
+        {
+          "label": "C",
+          "text": "17-alpha-hydroxylase deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone synthase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Steroidogenic acute regulatory protein deficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypertension together with absent sexual development points to 17-alpha-hydroxylase deficiency.",
+        "whyCorrect": "CYP17A1 is required to make the 17-hydroxylated intermediates that feed both cortisol and the sex-steroid pathway, so its loss produces cortisol deficiency and androgen deficiency with failure of secondary sexual development. Flux is shunted into the mineralocorticoid branch, where 11-deoxycorticosterone and corticosterone accumulate and generate mineralocorticoid excess physiology with hypertension.",
+        "whyWrongByChoice": {
+          "A": "21-hydroxylase deficiency diverts precursors into androgens and classically causes salt wasting, not androgen deficiency with hypertension.",
+          "B": "11-beta-hydroxylase deficiency causes hypertension but with androgen excess and virilization, not absent sexual development.",
+          "D": "Losing aldosterone synthase reduces mineralocorticoid activity and would not raise blood pressure or block sex-steroid synthesis.",
+          "E": "Loss of steroidogenic acute regulatory protein impairs all adrenal steroid classes, including the mineralocorticoid precursors needed to raise blood pressure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "congenital adrenal hyperplasia",
+        "17-alpha-hydroxylase",
+        "amenorrhea"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-004",
+      "stem": "A 9-day-old male newborn presents with vomiting, dehydration, and life-threatening hyperkalemia and is diagnosed with 21-hydroxylase deficiency. His older sister had the same diagnosis made within 2 days of birth after ambiguous genitalia were noted. Which of the following best explains why the male infant presented later?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess adrenal androgens do not alter the genitalia of an already virilized male fetus"
+        },
+        {
+          "label": "B",
+          "text": "Affected males retain enough aldosterone synthesis to delay symptomatic salt wasting"
+        },
+        {
+          "label": "C",
+          "text": "Affected males block only the glucocorticoid limb, leaving the mineralocorticoid limb intact"
+        },
+        {
+          "label": "D",
+          "text": "17-hydroxyprogesterone accumulates only in affected female infants"
+        },
+        {
+          "label": "E",
+          "text": "Affected males convert accumulated precursors to aldosterone through aldosterone synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In 21-hydroxylase deficiency, androgen excess is visible at birth in females but silent in males, delaying male diagnosis to the salt-wasting crisis.",
+        "whyCorrect": "Females with 21-hydroxylase deficiency usually present with ambiguous genitalia because excess adrenal androgens virilize the female external genitalia, prompting immediate evaluation in the first days of life. Males are already fully virilized by the far more potent dihydrotestosterone, so the weaker adrenal androgens produce no genital anomaly. They therefore often go unrecognized until roughly 7 to 10 days of life, when severe hyperkalemia and salt wasting appear.",
+        "whyWrongByChoice": {
+          "B": "The enzyme block impairs aldosterone synthesis equally in both sexes; sex does not preserve mineralocorticoid output.",
+          "C": "21-hydroxylase is required in both the mineralocorticoid and glucocorticoid branches, which is exactly why salt wasting occurs.",
+          "D": "17-hydroxyprogesterone accumulates upstream of the block regardless of sex and is the basis for newborn screening in both.",
+          "E": "Aldosterone synthase acts downstream of the 21-hydroxylase block, so accumulated precursors cannot be rescued into aldosterone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "21-hydroxylase",
+        "newborn screening",
+        "virilization"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-005",
+      "stem": "A researcher studies an infant with a steroidogenic enzyme defect. Conversion of progesterone to 11-deoxycorticosterone is blocked, and conversion of 17-hydroxyprogesterone to 11-deoxycortisol is also blocked. Which of the following enzymes is most likely deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "17-alpha-hydroxylase"
+        },
+        {
+          "label": "B",
+          "text": "21-hydroxylase"
+        },
+        {
+          "label": "C",
+          "text": "11-beta-hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone synthase"
+        },
+        {
+          "label": "E",
+          "text": "Cholesterol side-chain cleavage enzyme (CYP11A1)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "21-hydroxylase is the single enzyme shared by the mineralocorticoid and glucocorticoid branches at the same step.",
+        "whyCorrect": "In the mineralocorticoid branch, 21-hydroxylase converts progesterone to 11-deoxycorticosterone; in the glucocorticoid branch it converts 17-hydroxyprogesterone to 11-deoxycortisol. A defect that blocks both reactions simultaneously therefore localizes to this enzyme, which is why its loss impairs aldosterone and cortisol together.",
+        "whyWrongByChoice": {
+          "A": "17-alpha-hydroxylase acts earlier and is required to generate 17-hydroxylated intermediates, not to convert them to 11-deoxycortisol.",
+          "C": "11-beta-hydroxylase acts later, converting 11-deoxycortisol to cortisol, which is downstream of both blocked reactions.",
+          "D": "Aldosterone synthase acts at the final step of aldosterone synthesis in the zona glomerulosa, not on these two substrates.",
+          "E": "Cholesterol side-chain cleavage enzyme converts cholesterol to pregnenolone at the common entry step, well upstream of both reactions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "steroidogenesis",
+        "21-hydroxylase",
+        "pathway logic"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-006",
+      "stem": "An experimental compound is applied to cultured adrenal cortical cells. Within minutes, transfer of cholesterol into mitochondria stops and synthesis of aldosterone, cortisol, and adrenal androgens all decline. Which of the following proteins was most likely inhibited?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "17-alpha-hydroxylase (CYP17A1)"
+        },
+        {
+          "label": "B",
+          "text": "21-hydroxylase (CYP21A2)"
+        },
+        {
+          "label": "C",
+          "text": "11-beta-hydroxylase (CYP11B1)"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone synthase (CYP11B2)"
+        },
+        {
+          "label": "E",
+          "text": "Steroidogenic acute regulatory protein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "StAR-mediated cholesterol transport into mitochondria is the acute rate-limiting step for every adrenal steroid.",
+        "whyCorrect": "All adrenal cortical steroids begin with cholesterol, and the first committed step is StAR-dependent movement of cholesterol into the mitochondrion, where CYP11A1 makes pregnenolone. Because this step precedes any zone-specific branching, blocking it drops mineralocorticoid, glucocorticoid, and androgen output together. It is also the step ACTH acutely stimulates to raise cortisol output.",
+        "whyWrongByChoice": {
+          "A": "17-alpha-hydroxylase serves cortisol and androgen synthesis; its loss would spare aldosterone rather than lowering all three classes.",
+          "B": "21-hydroxylase is needed for cortisol and aldosterone but not for adrenal androgen synthesis, and it does not move cholesterol.",
+          "C": "11-beta-hydroxylase acts late in the cortisol branch and has no role in mitochondrial cholesterol transport.",
+          "D": "Aldosterone synthase is restricted to the final step of aldosterone production in the zona glomerulosa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "StAR",
+        "rate-limiting step",
+        "steroidogenesis"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-007",
+      "stem": "A histology slide of an endocrine organ shows an outer cortex arranged in three concentric zones surrounding an inner medulla. Which of the following is the most accurate pairing of adrenal region and its dominant hormone product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zona glomerulosa and cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Zona fasciculata and aldosterone"
+        },
+        {
+          "label": "C",
+          "text": "Zona reticularis and dehydroepiandrosterone"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal medulla and cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal medulla and aldosterone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Salt, sugar, sex: glomerulosa makes aldosterone, fasciculata makes cortisol, reticularis makes adrenal androgens.",
+        "whyCorrect": "The zona reticularis is the innermost cortical zone and channels steroidogenesis toward weak adrenal androgens, chiefly dehydroepiandrosterone and androstenedione, because its CYP17A1 activity is biased toward 17,20-lyase. The medulla, deep to the cortex, is functionally distinct and makes catecholamines instead of steroids.",
+        "whyWrongByChoice": {
+          "A": "The zona glomerulosa lacks CYP17A1 and produces aldosterone, not cortisol.",
+          "B": "The zona fasciculata expresses CYP17A1, CYP21A2, and CYP11B1 and produces cortisol, not aldosterone.",
+          "D": "The medulla contains chromaffin cells that release epinephrine and norepinephrine, not steroid hormones.",
+          "E": "Aldosterone is a cortical steroid made in the zona glomerulosa, not a medullary product."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adrenal zones",
+        "salt sugar sex",
+        "anatomy"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-008",
+      "stem": "A 24-year-old man undergoes serial blood sampling during a physiology study. Plasma cortisol is highest shortly after waking, reaches its lowest values around midnight, and is released in discrete pulses throughout the day. Which of the following best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Entrainment of hypothalamic CRH release by the suprachiasmatic nucleus"
+        },
+        {
+          "label": "B",
+          "text": "Daily oscillation of serum potassium acting on the zona glomerulosa"
+        },
+        {
+          "label": "C",
+          "text": "Rhythmic renin release from juxtaglomerular cells across the day"
+        },
+        {
+          "label": "D",
+          "text": "Suppression of steroid output by atrial natriuretic peptide overnight"
+        },
+        {
+          "label": "E",
+          "text": "Enhancement of 17,20-lyase activity by cytochrome b5 during sleep"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The suprachiasmatic nucleus entrains CRH output to the light-dark cycle, producing the morning cortisol peak and midnight nadir.",
+        "whyCorrect": "Cortisol secretion is organized into both circadian rhythms of roughly 24 hours and shorter ultradian pulses. The suprachiasmatic nucleus links hypothalamic CRH release to the light-dark cycle, so ACTH and cortisol peak in the early morning and fall to a nadir near midnight. Pulsatility means target tissues see oscillating rather than fixed glucocorticoid signals.",
+        "whyWrongByChoice": {
+          "B": "Potassium regulates aldosterone from the zona glomerulosa and has no role in setting the cortisol rhythm.",
+          "C": "Renin drives the mineralocorticoid axis through angiotensin II; it does not control glucocorticoid timing.",
+          "D": "Atrial natriuretic peptide suppresses aldosterone synthesis with volume expansion, not cortisol secretion.",
+          "E": "Cytochrome b5 biases the zona reticularis toward androgen synthesis and does not generate a cortisol rhythm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPA axis",
+        "circadian rhythm",
+        "cortisol"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-009",
+      "stem": "A 44-year-old woman has fatigue and lightheadedness 6 months after resection of a large pituitary adenoma. Morning cortisol is low and plasma ACTH is inappropriately low. Serum potassium is 4.2 mEq/L and there is no hyperkalemia. Which of the following best explains her preserved potassium balance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ACTH is the dominant long-term stimulus for aldosterone synthesis in the zona glomerulosa"
+        },
+        {
+          "label": "B",
+          "text": "The zona glomerulosa hypertrophies when ACTH falls, which raises aldosterone output"
+        },
+        {
+          "label": "C",
+          "text": "Atrial natriuretic peptide increases aldosterone synthesis when circulating volume falls"
+        },
+        {
+          "label": "D",
+          "text": "Aldosterone secretion is sustained by angiotensin II and serum potassium rather than by ACTH"
+        },
+        {
+          "label": "E",
+          "text": "CRH acts directly on the zona glomerulosa to maintain mineralocorticoid output"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Regulation of the adrenal cortex is zone-selective: ACTH mainly drives cortisol, while RAAS and potassium mainly drive aldosterone.",
+        "whyCorrect": "Loss of pituitary ACTH removes the dominant stimulus to the zona fasciculata, so cortisol falls. The zona glomerulosa, however, is regulated mainly by angiotensin II generated through the renin-angiotensin-aldosterone system and by direct stimulation from serum potassium, with ACTH exerting only a minor and usually transient effect. Aldosterone output is therefore largely maintained, and hyperkalemia typical of primary adrenal failure does not develop.",
+        "whyWrongByChoice": {
+          "A": "This reverses the physiology; ACTH is dominant for cortisol, not for sustained aldosterone regulation.",
+          "B": "Falling ACTH produces atrophy of ACTH-dependent zones, and glomerulosa output is maintained by RAAS rather than by hypertrophy.",
+          "C": "Atrial natriuretic peptide suppresses aldosterone synthesis during volume expansion rather than stimulating it.",
+          "E": "CRH acts on anterior pituitary corticotrophs to release ACTH and has no direct action on the zona glomerulosa."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "zone-selective regulation",
+        "RAAS",
+        "secondary adrenal insufficiency"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-010",
+      "stem": "A 30-year-old man sustains major trauma and is hypotensive on arrival. Hypothalamic CRH release increases sharply. Which of the following additional hypothalamic signals acts synergistically with CRH to amplify ACTH secretion from anterior pituitary corticotrophs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "C",
+          "text": "Arginine vasopressin"
+        },
+        {
+          "label": "D",
+          "text": "Renin"
+        },
+        {
+          "label": "E",
+          "text": "Dehydroepiandrosterone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "During acute stress, arginine vasopressin released with CRH amplifies corticotroph ACTH output.",
+        "whyCorrect": "Acute stress activates parvocellular neurons of the hypothalamic paraventricular nucleus, which release both CRH and arginine vasopressin into the hypophyseal portal circulation. Vasopressin is not merely a companion signal; it acts synergistically with CRH on corticotrophs to increase ACTH secretion, thereby raising adrenal cortisol production during the insult.",
+        "whyWrongByChoice": {
+          "A": "Dopamine mainly inhibits prolactin secretion and does not synergize with CRH to stimulate ACTH.",
+          "B": "Aldosterone is a zona glomerulosa product regulated by angiotensin II and potassium, not a hypothalamic releasing signal.",
+          "D": "Renin initiates the renin-angiotensin-aldosterone cascade and does not act on pituitary corticotrophs.",
+          "E": "Dehydroepiandrosterone is an adrenal androgen precursor, not a hypothalamic stress signal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stress response",
+        "vasopressin",
+        "HPA axis"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-011",
+      "stem": "In an experimental model, adrenal chromaffin cells are isolated from surrounding cortical tissue and cultured alone. Sympathetic stimulation still triggers catecholamine release, but the cells now secrete predominantly norepinephrine with very little epinephrine. Which of the following best explains this shift?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of aldosterone signaling that normally maintains chromaffin cell electrolyte balance"
+        },
+        {
+          "label": "B",
+          "text": "Loss of dehydroepiandrosterone, the main cortical regulator of catecholamine synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Loss of direct ACTH action on chromaffin cells that normally drives epinephrine output"
+        },
+        {
+          "label": "D",
+          "text": "Loss of local cortisol exposure that normally induces PNMT in chromaffin cells"
+        },
+        {
+          "label": "E",
+          "text": "Loss of CRH signaling that normally acts on the medulla to convert norepinephrine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "High local cortical cortisol induces PNMT in the medulla, which converts norepinephrine to epinephrine.",
+        "whyCorrect": "The adrenal gland works as an integrated corticomedullary unit. Cortisol produced by adjacent cortical tissue reaches the medulla at high local concentrations and promotes expression of phenylethanolamine N-methyltransferase in chromaffin cells, favoring methylation of norepinephrine to epinephrine. Removing that glucocorticoid gradient leaves sympathetic drive intact but shifts the biochemical phenotype toward norepinephrine.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone regulates sodium and potassium balance and does not drive PNMT expression or epinephrine synthesis.",
+          "B": "Dehydroepiandrosterone is a weak adrenal androgen precursor and is not the cortical regulator of catecholamine phenotype.",
+          "C": "ACTH stimulates the cortex, particularly cortisol production; the local medullary effect is mediated by cortisol itself.",
+          "E": "CRH acts at the anterior pituitary to release ACTH and does not directly regulate medullary enzyme expression."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal medulla",
+        "PNMT",
+        "corticomedullary integration"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en21-012",
+      "stem": "An 8-year-old girl develops pubic hair and adult-type body odor. Blood pressure is normal, growth velocity is appropriate, and DHEA sulfate is elevated for age. Which of the following best explains why the zona reticularis produces DHEA rather than cortisol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CYP17A1 activity in this zone is biased toward 17,20-lyase, enhanced by cytochrome b5"
+        },
+        {
+          "label": "B",
+          "text": "CYP17A1 is absent from this zone, so flux is pushed away from cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone synthase is highly expressed here and diverts precursors into androgens"
+        },
+        {
+          "label": "D",
+          "text": "A reticularis-specific tropic hormone analogous to LH drives androgen synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Sulfotransferase SULT2A1 converts 17-hydroxyprogesterone directly into DHEA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The reticularis makes androgens because its CYP17A1 favors 17,20-lyase activity, which cytochrome b5 augments.",
+        "whyCorrect": "Both fasciculata and reticularis express CYP17A1, but the enzyme has two activities: 17-alpha-hydroxylase and 17,20-lyase. In the reticularis, cytochrome b5 selectively augments 17,20-lyase efficiency, favoring conversion of 17-hydroxypregnenolone to DHEA while flux toward glucocorticoid synthesis is relatively reduced. Much of that DHEA is then sulfated by SULT2A1 to DHEA sulfate, the major circulating adrenal androgen and a stable marker of adrenal androgen output. This programming matures at adrenarche.",
+        "whyWrongByChoice": {
+          "B": "CYP17A1 is expressed in the reticularis; it is the zona glomerulosa that lacks the enzyme and therefore makes only aldosterone.",
+          "C": "Aldosterone synthase is the terminal glomerulosa enzyme and has no role in directing androgen synthesis.",
+          "D": "The adrenal cortex has no dedicated androgen tropic hormone analogous to LH or FSH; ACTH supplies the steroidogenic drive.",
+          "E": "SULT2A1 sulfates DHEA to DHEA sulfate after it is formed; it does not create DHEA from 17-hydroxyprogesterone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenal androgens",
+        "adrenarche",
+        "17,20-lyase"
+      ],
+      "topicId": "adrenal-steroid-biosynthesis-and-regulation",
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+    },
+    {
+      "id": "en22-001",
+      "stem": "A 44-year-old woman is evaluated for six months of episodic headaches, palpitations, tremor, and drenching sweats accompanied by blood pressures as high as 210/120 mm Hg. A catecholamine-producing tumor is suspected. Which of the following enzymes catalyzes the rate-limiting step in the synthesis of the hormones responsible for her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aromatic L-amino acid decarboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Catechol-O-methyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine beta-hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "Phenylethanolamine N-methyltransferase"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosine hydroxylase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tyrosine hydroxylase converts tyrosine to L-DOPA and is the rate-limiting enzyme of catecholamine synthesis.",
+        "whyCorrect": "Catecholamines are tyrosine-derived signaling molecules. The first and slowest step, tyrosine to L-3,4-dihydroxyphenylalanine (L-DOPA), is catalyzed by tyrosine hydroxylase and sets the pace for production of dopamine, norepinephrine, and epinephrine.",
+        "whyWrongByChoice": {
+          "A": "Aromatic L-amino acid decarboxylase converts L-DOPA to dopamine, a downstream step that is not rate-limiting.",
+          "B": "Catechol-O-methyltransferase degrades catecholamines to metanephrines rather than synthesizing them.",
+          "C": "Dopamine beta-hydroxylase converts dopamine to norepinephrine inside secretory granules, downstream of the limiting step.",
+          "D": "Phenylethanolamine N-methyltransferase converts norepinephrine to epinephrine and is induced by high local cortisol in the adrenal medulla."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "catecholamine synthesis",
+        "tyrosine hydroxylase",
+        "pheochromocytoma"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-002",
+      "stem": "A 42-year-old man has unpredictable 15-minute spells of headache, palpitations, pallor, and severe hypertension, with completely normal blood pressure between spells. Pheochromocytoma is suspected, and plasma free metanephrines are ordered rather than plasma catecholamine levels. Which of the following best explains why metabolite testing is preferred in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metanephrines are produced only during symptomatic catecholamine surges"
+        },
+        {
+          "label": "B",
+          "text": "Metanephrines are generated continuously by intratumoral catechol-O-methyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Metanephrines are unaffected by patient posture at the time of sampling"
+        },
+        {
+          "label": "D",
+          "text": "Metanephrines are released directly from sympathetic nerve terminals during exocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Metanephrines are the only catecholamine metabolites detectable in plasma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tumor cells metabolize catecholamines continuously via COMT, so metanephrines stay elevated even between paroxysms.",
+        "whyCorrect": "Catecholamine release from a pheochromocytoma or paraganglioma can be intermittent, so random norepinephrine and epinephrine levels may be normal between spells. Intratumoral catechol-O-methyltransferase converts these catecholamines to normetanephrine and metanephrine relatively continuously and independently of episodic exocytosis, which is why plasma free metanephrines or 24-hour urinary fractionated metanephrines are the recommended initial tests.",
+        "whyWrongByChoice": {
+          "A": "The opposite is true: continuous rather than surge-dependent production is exactly what makes metanephrines useful.",
+          "C": "Plasma normetanephrine is strongly influenced by posture, which is why supine collection with matched reference intervals is required.",
+          "D": "Metanephrines are metabolic products formed by O-methylation, not stored transmitters released by exocytosis.",
+          "E": "Other metabolites such as vanillylmandelic acid and 3-methoxytyramine are also measurable; metanephrines are preferred for sensitivity, not exclusivity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metanephrines",
+        "biochemical diagnosis",
+        "COMT"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-003",
+      "stem": "A 58-year-old man hospitalized with pneumonia has resistant hypertension. A plasma normetanephrine level drawn while he was seated shortly after arrival is 1.3 times the upper reference limit. He takes venlafaxine for depression and had not rested before the draw. Which of the following is the most appropriate interpretation of this result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The result confirms pheochromocytoma and warrants adrenalectomy after recovery"
+        },
+        {
+          "label": "B",
+          "text": "The result may be falsely elevated and should be repeated under optimized conditions"
+        },
+        {
+          "label": "C",
+          "text": "The result is diagnostic of primary aldosteronism and warrants an aldosterone-to-renin ratio"
+        },
+        {
+          "label": "D",
+          "text": "The result is uninterpretable and should be replaced by serum chromogranin A testing"
+        },
+        {
+          "label": "E",
+          "text": "The result requires immediate beta-blockade before any further diagnostic testing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mild isolated normetanephrine elevations under poor preanalytic conditions are usually false positives and should be repeated.",
+        "whyCorrect": "Acute illness, upright posture, stress, and norepinephrine-enhancing drugs such as serotonin-norepinephrine reuptake inhibitors and tricyclics all raise normetanephrine. Plasma sampling is most reliable after at least 30 minutes fully supine with reference intervals established under the same conditions, so a mild elevation obtained seated during pneumonia in a patient on venlafaxine should be reinterpreted after conditions are optimized rather than acted on.",
+        "whyWrongByChoice": {
+          "A": "Marked elevations, such as a metabolite at least three times the upper reference limit, are the ones rarely explained by artifact; a 1.3-fold rise under these conditions is not confirmatory.",
+          "C": "Primary aldosteronism is suggested by hypertension with hypokalemia and an elevated aldosterone-to-renin ratio, not by a normetanephrine value.",
+          "D": "Chromogranin A is a neuroendocrine marker that should not replace metanephrine-based testing.",
+          "E": "Isolated beta-blockade is unsafe when functional catecholamine excess is still possible, and no treatment is indicated before the biochemistry is clarified."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "preanalytic variables",
+        "false positive",
+        "metanephrines"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-004",
+      "stem": "A 51-year-old woman undergoing evaluation for episodic palpitations and diaphoresis is found on computed tomography to have a 4.2-cm heterogeneous right adrenal mass. The radiologist offers to perform an image-guided biopsy the same afternoon to establish a tissue diagnosis. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proceed with image-guided biopsy to obtain a tissue diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "Proceed directly to adrenalectomy without further testing"
+        },
+        {
+          "label": "C",
+          "text": "Obtain plasma free metanephrines after 30 minutes of supine rest"
+        },
+        {
+          "label": "D",
+          "text": "Start metoprolol and reassess the blood pressure in two weeks"
+        },
+        {
+          "label": "E",
+          "text": "Obtain a low-dose dexamethasone suppression test as the sole hormonal workup"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An adrenal mass must not be biopsied or manipulated until pheochromocytoma has been biochemically excluded.",
+        "whyCorrect": "The safe diagnostic sequence is clinical suspicion, then biochemical confirmation, then anatomic localization. Puncture or manipulation of a catecholamine-producing tumor can provoke abrupt release with hypertensive crisis, arrhythmia, myocardial injury, pulmonary edema, or cardiovascular collapse, so properly collected supine plasma free metanephrines come first.",
+        "whyWrongByChoice": {
+          "A": "Biopsy before hormonal evaluation is precisely the maneuver that can precipitate a catecholamine crisis.",
+          "B": "Surgery without biochemical confirmation and adrenergic preparation risks massive intraoperative catecholamine release.",
+          "D": "Beta-blockade given before alpha blockade in a possible functional tumor can worsen hypertension by leaving vasoconstriction unopposed.",
+          "E": "Dexamethasone suppression screens for cortisol excess and would not address the adrenergic spells that dominate this presentation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal mass",
+        "biopsy risk",
+        "diagnostic sequence"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-005",
+      "stem": "A 39-year-old man has a biochemically confirmed functional pheochromocytoma with a blood pressure of 178/104 mm Hg and a heart rate of 108/min. Laparoscopic adrenalectomy is being planned. Which of the following preoperative strategies is safest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-adrenergic blockade first, adding alpha blockade if hypertension persists"
+        },
+        {
+          "label": "B",
+          "text": "Isolated beta-adrenergic blockade to prevent intraoperative arrhythmia"
+        },
+        {
+          "label": "C",
+          "text": "Alpha-adrenergic blockade with sodium and volume repletion, adding beta blockade only if needed"
+        },
+        {
+          "label": "D",
+          "text": "Mineralocorticoid receptor antagonism with dietary sodium restriction before surgery"
+        },
+        {
+          "label": "E",
+          "text": "Immediate surgery because biochemical and imaging confirmation are already complete"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Functional PPGL is prepared with alpha blockade plus volume repletion, and beta blockade only afterward if tachycardia persists.",
+        "whyCorrect": "Alpha-adrenergic blockade reduces catecholamine-driven arteriolar and venous vasoconstriction and is typically begun at least 7 to 14 days before surgery. Sodium and volume repletion corrects the chronic volume contraction that would otherwise produce severe postoperative hypotension. Beta blockade is layered on only after adequate alpha blockade, and usually only when tachycardia or arrhythmia persists.",
+        "whyWrongByChoice": {
+          "A": "Beta blockade before alpha blockade leaves alpha-mediated vasoconstriction unopposed and can worsen hypertension.",
+          "B": "Isolated beta blockade in functional PPGL can precipitate a hypertensive crisis and is explicitly unsafe.",
+          "D": "Mineralocorticoid antagonism treats aldosterone excess, and sodium restriction is the opposite of the volume repletion needed here.",
+          "E": "Confirming the diagnosis does not substitute for adrenergic preparation; unprepared surgery risks intraoperative cardiovascular collapse."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "perioperative management",
+        "alpha blockade",
+        "PPGL"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-006",
+      "stem": "A 47-year-old woman with an undiagnosed catecholamine-secreting adrenal tumor is given intravenous propranolol in the emergency department for a heart rate of 130/min. Her blood pressure rises from 168/98 mm Hg to 232/136 mm Hg over the next 20 minutes. Which of the following best explains this deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of beta-2-mediated vasodilation leaving alpha-1 vasoconstriction unopposed"
+        },
+        {
+          "label": "B",
+          "text": "Increased tyrosine hydroxylase activity driving accelerated catecholamine synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of intratumoral catechol-O-methyltransferase raising circulating catecholamines"
+        },
+        {
+          "label": "D",
+          "text": "Beta-1 blockade triggering exocytosis of stored granules from chromaffin cells"
+        },
+        {
+          "label": "E",
+          "text": "Expansion of intravascular volume from reversal of chronic volume contraction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta blockade before alpha blockade removes beta-2 vasodilation and beta-1 compensation while alpha-1 vasoconstriction continues unchecked.",
+        "whyCorrect": "Alpha-1 receptor activation causes intense arteriolar and venous vasoconstriction. When a beta blocker is given first, beta-2-mediated vasodilation and beta-1 cardiac compensation are removed while the alpha-1 stimulus persists, so systemic vascular resistance and blood pressure climb. This is why beta blockade in PPGL is used only after adequate alpha blockade.",
+        "whyWrongByChoice": {
+          "B": "Beta blockers do not induce tyrosine hydroxylase; the crisis reflects receptor imbalance, not increased synthesis.",
+          "C": "Propranolol does not inhibit catechol-O-methyltransferase, and metabolite handling is not the mechanism of this pressor response.",
+          "D": "Chromaffin granule exocytosis is triggered by acetylcholine at nicotinic receptors and by tumor manipulation, not by beta-1 blockade.",
+          "E": "Chronic catecholamine excess produces volume contraction; no volume expansion occurred, and hypervolemia would not explain this abrupt rise."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenergic receptors",
+        "unopposed alpha",
+        "hypertensive crisis"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-007",
+      "stem": "A 60-year-old woman has a 2.4-cm homogeneous left adrenal nodule discovered incidentally on computed tomography obtained for abdominal pain. The unenhanced attenuation of the lesion is 7 Hounsfield units. She is normotensive and has no headaches, palpitations, or sweating. Which of the following is the most likely nature of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipid-rich adrenocortical adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Catecholamine-secreting pheochromocytoma"
+        },
+        {
+          "label": "C",
+          "text": "Adrenocortical carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Metastasis from an occult primary tumor"
+        },
+        {
+          "label": "E",
+          "text": "Organizing adrenal hemorrhage"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A homogeneous adrenal lesion with unenhanced attenuation of 10 HU or less is overwhelmingly a lipid-rich adenoma.",
+        "whyCorrect": "In adrenal-incidentaloma cohorts, a homogeneous lesion measuring 10 Hounsfield units or less on unenhanced computed tomography is overwhelmingly likely to be a lipid-rich cortical adenoma, and this finding makes pheochromocytoma extremely unlikely. Note that the converse does not hold: attenuation above 10 HU leaves a lesion indeterminate rather than proving pheochromocytoma.",
+        "whyWrongByChoice": {
+          "B": "Most pheochromocytomas have unenhanced attenuation above 10 HU, so a 7-HU homogeneous lesion argues strongly against one.",
+          "C": "Adrenocortical carcinoma is a lipid-poor lesion with higher attenuation and is typically larger and heterogeneous.",
+          "D": "Metastases are lipid-poor and characteristically measure above 10 HU on unenhanced imaging.",
+          "E": "Hemorrhage is also a higher-attenuation lesion and would not appear as a homogeneous 7-HU nodule."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal incidentaloma",
+        "Hounsfield units",
+        "imaging"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-008",
+      "stem": "A 34-year-old man has markedly elevated 24-hour urinary fractionated metanephrines. Contrast-enhanced computed tomography of the abdomen and pelvis shows a 5-cm para-aortic mass and two additional smaller retroperitoneal lesions, with no adrenal abnormality. Which of the following is the most appropriate next step in evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Percutaneous biopsy of the largest lesion to confirm the diagnosis"
+        },
+        {
+          "label": "B",
+          "text": "Functional imaging to complete staging and characterize tumor biology"
+        },
+        {
+          "label": "C",
+          "text": "Repeat contrast-enhanced computed tomography in 12 months"
+        },
+        {
+          "label": "D",
+          "text": "Adrenalectomy of the ipsilateral gland to remove the presumed source"
+        },
+        {
+          "label": "E",
+          "text": "Contrast washout analysis to exclude a catecholamine-secreting tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Extra-adrenal, large, or multifocal PPGL is an indication for functional imaging after anatomic imaging.",
+        "whyCorrect": "Functional imaging characterizes tumor biology through catecholamine-handling pathways, glucose metabolism, or somatostatin-receptor expression, and it is particularly useful when disease is extra-adrenal, large, bilateral or multifocal, recurrent, suspected metastatic, hereditary, or being evaluated for radionuclide therapy. This patient's multifocal extra-adrenal disease meets several of those criteria, and tracer uptake can also identify a theranostic target.",
+        "whyWrongByChoice": {
+          "A": "Biopsy of a catecholamine-secreting tumor risks provoking abrupt release and crisis, and it would not stage the disease.",
+          "C": "Delaying evaluation of biochemically active multifocal disease forgoes staging and exposes the patient to crisis risk.",
+          "D": "The adrenal glands are normal on imaging; removing one would not address extra-adrenal sympathetic paragangliomas.",
+          "E": "Washout patterns of pheochromocytoma overlap with adenoma, so washout cannot be used to exclude a catecholamine-secreting tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "functional imaging",
+        "paraganglioma",
+        "staging"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-009",
+      "stem": "A 52-year-old woman has a slowly enlarging, painless left-sided neck mass. Magnetic resonance imaging shows a highly vascular lesion with a salt-and-pepper appearance from flow voids, displacing the carotid vessels. She is normotensive with no headaches, palpitations, or diaphoresis, and plasma free metanephrines collected supine are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parasympathetic head-and-neck paraganglioma"
+        },
+        {
+          "label": "B",
+          "text": "Sympathetic paraganglioma of the thoracic paraganglia"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal pheochromocytoma with cervical metastasis"
+        },
+        {
+          "label": "D",
+          "text": "Medullary thyroid carcinoma arising from parafollicular cells"
+        },
+        {
+          "label": "E",
+          "text": "Lipid-rich adrenocortical adenoma with ectopic secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Head-and-neck paragangliomas are parasympathetic, usually nonsecretory, and present with local mass effect and a salt-and-pepper MRI appearance.",
+        "whyCorrect": "Parasympathetic paragangliomas most often arise in the head and neck and are usually nonsecretory, so metanephrines are commonly normal and patients present through local mass effects rather than adrenergic spells. On MRI these richly vascular tumors may show a salt-and-pepper appearance from interspersed high-signal foci and flow voids, and MR angiography defines vessel displacement and skull-base or cranial nerve relationships.",
+        "whyWrongByChoice": {
+          "B": "Sympathetic paragangliomas typically arise in the thorax, abdomen, or pelvis and are usually catecholamine-secreting.",
+          "C": "Metastatic pheochromocytoma would be expected to secrete catecholamines and would not present as an isolated carotid-space mass with normal metanephrines.",
+          "D": "Medullary thyroid carcinoma arises within the thyroid and is followed with calcitonin, not with a carotid-displacing vascular mass showing flow voids.",
+          "E": "An adrenocortical adenoma is an adrenal lesion and does not produce a vascular neck mass."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "head and neck paraganglioma",
+        "MRI",
+        "nonsecretory"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-010",
+      "stem": "A 26-year-old man is found to have bilateral adrenal pheochromocytomas. He reports no relatives with endocrine tumors, and his parents are healthy. After stabilization and surgical planning, which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Offer genetic counseling and germline multigene panel testing"
+        },
+        {
+          "label": "B",
+          "text": "Defer any genetic evaluation because the family history is negative"
+        },
+        {
+          "label": "C",
+          "text": "Test only the RET proto-oncogene, since hereditary disease is MEN2-related"
+        },
+        {
+          "label": "D",
+          "text": "Defer genetic testing until metastatic disease has been documented"
+        },
+        {
+          "label": "E",
+          "text": "Perform tumor biopsy to determine whether the disease is inherited"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Young age and bilateral or multifocal disease should prompt germline multigene testing, regardless of family history.",
+        "whyCorrect": "PPGLs are among the most heritable endocrine tumors, and young age, bilateral adrenal tumors, multifocal or extra-adrenal disease, head-and-neck paraganglioma, and metastatic disease all raise concern for a germline variant. Because susceptibility is genetically heterogeneous (RET, VHL, NF1, and the SDHx genes among others), testing is performed with a multigene panel, and a pathogenic result guides surveillance, imaging, and cascade testing of relatives.",
+        "whyWrongByChoice": {
+          "B": "Apparently sporadic PPGL can still be hereditary because of de novo variants, incomplete penetrance, parent-of-origin effects, or unrecognized disease in relatives.",
+          "C": "RET explains only MEN2-associated disease; restricting testing to one gene would miss VHL, NF1, and SDHx variants.",
+          "D": "Genetic results guide surveillance and family testing before metastasis occurs, so waiting forfeits their main benefit.",
+          "E": "Germline status is determined from constitutional DNA such as blood or saliva, and biopsy of an unexcluded PPGL is hazardous."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hereditary PPGL",
+        "genetic testing",
+        "SDHx"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-011",
+      "stem": "A 3.1-cm resected adrenal tumor from a patient with catecholamine excess shows nests of polygonal cells with granular cytoplasm and finely stippled chromatin separated by delicate fibrovascular stroma; S100 highlights cells surrounding the nests. There is no necrosis and mitotic activity is low. The surgeon asks whether these findings establish that the tumor is benign. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low mitotic activity without necrosis establishes benign behavior"
+        },
+        {
+          "label": "B",
+          "text": "The zellballen pattern is specific for a tumor incapable of metastasis"
+        },
+        {
+          "label": "C",
+          "text": "All pheochromocytomas and paragangliomas carry some metastatic potential"
+        },
+        {
+          "label": "D",
+          "text": "S100 positivity around the nests confirms that the lesion will not recur"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal location alone establishes that the tumor is benign"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Histology cannot classify a PPGL as benign; current classification holds that all PPGLs have some metastatic potential.",
+        "whyCorrect": "The described zellballen nests of chief cells with salt-and-pepper chromatin, delicate fibrovascular stroma, and S100-positive sustentacular cells are classic for PPGL, but no histologic feature reliably predicts behavior. Risk features such as large size, extra-adrenal location, high-risk genotype, biochemical phenotype, necrosis, and increased proliferation raise concern, yet metastatic disease is defined only by chromaffin tumor at sites where paraganglionic tissue is not normally present, such as lymph node, bone, liver, or lung.",
+        "whyWrongByChoice": {
+          "A": "Low proliferative activity is reassuring but does not exclude later metastatic behavior.",
+          "B": "The zellballen pattern supports the diagnosis of PPGL and says nothing about metastatic capacity.",
+          "D": "S100 identifies sustentacular cells and is a diagnostic aid, not a prognostic guarantee.",
+          "E": "Adrenal location lowers concern relative to extra-adrenal tumors but does not establish benignity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "zellballen",
+        "metastatic potential"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    },
+    {
+      "id": "en22-012",
+      "stem": "A 45-year-old woman undergoes adrenalectomy for a functional pheochromocytoma after appropriate preoperative preparation. Thirty minutes after the tumor pedicle is ligated, her blood pressure falls to 78/44 mm Hg and a fingerstick glucose is 46 mg/dL. Which of the following best explains both findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abrupt loss of circulating catecholamines with reversal of insulin inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Acute adrenal crisis from glucocorticoid deficiency after tumor removal"
+        },
+        {
+          "label": "C",
+          "text": "Continued release of stored catecholamines from the resected specimen"
+        },
+        {
+          "label": "D",
+          "text": "Delayed onset of beta-2-mediated glycogenolysis and vasodilation"
+        },
+        {
+          "label": "E",
+          "text": "Excess sodium and volume repletion producing dilutional hypoglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After PPGL resection, catecholamines fall abruptly, causing hypotension, and relief of catecholamine-mediated insulin inhibition causes hypoglycemia.",
+        "whyCorrect": "Chronic catecholamine excess sustains vasoconstriction and suppresses insulin secretion. When the tumor is removed, catecholamine levels drop sharply, so a patient with residual alpha blockade and chronic volume contraction becomes hypotensive, and the removal of insulin inhibition permits a surge of insulin action with hypoglycemia. This is why sodium and volume repletion beforehand and monitored postoperative care afterward are part of standard planning.",
+        "whyWrongByChoice": {
+          "B": "Cortisol deficiency does not follow removal of a unilateral medullary tumor with an intact contralateral gland, and it would not be the mechanism described in this lecture.",
+          "C": "The specimen has been removed from the circulation, and persistent catecholamine excess would cause hypertension rather than hypotension.",
+          "D": "Beta-2 activation requires catecholamines, which are now falling; loss of that signaling, not its delayed onset, is the issue.",
+          "E": "Preoperative sodium and volume repletion protects against hypotension and does not cause hypoglycemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "postoperative care",
+        "hypoglycemia",
+        "catecholamine withdrawal"
+      ],
+      "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+    }
+  ]
+}

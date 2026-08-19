@@ -1,0 +1,2238 @@
+{
+  "categoryId": "adrenal-masses-diabetes-emergencies",
+  "categoryName": "Adrenal Masses, Diabetes Emergencies & Complications",
+  "questions": [
+    {
+      "id": "en28-001",
+      "stem": "A 63-year-old man undergoing surveillance imaging after treatment for lung cancer is found to have a 2.8-cm heterogeneous left adrenal mass measuring 28 Hounsfield units on noncontrast CT. The oncology team requests percutaneous biopsy to confirm metastatic disease. At the preprocedure visit his blood pressure is 172/96 mm Hg, and he reports several months of sudden 15-minute episodes of headache, palpitations, sweating, and tremor that resolve on their own. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proceed with image-guided biopsy of the adrenal mass"
+        },
+        {
+          "label": "B",
+          "text": "Measure plasma free metanephrines"
+        },
+        {
+          "label": "C",
+          "text": "Start a mineralocorticoid receptor antagonist"
+        },
+        {
+          "label": "D",
+          "text": "Measure serum calcitonin"
+        },
+        {
+          "label": "E",
+          "text": "Repeat noncontrast CT of the abdomen in 12 months"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An adrenal mass must not be biopsied or manipulated until pheochromocytoma has been excluded when clinically relevant.",
+        "whyCorrect": "Episodic headache, palpitations, diaphoresis, and tremor with paroxysmal hypertension is the catecholamine phenotype, and this mass is indeterminate on noncontrast CT. Biopsy, anesthesia, or surgical manipulation of a catecholamine-producing tumor can cause an abrupt catecholamine surge. Guidance therefore recommends plasma free or 24-hour urinary fractionated metanephrines before any adrenal intervention, even in a patient with known extra-adrenal malignancy.",
+        "whyWrongByChoice": {
+          "A": "A history of cancer raises concern for metastasis but does not make biopsy safe before pheochromocytoma is excluded.",
+          "C": "Mineralocorticoid receptor blockade treats aldosterone excess, which does not explain paroxysmal adrenergic spells.",
+          "D": "Calcitonin is a marker for medullary thyroid carcinoma and has no role in adrenal mass safety evaluation.",
+          "E": "Deferring evaluation for a year ignores both the hormone phenotype and the indeterminate imaging phenotype."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal incidentaloma",
+        "pheochromocytoma",
+        "biopsy safety"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-002",
+      "stem": "A 45-year-old woman has a 2.2-cm adrenal mass discovered on CT obtained for abdominal pain. Blood pressure is 164/94 mm Hg despite two antihypertensive agents. Laboratory studies show a serum potassium of 3.0 mEq/L and an elevated serum bicarbonate. Which of the following initial biochemical tests best matches this clinical pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum prolactin"
+        },
+        {
+          "label": "B",
+          "text": "Serum calcitonin"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone-to-renin ratio"
+        },
+        {
+          "label": "D",
+          "text": "Serum thyroid-stimulating hormone"
+        },
+        {
+          "label": "E",
+          "text": "Urine 5-hydroxyindoleacetic acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypertension with hypokalemia and metabolic alkalosis in a patient with an adrenal mass points to aldosterone excess.",
+        "whyCorrect": "Aldosterone excess from an aldosteronoma or bilateral adrenal hyperplasia produces hypertension, hypokalemia, metabolic alkalosis, and suppressed renin. Aldosterone-renin testing interpreted through the aldosterone-to-renin ratio is the screening test used when an incidentaloma is accompanied by hypertension or hypokalemia.",
+        "whyWrongByChoice": {
+          "A": "Prolactin evaluates pituitary lactotroph disorders and does not explain hypokalemic alkalosis.",
+          "B": "Calcitonin is measured when medullary thyroid carcinoma is suspected, not for adrenal mineralocorticoid excess.",
+          "D": "Thyroid disease can affect blood pressure but does not produce hypokalemia with metabolic alkalosis.",
+          "E": "Urinary 5-HIAA screens for carcinoid syndrome, which is not an adrenal cortical hormone problem."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary aldosteronism",
+        "aldosteronoma",
+        "biochemical workup"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-003",
+      "stem": "A 61-year-old man has a 2.6-cm adrenal mass found incidentally on abdominal imaging. He has hypertension, type 2 diabetes mellitus, and osteoporosis, but no moon facies, striae, or other overtly cushingoid features. Which of the following tests is most appropriate to evaluate this mass for autonomous cortisol secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldosterone-to-renin ratio screening test"
+        },
+        {
+          "label": "B",
+          "text": "Plasma free metanephrine measurement"
+        },
+        {
+          "label": "C",
+          "text": "Serum calcitonin measurement"
+        },
+        {
+          "label": "D",
+          "text": "1-mg overnight dexamethasone suppression test"
+        },
+        {
+          "label": "E",
+          "text": "24-hour urine 5-hydroxyindoleacetic acid measurement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The 1-mg overnight dexamethasone suppression test is the standard screen for autonomous cortisol secretion in an adrenal incidentaloma.",
+        "whyCorrect": "Autonomous cortisol secretion is often mild and may show up only as metabolic comorbidity such as hypertension, diabetes, and osteoporosis rather than a classic cushingoid appearance. Adrenal incidentaloma guidance therefore recommends a 1-mg overnight dexamethasone suppression test to test whether cortisol production escapes normal feedback.",
+        "whyWrongByChoice": {
+          "A": "The aldosterone-to-renin ratio screens for primary aldosteronism, suggested by hypokalemia or suppressed renin.",
+          "B": "Plasma free metanephrines screen for catecholamine excess from pheochromocytoma or paraganglioma.",
+          "C": "Calcitonin is a medullary thyroid carcinoma marker and says nothing about adrenal cortisol autonomy.",
+          "E": "Urinary 5-HIAA screens for carcinoid syndrome rather than adrenal cortical hormone excess."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autonomous cortisol secretion",
+        "dexamethasone suppression test",
+        "adrenal incidentaloma"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-004",
+      "stem": "A 58-year-old woman has a 1.8-cm adrenal mass found incidentally during evaluation of flank pain. Noncontrast CT shows a homogeneous lesion with an attenuation of 4 Hounsfield units. She has no symptoms of hormone excess and no history of malignancy. Which of the following is the most appropriate interpretation of this imaging?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The imaging is diagnostic of a pheochromocytoma"
+        },
+        {
+          "label": "B",
+          "text": "The imaging strongly supports a lipid-rich adenoma"
+        },
+        {
+          "label": "C",
+          "text": "The imaging is diagnostic of an adrenocortical carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "The imaging is most consistent with an adrenal neuroblastoma"
+        },
+        {
+          "label": "E",
+          "text": "The imaging is indeterminate and requires immediate biopsy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A homogeneous adrenal mass with noncontrast attenuation of 10 HU or less is strongly supportive of a benign lipid-rich adenoma.",
+        "whyCorrect": "Lipid-rich adrenal cortical adenomas contain intracellular fat, which lowers their attenuation on noncontrast CT. Current incidentaloma guidance treats a homogeneous lesion measuring 10 HU or less as benign enough that no additional imaging is usually required, although the functional workup is still considered.",
+        "whyWrongByChoice": {
+          "A": "Pheochromocytoma cannot be diagnosed or excluded by low attenuation; it requires biochemical testing.",
+          "C": "Adrenocortical carcinoma is suspected with large, heterogeneous, necrotic, or invasive lesions.",
+          "D": "Neuroblastoma is a pediatric adrenal medullary or sympathetic-chain tumor, not an adult incidentaloma.",
+          "E": "A homogeneous lipid-rich lesion is not indeterminate, and biopsy is not appropriate here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "noncontrast CT",
+        "Hounsfield units",
+        "lipid-rich adenoma"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-005",
+      "stem": "A 54-year-old man has an adrenal mass discovered during imaging for kidney stones. CT shows a well-circumscribed adrenal lesion containing areas of macroscopic fat with negative attenuation values. He has no hypertension, no hypokalemia, and no adrenergic symptoms. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal neuroblastoma"
+        },
+        {
+          "label": "B",
+          "text": "Adrenocortical carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Lipid-poor adrenal adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Pheochromocytoma"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal myelolipoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Macroscopic fat within an adrenal mass strongly supports myelolipoma.",
+        "whyCorrect": "An adrenal myelolipoma is a benign lesion composed of mature adipose tissue and hematopoietic elements. The adipose component produces visible macroscopic fat with negative attenuation on CT, which is essentially diagnostic. Myelolipomas are usually nonfunctional, though unusual features, rapid growth, or hemorrhage warrant further review.",
+        "whyWrongByChoice": {
+          "A": "Neuroblastoma is a pediatric tumor that typically appears heterogeneous and calcified.",
+          "B": "Adrenocortical carcinoma appears large, heterogeneous, necrotic, or invasive rather than fat-containing.",
+          "C": "Lipid-poor adenomas measure above 10 HU and do not contain visible macroscopic fat.",
+          "D": "Pheochromocytoma may be heterogeneous or avidly enhancing, but macroscopic fat is not its feature."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "myelolipoma",
+        "macroscopic fat",
+        "adrenal imaging"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-006",
+      "stem": "A 49-year-old woman reports 6 months of rapidly progressive hirsutism, deepening of her voice, severe acne, and irregular menses. CT shows an 8-cm heterogeneous right adrenal mass with irregular margins, central necrosis, and calcification. Which of the following diagnoses is of greatest concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal cortical adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Benign adrenal cyst"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal myelolipoma"
+        },
+        {
+          "label": "D",
+          "text": "Adrenocortical carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Primary adrenal insufficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rapid virilization plus a large, heterogeneous, necrotic adrenal mass is the classic presentation of adrenocortical carcinoma.",
+        "whyCorrect": "Rapidly progressive hirsutism and virilization indicate excess adrenal androgens or steroid precursors, which points toward the zona reticularis and toward malignancy. When androgen excess is paired with a large mass showing heterogeneity, irregular borders, necrosis, and calcification, adrenocortical carcinoma is the major concern. These tumors are frequently functional and may secrete cortisol, androgens, or multiple steroids.",
+        "whyWrongByChoice": {
+          "A": "Cortical adenomas are usually small and homogeneous and rarely cause rapid virilization.",
+          "B": "A simple adrenal cyst is thin-walled and fluid-filled and produces no hormone excess.",
+          "C": "Myelolipoma contains macroscopic fat and is typically benign and nonfunctional.",
+          "E": "Adrenal insufficiency reflects hormone deficiency, presenting with fatigue and hypotension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenocortical carcinoma",
+        "androgen excess",
+        "virilization"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-007",
+      "stem": "A 3-year-old boy is evaluated for abdominal distension and weight loss. CT of the abdomen shows a large heterogeneous adrenal-region mass containing coarse calcifications; the mass crosses the midline and encases and displaces nearby vessels. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal cortical adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Adrenal myelolipoma"
+        },
+        {
+          "label": "C",
+          "text": "Adrenal neuroblastoma"
+        },
+        {
+          "label": "D",
+          "text": "Aldosteronoma"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic lung carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In a young child, a calcified adrenal-region mass that crosses midline and encases vessels is neuroblastoma until proven otherwise.",
+        "whyCorrect": "Neuroblastoma arises from adrenal medullary or sympathetic-chain tissue and is a core part of the pediatric adrenal mass differential. Its imaging signature is a heterogeneous mass with calcification, midline crossing, vessel encasement or displacement, mass effect, and possible metastatic disease.",
+        "whyWrongByChoice": {
+          "A": "Cortical adenomas occur in adults and appear small, homogeneous, and benign on imaging.",
+          "B": "Myelolipoma is an adult fat-containing lesion and would show macroscopic fat, not calcification.",
+          "D": "An aldosteronoma causes hypertension with hypokalemia and does not match this pediatric mass.",
+          "E": "Adrenal metastasis from lung cancer occurs in adults with known malignancy, not in toddlers."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neuroblastoma",
+        "pediatric adrenal mass",
+        "calcification"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-008",
+      "stem": "A 52-year-old woman has a 2.5-cm homogeneous adrenal mass found incidentally. Noncontrast CT attenuation is 22 Hounsfield units. There is no cancer history, no interval growth, and no invasion. A 1-mg overnight dexamethasone suppression test, aldosterone-renin testing, and plasma free metanephrines are all normal. Which of the following is the most appropriate next step in characterizing this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal-protocol CT with contrast washout imaging"
+        },
+        {
+          "label": "B",
+          "text": "Immediate percutaneous biopsy of the adrenal lesion"
+        },
+        {
+          "label": "C",
+          "text": "Laparoscopic adrenalectomy on the basis of attenuation"
+        },
+        {
+          "label": "D",
+          "text": "Repeat plasma free metanephrine testing in 2 weeks"
+        },
+        {
+          "label": "E",
+          "text": "No further evaluation, as the lesion is benign"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A homogeneous adrenal mass above 10 HU is indeterminate, not malignant, and is characterized further with washout or chemical-shift imaging.",
+        "whyCorrect": "Attenuation greater than 10 HU means the lesion could still be a benign lipid-poor adenoma, but lipid-poor adenoma, pheochromocytoma, metastasis, and adrenocortical carcinoma overlap at this attenuation. Adrenal-protocol CT compares enhancement and delayed washout, and adenomas typically wash out more rapidly than non-adenoma lesions; chemical-shift MRI serves the same purpose.",
+        "whyWrongByChoice": {
+          "B": "Biopsy is not routine and is reserved for lesions that imaging cannot characterize when it will change management.",
+          "C": "Attenuation of 22 HU alone, without hormone excess or suspicious features, does not justify adrenalectomy.",
+          "D": "Metanephrines were already normal, and repeating them does not characterize the imaging phenotype.",
+          "E": "Only homogeneous lesions of 10 HU or less can be called benign without additional imaging."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "indeterminate adrenal mass",
+        "washout imaging",
+        "lipid-poor adenoma"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-009",
+      "stem": "A 47-year-old man with resistant hypertension and persistent hypokalemia is found to have a 1.5-cm adrenal cortical adenoma that secretes aldosterone. This tumor arose from cells that normally occupy which of the following regions of the adrenal gland?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zona glomerulosa"
+        },
+        {
+          "label": "B",
+          "text": "Zona fasciculata"
+        },
+        {
+          "label": "C",
+          "text": "Zona reticularis"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal medulla"
+        },
+        {
+          "label": "E",
+          "text": "Extra-adrenal sympathetic chain"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aldosterone is the steroid product of the zona glomerulosa, the outermost zone of the adrenal cortex.",
+        "whyCorrect": "The adrenal cortex has three zones with three products: zona glomerulosa makes aldosterone, zona fasciculata makes cortisol, and zona reticularis makes androgens and androgen precursors. An aldosteronoma is a cortical adenoma of glomerulosa-type cells, producing hypertension, hypokalemia, metabolic alkalosis, and suppressed renin.",
+        "whyWrongByChoice": {
+          "B": "The zona fasciculata produces cortisol, whose excess causes bruising, hyperglycemia, and osteoporosis.",
+          "C": "The zona reticularis produces androgens and precursors, whose excess causes hirsutism and virilization.",
+          "D": "The adrenal medulla produces catecholamines and gives rise to pheochromocytoma, not aldosteronoma.",
+          "E": "Extra-adrenal sympathetic tissue gives rise to paraganglioma and neuroblastoma, not to aldosteronoma."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adrenal cortex zones",
+        "aldosterone",
+        "aldosteronoma"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-010",
+      "stem": "A 45-year-old woman with a 3.4-cm indeterminate adrenal mass and several months of episodic headache, palpitations, and sweating undergoes percutaneous adrenal biopsy before any biochemical testing is performed. Minutes into the procedure her blood pressure rises to 240/130 mm Hg and she develops tachyarrhythmia and pulmonary edema. Which of the following best explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor lysis syndrome from an adrenocortical carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Acute cortisol withdrawal after tumor disruption"
+        },
+        {
+          "label": "C",
+          "text": "Sudden aldosterone surge causing volume overload"
+        },
+        {
+          "label": "D",
+          "text": "Abrupt catecholamine release from a pheochromocytoma"
+        },
+        {
+          "label": "E",
+          "text": "Systemic embolization of macroscopic adrenal fat"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Manipulating an unrecognized pheochromocytoma can trigger a catecholamine surge with hypertensive crisis and cardiovascular collapse.",
+        "whyCorrect": "Episodic headache, palpitations, and diaphoresis with an indeterminate mass is the catecholamine phenotype, and biopsy, anesthesia, or surgical manipulation can make such a tumor discharge catecholamines abruptly. The resulting surge causes hypertensive crisis, tachyarrhythmia, myocardial ischemia, pulmonary edema, stroke, or cardiovascular collapse. This is why the rule is to exclude pheochromocytoma before touching an adrenal mass.",
+        "whyWrongByChoice": {
+          "A": "Tumor lysis follows cytotoxic therapy of bulky tumors and causes metabolic derangements, not this picture.",
+          "B": "Cortisol deficiency produces hypotension and shock, not a hypertensive crisis with tachyarrhythmia.",
+          "C": "Aldosterone excess causes chronic hypertension with hypokalemia, not an acute periprocedural crisis.",
+          "E": "Macroscopic fat characterizes myelolipoma, which does not cause paroxysmal adrenergic symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pheochromocytoma",
+        "hypertensive crisis",
+        "catecholamine surge"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-011",
+      "stem": "A 68-year-old woman with treated colon cancer is found to have a 3-cm adrenal mass. Noncontrast CT shows 26 Hounsfield units, and adrenal-protocol washout imaging remains indeterminate. Plasma free metanephrines and a 1-mg overnight dexamethasone suppression test are normal. The oncology team notes that confirming metastatic disease would change her chemotherapy regimen. Which of the following best describes the role of adrenal biopsy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biopsy is unnecessary, since adrenal metastases are always nonfunctional"
+        },
+        {
+          "label": "B",
+          "text": "Biopsy is routine for any adrenal mass in a patient with known cancer"
+        },
+        {
+          "label": "C",
+          "text": "Biopsy is contraindicated, since cancer history makes metastasis certain"
+        },
+        {
+          "label": "D",
+          "text": "Biopsy should be replaced by immediate adrenalectomy in all cancer patients"
+        },
+        {
+          "label": "E",
+          "text": "Biopsy is reasonable, since imaging is inconclusive and it guides therapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Adrenal biopsy is selective: it requires an uncharacterized lesion, a result that changes management, and prior exclusion of pheochromocytoma.",
+        "whyCorrect": "All three conditions are met here, since washout imaging left the lesion indeterminate, metanephrines have excluded pheochromocytoma, and tissue diagnosis would alter her chemotherapy. Adrenal incidentaloma guidance uses exactly this logic, so biopsy is not routine and requires careful selection.",
+        "whyWrongByChoice": {
+          "A": "Adrenal masses in patients with cancer can still be hormonally functional lesions.",
+          "B": "An adrenal mass in a patient with cancer may still be an adenoma, myelolipoma, or pheochromocytoma.",
+          "C": "Cancer history changes the differential but does not confirm metastasis or forbid tissue sampling.",
+          "D": "Adrenalectomy is reserved for functional or suspicious lesions, not used empirically for cancer patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenal metastasis",
+        "biopsy indications",
+        "cancer history"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en28-012",
+      "stem": "A 50-year-old man has a 3-cm cystic adrenal lesion found incidentally. Which of the following features would most strongly prompt more cautious evaluation rather than reassurance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A thin, smooth wall around the fluid collection"
+        },
+        {
+          "label": "B",
+          "text": "An enhancing mural nodule within the cyst wall"
+        },
+        {
+          "label": "C",
+          "text": "Simple fluid signal throughout the lesion on MRI"
+        },
+        {
+          "label": "D",
+          "text": "Sharp circumscription from surrounding adrenal tissue"
+        },
+        {
+          "label": "E",
+          "text": "Absence of change in size over the past 2 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cystic adrenal lesions are reassuring only while they stay simple; solid, enhancing, or growing components change that.",
+        "whyCorrect": "A benign cystic adrenal lesion is thin-walled, well circumscribed, fluid-filled, and free of solid nodules or enhancement, with simple cystic signal on MRI. Hemorrhage, debris, thick walls, mural nodularity, enhancement, restricted diffusion, or interval growth remove that reassurance and warrant more cautious evaluation.",
+        "whyWrongByChoice": {
+          "A": "A thin, smooth wall is one of the features that supports a benign cystic lesion.",
+          "C": "Simple cystic signal on MRI supports a benign cyst rather than raising concern.",
+          "D": "Sharp circumscription is a reassuring feature of a simple adrenal cyst.",
+          "E": "Stability in size over time argues against an aggressive lesion; interval growth is the worrisome finding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal cyst",
+        "adrenal imaging",
+        "benign features"
+      ],
+      "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+    },
+    {
+      "id": "en29-001",
+      "stem": "A 71-year-old woman with type 2 diabetes is brought from her nursing home after 10 days of progressive lethargy. Staff report she has been drinking very little. She is obtunded and has dry mucous membranes and poor skin turgor. Laboratory studies show glucose 912 mg/dL, arterial pH 7.37, serum bicarbonate 23 mEq/L, trace serum ketones, and an effective serum osmolality of 348 mOsm/kg. Which of the following best accounts for her depressed level of consciousness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of acetoacetate and beta-hydroxybutyrate in the blood"
+        },
+        {
+          "label": "B",
+          "text": "Severe metabolic acidosis with a markedly widened anion gap"
+        },
+        {
+          "label": "C",
+          "text": "Marked elevation of effective serum osmolality above 320 mOsm/kg"
+        },
+        {
+          "label": "D",
+          "text": "Dilutional hyponatremia from water shifting into the extracellular space"
+        },
+        {
+          "label": "E",
+          "text": "Hypokalemia produced by ongoing urinary potassium losses"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In HHS, the degree of neurologic impairment tracks with the degree of hyperosmolarity.",
+        "whyCorrect": "This patient meets criteria for hyperosmolar hyperglycemic state: glucose above 600 mg/dL, pH above 7.3, and effective osmolality above 320 mOsm/kg with essentially absent ketones. Mental status changes are the dominant neurologic feature of HHS and range from lethargy to stupor and frank coma, with focal deficits and seizures possible at extreme osmolality. Clinically, the degree of neurologic impairment correlates with how far osmolality is elevated.",
+        "whyWrongByChoice": {
+          "A": "Her ketones are only trace; residual insulin in HHS suppresses lipolysis, so ketone accumulation is not driving her presentation.",
+          "B": "Her pH is 7.37 with a bicarbonate of 23 mEq/L, so no significant acidosis is present to explain the obtundation.",
+          "D": "Any dilutional drop in measured sodium would be corrected upward by the hyperglycemia and does not explain coma at this osmolality.",
+          "E": "Hypokalemia causes weakness and arrhythmia rather than obtundation, and her potassium was not reported as low."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HHS",
+        "hyperosmolarity",
+        "altered mental status",
+        "diagnosis"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-002",
+      "stem": "A 20-year-old man with type 1 diabetes presents 18 hours after his insulin pump stopped delivering. He has deep, rapid respirations and a fruity odor on his breath. Laboratory studies show glucose 480 mg/dL, arterial pH 7.09, bicarbonate 8 mEq/L, anion gap 26 mEq/L, and large serum ketones. Which of the following best explains the accumulation of ketone bodies in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Residual insulin restrains lipolysis while failing to control hepatic glucose output"
+        },
+        {
+          "label": "B",
+          "text": "Counterregulatory hormones accelerate glycogenolysis, releasing ketones from liver stores"
+        },
+        {
+          "label": "C",
+          "text": "Impaired renal perfusion blocks glucose filtration, forcing hepatic ketone formation"
+        },
+        {
+          "label": "D",
+          "text": "Low insulin activates lipase, freeing fatty acids the liver converts to ketones"
+        },
+        {
+          "label": "E",
+          "text": "Excess insulin drives fatty acids into muscle, where they are oxidized to ketones"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "DKA ketogenesis begins with unrestrained lipolysis and ends with hepatic conversion of fatty acids to ketone bodies.",
+        "whyCorrect": "Near-complete insulin absence causes acute elevation of lipase activity, which breaks down adipose tissue into free fatty acids. In the liver those fatty acids are esterified to fatty acyl coenzyme A and converted into acetoacetate and beta-hydroxybutyrate as an alternative fuel. The ketones are generated far faster than tissues can consume them, so they circulate as unmeasured anions and produce the high anion gap acidosis seen here.",
+        "whyWrongByChoice": {
+          "A": "Residual insulin sufficient to restrain lipolysis is the situation in HHS, which is precisely why those patients do not develop ketoacidosis.",
+          "B": "Glycogenolysis liberates glucose from hepatic glycogen; ketones are synthesized from fatty acids and are not stored in the liver.",
+          "C": "Renal hypoperfusion reduces clearance of glucose and ketones but does not initiate ketone production.",
+          "E": "Insulin is deficient, not excessive, and insulin action suppresses rather than promotes ketogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "pathophysiology",
+        "ketogenesis",
+        "lipolysis"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-003",
+      "stem": "A 66-year-old man with type 2 diabetes is admitted with glucose 780 mg/dL, arterial pH 7.36, bicarbonate 22 mEq/L, effective serum osmolality 340 mOsm/kg, and absent serum ketones. Which of the following best explains why he has extreme hyperglycemia without significant ketoacidosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete absence of endogenous insulin secretion from pancreatic beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Residual circulating insulin is sufficient to suppress lipolysis and ketogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Excess glucagon secretion directly blocks hepatic conversion of fatty acids to ketones"
+        },
+        {
+          "label": "D",
+          "text": "Intact renal clearance removes ketone bodies as fast as the liver produces them"
+        },
+        {
+          "label": "E",
+          "text": "Elevated cortisol from the stress response inhibits hepatic ketone body formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HHS reflects relative insulin deficiency with insulin resistance, and the residual insulin is enough to block ketogenesis.",
+        "whyCorrect": "In HHS the pancreatic islet cells still produce insulin, but it cannot act adequately on muscle, liver, and adipose tissue to dispose of glucose. That small amount of circulating insulin is nonetheless sufficient to prevent acute elevations in lipolysis, so free fatty acid delivery to the liver never reaches the threshold required for massive ketone production. The result is severe hyperglycemia and hyperosmolarity without ketoacidosis.",
+        "whyWrongByChoice": {
+          "A": "Near-complete insulin absence is the DKA mechanism; it would drive both hyperglycemia and ketogenesis rather than prevent ketosis.",
+          "C": "Glucagon is a counterregulatory hormone that raises hepatic glucose output in both syndromes and does not suppress ketosis.",
+          "D": "Renal glucose and ketone clearance is impaired in both DKA and HHS because of volume depletion and poor renal perfusion.",
+          "E": "Cortisol is a counterregulatory hormone elevated in both conditions and does not block ketone formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HHS",
+        "pathophysiology",
+        "insulin resistance",
+        "ketogenesis"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-004",
+      "stem": "A 34-year-old woman with type 1 diabetes is admitted with diabetic ketoacidosis. Laboratory studies show glucose 528 mg/dL, arterial pH 7.12, bicarbonate 9 mEq/L, anion gap 24 mEq/L, and serum potassium 5.9 mEq/L. She has received 1 L of 0.9% saline. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin an IV insulin infusion and add potassium to the fluids immediately"
+        },
+        {
+          "label": "B",
+          "text": "Withhold insulin until the serum potassium falls below 5.5 mEq/L"
+        },
+        {
+          "label": "C",
+          "text": "Give IV sodium bicarbonate before starting an insulin infusion"
+        },
+        {
+          "label": "D",
+          "text": "Give IV furosemide to lower the potassium before starting insulin"
+        },
+        {
+          "label": "E",
+          "text": "Begin an IV insulin infusion and withhold potassium replacement for now"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "With serum potassium above 5.5 mEq/L in DKA, start insulin but hold potassium replacement and monitor closely.",
+        "whyCorrect": "Potassium is the electrolyte that dictates insulin timing in DKA. When the serum value exceeds 5.5 mEq/L, insulin can be started safely, but potassium should not be given initially because it would compound the hyperkalemia. Levels are followed closely, since insulin and fluids will drive potassium back into cells and the value typically falls, at which point replacement is added.",
+        "whyWrongByChoice": {
+          "A": "Adding potassium at a level of 5.9 mEq/L risks worsening hyperkalemia; replacement is deferred until the value comes down.",
+          "B": "Insulin is not withheld for hyperkalemia; only a potassium below 3.5 mEq/L requires holding insulin, and delaying it prolongs ketogenesis.",
+          "C": "Bicarbonate is generally avoided in DKA and reserved for extreme acidemia; it also worsens hypokalemia during treatment.",
+          "D": "A loop diuretic would aggravate the existing volume depletion and deplete total-body potassium, which is already low."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "management",
+        "potassium",
+        "insulin therapy"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-005",
+      "stem": "A 27-year-old man presents with diabetic ketoacidosis after missing several insulin doses. Laboratory studies show glucose 462 mg/dL, arterial pH 7.15, bicarbonate 10 mEq/L, and serum potassium 3.1 mEq/L. Isotonic saline has been started. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start an insulin infusion and add potassium to the fluids at the same time"
+        },
+        {
+          "label": "B",
+          "text": "Replace potassium first and hold insulin until it reaches at least 3.5 mEq/L"
+        },
+        {
+          "label": "C",
+          "text": "Start an insulin infusion now and recheck the serum potassium in 4 hours"
+        },
+        {
+          "label": "D",
+          "text": "Give sodium bicarbonate to correct the acidosis before addressing the potassium"
+        },
+        {
+          "label": "E",
+          "text": "Start an insulin infusion at half the usual rate and give no potassium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Insulin must be held in DKA when serum potassium is below 3.5 mEq/L until potassium has been replaced.",
+        "whyCorrect": "Insulin shifts potassium from the extracellular space into cells. Total-body potassium is already markedly depleted in DKA from osmotic diuresis, so giving insulin when the measured value is below 3.5 mEq/L can precipitate life-threatening hypokalemia and cardiac arrhythmia. The correct sequence is potassium replacement first, with the insulin infusion started once the level is at or above 3.5 mEq/L.",
+        "whyWrongByChoice": {
+          "A": "Simultaneous dosing still exposes the patient to an insulin-driven intracellular shift before the deficit has been corrected.",
+          "C": "Waiting 4 hours to recheck allows a dangerous fall in potassium to develop unrecognized while insulin is running.",
+          "D": "Bicarbonate is reserved for extreme acidemia and would drive potassium further into cells, worsening the hypokalemia.",
+          "E": "Reducing the insulin rate does not eliminate the intracellular potassium shift, and withholding potassium leaves the deficit uncorrected."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "management",
+        "hypokalemia",
+        "insulin therapy"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-006",
+      "stem": "A 44-year-old woman is admitted with diabetic ketoacidosis. Serum glucose is 600 mg/dL and measured serum sodium is 126 mEq/L. She has no history of heart failure, cirrhosis, or diuretic use. Which of the following best characterizes her sodium status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corrected sodium is about 118 mEq/L, indicating severe hypotonic hyponatremia"
+        },
+        {
+          "label": "B",
+          "text": "The measured value reflects true total-body sodium excess from fluid retention"
+        },
+        {
+          "label": "C",
+          "text": "Corrected sodium is about 134 mEq/L, so serum tonicity is not truly low"
+        },
+        {
+          "label": "D",
+          "text": "The low value reflects excess antidiuretic hormone and needs fluid restriction"
+        },
+        {
+          "label": "E",
+          "text": "The measured value is accurate, so hypertonic saline should be started now"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hyperglycemia lowers measured sodium by pulling water into the extracellular space, so sodium must be interpreted as a corrected value.",
+        "whyCorrect": "Add roughly 1.6 mEq/L to the measured sodium for every 100 mg/dL that glucose exceeds 100 mg/dL. Here glucose is 500 mg/dL above that reference, so the correction is about 8 mEq/L and the corrected sodium is approximately 134 mEq/L. This tells you the apparent hyponatremia is dilutional pseudohyponatremia rather than true hypotonic hyponatremia, and it is the corrected value that guides fluid selection.",
+        "whyWrongByChoice": {
+          "A": "The correction is added to the measured sodium, not subtracted; hyperglycemia dilutes the measured value rather than exaggerating it.",
+          "B": "Total-body sodium is depleted, not in excess, because osmotic diuresis carries large amounts of sodium into the urine.",
+          "D": "The hyponatremia here is explained by the osmotic water shift from hyperglycemia, and fluid restriction would worsen her volume depletion.",
+          "E": "Hypertonic saline is not indicated when corrected sodium shows that serum tonicity is normal; she needs isotonic volume repletion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "pseudohyponatremia",
+        "corrected sodium",
+        "electrolytes"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-007",
+      "stem": "A 74-year-old man with type 2 diabetes is brought in after 2 weeks of polyuria and progressive confusion. Blood pressure is 96/58 mm Hg and mucous membranes are dry. Laboratory studies show glucose 880 mg/dL, arterial pH 7.36, bicarbonate 24 mEq/L, absent serum ketones, and effective serum osmolality 355 mOsm/kg. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapid isotonic saline infusion together with a high-dose IV insulin bolus"
+        },
+        {
+          "label": "B",
+          "text": "Isotonic crystalloid resuscitation, with lower-dose insulin started afterward"
+        },
+        {
+          "label": "C",
+          "text": "IV insulin infusion first, adding fluids once glucose falls below 300 mg/dL"
+        },
+        {
+          "label": "D",
+          "text": "Rapid infusion of hypotonic fluid to bring the serum osmolality down quickly"
+        },
+        {
+          "label": "E",
+          "text": "IV sodium bicarbonate infusion, with insulin started once the pH normalizes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HHS is treated fluids-first, with insulin used later and at lower dose than in DKA.",
+        "whyCorrect": "The fluid deficit in HHS is large, often 8-12 L, and volume repletion with isotonic crystalloid restores perfusion, improves renal glucose excretion, and reduces counterregulatory hormone drive. Because there is no significant ketoacidosis, insulin is not the urgent first intervention and can be started after initial resuscitation at a lower dose. Rehydration should also be gradual, since rapid falls in osmolality raise the risk of neurologic complications.",
+        "whyWrongByChoice": {
+          "A": "Aggressive insulin before adequate volume replacement drops glucose too fast, shifts water into cells, and worsens osmotic shifts.",
+          "C": "Delaying fluids in a hypotensive, severely volume-depleted patient prolongs hypoperfusion and is the opposite of the HHS priority.",
+          "D": "Rapid correction of osmolality with hypotonic fluid risks cerebral edema; the fall in osmolality must be deliberately gradual.",
+          "E": "His pH is 7.36, so there is no acidosis to treat, and bicarbonate is reserved for extreme acidemia even in DKA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HHS",
+        "management",
+        "fluid resuscitation",
+        "insulin therapy"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-008",
+      "stem": "A 31-year-old woman is being treated for diabetic ketoacidosis with isotonic saline and a continuous IV insulin infusion. Six hours later her glucose has fallen from 540 to 215 mg/dL, but arterial pH is 7.24, bicarbonate is 14 mEq/L, anion gap is 19 mEq/L, and serum ketones remain positive. Serum potassium is 4.2 mEq/L. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add dextrose to the intravenous fluids and continue the insulin infusion"
+        },
+        {
+          "label": "B",
+          "text": "Stop the insulin infusion and continue isotonic saline alone for now"
+        },
+        {
+          "label": "C",
+          "text": "Stop the infusion and give a single dose of subcutaneous basal insulin"
+        },
+        {
+          "label": "D",
+          "text": "Continue insulin without dextrose and allow the glucose to fall further"
+        },
+        {
+          "label": "E",
+          "text": "Give IV sodium bicarbonate to speed correction of the metabolic acidosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Once glucose reaches about 200-250 mg/dL in DKA, dextrose is added so the insulin infusion can safely continue until ketosis clears.",
+        "whyCorrect": "Glucose normalizes before the ketoacidosis does. Insulin must keep running to suppress lipolysis and ketogenesis so the anion gap closes, and dextrose-containing fluids allow that without producing hypoglycemia. This patient still has an anion gap of 19 mEq/L with positive ketones, so treatment is not finished even though her glucose looks acceptable.",
+        "whyWrongByChoice": {
+          "B": "Stopping insulin while ketones are still being produced allows the acidosis to persist or rebound.",
+          "C": "Subcutaneous basal insulin alone is a transition strategy for after the gap closes, not a substitute for the infusion during active ketosis.",
+          "D": "Continuing insulin without dextrose at a glucose of 215 mg/dL predictably produces hypoglycemia.",
+          "E": "Bicarbonate is generally avoided in DKA and is reserved for extreme acidemia; the acidosis resolves as insulin clears the ketones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "management",
+        "dextrose",
+        "anion gap closure"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-009",
+      "stem": "A 25-year-old man admitted with diabetic ketoacidosis has been on an IV insulin infusion for 14 hours. He is now alert and eating, with arterial pH 7.36, bicarbonate 20 mEq/L, anion gap 10 mEq/L, negative serum ketones, glucose 165 mg/dL, and potassium 4.0 mEq/L. Which of the following is the most appropriate approach to stopping the infusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stop the infusion now and give subcutaneous insulin at the next meal"
+        },
+        {
+          "label": "B",
+          "text": "Stop the infusion and observe, dosing insulin if glucose exceeds 250 mg/dL"
+        },
+        {
+          "label": "C",
+          "text": "Stop the infusion and begin oral metformin in place of subcutaneous insulin"
+        },
+        {
+          "label": "D",
+          "text": "Give subcutaneous basal insulin 1 to 2 hours before stopping the infusion"
+        },
+        {
+          "label": "E",
+          "text": "Continue the infusion unchanged until the day the patient is discharged"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Basal subcutaneous insulin must overlap with the infusion because IV insulin has a half-life of only a few minutes.",
+        "whyCorrect": "The half-life of intravenous insulin is roughly 3 to 5 minutes, so insulin action disappears almost immediately when the drip is stopped. Overlapping subcutaneous basal insulin with the infusion prevents a gap in insulin coverage, which would otherwise cause rebound hyperglycemia and recurrent ketosis. Deliberate planning of this overlap is what makes the transition off the drip successful.",
+        "whyWrongByChoice": {
+          "A": "Waiting for the next meal leaves an uncovered interval during which ketogenesis can restart.",
+          "B": "Observing without insulin creates exactly the gap in coverage that precipitates rebound hyperglycemia and recurrent ketosis.",
+          "C": "An oral agent cannot replace insulin in a patient who required an insulin infusion for ketoacidosis.",
+          "E": "Prolonging the infusion after the gap has closed and the patient is eating offers no benefit and delays appropriate transition."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "management",
+        "insulin transition",
+        "basal insulin"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-010",
+      "stem": "A 58-year-old woman with type 2 diabetes is admitted with glucose 760 mg/dL, effective serum osmolality 338 mOsm/kg, arterial pH 7.38, and absent ketones. Two weeks earlier she was started on a new medication for polymyalgia rheumatica. Her other medications are metformin, lisinopril, atorvastatin, and levothyroxine, all unchanged for years. Which of the following is the most likely precipitant of her hyperglycemic crisis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metformin taken at a stable dose for the past several years"
+        },
+        {
+          "label": "B",
+          "text": "Lisinopril taken at a stable dose for hypertension for several years"
+        },
+        {
+          "label": "C",
+          "text": "High-dose prednisone started recently for her rheumatologic disease"
+        },
+        {
+          "label": "D",
+          "text": "Atorvastatin taken at a stable dose for hyperlipidemia for several years"
+        },
+        {
+          "label": "E",
+          "text": "Levothyroxine taken at a stable dose for hypothyroidism for several years"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Glucocorticoids are a classic iatrogenic precipitant of hyperglycemic crises, one of the 5 I's.",
+        "whyCorrect": "Precipitants of DKA and HHS are summarized as the 5 I's: infection, insulin nonadherence or pump failure, infarction, intercurrent illness, and intoxication or iatrogenic causes. Steroids fall in the last category, along with cocaine, SGLT2 inhibitors, and antipsychotics. A recently started high-dose glucocorticoid raises hepatic glucose output and worsens insulin resistance, which is enough to tip a patient with type 2 diabetes into HHS.",
+        "whyWrongByChoice": {
+          "A": "Metformin lowers glucose and was unchanged; a stable long-standing dose does not precipitate a hyperglycemic crisis.",
+          "B": "Lisinopril has no meaningful hyperglycemic effect and had not been changed before this admission.",
+          "D": "Atorvastatin at a stable long-standing dose is not among the drug triggers of DKA or HHS.",
+          "E": "Levothyroxine at a stable replacement dose does not drive the severe hyperglycemia seen here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HHS",
+        "precipitants",
+        "5 I's",
+        "glucocorticoids"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-011",
+      "stem": "A 19-year-old woman with type 1 diabetes presents in diabetic ketoacidosis with glucose 510 mg/dL, arterial pH 7.10, bicarbonate 8 mEq/L, and serum potassium 5.4 mEq/L. Her total-body potassium is known to be markedly depleted from days of osmotic diuresis. Which of the following best explains the elevated serum potassium concentration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased distal tubular reabsorption of potassium in response to volume depletion"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone deficiency prevents renal potassium excretion despite adequate perfusion"
+        },
+        {
+          "label": "C",
+          "text": "Osmotic diuresis retains potassium in the blood while free water is lost in urine"
+        },
+        {
+          "label": "D",
+          "text": "Ketoacids act as impermeant anions that trap potassium within the renal tubule"
+        },
+        {
+          "label": "E",
+          "text": "Insulin lack and acidosis shift potassium from cells into the extracellular fluid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Serum potassium in DKA is normal or high because of transcellular shifts, even though total-body potassium is depleted.",
+        "whyCorrect": "Three shifts move potassium out of cells in DKA. Insulin normally stimulates the Na+/K+ ATPase to drive potassium into cells, so its absence leaves potassium in the extracellular space. Hyperglycemia raises serum osmolarity and pulls water out of cells, concentrating intracellular potassium and favoring efflux through potassium channels. Finally, the H+/K+ exchanger buffers the acidosis by moving H+ into cells while pumping K+ out.",
+        "whyWrongByChoice": {
+          "A": "Osmotic diuresis increases urine flow and shortens the time for tubular reabsorption, so potassium is lost rather than reclaimed.",
+          "B": "The problem is a transcellular shift, not a mineralocorticoid defect; aldosterone deficiency is not part of the DKA mechanism.",
+          "C": "Osmotic diuresis causes loss of both water and electrolytes, including potassium, which is why total body stores are depleted.",
+          "D": "The ketoacids raise the anion gap in serum; they do not sequester potassium inside the tubular lumen."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "potassium",
+        "pathophysiology",
+        "electrolytes"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en29-012",
+      "stem": "A 62-year-old man with type 1 diabetes presents with diabetic ketoacidosis after 2 days of vomiting. He is tachycardic with dry mucous membranes. Laboratory studies show glucose 505 mg/dL, arterial pH 7.16, blood urea nitrogen 52 mg/dL, and creatinine 2.1 mg/dL. He has no history of kidney disease, and a creatinine 3 months ago was 0.9 mg/dL. Which of the following best explains his renal findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prerenal azotemia from volume depletion that resolves with fluid repletion"
+        },
+        {
+          "label": "B",
+          "text": "Acute tubular necrosis from ketone toxicity requiring urgent initiation of dialysis"
+        },
+        {
+          "label": "C",
+          "text": "Long-standing diabetic nephropathy unmasked by the acute hyperglycemic episode"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive uropathy from bladder retention caused by autonomic neuropathy"
+        },
+        {
+          "label": "E",
+          "text": "Immune-complex glomerular injury triggered by the circulating ketoacid load"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acute kidney injury in DKA is prerenal, driven by dehydration and low renal perfusion, and it corrects with volume repletion.",
+        "whyCorrect": "Osmotic diuresis compounded by vomiting produces marked volume depletion and reduced renal blood flow. This raises both BUN and creatinine, characteristically with a BUN-to-creatinine ratio above 20, which is the pattern seen here at 52 to 2.1. The abnormality is functional rather than structural and resolves once intravascular volume is restored with isotonic fluid.",
+        "whyWrongByChoice": {
+          "B": "Ketones do not cause tubular necrosis, and the azotemia in DKA is expected to reverse with fluids rather than require dialysis.",
+          "C": "A creatinine of 0.9 mg/dL three months ago argues against established chronic diabetic kidney disease.",
+          "D": "Nothing in the presentation suggests urinary retention, and the picture is fully explained by profound volume depletion.",
+          "E": "Circulating ketoacids widen the anion gap; they do not deposit immune complexes or cause glomerulonephritis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "DKA",
+        "acute kidney injury",
+        "BUN-creatinine ratio",
+        "volume depletion"
+      ],
+      "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+    },
+    {
+      "id": "en30-001",
+      "stem": "A 63-year-old man with a 12-year history of poorly controlled type 2 diabetes mellitus reports progressively blurred vision. His most recent hemoglobin A1c is 10.2%. Slit-lamp examination shows bilateral lens opacities, and the dilated funduscopic examination is otherwise unremarkable. Which of the following best explains the change in his lens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of excess glucose to sorbitol, raising intracellular osmolality"
+        },
+        {
+          "label": "B",
+          "text": "Cross-linking of collagen by advanced glycation end products, stiffening tissue"
+        },
+        {
+          "label": "C",
+          "text": "Binding of advanced glycation end products to RAGE receptors on endothelium"
+        },
+        {
+          "label": "D",
+          "text": "Release of vascular endothelial growth factor from ischemic retinal tissue"
+        },
+        {
+          "label": "E",
+          "text": "Loss of pericytes leaving the walls of retinal capillaries unsupported"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sorbitol generated by the polyol pathway causes osmotic stress that contributes to lens swelling and cataract formation.",
+        "whyCorrect": "Glucose enters the lens, retina, kidney, and nerve without insulin, so intracellular glucose rises with hyperglycemia. Excess glucose is reduced to sorbitol, which increases intracellular osmolality and causes cellular swelling along with oxidative stress from antioxidant depletion. The lecture identifies this mechanism as especially important in diabetic eye disease and links it to lens swelling and cataract formation.",
+        "whyWrongByChoice": {
+          "B": "AGE cross-linking of collagen stiffens connective tissue and vessel walls, but it is not the mechanism the lecture assigns to lens swelling.",
+          "C": "AGE-RAGE signaling drives oxidative stress and inflammation in vascular endothelium rather than osmotic swelling of the lens.",
+          "D": "VEGF release from ischemic retina produces neovascularization in proliferative retinopathy, and this patient's fundus is unremarkable.",
+          "E": "Pericyte loss weakens retinal capillaries and produces microaneurysms, a retinal rather than lenticular finding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polyol pathway",
+        "sorbitol",
+        "cataract",
+        "microvascular"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-002",
+      "stem": "A 59-year-old woman is diagnosed with diabetes mellitus after her hemoglobin A1c returns at 9.1%. She asks what this number actually measures, noting that her fingerstick glucose that morning was near normal. Which of the following best describes what the hemoglobin A1c value represents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nonenzymatic glycation of hemoglobin reflecting mean glucose over about 120 days"
+        },
+        {
+          "label": "B",
+          "text": "Enzymatic phosphorylation of hemoglobin reflecting mean glucose over the past 24 hours"
+        },
+        {
+          "label": "C",
+          "text": "Sorbitol bound to hemoglobin reflecting polyol pathway activity over several weeks"
+        },
+        {
+          "label": "D",
+          "text": "Hemoglobin bound to dietary fructose reflecting carbohydrate intake during the past week"
+        },
+        {
+          "label": "E",
+          "text": "Antibody-coated hemoglobin reflecting immune-mediated destruction of red blood cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HbA1c is an advanced glycation end product formed when glucose nonenzymatically attaches to hemoglobin, averaging glucose across the red cell lifespan.",
+        "whyCorrect": "Excess glucose attaches to proteins and lipids without an enzyme, and persistent hyperglycemia converts reversible early glycation products into irreversible advanced glycation end products. Glycated hemoglobin is the clinical example of this chemistry. Because the modification persists for the red cell's roughly 120-day life cycle, HbA1c gives a stable picture of overall glucose control rather than a single moment's value.",
+        "whyWrongByChoice": {
+          "B": "Glycation is nonenzymatic, and the value reflects months of exposure rather than a single day of glucose readings.",
+          "C": "Sorbitol is the polyol pathway intermediate that causes osmotic stress in cells; it is not what is measured on the HbA1c assay.",
+          "D": "Fructose generated by the polyol pathway promotes AGE formation, but HbA1c specifically measures glucose bound to hemoglobin.",
+          "E": "HbA1c is a chemical modification of hemoglobin, not an immune process directed against red cells."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "AGE",
+        "HbA1c",
+        "glycation",
+        "monitoring"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-003",
+      "stem": "A 66-year-old man with a 17-year history of type 2 diabetes mellitus comes to the emergency department with 3 hours of dyspnea. He denies chest pain or pressure. He is diaphoretic with crackles at both lung bases, and the ECG shows ST-segment elevation in the anterior leads with elevated troponin. Which of the following best explains the absence of chest pain in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac autonomic denervation with reduced perception of ischemic pain"
+        },
+        {
+          "label": "B",
+          "text": "Extensive coronary collateral formation induced by chronic hyperglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Reduced left ventricular wall stress produced by long-standing hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Impaired sympathetic vascular tone producing orthostatic hypotension"
+        },
+        {
+          "label": "E",
+          "text": "Demyelination of the spinal dorsal columns from nutritional deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diabetic cardiac autonomic denervation blunts pain perception, so coronary disease often presents as silent ischemia or silent myocardial infarction.",
+        "whyCorrect": "Coronary artery disease in diabetes may be asymptomatic or present as atypical angina, silent ischemia, or silent myocardial infarction, largely because autonomic denervation of the heart reduces pain perception. Patients with diabetes who sustain a myocardial infarction are also more likely to develop pulmonary edema and complications such as arrhythmias, cardiogenic shock, heart failure, renal failure, and reinfarction, which fits this presentation with bibasilar crackles.",
+        "whyWrongByChoice": {
+          "B": "Hyperglycemia accelerates atherosclerosis and vascular injury; it is not described as generating protective collateral circulation.",
+          "C": "Hypertension in diabetes potentiates endothelial dysfunction and atherosclerosis rather than reducing ischemic symptoms.",
+          "D": "Impaired sympathetic vascular tone explains orthostatic hypotension in autonomic neuropathy, not loss of cardiac pain sensation.",
+          "E": "Diabetic neuropathy in this lecture reflects sorbitol and AGE-RAGE nerve injury, not a nutritional dorsal column syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "macrovascular",
+        "coronary artery disease",
+        "silent ischemia",
+        "autonomic neuropathy"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-004",
+      "stem": "A 69-year-old woman with a 20-year history of type 2 diabetes mellitus describes throbbing discomfort and numbness in her right forefoot that occurs at rest and is worse when she lies flat at night. She has a shallow ulcer over the lateral foot that has not healed in 3 months. Dorsalis pedis and posterior tibial pulses are not palpable, and the foot is cool. Which of the following best explains her foot pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Limb-threatening ischemia from peripheral artery disease"
+        },
+        {
+          "label": "B",
+          "text": "Charcot arthropathy from unnoticed repetitive microtrauma"
+        },
+        {
+          "label": "C",
+          "text": "Distal symmetric sensory neuropathy from sorbitol-mediated nerve injury"
+        },
+        {
+          "label": "D",
+          "text": "Superficial fungal infection of the toenails and interdigital spaces"
+        },
+        {
+          "label": "E",
+          "text": "Autonomic hypohidrosis producing dry, cracked plantar skin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rest pain in the forefoot with nonhealing wounds and absent pulses indicates limb-threatening ischemia from peripheral artery disease.",
+        "whyCorrect": "Peripheral artery disease reduces blood flow to the extremities and limits oxygen and nutrient delivery. When flow no longer meets resting metabolic demand, limb-threatening ischemia develops, manifesting as ischemic rest pain localized to the forefoot at rest or while supine, nonhealing ulceration, and tissue loss. Absent pedal pulses and a cool foot point to arterial insufficiency rather than a purely neuropathic problem.",
+        "whyWrongByChoice": {
+          "B": "Charcot foot presents as a warm, red, progressively deforming foot in a neuropathic patient, not a cool pulseless foot with rest pain.",
+          "C": "Diabetic peripheral neuropathy causes symmetric stocking-glove pain, tingling, and numbness, and it does not abolish pedal pulses.",
+          "D": "Fungal foot infections are common in diabetes but do not cause ischemic rest pain or loss of palpable pulses.",
+          "E": "Decreased sweating from autonomic neuropathy dries the skin of the hands and feet but does not produce rest pain or a nonhealing ulcer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peripheral artery disease",
+        "limb-threatening ischemia",
+        "macrovascular",
+        "foot"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-005",
+      "stem": "A 55-year-old man with type 2 diabetes mellitus and no history of cardiovascular disease is seen for routine follow-up. His blood pressure is 124/76 mm Hg and hemoglobin A1c is 6.8%. A fasting lipid panel shows an LDL cholesterol of 96 mg/dL. Which of the following is the most appropriate approach to lipid management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start moderate-intensity statin therapy now"
+        },
+        {
+          "label": "B",
+          "text": "Start a statin only if LDL exceeds 130 mg/dL on repeat testing"
+        },
+        {
+          "label": "C",
+          "text": "Start low-dose aspirin instead, reserving statins for established coronary disease"
+        },
+        {
+          "label": "D",
+          "text": "Defer lipid-lowering therapy and repeat a cholesterol panel in 5 years"
+        },
+        {
+          "label": "E",
+          "text": "Defer statin therapy and individualize the decision by patient preference"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adults aged 40 to 70 with diabetes should receive moderate-intensity statin therapy regardless of baseline LDL cholesterol.",
+        "whyCorrect": "Because screening cannot exclude future cardiac events, the recommended approach in diabetes is to treat cardiovascular risk factors in all patients. Moderate-intensity statin therapy may be given to patients aged 40 to 70 regardless of baseline LDL cholesterol to prevent coronary artery disease and other cardiovascular complications. This 55-year-old therefore qualifies despite an LDL of 96 mg/dL.",
+        "whyWrongByChoice": {
+          "B": "Waiting for an LDL threshold contradicts the recommendation to treat this age group regardless of the baseline LDL value.",
+          "C": "Preventive low-dose aspirin is reserved for patients with established coronary artery disease and does not replace statin therapy.",
+          "D": "A 5-year recheck applies to patients under 40 with a normal lipid panel who are not on a statin.",
+          "E": "Individualizing statin therapy by risks, benefits, and preference applies to adults older than 70, not to a 55-year-old."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "statin",
+        "cardiovascular risk",
+        "prevention",
+        "macrovascular"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-006",
+      "stem": "A 61-year-old woman with a 9-year history of type 2 diabetes mellitus has an average home blood pressure of 148/88 mm Hg. Her urine albumin-to-creatinine ratio is persistently elevated and her serum creatinine is 1.2 mg/dL. Which of the following antihypertensive classes is most appropriate to start?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin-converting enzyme inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Cardioselective beta-blocker"
+        },
+        {
+          "label": "C",
+          "text": "Dihydropyridine calcium channel blocker"
+        },
+        {
+          "label": "D",
+          "text": "Thiazide diuretic"
+        },
+        {
+          "label": "E",
+          "text": "Loop diuretic"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ACE inhibitors are the preferred antihypertensive in diabetes, especially with proteinuria, because they protect the kidneys and heart.",
+        "whyCorrect": "The ADA recommends controlling blood pressure to less than 130/80 mm Hg in patients with diabetes who have known cardiovascular disease or are at high risk, beginning with an ACE inhibitor. In patients with diabetes and proteinuria, ACE inhibitors have protective effects on the heart, kidneys, and potentially the eyes because they inhibit the hemodynamic and tissue effects of angiotensin II. She has persistent albuminuria, which makes this class the clear first choice.",
+        "whyWrongByChoice": {
+          "B": "Beta-blockers are not first-line antihypertensives here; they are reserved for indications such as heart failure or prior myocardial infarction.",
+          "C": "Calcium channel blockers lower blood pressure but lack the kidney-protective effect needed in diabetic kidney disease.",
+          "D": "Thiazides are first-line in the general population but not in diabetic kidney disease, and they may worsen glycemic control.",
+          "E": "Loop diuretics are used for severe edema or heart failure rather than as routine antihypertensive therapy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ACE inhibitor",
+        "hypertension",
+        "diabetic kidney disease",
+        "management"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-007",
+      "stem": "A 54-year-old man with a 22-year history of type 1 diabetes mellitus reports the sudden appearance of new floaters and a dark curtain descending over the visual field of his left eye. He has not had an eye examination in 6 years. Which of the following processes is most directly responsible for his acute visual change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bleeding into the vitreous from fragile VEGF-driven new vessels"
+        },
+        {
+          "label": "B",
+          "text": "Microaneurysm formation from pericyte loss in retinal capillaries"
+        },
+        {
+          "label": "C",
+          "text": "Thickening of the capillary basement membrane in the retinal microvasculature"
+        },
+        {
+          "label": "D",
+          "text": "Sorbitol-induced osmotic swelling of the lens with opacification"
+        },
+        {
+          "label": "E",
+          "text": "Deposition of yellow hard exudates with discrete edges in the retina"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sudden floaters with a curtain over the visual field reflect vitreous hemorrhage from neovascularization in proliferative diabetic retinopathy.",
+        "whyCorrect": "In proliferative diabetic retinopathy, retinal ischemia stimulates VEGF release, which increases vascular permeability and drives growth of fragile new vessels from the optic disc or retinal vessels. These abnormal vessels are prone to leakage and hemorrhage, and bleeding into the vitreous produces new floaters or a curtain over the visual field. Fibrosis and tractional retinal detachment can follow.",
+        "whyWrongByChoice": {
+          "B": "Microaneurysms are among the first findings of mild to moderate NPDR and do not cause sudden loss of a visual field.",
+          "C": "Basement membrane thickening destabilizes retinal vessels over time but is a structural change without an abrupt visual event.",
+          "D": "Sorbitol accumulation causes gradual lens swelling and cataract, not the sudden onset of floaters.",
+          "E": "Hard exudates are a chronic NPDR funduscopic finding rather than a cause of acute visual obscuration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retinopathy",
+        "PDR",
+        "VEGF",
+        "vitreous hemorrhage"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-008",
+      "stem": "A 47-year-old woman with type 2 diabetes mellitus diagnosed 6 years ago has no visual complaints. A dilated funduscopic examination shows scattered microaneurysms and a few dot-blot intraretinal hemorrhages, with no new vessels at the disc or elsewhere. Which of the following mechanisms best accounts for the microaneurysms seen on her examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of pericytes leaving the capillary wall unsupported with endothelial damage"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxia-driven VEGF release stimulating growth of abnormal new vessels"
+        },
+        {
+          "label": "C",
+          "text": "Contraction of fibrous tissue exerting traction on the retinal surface"
+        },
+        {
+          "label": "D",
+          "text": "Occlusion of retinal arterioles producing widespread capillary nonperfusion"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic swelling of lens fibers from intracellular sorbitol accumulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pericyte loss with resulting endothelial damage produces the microaneurysms that mark early non-proliferative diabetic retinopathy.",
+        "whyCorrect": "Hyperglycemia damages retinal capillaries and causes pericyte loss, which leaves the capillary wall unsupported and leads to endothelial damage and microaneurysm formation. Capillary basement membrane thickening further destabilizes the vessel. Microaneurysm formation is one of the first manifestations of mild to moderate NPDR, which matches this asymptomatic patient without neovascularization.",
+        "whyWrongByChoice": {
+          "B": "VEGF-driven neovascularization defines proliferative disease, and this examination shows no new vessels.",
+          "C": "Fibrous traction on the retina is a late complication of proliferative retinopathy that can detach the retina.",
+          "D": "Capillary closure with retinal ischemia characterizes severe NPDR and promotes progression to PDR rather than producing microaneurysms.",
+          "E": "Sorbitol-mediated lens swelling contributes to cataract formation and does not explain a retinal capillary lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retinopathy",
+        "NPDR",
+        "pericyte loss",
+        "microaneurysm"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-009",
+      "stem": "A 58-year-old man with long-standing type 2 diabetes mellitus is referred to an ophthalmologist after a screening examination. Slit-lamp examination through a dilated pupil shows new vessels arising from the optic disc, and he reports intermittent floaters. Which of the following is the most appropriate treatment to preserve his vision?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retinal laser photocoagulation"
+        },
+        {
+          "label": "B",
+          "text": "Repeat dilated examination in 1 year without intervention"
+        },
+        {
+          "label": "C",
+          "text": "Addition of an ACE inhibitor to reverse the abnormal new vessels"
+        },
+        {
+          "label": "D",
+          "text": "Addition of a moderate-intensity statin to regress the abnormal new vessels"
+        },
+        {
+          "label": "E",
+          "text": "Tighter glycemic control alone, deferring any ophthalmologic procedure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Laser photocoagulation inhibits abnormal vessel proliferation and preserves vision in proliferative diabetic retinopathy.",
+        "whyCorrect": "Neovascularization arising from the optic disc is the distinguishing feature of proliferative diabetic retinopathy and threatens vision through hemorrhage, fibrosis, and tractional detachment. Laser photocoagulation delivered to the retina inhibits blood vessel proliferation and can preserve the patient's vision. Glycemic and blood pressure control and regular follow-up remain essential to slow progression, but they do not treat existing neovascularization.",
+        "whyWrongByChoice": {
+          "B": "Yearly screening is appropriate before proliferative disease develops; established neovascularization requires treatment now.",
+          "C": "ACE inhibitors may have a protective effect against retinopathy, but they do not reverse established neovascularization.",
+          "D": "Statins reduce cardiovascular risk in diabetes and have no role in regressing retinal new vessels.",
+          "E": "Good glycemic control slows progression but is not sufficient treatment once vision-threatening new vessels are present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "retinopathy",
+        "PDR",
+        "laser photocoagulation",
+        "management"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-010",
+      "stem": "A 60-year-old asymptomatic man with a 7-year history of type 2 diabetes mellitus presents for his annual visit. He has no foot pain, numbness, or ulceration, and his feet appear normal on inspection. Which of the following is the most appropriate screening test for diabetic peripheral neuropathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monofilament testing of the feet with vibration and pinprick assessment"
+        },
+        {
+          "label": "B",
+          "text": "Urine albumin-to-creatinine ratio on a first-morning specimen"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic resonance imaging of both lower extremities"
+        },
+        {
+          "label": "D",
+          "text": "Contrast angiography of the lower extremity arteries"
+        },
+        {
+          "label": "E",
+          "text": "Testing of the plantar (Babinski) reflex bilaterally"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Annual sensory testing of the feet with a monofilament plus vibration and pinprick is the screening standard for diabetic peripheral neuropathy.",
+        "whyCorrect": "Sensation should be checked annually with vibratory sense testing, pinprick, and a monofilament, which is very sensitive for detecting subtle sensory deficits. Screening matters because peripheral neuropathy is often silent early, and unrecognized sensory loss leads to foot ulcers, gangrene, and amputation. Nerve conduction studies are used later to characterize severity and distribution rather than as the routine screen.",
+        "whyWrongByChoice": {
+          "B": "Urine albumin-to-creatinine ratio is the yearly screen for diabetic kidney disease, not for neuropathy.",
+          "C": "MRI of the legs is costly and does not provide useful screening information for diabetic neuropathy.",
+          "D": "Angiography is used to evaluate peripheral artery disease, a macrovascular problem distinct from neuropathy.",
+          "E": "The Babinski reflex tests for central nervous system disease rather than peripheral sensory loss."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "peripheral neuropathy",
+        "screening",
+        "monofilament",
+        "foot exam"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-011",
+      "stem": "A 57-year-old woman with an 18-year history of type 1 diabetes mellitus reports 4 months of nausea, early satiety, and vomiting of food eaten hours earlier, with a 6-kg weight loss. Upper endoscopy shows no ulcer or obstruction. Which of the following is the most appropriate next diagnostic study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric emptying study using an ingested radioisotope-labeled meal"
+        },
+        {
+          "label": "B",
+          "text": "Tilt-table testing with assessment of jugular venous pressure"
+        },
+        {
+          "label": "C",
+          "text": "Cystoscopy to evaluate for incomplete bladder emptying"
+        },
+        {
+          "label": "D",
+          "text": "Nerve conduction studies of the upper and lower extremities"
+        },
+        {
+          "label": "E",
+          "text": "Exercise electrocardiography to evaluate for silent ischemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A gastric emptying study is the standard test for diabetic gastroparesis once structural disease has been excluded.",
+        "whyCorrect": "Autonomic neuropathy can decrease gastrointestinal motility, producing gastroparesis with nausea, constipation, anorexia, malnutrition, and weight loss. Endoscopy is used first to rule out reversible causes such as ulcers, and once that is unrevealing, a gastric emptying study is the standard diagnostic test. It uses an ingested radioisotope to follow a meal through the stomach and upper GI tract. Management then centers on glucose stabilization and small, low-fat, low-fiber meals, with metoclopramide added if symptoms persist.",
+        "whyWrongByChoice": {
+          "B": "Tilt-table testing and JVP assessment are used when orthostatic hypotension is the presenting autonomic symptom.",
+          "C": "Cystoscopy is reserved for patients whose autonomic neuropathy manifests as bladder dysfunction.",
+          "D": "Nerve conduction studies characterize peripheral somatic neuropathy and do not assess gastric motility.",
+          "E": "Exercise ECG screens for coronary disease in patients with chest pain, dyspnea, or an abnormal resting ECG."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autonomic neuropathy",
+        "gastroparesis",
+        "diagnosis",
+        "gastric emptying study"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en30-012",
+      "stem": "A 64-year-old man with a 21-year history of type 2 diabetes mellitus reports lightheadedness whenever he stands, and he fell twice last month. His blood pressure is 138/82 mm Hg supine and 108/64 mm Hg standing. He also notes resting tachycardia, erectile dysfunction, and dry skin on his hands and feet. Echocardiography and ECG show no heart failure or arrhythmia. Which of the following is the most appropriate initial management of his postural symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression stockings and physical therapy with resistance exercises"
+        },
+        {
+          "label": "B",
+          "text": "Midodrine, an alpha-1 agonist that increases vascular tone"
+        },
+        {
+          "label": "C",
+          "text": "Metoclopramide, a dopamine receptor antagonist that speeds gastric emptying"
+        },
+        {
+          "label": "D",
+          "text": "Erythromycin, a motilin receptor agonist used as a prokinetic"
+        },
+        {
+          "label": "E",
+          "text": "Duloxetine, which augments descending pain-inhibitory pathways"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Orthostatic hypotension from diabetic autonomic neuropathy is managed first with compression stockings and resistance exercise, reserving vasopressors for severe cases.",
+        "whyCorrect": "Impaired sympathetic regulation of cardiovascular control, including reduced sympathetic activation of vascular smooth muscle, produces orthostatic hypotension that can cause falls and fractures. After reversible causes such as heart failure are excluded with ECG and cardiac evaluation, initial management consists of compression stockings and physical therapy including resistance exercises. His resting tachycardia, erectile dysfunction, and hypohidrosis confirm a broader autonomic neuropathy.",
+        "whyWrongByChoice": {
+          "B": "Midodrine raises vascular tone but is reserved for patients who remain severely symptomatic after conservative measures.",
+          "C": "Metoclopramide treats diabetic gastroparesis and carries a risk of extrapyramidal effects and tardive dyskinesia.",
+          "D": "Erythromycin is a short-term prokinetic for gastroparesis and does not address postural hypotension.",
+          "E": "Duloxetine is an initial therapy for painful diabetic peripheral neuropathy, not for orthostatic symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autonomic neuropathy",
+        "orthostatic hypotension",
+        "management",
+        "midodrine"
+      ],
+      "topicId": "chronic-complications-of-diabetes-mellitus",
+      "topicName": "Chronic Complications of Diabetes Mellitus"
+    },
+    {
+      "id": "en31-001",
+      "stem": "A 60-year-old woman with type 2 diabetes mellitus treated with glyburide comes to the clinic after three episodes of a racing heart, sweating, and dizziness over the past week. The episodes occur in the morning before she eats. During one episode her plasma glucose was 42 mg/dL. Kidney, liver, thyroid, and morning cortisol studies are all normal. She reports that when a fingerstick reading looked high last week, she took an extra dose of her pill. Which of the following is the most likely cause of her hypoglycemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An islet beta-cell tumor secreting insulin autonomously"
+        },
+        {
+          "label": "B",
+          "text": "Reduced insulin clearance from chronic kidney disease"
+        },
+        {
+          "label": "C",
+          "text": "Excess sulfonylurea driving pancreatic insulin secretion"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol deficiency from primary adrenal insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Rapid intestinal glucose transit after upper GI surgery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The most common cause of hypoglycemia is excess insulin or sulfonylurea therapy in a patient with diabetes mellitus.",
+        "whyCorrect": "Sulfonylureas such as glyburide and glipizide lower glucose by increasing pancreatic insulin secretion, and hypoglycemia is their important adverse effect. Her fasting-pattern spells, normal organ and cortisol testing, and admission of an extra dose point squarely at the drug. Management is counseling on adherence to the prescribed dose rather than an expensive work-up.",
+        "whyWrongByChoice": {
+          "A": "Insulinoma is a rare cause and would not be suspected when a well-documented sulfonylurea overdose explains the episodes.",
+          "B": "Chronic kidney disease raises insulin levels by reducing renal clearance, but her kidney studies are normal.",
+          "D": "Low cortisol can cause fasting hypoglycemia, but her morning cortisol is normal.",
+          "E": "Post-surgical rapid glucose transit causes reactive hypoglycemia after meals, not fasting spells before breakfast."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hypoglycemia",
+        "sulfonylurea",
+        "fasting hypoglycemia"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-002",
+      "stem": "A 56-year-old woman with a long history of heavy alcohol use is brought to the emergency department with confusion and tremors. Her blood alcohol level is elevated and her plasma glucose is 41 mg/dL. Which of the following best explains her low glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulated NAD+ accelerates conversion of glucose to glycogen"
+        },
+        {
+          "label": "B",
+          "text": "Ethanol stimulates pancreatic beta cells to release insulin"
+        },
+        {
+          "label": "C",
+          "text": "Acetaldehyde blocks epinephrine release from the adrenal gland"
+        },
+        {
+          "label": "D",
+          "text": "Accumulated NADH blocks oxidation of lactate to pyruvate"
+        },
+        {
+          "label": "E",
+          "text": "Ethanol increases renal clearance of glucose into the urine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ethanol metabolism generates NADH, which inhibits hepatic gluconeogenesis and produces hypoglycemia.",
+        "whyCorrect": "Ethanol is oxidized by alcohol dehydrogenase and then aldehyde dehydrogenase, and both steps reduce NAD+ to NADH. The resulting high NADH concentration prevents the oxidation of lactate to pyruvate, so gluconeogenic substrate cannot be converted to glucose. With gluconeogenesis blocked, the serum glucose falls.",
+        "whyWrongByChoice": {
+          "A": "NAD+ levels fall rather than rise during ethanol metabolism, and glycogen synthesis is not the mechanism of alcoholic hypoglycemia.",
+          "B": "Ethanol lowers glucose by impairing hepatic glucose production, not by stimulating insulin release; insulin would be low here.",
+          "C": "Alcoholic hypoglycemia is attributed to impaired gluconeogenesis, not to a block in adrenal epinephrine release.",
+          "E": "Renal glucose wasting is not a described mechanism of alcohol-related hypoglycemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alcohol",
+        "gluconeogenesis",
+        "NADH"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-003",
+      "stem": "A 45-year-old woman develops shakiness, irritability, and confusion about 3 hours after each meal. During these episodes her plasma glucose ranges from 40 to 50 mg/dL, and she feels well after eating crackers. She takes no medications, and creatinine, liver enzymes, TSH, and morning cortisol are normal. Which of the following is the most likely cause of her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal insufficiency with chronically low cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Chronic kidney disease with reduced insulin clearance"
+        },
+        {
+          "label": "C",
+          "text": "Cirrhosis with impaired hepatic glycogenolysis"
+        },
+        {
+          "label": "D",
+          "text": "Insulinoma of the pancreatic islet beta cells"
+        },
+        {
+          "label": "E",
+          "text": "Prior partial gastric resection for weight loss"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Symptomatic hypoglycemia 2 to 4 hours after meals is reactive hypoglycemia, most often following upper GI surgery.",
+        "whyCorrect": "Gastrectomy, gastroenterostomy, and bariatric procedures allow rapid glucose transit and absorption in the small intestine. The resulting glucose spike triggers an exaggerated insulin response that overshoots and drops the glucose a few hours after the meal. All of the other listed diseases produce fasting rather than postprandial hypoglycemia.",
+        "whyWrongByChoice": {
+          "A": "Low cortisol reduces gluconeogenesis and glycogenolysis and causes fasting hypoglycemia; her morning cortisol is also normal.",
+          "B": "Chronic kidney disease raises insulin levels and causes fasting hypoglycemia, and her creatinine is normal.",
+          "C": "Liver disease impairs glucose production and causes fasting hypoglycemia; her liver enzymes are normal.",
+          "D": "An insulinoma secretes insulin autonomously and characteristically causes fasting, not strictly postprandial, hypoglycemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "reactive hypoglycemia",
+        "dumping syndrome",
+        "postprandial"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-004",
+      "stem": "A 34-year-old hospital nurse has recurrent morning episodes of sweating and confusion. She has no chronic illnesses and takes no medications. During a supervised episode her plasma glucose is 38 mg/dL, insulin is markedly elevated, C-peptide is low, proinsulin is low, and a sulfonylurea screen is negative. Creatinine is normal. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Covert ingestion of a sulfonylurea drug"
+        },
+        {
+          "label": "B",
+          "text": "Self-administration of pharmacologic insulin"
+        },
+        {
+          "label": "C",
+          "text": "An insulin-secreting pancreatic islet cell tumor"
+        },
+        {
+          "label": "D",
+          "text": "Decreased insulin clearance from renal impairment"
+        },
+        {
+          "label": "E",
+          "text": "Congenital defect in beta-cell glucose sensing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High insulin with low C-peptide and low proinsulin identifies exogenous insulin rather than endogenous hypersecretion.",
+        "whyCorrect": "Injected insulin is already processed, so it contains neither proinsulin nor C-peptide. A high measured insulin level with suppressed C-peptide and proinsulin therefore indicates an exogenous source. Health care workers are overrepresented in reported factitious hypoglycemia because of easy access to these agents.",
+        "whyWrongByChoice": {
+          "A": "Sulfonylureas stimulate the patient's own beta cells, so C-peptide would be elevated and the drug screen would be positive.",
+          "C": "An insulinoma raises insulin, proinsulin, and C-peptide together; here proinsulin and C-peptide are low.",
+          "D": "Impaired renal clearance raises insulin levels but would not suppress endogenously produced C-peptide, and her creatinine is normal.",
+          "E": "Congenital hyperinsulinism is a disorder of infants and children and would raise C-peptide from endogenous secretion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "factitious hypoglycemia",
+        "C-peptide",
+        "proinsulin"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-005",
+      "stem": "A 45-year-old man without diabetes reports 6 months of morning confusion and blurred vision that resolve promptly after he eats; he has gained 8 kg from frequent snacking. During a documented spell, plasma glucose is 39 mg/dL with markedly elevated insulin, markedly elevated proinsulin, elevated C-peptide, and a negative sulfonylurea screen. Creatinine and liver enzymes are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulinoma of the pancreatic islet beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Factitious use of injected pharmacologic insulin"
+        },
+        {
+          "label": "C",
+          "text": "Factitious ingestion of a meglitinide such as repaglinide"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol-induced suppression of hepatic gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Reactive hypoglycemia from rapid intestinal absorption"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Elevated insulin, proinsulin, and C-peptide with a negative drug screen during hypoglycemia indicates an insulinoma.",
+        "whyCorrect": "Insulinomas are rare islet beta-cell tumors that release large amounts of insulin, so all markers of endogenous secretion rise together. Proinsulin at or above 5 pmol/L during laboratory-confirmed hypoglycemia supports endogenous hyperinsulinism, and the negative sulfonylurea screen excludes drug-stimulated secretion. Common causes such as antihyperglycemic drugs and chronic kidney disease must be excluded first, and they have been here.",
+        "whyWrongByChoice": {
+          "B": "Injected insulin contains no precursor, so proinsulin and C-peptide would be normal or low rather than elevated.",
+          "C": "A meglitinide would stimulate endogenous secretion but would be detected on the sulfonylurea and meglitinide drug screen, which is negative.",
+          "D": "Alcohol lowers glucose by raising NADH and blocking gluconeogenesis; insulin levels would be low, not markedly elevated.",
+          "E": "Reactive hypoglycemia occurs 2 to 4 hours after meals, whereas his episodes occur in the morning and resolve with eating."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulinoma",
+        "hyperinsulinism",
+        "proinsulin"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-006",
+      "stem": "A 58-year-old man without diabetes reports intermittent lightheadedness and sweating. A point-of-care meter at a health fair read 62 mg/dL while he felt well. Which of the following findings is required to establish a diagnosis of hypoglycemia in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A low point-of-care glucose reading obtained while he is asymptomatic"
+        },
+        {
+          "label": "B",
+          "text": "Typical adrenergic symptoms after a meal with a normal glucose level"
+        },
+        {
+          "label": "C",
+          "text": "A fasting plasma glucose below 100 mg/dL on two separate mornings"
+        },
+        {
+          "label": "D",
+          "text": "Typical symptoms with a low plasma glucose, both relieved by glucose"
+        },
+        {
+          "label": "E",
+          "text": "An elevated serum insulin level drawn when the glucose is normal"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hypoglycemia is diagnosed by Whipple triad: low glucose, concurrent symptoms, and relief with glucose.",
+        "whyCorrect": "Whipple triad requires documenting a low blood glucose at the same time as characteristic symptoms and then showing that both correct after glucose is given. In a patient without diabetes, the diagnosis rests on the triad with a reliable plasma measurement rather than a point-of-care value. A glucose of 70 mg/dL or below is the general-population alert value.",
+        "whyWrongByChoice": {
+          "A": "A low reading without concurrent symptoms does not satisfy the triad, and point-of-care meters are not the reliable measurement required.",
+          "B": "Postprandial symptoms without a documented glucose fall define idiopathic postprandial syndrome, not hypoglycemia.",
+          "C": "A fasting glucose below 100 mg/dL is within the normal range and is not a diagnostic criterion.",
+          "E": "An insulin level drawn while glucose is normal is uninterpretable; these tests are done when the glucose is low."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Whipple triad",
+        "diagnosis",
+        "glucose threshold"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-007",
+      "stem": "A 71-year-old man with type 2 diabetes and advanced chronic kidney disease has had increasingly frequent hypoglycemic episodes over the past 2 months, even though his insulin and glipizide doses have not changed. Which of the following best explains the increased frequency of his episodes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased renal clearance of insulin and oral antihyperglycemic drugs"
+        },
+        {
+          "label": "B",
+          "text": "Increased renal gluconeogenesis suppressing hepatic glucose output"
+        },
+        {
+          "label": "C",
+          "text": "Increased hepatic glycogenolysis depleting circulating glucose"
+        },
+        {
+          "label": "D",
+          "text": "Excess cortisol secretion from stimulation of the adrenal cortex"
+        },
+        {
+          "label": "E",
+          "text": "Rapid small intestinal glucose absorption after each meal"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic kidney disease predisposes to hypoglycemia largely because insulin and oral agents are renally cleared.",
+        "whyCorrect": "Insulin is cleared by the kidney, so falling filtration lets both prescribed insulin and oral antihyperglycemic drugs accumulate at unchanged doses. Renal gluconeogenesis, which normally contributes to glucose production, also falls as the kidney fails. Anorexia in advanced kidney disease reduces caloric intake and compounds the problem.",
+        "whyWrongByChoice": {
+          "B": "Renal gluconeogenesis decreases rather than increases in chronic kidney disease, and it does not suppress hepatic glucose output.",
+          "C": "Glycogenolysis raises blood glucose; increasing it would protect against, not cause, hypoglycemia.",
+          "D": "Cortisol raises glucose, so excess cortisol would produce hyperglycemia; it is cortisol deficiency that causes hypoglycemia.",
+          "E": "Rapid intestinal absorption underlies postprandial reactive hypoglycemia after GI surgery, which he has not had."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "chronic kidney disease",
+        "insulin clearance",
+        "fasting hypoglycemia"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-008",
+      "stem": "A 63-year-old woman with type 2 diabetes is found unresponsive at home with a plasma glucose of 34 mg/dL. Her family reports she was confused and irritable beforehand. Which of the following best explains why the brain is especially vulnerable to a fall in blood glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neurons require insulin in order to take up any glucose"
+        },
+        {
+          "label": "B",
+          "text": "Astrocytic glycogen sustains neurons for several days of fasting"
+        },
+        {
+          "label": "C",
+          "text": "Neurons store almost no fuel and depend on circulating glucose"
+        },
+        {
+          "label": "D",
+          "text": "The brain preferentially oxidizes free fatty acids for its energy"
+        },
+        {
+          "label": "E",
+          "text": "Neurons are entirely unable to use ketone bodies as a substrate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The brain has negligible fuel stores and relies on a continuous supply of circulating glucose.",
+        "whyCorrect": "Neurons hold essentially no glucose of their own, and the small astrocytic glycogen pool provides only a brief buffer. Because supply must therefore come continuously from the blood, a falling glucose level rapidly impairs cognition and can progress to coma. Ketone bodies only become a meaningful alternative substrate during prolonged fasting.",
+        "whyWrongByChoice": {
+          "A": "Brain glucose uptake is not insulin dependent; vulnerability comes from the absence of stored fuel.",
+          "B": "Astrocytic glycogen buffers the brain only briefly, not for days.",
+          "D": "Free fatty acids released by epinephrine-driven lipolysis serve other tissues; the brain runs on glucose.",
+          "E": "Ketone bodies can serve as an alternative brain substrate, but only after prolonged fasting, so they do not help acutely."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neuroglycopenia",
+        "brain metabolism",
+        "clinical presentation"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-009",
+      "stem": "A 24-year-old woman with type 1 diabetes notices tremor, palpitations, anxiety, and hunger when her continuous glucose monitor reads 57 mg/dL, prompting her to eat. Action of which of the following hormones is most directly responsible for these warning symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "E",
+          "text": "Insulin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The adrenergic warning symptoms of hypoglycemia are produced by epinephrine released as glucose falls.",
+        "whyCorrect": "As glucose drops toward the mid-50s, sympathoadrenal activation releases epinephrine from the adrenal gland. Its sympathetic effects produce tachycardia, sweating, tremor, anxiety, hunger, and dizziness, the classic fight-or-flight warning findings. Epinephrine also stimulates hepatic glycogenolysis and gluconeogenesis and drives adipose lipolysis to spare glucose for the brain.",
+        "whyWrongByChoice": {
+          "A": "Glucagon is a counterregulatory hormone that raises glucose through hepatic glycogenolysis and gluconeogenesis, but it does not generate the sympathetic warning symptoms.",
+          "C": "Cortisol acts to raise glucose levels over a longer time course and does not produce acute adrenergic symptoms.",
+          "D": "Growth hormone also opposes insulin and raises glucose, but it does not cause tremor and palpitations.",
+          "E": "Insulin lowers glucose; it is the hormone being counterregulated, not the source of these symptoms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "counterregulation",
+        "epinephrine",
+        "hypoglycemia awareness"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-010",
+      "stem": "A 72-year-old man with type 2 diabetes on insulin is brought to the emergency department obtunded and unable to follow commands. His fingerstick glucose is 32 mg/dL and a confirmatory plasma glucose is pending. Which of the following is the most appropriate immediate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Have him drink fruit juice and eat crackers"
+        },
+        {
+          "label": "B",
+          "text": "Start oral acarbose with his next meal"
+        },
+        {
+          "label": "C",
+          "text": "Begin a low-dose intravenous insulin infusion"
+        },
+        {
+          "label": "D",
+          "text": "Admit him for a supervised 72-hour fast"
+        },
+        {
+          "label": "E",
+          "text": "Give intravenous dextrose without delay"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Symptomatic hypoglycemia with altered mental status is treated immediately with intravenous dextrose.",
+        "whyCorrect": "The most important step in any symptomatic patient is prompt correction of the glucose to avoid irreversible neurologic damage. Patients with altered mental status cannot take oral sugar safely, so intravenous dextrose is used; ready-to-use intranasal or injectable glucagon is an alternative when IV access is unavailable. Treatment should not wait for the confirmatory plasma value.",
+        "whyWrongByChoice": {
+          "A": "Oral juice, soda, milk, honey, or candy is appropriate only for a patient who is alert enough to swallow safely.",
+          "B": "Acarbose is used for resistant reactive hypoglycemia and does nothing for an acute severe episode.",
+          "C": "Insulin would lower his glucose further and is contraindicated in hypoglycemia.",
+          "D": "A supervised fast is a diagnostic test for unexplained fasting hypoglycemia, and fasting him now would be dangerous."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute management",
+        "IV dextrose",
+        "glucagon"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-011",
+      "stem": "A 38-year-old woman who underwent partial gastrectomy 2 years ago has tachycardia, sweating, and tremor roughly 3 hours after meals, with documented glucose values in the 50s mg/dL. Despite 4 months of frequent small meals, avoidance of refined sugar, and increased physical activity, her episodes persist. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start acarbose to delay intestinal carbohydrate absorption"
+        },
+        {
+          "label": "B",
+          "text": "Start glyburide to stabilize her postprandial glucose"
+        },
+        {
+          "label": "C",
+          "text": "Add refined simple sugars to the start of each meal"
+        },
+        {
+          "label": "D",
+          "text": "Begin scheduled subcutaneous insulin before each meal"
+        },
+        {
+          "label": "E",
+          "text": "Perform a supervised 72-hour fast to confirm the cause"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Reactive hypoglycemia that resists dietary change is treated with an alpha-glucosidase inhibitor such as acarbose.",
+        "whyCorrect": "Her postprandial symptoms follow upper GI surgery, in which rapid glucose transit produces an exaggerated insulin response. Acarbose and miglitol inhibit intestinal brush-border alpha-glucosidases and delay carbohydrate digestion and absorption. Blunting the postprandial glucose spike blunts the insulin surge that drives the later hypoglycemia.",
+        "whyWrongByChoice": {
+          "B": "Glyburide is a sulfonylurea that increases insulin secretion and would worsen her hypoglycemia.",
+          "C": "Limiting rather than adding refined sugar is advised, since simple sugars amplify the glucose and insulin spike.",
+          "D": "Insulin lowers glucose and would aggravate postprandial hypoglycemia.",
+          "E": "The fast is for unexplained fasting hypoglycemia; her episodes are postprandial and already documented."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "reactive hypoglycemia",
+        "acarbose",
+        "alpha-glucosidase inhibitor"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    },
+    {
+      "id": "en31-012",
+      "stem": "A 52-year-old man without diabetes reports 3 months of morning confusion and sweating that resolve after breakfast. He takes no medications and does not drink alcohol. Creatinine, liver enzymes, morning cortisol, TSH, and free T4 are all normal, and an office glucose drawn after lunch is 96 mg/dL. Which of the following is the most appropriate next step to establish the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supervised mixed meal test with hourly glucose for 5 hours"
+        },
+        {
+          "label": "B",
+          "text": "Hemoglobin A1c measured on a fasting morning specimen"
+        },
+        {
+          "label": "C",
+          "text": "Supervised 72-hour fast with glucose and insulin every 6 hours"
+        },
+        {
+          "label": "D",
+          "text": "Random growth hormone level drawn at the office visit"
+        },
+        {
+          "label": "E",
+          "text": "Repeat point-of-care glucose meter check after each meal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Unexplained fasting hypoglycemia is confirmed with a supervised 72-hour fast.",
+        "whyCorrect": "His symptoms occur in the morning before eating, which is the fasting pattern. When the diagnosis is unclear after initial testing, a supervised 72-hour fast is performed with blood glucose and insulin checked every 6 hours until symptoms occur or the glucose drops below 55 mg/dL. Sampling during the low glucose is what makes the insulin, proinsulin, and C-peptide results interpretable.",
+        "whyWrongByChoice": {
+          "A": "The mixed meal test is used for suspected reactive, postprandial hypoglycemia, and it has also been criticized as poorly reproducible.",
+          "B": "Hemoglobin A1c reflects average glycemia and does not capture or confirm intermittent hypoglycemic episodes.",
+          "D": "A random growth hormone level is not diagnostic; suspected deficiency requires a GH stimulation test.",
+          "E": "Postprandial meter checks target the wrong timing and would not provide the reliable plasma measurement needed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "72-hour fast",
+        "diagnostic testing",
+        "fasting hypoglycemia"
+      ],
+      "topicId": "hypoglycemia",
+      "topicName": "Hypoglycemia"
+    }
+  ]
+}

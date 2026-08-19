@@ -1,0 +1,239 @@
+{
+  "categories": [
+    {
+      "id": "foundations-anatomy-development",
+      "name": "Foundations, Anatomy & Development",
+      "topics": [
+        {
+          "id": "functional-endocrine-pathways",
+          "name": "Functional Endocrine Pathways",
+          "sourceFile": "Endocrine Brick 1",
+          "questionCount": 12
+        },
+        {
+          "id": "anatomy-of-the-endocrine-system",
+          "name": "Anatomy of the Endocrine System",
+          "sourceFile": "Endocrine Brick 2",
+          "questionCount": 12
+        },
+        {
+          "id": "development-of-the-endocrine-system",
+          "name": "Development of the Endocrine System",
+          "sourceFile": "Endocrine Brick 3",
+          "questionCount": 12
+        },
+        {
+          "id": "hypothalamic-pituitary-axis-1",
+          "name": "Hypothalamic-Pituitary (H-P) Axis 1",
+          "sourceFile": "Endocrine Brick 4",
+          "questionCount": 12
+        },
+        {
+          "id": "histology-of-the-endocrine-system",
+          "name": "Histology of the Endocrine System",
+          "sourceFile": "Endocrine Brick 5",
+          "questionCount": 12
+        },
+        {
+          "id": "normal-growth-and-sexual-development",
+          "name": "Normal Growth and Sexual Development",
+          "sourceFile": "Endocrine Brick 6",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "pituitary-disorders",
+      "name": "Pituitary Disorders",
+      "topics": [
+        {
+          "id": "growth-hormone-deficiency-and-excess",
+          "name": "Growth Hormone Deficiency and Excess",
+          "sourceFile": "Endocrine Brick 7",
+          "questionCount": 12
+        },
+        {
+          "id": "hyperpituitarism",
+          "name": "Hyperpituitarism",
+          "sourceFile": "Endocrine Brick 8",
+          "questionCount": 12
+        },
+        {
+          "id": "hypopituitarism",
+          "name": "Hypopituitarism",
+          "sourceFile": "Endocrine Brick 9",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "thyroid-physiology-dysfunction",
+      "name": "Thyroid Physiology & Dysfunction",
+      "topics": [
+        {
+          "id": "hyperthyroidism-and-thyroid-storm",
+          "name": "Hyperthyroidism and Thyroid Storm",
+          "sourceFile": "Endocrine Brick 10",
+          "questionCount": 12
+        },
+        {
+          "id": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
+          "name": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+          "sourceFile": "Endocrine Brick 11",
+          "questionCount": 12
+        },
+        {
+          "id": "thyroid-hormone-synthesis-regulation-and-testing",
+          "name": "Thyroid Hormone Synthesis, Regulation, and Testing",
+          "sourceFile": "Endocrine Brick 12",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "thyroid-neoplasia-men",
+      "name": "Thyroid Neoplasia & MEN Syndromes",
+      "topics": [
+        {
+          "id": "differentiated-thyroid-cancers-papillary-and-follicular",
+          "name": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+          "sourceFile": "Endocrine Brick 13",
+          "questionCount": 12
+        },
+        {
+          "id": "medullary-and-anaplastic-thyroid-carcinomas",
+          "name": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+          "sourceFile": "Endocrine Brick 14",
+          "questionCount": 12
+        },
+        {
+          "id": "multiple-endocrine-neoplasia-syndromes",
+          "name": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+          "sourceFile": "Endocrine Brick 15",
+          "questionCount": 12
+        },
+        {
+          "id": "thyroid-nodule-evaluation",
+          "name": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+          "sourceFile": "Endocrine Brick 16",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "parathyroid-calcium-bone",
+      "name": "Parathyroid, Calcium & Bone",
+      "topics": [
+        {
+          "id": "endocrine-bone-disorders",
+          "name": "Endocrine Bone Disorders",
+          "sourceFile": "Endocrine Brick 17",
+          "questionCount": 12
+        },
+        {
+          "id": "hyperparathyroidism",
+          "name": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+          "sourceFile": "Endocrine Brick 18",
+          "questionCount": 12
+        },
+        {
+          "id": "hypoparathyroidism",
+          "name": "Hypoparathyroidism",
+          "sourceFile": "Endocrine Brick 19",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "adrenal-cortex-medulla",
+      "name": "Adrenal Cortex & Medulla",
+      "topics": [
+        {
+          "id": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+          "name": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+          "sourceFile": "Endocrine Brick 20",
+          "questionCount": 12
+        },
+        {
+          "id": "adrenal-steroid-biosynthesis-and-regulation",
+          "name": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+          "sourceFile": "Endocrine Brick 21",
+          "questionCount": 12
+        },
+        {
+          "id": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
+          "name": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+          "sourceFile": "Endocrine Brick 22",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "endocrine-pancreas-diabetes",
+      "name": "Endocrine Pancreas & Diabetes",
+      "topics": [
+        {
+          "id": "structure-and-function-of-the-endocrine-pancreas",
+          "name": "Structure and Function of the Endocrine Pancreas",
+          "sourceFile": "Endocrine Brick 23",
+          "questionCount": 12
+        },
+        {
+          "id": "type-1-diabetes-mellitus",
+          "name": "Type 1 Diabetes Mellitus (T1DM)",
+          "sourceFile": "Endocrine Brick 24",
+          "questionCount": 12
+        },
+        {
+          "id": "type-2-diabetes-mellitus",
+          "name": "Type 2 Diabetes Mellitus (T2D)",
+          "sourceFile": "Endocrine Brick 25",
+          "questionCount": 12
+        },
+        {
+          "id": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+          "name": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+          "sourceFile": "Endocrine Brick 26",
+          "questionCount": 12
+        },
+        {
+          "id": "treatment-of-diabetes-with-glucose-lowering-agents",
+          "name": "Treatment of Diabetes with Glucose-Lowering Agents",
+          "sourceFile": "Endocrine Brick 27",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "adrenal-masses-diabetes-emergencies",
+      "name": "Adrenal Masses, Diabetes Emergencies & Complications",
+      "topics": [
+        {
+          "id": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
+          "name": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+          "sourceFile": "Endocrine Brick 28",
+          "questionCount": 12
+        },
+        {
+          "id": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
+          "name": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+          "sourceFile": "Endocrine Brick 29",
+          "questionCount": 12
+        },
+        {
+          "id": "chronic-complications-of-diabetes-mellitus",
+          "name": "Chronic Complications of Diabetes Mellitus",
+          "sourceFile": "Endocrine Brick 30",
+          "questionCount": 12
+        },
+        {
+          "id": "hypoglycemia",
+          "name": "Hypoglycemia",
+          "sourceFile": "Endocrine Brick 31",
+          "questionCount": 12
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 372
+}

@@ -1,0 +1,3318 @@
+{
+  "categoryId": "foundations-anatomy-development",
+  "categoryName": "Foundations, Anatomy & Development",
+  "questions": [
+    {
+      "id": "en01-001",
+      "stem": "A 32-year-old woman presents with several months of fatigue, weight gain, and cold intolerance. Laboratory studies show a serum TSH of 24 microunits/mL (elevated) and a low free T4. Which node of the hypothalamic-pituitary-thyroid axis is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypothalamic TRH-secreting neurons"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary thyrotrophs"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid follicular cells"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral T4-to-T3 converting tissue"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear thyroid hormone receptors in target cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High TSH with low thyroid hormone localizes the lesion to the thyroid gland itself (primary hypothyroidism).",
+        "whyCorrect": "When the thyroid cannot make T3/T4, the negative feedback that normally suppresses TRH and TSH is lost, so the intact hypothalamus and pituitary drive TSH upward while thyroid hormone stays low. This high-TSH/low-T4 fingerprint is the signature of failure at the peripheral gland. Her fatigue, weight gain, and cold intolerance are the effector-output consequences of reduced metabolic rate and thermogenesis.",
+        "whyWrongByChoice": {
+          "A": "Loss of hypothalamic TRH would lower the drive to the pituitary, producing low TSH along with low T3/T4.",
+          "B": "Pituitary failure removes the TSH signal, so TSH and thyroid hormone fall together rather than diverging.",
+          "D": "Impaired peripheral conversion lowers T3 while T4 is maintained and would not markedly raise TSH.",
+          "E": "Receptor-level resistance blunts downstream effect while circulating thyroid hormone stays normal or high, not low."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "node disruption",
+        "primary hypothyroidism"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-002",
+      "stem": "A 47-year-old man is evaluated for fatigue and cold intolerance. Serum TSH is low and free T4 is low. Exogenous TRH is administered, and serum TSH remains flat over the next hour. Which node is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypothalamic TRH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary TSH secretion"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid follicular cell hormone synthesis"
+        },
+        {
+          "label": "D",
+          "text": "TSH receptors on the thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral conversion of T4 to T3"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low TSH with low T4 and no TSH response to exogenous TRH localizes the failure to the pituitary thyrotroph.",
+        "whyCorrect": "Secondary hypothyroidism arises when the pituitary cannot generate the TSH signal, leaving the thyroid unstimulated and both hormones low. Supplying TRH from outside tests whether the pituitary can respond; a flat TSH shows the defect is in the pituitary itself rather than upstream.",
+        "whyWrongByChoice": {
+          "A": "A hypothalamic lesion also gives low TSH and low T4, but the pituitary is intact, so exogenous TRH would raise TSH.",
+          "C": "Failure of the gland removes feedback inhibition and drives TSH high, the opposite of the pattern shown.",
+          "D": "Loss of thyroid TSH receptors leaves the pituitary free to secrete, so TSH would be elevated.",
+          "E": "A conversion defect lowers T3 selectively and does not suppress TSH secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "secondary hypothyroidism",
+        "TRH stimulation"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-003",
+      "stem": "A 39-year-old woman has low serum TSH and low free T4. After exogenous TRH is given, serum TSH rises briskly. Which node is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypothalamic TRH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary TSH secretion"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid follicular cell hormone synthesis"
+        },
+        {
+          "label": "D",
+          "text": "TSH receptors on the thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear thyroid hormone receptors in target tissue"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A pituitary that responds normally to exogenous TRH places the defect one level higher, in the hypothalamus.",
+        "whyCorrect": "The hypothalamus is the integrating center that secretes TRH into the portal system to drive pituitary thyrotrophs. If it fails, TRH is absent, so TSH and thyroid hormone are both low; the thyrotrophs themselves are intact, so replacing TRH from outside restores the TSH rise.",
+        "whyWrongByChoice": {
+          "B": "A failed pituitary cannot respond to TRH, so TSH would remain flat after the stimulus.",
+          "C": "Gland failure produces high TSH with low thyroid hormone because feedback inhibition is lost.",
+          "D": "Loss of thyroid TSH receptors leaves pituitary output unopposed, so TSH would be high.",
+          "E": "Target-cell receptor loss leaves circulating hormone normal or high rather than low."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "hypothalamus",
+        "TRH stimulation"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-004",
+      "stem": "A 44-year-old woman has palpitations, heat intolerance, and weight loss. Serum TSH is elevated and free T4 and T3 are both elevated. MRI shows a sellar mass. Which mechanism best explains this hormone pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of thyroid hormone output that removes feedback inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Absent pituitary signal leaving the thyroid unstimulated"
+        },
+        {
+          "label": "C",
+          "text": "Reduced target-cell receptor sensitivity to thyroid hormone"
+        },
+        {
+          "label": "D",
+          "text": "Autonomous TSH secretion that bypasses negative feedback"
+        },
+        {
+          "label": "E",
+          "text": "Failure of the hypothalamus to release its tropic hormone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "High TSH together with high T3/T4 indicates a tumor secreting TSH independently of the feedback loop.",
+        "whyCorrect": "Normally rising T3/T4 would suppress TSH, so elevated TSH in the face of elevated thyroid hormone can only occur if the source of TSH ignores the feedback signal. A TSH-secreting pituitary adenoma produces the hormone autonomously, driving continued thyroid stimulation and thyrotoxic symptoms.",
+        "whyWrongByChoice": {
+          "A": "Loss of gland output raises TSH but leaves T3/T4 low, not elevated.",
+          "B": "An absent pituitary signal drives TSH and T3/T4 down together.",
+          "C": "Receptor resistance blunts the tissue response and does not by itself raise circulating T3/T4 with hyperthyroid symptoms.",
+          "E": "A hypothalamic lesion lowers TRH, so TSH and thyroid hormone both fall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "pituitary adenoma",
+        "feedback bypass"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-005",
+      "stem": "A 58-year-old woman with type 1 diabetes mellitus and hypothyroidism asks why her levothyroxine is a daily tablet while her insulin must be injected. Which of the following best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Levothyroxine is hydrophilic and therefore absorbed across the gut"
+        },
+        {
+          "label": "B",
+          "text": "Insulin is a peptide and must be injected to preserve its structure"
+        },
+        {
+          "label": "C",
+          "text": "Insulin acts on nuclear receptors that require slow sustained delivery"
+        },
+        {
+          "label": "D",
+          "text": "Levothyroxine is a peptide that resists degradation in the stomach"
+        },
+        {
+          "label": "E",
+          "text": "Insulin is a steroid that is inactivated by hepatic first-pass metabolism"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Route of administration follows hormone class: peptides must be given parenterally, while lipophilic steroid and thyroid hormones can be taken orally.",
+        "whyCorrect": "Insulin is a hydrophilic peptide hormone that requires injection to preserve structure and function, after which it acts through surface receptor cascades within minutes. Thyroid hormone is lipophilic, survives oral administration, and works by altering gene expression over hours to days, which is why replacement is titrated gradually.",
+        "whyWrongByChoice": {
+          "A": "Thyroid hormones are lipophilic, not hydrophilic; that lipid solubility is what permits oral dosing.",
+          "C": "Insulin binds cell-surface receptors coupled to second messengers, not nuclear receptors.",
+          "D": "Levothyroxine is an iodinated amine derivative, not a peptide hormone.",
+          "E": "Insulin is a peptide synthesized as a prohormone, not a cholesterol-derived steroid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone classes",
+        "pharmacology",
+        "route of administration"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-006",
+      "stem": "A 45-year-old man with an asthma exacerbation receives inhaled albuterol and oral prednisone. His wheezing improves within minutes, but the anti-inflammatory benefit of the prednisone is not apparent for many hours. Which property of steroid hormones best explains this delay?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They activate membrane G-protein-coupled receptors and second messengers"
+        },
+        {
+          "label": "B",
+          "text": "They are secreted as prohormones requiring cleavage before activity"
+        },
+        {
+          "label": "C",
+          "text": "They must be delivered through a portal circulation to reach targets"
+        },
+        {
+          "label": "D",
+          "text": "They require peripheral deiodination before binding their receptor"
+        },
+        {
+          "label": "E",
+          "text": "They act as ligand-activated transcription factors altering gene expression"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lipophilic steroid hormones signal through intracellular nuclear receptors, so their effects unfold over hours to days.",
+        "whyCorrect": "Steroids are synthesized from cholesterol and cross the membrane to bind intracellular ligand-activated transcription factors. Because the effector output is a change in gene expression rather than a preexisting enzyme cascade, the physiological response is delayed, which is exactly why corticosteroid onset lags behind a fast surface-receptor drug.",
+        "whyWrongByChoice": {
+          "A": "Membrane receptor cascades are the fast pathway used by peptides and catecholamines, producing effects within minutes.",
+          "B": "Prohormone processing characterizes peptide hormone synthesis, not steroid synthesis.",
+          "C": "Portal delivery describes the hypothalamic-pituitary link, not the reason corticosteroids act slowly.",
+          "D": "Deiodination applies to thyroid hormone conversion, not to cholesterol-derived steroids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone classes",
+        "steroids",
+        "onset of action"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-007",
+      "stem": "In a simple endocrine reflex, an endocrine cell directly detects a fall in a circulating substrate and secretes its hormone in response without any input from the central nervous system. Which statement about the control elements of this pathway is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The hypothalamus serves as the integrating center for the reflex"
+        },
+        {
+          "label": "B",
+          "text": "The secreted hormone functions as the sensor for the reflex"
+        },
+        {
+          "label": "C",
+          "text": "The endocrine cell serves as both the sensor and the integrating center"
+        },
+        {
+          "label": "D",
+          "text": "The target tissue serves as the integrating center for the reflex"
+        },
+        {
+          "label": "E",
+          "text": "The pathway operates without any feedback signal at all"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In simple endocrine reflexes the same endocrine cell both detects the change and compares it against the set point.",
+        "whyCorrect": "The sensor detects the stimulus and the integrating center compares input to a set point; these are usually separate structures, but in a simple endocrine reflex an endocrine cell monitoring a circulating substrate performs both roles. The four control elements (stimulus, sensor, integrating center, feedback signal) are still present, only collapsed into fewer structures.",
+        "whyWrongByChoice": {
+          "A": "The hypothalamus is the integrating center in neuroendocrine and multi-tiered axes, not in a reflex with no CNS input.",
+          "B": "The hormone is a molecular signaling component that carries the message, not the structure that detects change.",
+          "D": "The target tissue generates the effector output; it does not compare input against a set point.",
+          "E": "The hormone's effect on the substrate still loops back as the feedback signal that closes the circuit."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "control elements",
+        "simple endocrine reflex",
+        "sensor"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-008",
+      "stem": "A 54-year-old man with obesity has a fasting plasma glucose of 168 mg/dL and a markedly elevated fasting serum insulin concentration. Which type of pathway disruption best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced target-cell receptor sensitivity with compensatory hormone secretion"
+        },
+        {
+          "label": "B",
+          "text": "Destruction of the hormone-secreting cells with intact target receptors"
+        },
+        {
+          "label": "C",
+          "text": "Autonomous hormone secretion from a tumor that bypasses feedback"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the integrating center to release its tropic hormone"
+        },
+        {
+          "label": "E",
+          "text": "Absent second messengers because the hormone never reaches circulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "High circulating hormone with a deficient downstream effect is the fingerprint of receptor-level disruption.",
+        "whyCorrect": "When receptors are downregulated or mutated, effector output falls even though hormone levels are normal or high; the pathway senses the inadequate response and secretes more hormone. In type 2 diabetes, reduced insulin receptor sensitivity produces compensatory hyperinsulinemia while glucose uptake remains impaired.",
+        "whyWrongByChoice": {
+          "B": "Loss of the secreting cells would produce low, not markedly elevated, circulating insulin.",
+          "C": "Autonomous secretion from a tumor would drive glucose down rather than leave it elevated.",
+          "D": "Insulin release is a simple endocrine reflex from the pancreas, and a missing tropic signal would lower insulin.",
+          "E": "Insulin is clearly reaching the circulation here, since its measured concentration is high."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "receptor resistance",
+        "type 2 diabetes",
+        "disruption patterns"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-009",
+      "stem": "A 26-year-old woman is undergoing ovulation monitoring. Mid-cycle, her serum estradiol rises steadily and is followed by an abrupt surge in luteinizing hormone and then ovulation. Which regulatory mechanism does this sequence illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative feedback, in which output suppresses the upstream drive"
+        },
+        {
+          "label": "B",
+          "text": "Receptor downregulation, in which target cells lose responsiveness"
+        },
+        {
+          "label": "C",
+          "text": "Set-point resetting, in which the integrating center is bypassed"
+        },
+        {
+          "label": "D",
+          "text": "Positive feedback, in which output amplifies the signal that produced it"
+        },
+        {
+          "label": "E",
+          "text": "Signal amplification, in which each tier magnifies the tier above"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The mid-cycle LH surge is the classic example of positive feedback in an endocrine axis.",
+        "whyCorrect": "Positive feedback amplifies rather than suppresses the original signal, so rising estrogen stimulates further LH release until ovulation is triggered. It is inherently unstable and therefore reserved for rapid, all-or-nothing events rather than sustained homeostatic control.",
+        "whyWrongByChoice": {
+          "A": "Negative feedback would have rising estrogen shut LH secretion down, not drive it to surge.",
+          "B": "Receptor downregulation reduces the response to a hormone; here responsiveness is escalating.",
+          "C": "The hypothalamic-pituitary integrating center is participating in this response, not being bypassed.",
+          "E": "Amplification across tiers describes how a small signal is magnified, but it does not explain the self-reinforcing rise."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "positive feedback",
+        "LH surge",
+        "feedback mechanisms"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-010",
+      "stem": "A healthy adult moves into a cold environment, and circulating thyroid hormone falls below its set point. Which sequence correctly orders the hypothalamic-pituitary-thyroid axis from stimulus to effector output?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low T3/T4, then TSH, then TRH, then T3/T4, then metabolic effects"
+        },
+        {
+          "label": "B",
+          "text": "Low T3/T4, then TRH, then TSH, then T3/T4, then metabolic effects"
+        },
+        {
+          "label": "C",
+          "text": "Low T3/T4, then TSH, then T3/T4, then metabolic effects, then TRH"
+        },
+        {
+          "label": "D",
+          "text": "Low T3/T4, then TRH, then metabolic effects, then TSH, then T3/T4"
+        },
+        {
+          "label": "E",
+          "text": "Low T3/T4, then T3/T4, then TRH, then TSH, then metabolic effects"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The HPT axis runs top down: hypothalamus, then anterior pituitary, then thyroid, then target tissue.",
+        "whyCorrect": "Hypothalamic neurons sense the low thyroid hormone and secrete TRH into the portal system; TRH binds G-protein-coupled receptors on pituitary thyrotrophs to release TSH; TSH stimulates thyroid follicular cells to make T4 and T3; T3 then binds nuclear receptors in target cells to change gene expression and metabolic rate.",
+        "whyWrongByChoice": {
+          "A": "This places pituitary TSH before hypothalamic TRH, reversing the anatomic hierarchy.",
+          "C": "This omits the hypothalamic step from the efferent limb and appends TRH after the response.",
+          "D": "Metabolic effects cannot precede the secretion of the hormone that produces them.",
+          "E": "Thyroid hormone cannot rise before the tropic signals that stimulate its synthesis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "sequencing",
+        "pathway logic"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-011",
+      "stem": "A hormone is synthesized from the amino acid tyrosine and exerts its effects by entering the nucleus of target cells and binding a transcription factor receptor. Which hormone has these properties?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Insulin"
+        },
+        {
+          "label": "D",
+          "text": "Follicle-stimulating hormone"
+        },
+        {
+          "label": "E",
+          "text": "Thyroxine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thyroid hormones are the amine-derived hormones that are lipophilic and act on nuclear receptors.",
+        "whyCorrect": "Amine hormones are built from tyrosine, tryptophan, or histidine, and most of them are hydrophilic and use membrane receptors. Thyroid hormones are the exception: they are lipophilic amine derivatives whose receptors are nuclear transcription factors, so T3 enters the nucleus and modulates gene expression governing metabolism, thermogenesis, and cardiac function.",
+        "whyWrongByChoice": {
+          "A": "Epinephrine is also tyrosine-derived but is hydrophilic and signals through cell membrane receptors.",
+          "B": "Cortisol acts on an intracellular receptor but is synthesized from cholesterol rather than an amino acid.",
+          "C": "Insulin is a peptide made as a prohormone and binds a cell-surface receptor.",
+          "D": "Follicle-stimulating hormone is a protein hormone acting at membrane receptors on target cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone classes",
+        "thyroid hormone",
+        "nuclear receptors"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en01-012",
+      "stem": "In the hypothalamic-pituitary-thyroid axis, an extremely small quantity of TRH delivered through the portal system produces a much larger mass of circulating thyroid hormone and a body-wide change in metabolic rate. Which property of multi-tiered endocrine axes best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Each anatomical level dampens the signal to protect the target tissue"
+        },
+        {
+          "label": "B",
+          "text": "The hypothalamus releases its hormone directly into systemic circulation"
+        },
+        {
+          "label": "C",
+          "text": "Each anatomical level amplifies the signal received from the level above"
+        },
+        {
+          "label": "D",
+          "text": "Tropic hormones act on adjacent cells by paracrine diffusion"
+        },
+        {
+          "label": "E",
+          "text": "Positive feedback at each tier sustains the response once initiated"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Amplification at every tier lets a small hypothalamic input drive a large, coordinated peripheral response.",
+        "whyCorrect": "In a multi-tiered axis the hypothalamus signals the anterior pituitary, which signals a peripheral gland, which acts on target tissue, and each transition magnifies the signal from the level above. That is why tiny hypothalamic outputs produce system-wide effects, and why each level is also a discrete point of regulation and of potential disruption.",
+        "whyWrongByChoice": {
+          "A": "Dampening at each step would make the axis progressively less effective, the opposite of what occurs.",
+          "B": "Hypothalamic releasing hormones travel through the hypothalamic-pituitary portal system, not the systemic circulation.",
+          "D": "Endocrine pathways are defined by delivery through circulation to distant targets rather than paracrine diffusion.",
+          "E": "The HPT axis is governed by negative feedback; rising T3/T4 suppresses TRH and TSH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "amplification",
+        "pathway architecture"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways"
+    },
+    {
+      "id": "en02-001",
+      "stem": "A 46-year-old woman reports that she has been bumping into objects at the edges of her vision for several months. Formal testing shows loss of the outer visual fields in both eyes. MRI demonstrates a mass filling and expanding the sella turcica. Compression of which structure best explains her visual findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsum sellae, which lies immediately superior to the gland"
+        },
+        {
+          "label": "B",
+          "text": "Infundibulum, which lies immediately inferior to the gland"
+        },
+        {
+          "label": "C",
+          "text": "Optic chiasm, which lies immediately superior to the gland"
+        },
+        {
+          "label": "D",
+          "text": "Cavernous sinus, which lies immediately superior to the gland"
+        },
+        {
+          "label": "E",
+          "text": "Sphenoid sinus, which lies immediately superior to the gland"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The optic chiasm sits directly above the pituitary, so a growing sellar mass compresses it and takes out peripheral vision.",
+        "whyCorrect": "The chiasm is the crossing point of the left and right optic nerves and lies just superior to the pituitary gland. An enlarging gland pushes upward out of the hypophyseal fossa and presses on the chiasm, producing bilateral loss of the peripheral visual fields. This superior relationship is one of the key reasons sellar imaging is interpreted with the surrounding structures in mind.",
+        "whyWrongByChoice": {
+          "A": "The dorsum sellae is the bony wall posterior to the gland and is not a visual pathway structure.",
+          "B": "The infundibulum runs superiorly from the gland to the hypothalamus, not inferiorly, and it carries no visual fibers.",
+          "D": "The cavernous sinuses lie lateral to the pituitary on each side, not above it, and compression there affects cranial nerves rather than vision fields.",
+          "E": "The sphenoid sinus lies inferior to the gland and forms the floor of the sella turcica."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pituitary",
+        "sella turcica",
+        "optic chiasm"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-002",
+      "stem": "A 58-year-old man with a pituitary tumor that has extended laterally develops horizontal double vision and cannot abduct the right eye. Pupillary responses, eye elevation, and facial sensation are intact. Which feature best explains why this cranial nerve was affected before the others?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It runs freely within the cavernous sinus, while the others sit embedded in the lateral wall"
+        },
+        {
+          "label": "B",
+          "text": "It runs embedded in the medial wall of the cavernous sinus, while the others run freely"
+        },
+        {
+          "label": "C",
+          "text": "It passes through the optic canal directly above the pituitary, while the others pass laterally"
+        },
+        {
+          "label": "D",
+          "text": "It crosses the floor of the sella turcica within the sphenoid sinus, while the others stay above"
+        },
+        {
+          "label": "E",
+          "text": "It travels in the carotid sheath lateral to the cavernous sinus, while the others travel inside"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CN VI courses freely inside the cavernous sinus next to the internal carotid artery, making it the first nerve hit by lateral pituitary extension.",
+        "whyCorrect": "Within the cavernous sinus, the abducens nerve is suspended in the sinus itself alongside the internal carotid artery and has no bony or dural cushion. Cranial nerves III, IV, V1, and V2 are embedded within the lateral wall of the sinus, where they are partially protected. Consequently, a mass expanding into the cavernous sinus typically produces an isolated lateral rectus palsy before other cranial nerve deficits appear.",
+        "whyWrongByChoice": {
+          "B": "The nerve is not embedded in a medial wall; it is the one nerve that runs unprotected within the sinus lumen.",
+          "C": "The optic canal transmits the optic nerve, and compression there would cause visual loss rather than an abduction deficit.",
+          "D": "No cranial nerve to the extraocular muscles runs through the sphenoid sinus beneath the sellar floor.",
+          "E": "The carotid sheath is a neck structure containing the common carotid artery, internal jugular vein, and vagus nerve."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cavernous sinus",
+        "CN VI",
+        "pituitary tumor"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-003",
+      "stem": "A 39-year-old man with a hormone-secreting pituitary adenoma is scheduled for resection. The neurosurgeon plans an approach through the nasal cavity that avoids retracting the brain. Which structure must the surgeon traverse to reach the gland?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Frontal sinus"
+        },
+        {
+          "label": "B",
+          "text": "Maxillary sinus"
+        },
+        {
+          "label": "C",
+          "text": "Third ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Sphenoid sinus"
+        },
+        {
+          "label": "E",
+          "text": "Cavernous sinus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transsphenoidal surgery reaches the pituitary through the nasal cavity and the sphenoid sinus, which forms the floor of the sella.",
+        "whyCorrect": "The pituitary sits in the hypophyseal fossa directly above the sphenoid sinus, and that sinus communicates with the nasal cavity. Passing through it gives a direct midline corridor to the gland while sparing the brain from retraction. This is why the transsphenoidal route is the most common approach for pituitary surgery.",
+        "whyWrongByChoice": {
+          "A": "The frontal sinus lies well above and anterior to the sella and is not on the route to the pituitary.",
+          "B": "The maxillary sinus sits lateral and inferior within the face and does not border the hypophyseal fossa.",
+          "C": "The third ventricle lies superior to the hypothalamus, and entering it would require the very brain retraction this approach avoids.",
+          "E": "The cavernous sinuses flank the gland laterally and are deliberately avoided because of the carotid artery and cranial nerves within them."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transsphenoidal surgery",
+        "pituitary",
+        "sphenoid sinus"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-004",
+      "stem": "A 29-year-old woman has massive postpartum hemorrhage requiring transfusion. Over the following weeks she is unable to breastfeed and develops fatigue and amenorrhea. Which mechanism best accounts for her endocrine failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Occlusion of the internal carotid artery proximal to both hypophyseal branches"
+        },
+        {
+          "label": "B",
+          "text": "Ischemic necrosis of the adenohypophysis, which depends on portal venous perfusion"
+        },
+        {
+          "label": "C",
+          "text": "Ischemic necrosis of the neurohypophysis, which depends on portal venous perfusion"
+        },
+        {
+          "label": "D",
+          "text": "Thrombosis of the cavernous sinus obstructing venous outflow from the gland"
+        },
+        {
+          "label": "E",
+          "text": "Compression of the infundibulum interrupting axonal transport from the hypothalamus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The anterior pituitary is perfused by the low-pressure hypophyseal portal system, which makes it uniquely vulnerable to hemorrhagic hypotension.",
+        "whyCorrect": "Rather than receiving a direct arterial supply, the anterior pituitary is fed by portal veins descending from a hypothalamic capillary plexus through the infundibulum. When perfusion pressure falls during severe postpartum hemorrhage, this arrangement leaves the adenohypophysis prone to ischemic necrosis, the lesion of Sheehan syndrome. Loss of anterior lobe hormones explains her failed lactation, fatigue, and amenorrhea.",
+        "whyWrongByChoice": {
+          "A": "Carotid occlusion would produce major cerebral ischemia rather than isolated anterior pituitary failure.",
+          "C": "The posterior lobe is supplied directly by the inferior hypophyseal arteries, so it is not the portal-dependent tissue at risk.",
+          "D": "Cavernous sinus thrombosis obstructs venous return and involves the nerves in the sinus rather than causing anterior lobe hormone loss after hemorrhage.",
+          "E": "Stalk compression is a mass effect and does not follow from obstetric blood loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Sheehan syndrome",
+        "hypophyseal portal system",
+        "anterior pituitary"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-005",
+      "stem": "A 41-year-old woman is found on examination to have a smooth anterior neck mass that rises when she is asked to swallow. Which anatomic feature best explains this movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The gland is suspended from the hyoid bone by the infrahyoid muscles"
+        },
+        {
+          "label": "B",
+          "text": "The gland lies within the carotid sheath and moves with the great vessels"
+        },
+        {
+          "label": "C",
+          "text": "The gland is tethered posteriorly to the wall of the cervical esophagus"
+        },
+        {
+          "label": "D",
+          "text": "The gland is embedded within the fibers of the cricothyroid membrane"
+        },
+        {
+          "label": "E",
+          "text": "The gland is anchored by its fibrous capsule to the larynx and trachea"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The thyroid moves with swallowing because its capsule fixes it to the larynx and trachea, which elevate during deglutition.",
+        "whyCorrect": "The thyroid gland is enclosed by a fibrous capsule and firmly attached to the laryngeal and tracheal cartilages it wraps around. When the larynx and trachea rise during swallowing, the gland and any mass within it rise with them. Clinicians use this sign at the bedside to identify a neck mass as thyroid in origin.",
+        "whyWrongByChoice": {
+          "A": "The infrahyoid muscles lie anterior to the gland as strap muscles and do not suspend it from the hyoid.",
+          "B": "The carotid sheath with the common carotid artery and internal jugular vein lies lateral to the thyroid, not around it.",
+          "C": "The esophagus lies posterior to the trachea and is not the structure that fixes the gland in place.",
+          "D": "The cricothyroid membrane spans between the thyroid and cricoid cartilages and does not enclose glandular tissue."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thyroid",
+        "anterior neck",
+        "physical examination"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-006",
+      "stem": "A 55-year-old man undergoes total thyroidectomy for a large goiter. On the first postoperative day his voice is markedly hoarse, and laryngoscopy shows impaired vocal cord mobility. Injury to which nerve is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glossopharyngeal nerve"
+        },
+        {
+          "label": "B",
+          "text": "Spinal accessory nerve"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent laryngeal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Phrenic nerve"
+        },
+        {
+          "label": "E",
+          "text": "Hypoglossal nerve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The recurrent laryngeal nerves run posterolateral to the thyroid and supply most intrinsic laryngeal muscles, so thyroid surgery risks hoarseness and cord paralysis.",
+        "whyCorrect": "The left and right recurrent laryngeal nerves course posterolaterally along the thyroid gland, immediately adjacent to the operative field in thyroidectomy. Because they innervate most of the intrinsic muscles of the larynx, injury produces hoarseness, voice change, or vocal cord paralysis. Their proximity to the gland is the reason they are carefully identified during neck surgery.",
+        "whyWrongByChoice": {
+          "A": "The glossopharyngeal nerve serves pharyngeal sensation and the stylopharyngeus, not the vocal cords.",
+          "B": "The spinal accessory nerve innervates the sternocleidomastoid and trapezius in the posterior triangle.",
+          "D": "The phrenic nerve descends on the anterior scalene to the diaphragm, and injury causes hemidiaphragm paralysis rather than hoarseness.",
+          "E": "The hypoglossal nerve supplies the tongue muscles and is well above the thyroid bed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "recurrent laryngeal nerve",
+        "thyroidectomy",
+        "thyroid relationships"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-007",
+      "stem": "Two days after a difficult thyroidectomy, a 62-year-old woman develops perioral tingling and carpal spasm, and serum calcium is low. The surgeon suspects that the blood supply to the small glands on the posterior thyroid surface was disrupted. Which vessels were most likely compromised?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior phrenic arteries"
+        },
+        {
+          "label": "B",
+          "text": "Inferior thyroid arteries"
+        },
+        {
+          "label": "C",
+          "text": "Superior thyroid arteries"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid ima artery"
+        },
+        {
+          "label": "E",
+          "text": "Superior hypophyseal arteries"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The parathyroid glands are supplied mainly by the inferior thyroid arteries, so their disruption during thyroid surgery causes postoperative hypocalcemia.",
+        "whyCorrect": "The inferior thyroid arteries, branches of the thyrocervical trunks, supply the posterior and inferior thyroid as well as the parathyroid glands embedded on that posterior surface. This shared circulation is why parathyroid function can fail when these vessels are ligated or injured during thyroidectomy. Loss of parathyroid hormone then drops serum calcium, producing tetany.",
+        "whyWrongByChoice": {
+          "A": "The inferior phrenic arteries give rise to the superior adrenal arteries in the abdomen.",
+          "C": "The superior thyroid arteries, from the external carotids, supply the superior and anterior thyroid rather than the parathyroids.",
+          "D": "The thyroid ima artery is an inconstant vessel that supplies the isthmus when present.",
+          "E": "The superior hypophyseal arteries supply the pituitary gland at the base of the brain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parathyroid",
+        "inferior thyroid artery",
+        "postoperative hypocalcemia"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-008",
+      "stem": "A 50-year-old man with resistant hypertension undergoes adrenal venous sampling to localize excess aldosterone production. To sample the left adrenal gland, the interventional radiologist advances the catheter from the inferior vena cava into which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left hepatic vein"
+        },
+        {
+          "label": "B",
+          "text": "Left inferior phrenic artery"
+        },
+        {
+          "label": "C",
+          "text": "Splenic vein"
+        },
+        {
+          "label": "D",
+          "text": "Left brachiocephalic vein"
+        },
+        {
+          "label": "E",
+          "text": "Left renal vein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Each adrenal drains through a single vein: the right empties into the inferior vena cava, the left into the left renal vein.",
+        "whyCorrect": "Although each adrenal gland receives arterial blood from three sources, venous blood from cortex and medulla converges into one adrenal vein. On the left, that vein drains into the left renal vein, so a catheter in the inferior vena cava must be advanced into the left renal vein to reach it. On the right, the adrenal vein enters the inferior vena cava directly.",
+        "whyWrongByChoice": {
+          "A": "The adrenal veins do not drain into hepatic veins on either side.",
+          "B": "The inferior phrenic artery gives off superior adrenal arteries and carries blood toward, not away from, the gland.",
+          "C": "The splenic vein drains the pancreas and spleen into the portal venous system.",
+          "D": "The brachiocephalic veins receive the inferior thyroid veins in the thorax, not adrenal blood."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal gland",
+        "venous drainage",
+        "adrenal vein sampling"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-009",
+      "stem": "During resection of an adrenal mass, the surgeon controls a vessel entering the gland midway along its medial border. This middle adrenal artery arises directly from which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal aorta"
+        },
+        {
+          "label": "B",
+          "text": "Renal artery"
+        },
+        {
+          "label": "C",
+          "text": "Inferior phrenic artery"
+        },
+        {
+          "label": "D",
+          "text": "Celiac trunk"
+        },
+        {
+          "label": "E",
+          "text": "Superior mesenteric artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The adrenal gland has three arterial sources: superior from the inferior phrenic, middle from the aorta, and inferior from the renal artery.",
+        "whyCorrect": "The middle adrenal arteries branch directly off the abdominal aorta, which lies just medial to the left gland and near the midline behind the right. This direct aortic branch is one of three separate inflows that give the gland its rich arterial supply. Recognizing all three is important because each must be controlled during adrenalectomy.",
+        "whyWrongByChoice": {
+          "B": "The renal arteries give rise to the inferior adrenal arteries, not the middle ones.",
+          "C": "The inferior phrenic arteries give rise to the superior adrenal arteries.",
+          "D": "The celiac trunk supplies foregut structures, including much of the pancreas through the splenic and common hepatic arteries.",
+          "E": "The superior mesenteric artery supplies midgut structures and gives the inferior pancreaticoduodenal arteries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal gland",
+        "arterial supply",
+        "middle adrenal artery"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-010",
+      "stem": "A 44-year-old woman has episodic headache, palpitations, tremor, and drenching sweats. Imaging shows a tumor arising from the central core of the right suprarenal gland. The cells of origin are best described as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Steroid-producing cortical cells that secrete epinephrine and norepinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Steroid-producing cortical cells that secrete glucocorticoids and androgens"
+        },
+        {
+          "label": "C",
+          "text": "Islet-derived neuroendocrine cells that secrete somatostatin and glucagon"
+        },
+        {
+          "label": "D",
+          "text": "Modified sympathetic neurons that secrete epinephrine and norepinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Modified sympathetic neurons that secrete mineralocorticoids and glucocorticoids"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The adrenal medulla forms the central core of the gland and is made of modified sympathetic neurons that release catecholamines.",
+        "whyCorrect": "The adrenal gland is organized into an outer cortex and a central medulla that differ in embryologic origin, microscopic structure, and hormone output. The medulla behaves as part of the autonomic nervous system and secretes epinephrine and norepinephrine. A catecholamine surge from a medullary tumor explains her episodic headache, palpitations, tremor, and sweating.",
+        "whyWrongByChoice": {
+          "A": "Cortical cells make steroids; they do not synthesize catecholamines.",
+          "B": "Glucocorticoids and androgens come from the cortex, which forms the outer portion rather than the central core.",
+          "C": "Islet cells belong to the endocrine pancreas and are not found in the adrenal gland.",
+          "E": "Mineralocorticoids and glucocorticoids are steroid products of the cortex, not of medullary neuronal cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal medulla",
+        "catecholamines",
+        "adrenal structure"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-011",
+      "stem": "A 61-year-old man is scheduled for resection of the tail of the pancreas for a localized lesion. He asks whether removing that part of the organ will eliminate his ability to make insulin. Which statement about the endocrine pancreas best informs the answer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Islets of Langerhans form a discrete lobe along the pancreatic neck"
+        },
+        {
+          "label": "B",
+          "text": "Islets of Langerhans line the pancreatic duct throughout the whole gland"
+        },
+        {
+          "label": "C",
+          "text": "Islets of Langerhans are scattered throughout the head, body, and tail"
+        },
+        {
+          "label": "D",
+          "text": "Islets of Langerhans are confined to the tail near the splenic hilum"
+        },
+        {
+          "label": "E",
+          "text": "Islets of Langerhans are confined to the head within the duodenal curve"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The endocrine pancreas is not a gross anatomic region; it consists of microscopic islets dispersed through the entire gland.",
+        "whyCorrect": "Within the predominantly exocrine pancreas, clusters of endocrine cells called the islets of Langerhans are distributed across the head, body, and tail. Because they are microscopic and diffuse rather than segregated into one region, removing the tail leaves islet tissue in the remaining pancreas. These islets produce insulin, glucagon, somatostatin, and pancreatic polypeptide directly into the bloodstream.",
+        "whyWrongByChoice": {
+          "A": "The neck is a narrow segment of the gland and contains no separate endocrine lobe.",
+          "B": "The ductal system is the exocrine drainage route; islets are not arranged along it.",
+          "D": "Islets are present well beyond the tail, so a distal segment does not hold the entire endocrine pancreas.",
+          "E": "The head contains islets, but it is not their exclusive location."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endocrine pancreas",
+        "islets of Langerhans",
+        "pancreatic regions"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en02-012",
+      "stem": "Insulin released from the islets of Langerhans enters the venous blood leaving the pancreas. This hormone-rich blood travels first into which venous circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavernous sinus by way of the hypophyseal venous plexus"
+        },
+        {
+          "label": "B",
+          "text": "Portal venous system by way of the splenic and superior mesenteric veins"
+        },
+        {
+          "label": "C",
+          "text": "Inferior vena cava by way of a single pancreatic vein"
+        },
+        {
+          "label": "D",
+          "text": "Left renal vein by way of the greater pancreatic vein"
+        },
+        {
+          "label": "E",
+          "text": "Brachiocephalic veins by way of the inferior thyroid veins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pancreatic venous blood, including islet hormone output, drains into the portal venous system through the splenic and superior mesenteric veins.",
+        "whyCorrect": "Venous drainage of the pancreas parallels its arterial supply and empties into the splenic and superior mesenteric veins, which unite to form the portal vein. Islet hormones such as insulin therefore enter the portal circulation rather than draining directly into the systemic veins. This contrasts with the adrenal gland, whose single adrenal vein delivers blood straight into the systemic circulation.",
+        "whyWrongByChoice": {
+          "A": "The cavernous sinus receives venous blood carrying pituitary hormones.",
+          "C": "The pancreas has no single vein emptying into the inferior vena cava; its drainage is portal.",
+          "D": "The left renal vein receives the left adrenal vein, not pancreatic venous blood.",
+          "E": "The brachiocephalic veins receive the inferior thyroid veins from the neck."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pancreas",
+        "portal venous system",
+        "venous drainage"
+      ],
+      "topicId": "anatomy-of-the-endocrine-system",
+      "topicName": "Anatomy of the Endocrine System"
+    },
+    {
+      "id": "en03-001",
+      "stem": "A 9-year-old boy is brought for a well-child visit. He is healthy and active. On examination, there is a firm, painless, 3-cm midline neck mass just above the level of the hyoid bone that moves upward when he swallows or protrudes his tongue. Which of the following best explains the origin of this mass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the ultimobranchial body to join the thyroid"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete obliteration of a pharyngeal cleft laterally"
+        },
+        {
+          "label": "C",
+          "text": "Persistence of a segment of the thyroglossal duct"
+        },
+        {
+          "label": "D",
+          "text": "Fragmentation of a parathyroid gland during its descent"
+        },
+        {
+          "label": "E",
+          "text": "Enlargement of a remnant of Rathke pouch in the neck"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A midline neck mass that elevates with swallowing or tongue protrusion is a thyroglossal duct cyst.",
+        "whyCorrect": "The thyroid descends from the floor of the primitive pharynx while tethered to the tongue by the thyroglossal duct, which normally degenerates and leaves the foramen cecum. When a segment of that duct persists, it can form a cyst anywhere from the foramen cecum to the suprasternal notch, most often near the hyoid bone. Because the remnant retains its attachment along the tongue-to-neck tract, the mass moves superiorly with swallowing and tongue protrusion.",
+        "whyWrongByChoice": {
+          "A": "The ultimobranchial body supplies parafollicular C cells to the thyroid; its failure would affect calcitonin-producing cells, not create a mobile midline cyst.",
+          "B": "Pharyngeal cleft remnants produce lateral neck lesions, not a midline mass tethered to the tongue.",
+          "D": "Fragmented parathyroid tissue yields accessory or ectopic glands, typically clinically silent or mediastinal rather than a midline neck mass.",
+          "E": "Rathke pouch remnants remain intracranial in the sellar or parasellar region and do not descend into the neck."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thyroid development",
+        "thyroglossal duct cyst",
+        "neck mass"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-002",
+      "stem": "A 7-year-old girl has a painless midline neck mass consistent with a thyroglossal duct cyst, and surgical excision is planned because of recurrent infections. Which of the following is the most important step before the cyst is removed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Confirm that the parathyroid glands are in normal position"
+        },
+        {
+          "label": "B",
+          "text": "Document that serum calcitonin concentration is normal"
+        },
+        {
+          "label": "C",
+          "text": "Document that the pyramidal lobe of the thyroid is absent"
+        },
+        {
+          "label": "D",
+          "text": "Confirm that normally located thyroid tissue is present"
+        },
+        {
+          "label": "E",
+          "text": "Establish that the mass moves with tongue protrusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A thyroglossal duct cyst may contain the patient's only functioning thyroid tissue, so normal thyroid must be confirmed before excision.",
+        "whyCorrect": "Thyroid tissue can be found anywhere along the path of descent, and a thyroglossal duct remnant may harbor ectopic thyroid. If that ectopic tissue is the patient's only functioning thyroid, removing the cyst produces hypothyroidism. Imaging to confirm a normally positioned gland therefore precedes excision.",
+        "whyWrongByChoice": {
+          "A": "The parathyroids arise from pharyngeal pouch endoderm and are not part of the thyroglossal tract, so their position does not affect this operation.",
+          "B": "Calcitonin reflects parafollicular C-cell function and does not indicate whether normal thyroid tissue exists in the neck.",
+          "C": "The pyramidal lobe is a common normal variant derived from the distal duct and is not a contraindication to excision.",
+          "E": "Movement with tongue protrusion supports the diagnosis but does not address the risk of removing functioning thyroid tissue."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thyroglossal duct cyst",
+        "ectopic thyroid",
+        "management"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-003",
+      "stem": "A 12-year-old boy has months of worsening headache and nausea and is found on examination to have loss of vision in both temporal fields. MRI shows a suprasellar mass compressing the optic chiasm. This tumor most likely arose from remnants of a structure derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neuroectoderm of the diencephalon"
+        },
+        {
+          "label": "B",
+          "text": "Oral ectoderm of the primitive mouth roof"
+        },
+        {
+          "label": "C",
+          "text": "Endoderm of the primitive pharyngeal floor"
+        },
+        {
+          "label": "D",
+          "text": "Neural crest cells migrating from the neural tube"
+        },
+        {
+          "label": "E",
+          "text": "Mesoderm adjacent to the developing gonadal ridge"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Craniopharyngiomas arise from Rathke pouch remnants, which are oral ectoderm.",
+        "whyCorrect": "Rathke pouch is an ectodermal outpouching from the roof of the primitive oral cavity that grows upward to become the anterior pituitary. Remnants left behind in the sella turcica or parasellar region can give rise to craniopharyngiomas, which are benign and slow growing. Their location explains the headache and nausea from raised intracranial pressure and the visual field loss from optic chiasm compression.",
+        "whyWrongByChoice": {
+          "A": "Diencephalic neuroectoderm forms the posterior pituitary, which is neural tissue and not the source of these remnant-derived tumors.",
+          "C": "Pharyngeal floor endoderm gives rise to the thyroid primordium, which descends into the neck rather than into the sella.",
+          "D": "Neural crest contributes the adrenal medulla and other chromaffin tissue, not the pituitary region.",
+          "E": "Mesoderm near the gonadal ridge contributes to gonadal and adrenal cortical tissue, not to sellar tumors."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pituitary development",
+        "Rathke pouch",
+        "craniopharyngioma"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-004",
+      "stem": "An investigator studies a mouse embryo in which the downward extension of neural tissue from the developing brain fails to form, although the outpouching from the oral cavity roof develops normally. Deficiency of which of the following hormones is most likely in the mature animal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenocorticotropic hormone"
+        },
+        {
+          "label": "B",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid-stimulating hormone"
+        },
+        {
+          "label": "E",
+          "text": "Antidiuretic hormone"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The posterior pituitary forms from a downgrowth of diencephalic neuroectoderm and releases ADH and oxytocin.",
+        "whyCorrect": "As Rathke pouch grows upward, neural tissue extends downward from the diencephalon and carries hypothalamic axons that become the posterior lobe. Loss of that downgrowth eliminates the neurohypophysis, so ADH, which promotes renal water reabsorption, and oxytocin cannot be released. The oral outpouching is intact in this embryo, so the anterior lobe still forms.",
+        "whyWrongByChoice": {
+          "A": "ACTH is an anterior lobe product derived from the intact Rathke pouch tissue.",
+          "B": "Growth hormone is made by the anterior lobe, which develops normally in this embryo.",
+          "C": "Prolactin is an anterior lobe hormone acting directly on target tissue and is unaffected.",
+          "D": "TSH comes from anterior pituitary thyrotrophs and would still be produced."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pituitary development",
+        "posterior pituitary",
+        "neuroectoderm"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-005",
+      "stem": "A 3-week-old infant has a seizure. Serum calcium is low and serum phosphate is elevated; parathyroid hormone concentration is inappropriately low. He has had two episodes of pneumonia since birth, and imaging shows no thymic tissue. Abnormal development of which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Third and fourth pharyngeal pouches"
+        },
+        {
+          "label": "B",
+          "text": "First and second pharyngeal clefts"
+        },
+        {
+          "label": "C",
+          "text": "Midline floor of the primitive pharynx"
+        },
+        {
+          "label": "D",
+          "text": "Ultimobranchial body and its C cells"
+        },
+        {
+          "label": "E",
+          "text": "Neural crest cells populating the adrenal gland"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "DiGeorge syndrome reflects failed development of the third and fourth pharyngeal pouches, producing absent parathyroids and thymus.",
+        "whyCorrect": "The parathyroid glands arise from endoderm of the third and fourth pharyngeal pouches, and the thymus develops in the same region. In 22q11 deletion syndrome these pouches develop abnormally, so the parathyroids are absent or hypoplastic and the thymus is aplastic. The result is hypocalcemia from hypoparathyroidism together with T-cell deficiency and recurrent infections.",
+        "whyWrongByChoice": {
+          "B": "Pharyngeal clefts are ectoderm-covered external grooves and do not give rise to parathyroid or thymic tissue.",
+          "C": "The midline pharyngeal floor produces the thyroid primordium; its failure causes thyroid agenesis, not hypocalcemia with absent thymus.",
+          "D": "The ultimobranchial body supplies calcitonin-secreting C cells, whose loss would not cause hypocalcemia with low PTH.",
+          "E": "Neural crest failure in the adrenal gland impairs catecholamine-producing chromaffin cells, not calcium regulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parathyroid development",
+        "pharyngeal pouches",
+        "DiGeorge syndrome"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-006",
+      "stem": "A 54-year-old woman with hypercalcemia and an elevated parathyroid hormone concentration undergoes neck exploration, but only three parathyroid glands are identified and the hypercalcemia persists. Imaging of which of the following locations is most likely to reveal the responsible gland?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Base of the tongue, near the foramen cecum"
+        },
+        {
+          "label": "B",
+          "text": "Along the carotid sheath above the hyoid bone"
+        },
+        {
+          "label": "C",
+          "text": "Anterior mediastinum, near thymic tissue"
+        },
+        {
+          "label": "D",
+          "text": "Within the isthmus of the thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Posterior mediastinum, adjacent to the esophagus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inferior parathyroid glands descend with the thymus, so ectopic glands are classically found in the anterior mediastinum.",
+        "whyCorrect": "The inferior parathyroids arise from the third pharyngeal pouch and travel with the thymus into the lower neck, a longer migration than the superior glands make. Abnormal migration can therefore carry an inferior gland into the anterior mediastinum alongside thymic tissue. This is the classic ectopic site that complicates localization in hyperparathyroidism.",
+        "whyWrongByChoice": {
+          "A": "The tongue base is the classic site of ectopic thyroid tissue, not of parathyroid glands.",
+          "B": "The parathyroid migration path follows the thymus inferiorly rather than tracking upward along the carotid sheath.",
+          "D": "Parathyroid glands lie on the posterior surface of the thyroid; the isthmus is the expected site of a pyramidal lobe instead.",
+          "E": "The descent that carries an inferior gland out of the neck follows the thymus into the anterior, not posterior, mediastinum."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "parathyroid development",
+        "ectopic parathyroid",
+        "hyperparathyroidism"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-007",
+      "stem": "During a neck dissection, a parathyroid gland is identified at the upper pole of the posterior thyroid surface. This gland is derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Third pharyngeal pouch endoderm"
+        },
+        {
+          "label": "B",
+          "text": "Second pharyngeal pouch endoderm"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest mesenchyme of the arches"
+        },
+        {
+          "label": "D",
+          "text": "Fourth pharyngeal pouch endoderm"
+        },
+        {
+          "label": "E",
+          "text": "Mesoderm of the pharyngeal arches"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The superior parathyroid glands come from the fourth pharyngeal pouch; the inferior glands come from the third.",
+        "whyCorrect": "Both parathyroid pairs develop from pharyngeal pouch endoderm and settle on the posterior surface of the thyroid. The fourth pouch supplies the superior glands, which migrate only a short distance. The third pouch supplies the inferior glands, which descend farther with the thymus, which is why glands that originate higher end up lower in the adult.",
+        "whyWrongByChoice": {
+          "A": "Third pouch endoderm gives rise to the inferior parathyroid glands, which end up at the lower pole.",
+          "B": "The second pouch does not contribute parathyroid tissue.",
+          "C": "Neural crest mesenchyme contributes to arch structures and the adrenal medulla, not to parathyroid epithelium.",
+          "E": "Arch mesoderm forms muscle and connective tissue rather than pouch-derived endocrine glands."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "parathyroid development",
+        "pharyngeal pouches",
+        "anatomy"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-008",
+      "stem": "A newborn girl has ambiguous genitalia, and by the second week of life she develops vomiting, hyponatremia, and hyperkalemia. Serum cortisol is low and ACTH is markedly elevated, and the adrenal glands are enlarged bilaterally. The hyperplastic tissue in this infant is derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neural crest"
+        },
+        {
+          "label": "B",
+          "text": "Mesoderm"
+        },
+        {
+          "label": "C",
+          "text": "Endoderm"
+        },
+        {
+          "label": "D",
+          "text": "Surface ectoderm"
+        },
+        {
+          "label": "E",
+          "text": "Neuroectoderm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congenital adrenal hyperplasia expands the adrenal cortex, which is mesodermal in origin.",
+        "whyCorrect": "Enzyme deficiencies that impair cortisol synthesis remove negative feedback, so ACTH rises and drives hyperplasia of the adrenal cortex. Severe forms present in infancy with salt loss and abnormal genital development, as in this infant. The cortex, which makes cortisol, aldosterone, and androgen precursors, derives from mesoderm.",
+        "whyWrongByChoice": {
+          "A": "Neural crest gives rise to the adrenal medulla and its chromaffin cells, which are not the tissue driven by ACTH.",
+          "C": "Endoderm forms the thyroid, parathyroids, and pancreas, not adrenal tissue.",
+          "D": "Surface ectoderm contributes structures such as Rathke pouch in the head, not the adrenal gland.",
+          "E": "Neuroectoderm of the diencephalon forms the posterior pituitary rather than any part of the adrenal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal development",
+        "adrenal cortex",
+        "congenital adrenal hyperplasia"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-009",
+      "stem": "An investigator studying human fetal development examines the adrenal gland at 9 weeks of gestation and finds a large inner zone surrounded by a thinner outer cortical layer. Which of the following best describes the function of the large inner zone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It produces catecholamines that support fetal cardiovascular tone"
+        },
+        {
+          "label": "B",
+          "text": "It produces aldosterone that maintains fetal sodium balance"
+        },
+        {
+          "label": "C",
+          "text": "It produces cortisol that drives late fetal organ maturation"
+        },
+        {
+          "label": "D",
+          "text": "It produces calcitonin that regulates fetal skeletal mineralization"
+        },
+        {
+          "label": "E",
+          "text": "It produces androgen precursors for placental estrogen synthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fetal zone of the adrenal cortex makes androgen precursors for placental estrogen production and then regresses.",
+        "whyCorrect": "By weeks 8 to 9 a large fetal zone forms inside a thinner outer cortical layer. The fetal zone supplies androgen precursors that support placental estrogen production and fetal reproductive development. Late in gestation it regresses, while the outer layer becomes the permanent cortex and its rising cortisol output contributes to organ maturation.",
+        "whyWrongByChoice": {
+          "A": "Catecholamines come from neural crest-derived chromaffin cells of the medulla, a separate compartment from the fetal zone.",
+          "B": "Aldosterone production belongs to the zona glomerulosa, which differentiates from the outer cortex around birth.",
+          "C": "Rising cortisol late in gestation comes from the outer cortical layer as the fetal zone is regressing.",
+          "D": "Calcitonin is a thyroid C-cell product and is not made by any part of the adrenal gland."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenal development",
+        "fetal zone",
+        "cortical maturation"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-010",
+      "stem": "A healthy 2-day-old newborn undergoes autopsy after an unrelated accidental death, and the adrenal cortex is examined histologically. Which of the following findings is most consistent with normal adrenal development at this age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All three cortical zones fully developed in their adult arrangement"
+        },
+        {
+          "label": "B",
+          "text": "Zona reticularis present, with the outer two zones not yet differentiated"
+        },
+        {
+          "label": "C",
+          "text": "Glomerulosa and fasciculata present, reticularis not yet formed"
+        },
+        {
+          "label": "D",
+          "text": "Cortex still separate from the medulla, which lies outside the capsule"
+        },
+        {
+          "label": "E",
+          "text": "Fetal zone still occupying most of the cortical volume"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At birth the outer cortex has differentiated into zona glomerulosa and fasciculata; the zona reticularis appears after birth.",
+        "whyCorrect": "The adrenal gland is not fully mature at birth and continues developing through early childhood. At birth the outer cortex differentiates into the zona glomerulosa and zona fasciculata, and the zona reticularis develops afterward. Adult zonal organization is reached at roughly 3 years of age.",
+        "whyWrongByChoice": {
+          "A": "Adult zonation is not achieved until about 3 years of age, not at birth.",
+          "B": "The zona reticularis is the last zone to appear, developing after the outer two zones are established.",
+          "D": "The expanding cortex surrounds and encapsulates the medulla during development, so by birth the medulla is internal.",
+          "E": "The fetal zone regresses rapidly late in fetal life and does not dominate the cortex after delivery."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "adrenal development",
+        "postnatal maturation",
+        "cortical zones"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-011",
+      "stem": "A newborn boy has bilious vomiting on the first day of life. Imaging shows a ring of pancreatic tissue completely encircling the second part of the duodenum with proximal obstruction. Which of the following developmental events best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal rotation of the ventral pancreatic bud around the duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Failure of the dorsal and ventral pancreatic buds to fuse"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the endocrine pancreas to separate from the exocrine tissue"
+        },
+        {
+          "label": "D",
+          "text": "Persistence of a duct connecting the pancreas to the foregut"
+        },
+        {
+          "label": "E",
+          "text": "Migration of neural crest cells into the developing pancreatic buds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Annular pancreas results from abnormal rotation of the ventral bud, which encircles the duodenum.",
+        "whyCorrect": "The pancreas forms from dorsal and ventral buds of distal foregut endoderm, and during gut rotation the ventral bud normally swings posteriorly around the duodenum to fuse with the dorsal bud. When that rotation is abnormal, pancreatic tissue surrounds the duodenum as a ring. The encircling tissue can constrict the duodenum and cause obstruction.",
+        "whyWrongByChoice": {
+          "B": "Failure of the two buds to fuse produces pancreas divisum, in which drainage occurs through separate ducts without an encircling ring.",
+          "C": "Endocrine and exocrine cells both differentiate from bud endoderm and are normally intermingled, so no separation step is missing here.",
+          "D": "The duct remnant that persists along a migration path is a thyroid phenomenon, not a cause of duodenal encirclement.",
+          "E": "Neural crest cells populate the adrenal medulla; they are not the source of the pancreatic tissue forming this ring."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pancreas development",
+        "annular pancreas",
+        "bud rotation"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en03-012",
+      "stem": "A researcher isolates islets of Langerhans from a human fetal pancreas and confirms that the cells secrete insulin and glucagon. These cells are derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endoderm of the fourth pharyngeal pouch"
+        },
+        {
+          "label": "B",
+          "text": "Mesoderm surrounding the developing gut"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest cells that migrate into the gut"
+        },
+        {
+          "label": "D",
+          "text": "Endoderm of the distal foregut"
+        },
+        {
+          "label": "E",
+          "text": "Neuroectoderm of the developing diencephalon"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Both the endocrine and exocrine pancreas arise from endoderm of the distal foregut.",
+        "whyCorrect": "Dorsal and ventral pancreatic buds arise from distal foregut endoderm, and endoderm from those buds differentiates into both endocrine and exocrine pancreatic cells. The islets of Langerhans, which secrete insulin and glucagon along with smaller amounts of somatostatin and amylin, are therefore endodermal.",
+        "whyWrongByChoice": {
+          "A": "Fourth pouch endoderm gives rise to the superior parathyroids and the ultimobranchial body, not to pancreatic islets.",
+          "B": "Mesoderm gives rise to the adrenal cortex and supporting tissues rather than to islet cells.",
+          "C": "Neural crest supplies chromaffin cells of the adrenal medulla, not insulin- or glucagon-secreting cells.",
+          "E": "Diencephalic neuroectoderm forms the posterior pituitary and has no role in pancreatic development."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pancreas development",
+        "islets of Langerhans",
+        "germ layers"
+      ],
+      "topicId": "development-of-the-endocrine-system",
+      "topicName": "Development of the Endocrine System"
+    },
+    {
+      "id": "en04-001",
+      "stem": "A 34-year-old woman has 8 months of amenorrhea and fatigue. MRI shows a 2-cm nonfunctioning suprasellar mass compressing the pituitary stalk. Laboratory studies show a low free T4, a low morning cortisol, and a low serum IGF-1. Which of the following serum hormones is most likely to be elevated in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenocorticotropic hormone"
+        },
+        {
+          "label": "B",
+          "text": "Follicle-stimulating hormone"
+        },
+        {
+          "label": "C",
+          "text": "Prolactin"
+        },
+        {
+          "label": "D",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid-stimulating hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prolactin is under tonic dopaminergic inhibition, so interrupting hypothalamic input raises prolactin while every stimulated pituitary hormone falls.",
+        "whyCorrect": "Dopamine travels from the hypothalamus down the stalk to tonically suppress prolactin release. A mass that compresses the stalk removes that inhibition, so prolactin rises. Every other anterior pituitary hormone depends on a stimulatory releasing hormone arriving through the same portal route, so they fall instead, which is exactly the low free T4, low cortisol, and low IGF-1 pattern described.",
+        "whyWrongByChoice": {
+          "A": "ACTH depends on CRH arriving through the portal vessels, so stalk compression lowers it, as reflected in this patient's low cortisol.",
+          "B": "FSH depends on hypothalamic GnRH, so loss of stalk delivery lowers it and explains the amenorrhea.",
+          "D": "GH depends on GHRH stimulation, and the low IGF-1 already indicates that GH output has fallen.",
+          "E": "TSH depends on TRH reaching the thyrotrophs, so it falls and leaves this patient with a low free T4."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prolactin",
+        "dopamine inhibition",
+        "stalk compression"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-002",
+      "stem": "A 39-year-old woman has several months of fatigue, weight gain, and cold intolerance. Laboratory studies show a serum TSH of 22 microunits/mL (elevated) and a low free T4. Which of the following is the most likely site of the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypothalamic TRH-secreting neurons"
+        },
+        {
+          "label": "B",
+          "text": "Anterior pituitary thyrotrophs"
+        },
+        {
+          "label": "C",
+          "text": "Hypophyseal portal vessels"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "Posterior pituitary axon terminals"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A low target hormone paired with a high tropic hormone is primary failure: the target gland has failed while the pituitary compensates.",
+        "whyCorrect": "The failure-level map uses the tropic hormone, not the target hormone, as the diagnostic key. Because the thyroid cannot make T3/T4, negative feedback on the hypothalamus and pituitary is lost, and the intact pituitary drives TSH upward. High TSH with low free T4 therefore localizes the failure to the tier 3 target gland.",
+        "whyWrongByChoice": {
+          "A": "Loss of TRH removes the drive to the thyrotrophs, so TSH would be inappropriately normal or low rather than markedly elevated.",
+          "B": "Failure of the thyrotrophs means TSH cannot rise, giving low free T4 with low TSH, which is secondary hypothyroidism.",
+          "C": "Interrupting portal delivery cuts off TRH, again producing an inappropriately low TSH rather than a high one.",
+          "E": "The posterior pituitary releases ADH and oxytocin and has no role in the thyroid axis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "failure-level map",
+        "primary hypothyroidism",
+        "tropic hormone"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-003",
+      "stem": "A 34-year-old woman is evaluated 6 weeks after a delivery complicated by severe postpartum hemorrhage. She was never able to breastfeed and now reports fatigue and lightheadedness. Laboratory studies show low free T4 with low TSH, low cortisol with low ACTH, and low LH and FSH. Urine output and serum sodium are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Postpartum infarction of the anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of the thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Loss of vasopressin release from the posterior pituitary"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous cortisol secretion by an adrenal adenoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sheehan syndrome infarcts the anterior pituitary, so every tropic hormone falls together with its target hormone while the posterior lobe is spared.",
+        "whyCorrect": "Postpartum pituitary infarction knocks out the whole anterior lobe at once, producing global secondary failure: TSH, ACTH, LH, FSH, and GH all drop alongside their target hormones. Failed lactation from loss of prolactin is often the first clue. The posterior pituitary has a separate blood supply and is typically spared, which is why her urine output and sodium are normal.",
+        "whyWrongByChoice": {
+          "B": "Primary thyroid failure would raise TSH as the intact pituitary compensates, and it would not explain the low ACTH and low gonadotropins.",
+          "C": "Primary adrenal failure produces low cortisol with a high ACTH, the opposite of the pattern here.",
+          "D": "Loss of ADH causes polyuria with dilute urine and rising sodium, neither of which is present.",
+          "E": "An autonomous cortisol-secreting adenoma raises cortisol and suppresses ACTH, whereas this patient's cortisol is low."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Sheehan syndrome",
+        "panhypopituitarism",
+        "secondary failure"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-004",
+      "stem": "A 30-year-old woman has heat intolerance, a 6-kg weight loss, and tremor. Laboratory studies show an elevated free T4 and an undetectable TSH. Thyroid-stimulating immunoglobulins are present in high titer. Which of the following best explains the undetectable TSH?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pituitary has lost the ability to sense circulating thyroid hormone"
+        },
+        {
+          "label": "B",
+          "text": "Feedback is intact and suppressing TSH but cannot suppress the antibody"
+        },
+        {
+          "label": "C",
+          "text": "The antibodies bind pituitary thyrotrophs and block TSH synthesis directly"
+        },
+        {
+          "label": "D",
+          "text": "Hypothalamic somatostatin has risen and shut down all thyrotroph output"
+        },
+        {
+          "label": "E",
+          "text": "The thyroid is releasing a protease that degrades TSH in the circulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In Graves disease the feedback loop works perfectly; it simply cannot suppress a stimulus that lies outside pituitary control.",
+        "whyCorrect": "Thyroid-stimulating antibodies mimic TSH and drive the thyroid gland directly. The pituitary correctly detects the rising T3/T4 and suppresses TSH to undetectable levels, but the antibody keeps stimulating the gland regardless. Hormone levels therefore rise unchecked not because feedback failed, but because the driving signal is not something the pituitary can turn off.",
+        "whyWrongByChoice": {
+          "A": "A pituitary blind to thyroid hormone would fail to suppress TSH; here TSH is suppressed exactly as expected.",
+          "C": "The stimulating immunoglobulins act on the thyroid TSH receptor, not on pituitary thyrotrophs.",
+          "D": "Somatostatin is hypothalamus-driven inhibitory tone independent of the target gland and is not what suppresses TSH in this setting.",
+          "E": "The low TSH reflects reduced pituitary secretion from negative feedback, not destruction of circulating hormone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Graves disease",
+        "negative feedback",
+        "autonomous stimulation"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-005",
+      "stem": "A 52-year-old man has been taking high-dose prednisone for 6 weeks for a systemic vasculitis. Which of the following best describes the expected state of his hypothalamic-pituitary-adrenal axis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated CRH with a normal ACTH"
+        },
+        {
+          "label": "B",
+          "text": "Elevated ACTH with a low cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Suppressed CRH and suppressed ACTH"
+        },
+        {
+          "label": "D",
+          "text": "Elevated ACTH with a normal CRH"
+        },
+        {
+          "label": "E",
+          "text": "Unchanged CRH and unchanged ACTH"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Exogenous glucocorticoids mimic cortisol and trigger long-loop negative feedback at both the hypothalamus and the anterior pituitary.",
+        "whyCorrect": "Target-gland hormones feed back to suppress both tiers above them. Prednisone behaves like circulating cortisol, so it binds receptors in the hypothalamus and pituitary and reduces CRH and ACTH secretion together. Chronic suppression of this kind is the mechanism behind tertiary adrenal insufficiency when steroids are withdrawn.",
+        "whyWrongByChoice": {
+          "A": "Elevated CRH ignores the fact that feedback from a glucocorticoid acts on the hypothalamus first.",
+          "B": "High ACTH with low cortisol is the pattern of primary adrenal failure, not exogenous steroid use.",
+          "D": "Elevated ACTH would require loss of feedback, whereas this patient has an excess of glucocorticoid signal.",
+          "E": "An unchanged axis would mean negative feedback is not operating, which is inconsistent with intact feedback receptors."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "negative feedback",
+        "HPA axis",
+        "exogenous glucocorticoids"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-006",
+      "stem": "A 45-year-old woman has central obesity, purple abdominal striae, and new hypertension. Laboratory studies show a markedly elevated 24-hour urinary free cortisol and an undetectable plasma ACTH. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A corticotroph adenoma of the anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "A hypothalamic tumor secreting excess CRH"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "A small cell lung carcinoma secreting ACTH ectopically"
+        },
+        {
+          "label": "E",
+          "text": "An adrenal adenoma secreting cortisol autonomously"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "High target hormone with a suppressed tropic hormone is primary overproduction, meaning the target gland is making hormone autonomously.",
+        "whyCorrect": "An adrenal adenoma produces cortisol independently of any upstream signal. The intact pituitary senses the high cortisol and suppresses ACTH through negative feedback, giving high cortisol with undetectable ACTH. That combination is the fingerprint of Cushing syndrome from an adrenal source rather than a pituitary-driven process.",
+        "whyWrongByChoice": {
+          "A": "A corticotroph adenoma drives the adrenal gland, so both ACTH and cortisol would be high (secondary overproduction).",
+          "B": "Excess CRH would drive ACTH upward as well, which contradicts the undetectable ACTH.",
+          "C": "Adrenal destruction lowers cortisol and raises ACTH, the reverse of this patient's labs.",
+          "D": "An ectopic ACTH source raises measured plasma ACTH along with cortisol."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Cushing syndrome",
+        "primary overproduction",
+        "failure-level map"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-007",
+      "stem": "A 24-year-old man is hospitalized after a traumatic brain injury. Over the next 2 days he produces 6 L of dilute urine per day and drinks water constantly. Serum sodium is 149 mEq/L and urine osmolality is low. The hormone he is lacking normally reaches the circulation by which of the following routes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretion by posterior pituitary gland cells after tropic stimulation"
+        },
+        {
+          "label": "B",
+          "text": "Axonal transport from hypothalamic neurons to posterior pituitary terminals"
+        },
+        {
+          "label": "C",
+          "text": "Hypophyseal portal vessels carrying it to the anterior pituitary"
+        },
+        {
+          "label": "D",
+          "text": "Release from anterior pituitary cells into the systemic circulation"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion from hypothalamic capillaries straight into systemic blood"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ADH is made in hypothalamic neurons and released from their axon terminals in the posterior pituitary, with no gland or tropic hormone in between.",
+        "whyCorrect": "This patient has central diabetes insipidus from loss of ADH release. The posterior pituitary is neural tissue: supraoptic and paraventricular neurons synthesize ADH, transport it down their axons through the infundibulum, and store it in dense-core vesicles seen as Herring bodies until action potentials trigger release. The hypothalamic neuron is the gland, so there is no tropic hormone to measure.",
+        "whyWrongByChoice": {
+          "A": "The posterior pituitary does not synthesize or secrete hormone on its own; it is a release site for hypothalamic products.",
+          "C": "Portal vessels serve only the anterior pituitary and carry hypothalamic releasing hormones, not ADH.",
+          "D": "The anterior pituitary releases FSH, LH, ACTH, TSH, prolactin, and GH, none of which is ADH.",
+          "E": "Hypothalamic hormones do not spill directly into systemic circulation; ADH follows the axonal route to its terminals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "posterior pituitary",
+        "ADH",
+        "central diabetes insipidus"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-008",
+      "stem": "A 28-year-old woman is in the final stage of labor. Cervical stretch triggers oxytocin release, the resulting uterine contractions increase cervical stretch further, and oxytocin release intensifies. Which of the following best characterizes this control mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long-loop negative feedback from a target-gland hormone"
+        },
+        {
+          "label": "B",
+          "text": "Short-loop negative feedback acting on the hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "Tonic dopaminergic inhibition lifted by neural input"
+        },
+        {
+          "label": "D",
+          "text": "Positive feedback, in which the output reinforces the stimulus"
+        },
+        {
+          "label": "E",
+          "text": "Tropic amplification across three sequential endocrine tiers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Both major oxytocin actions, uterine contraction in labor and the milk-ejection reflex, are governed by positive feedback.",
+        "whyCorrect": "In labor, cervical stretch drives oxytocin release, oxytocin drives contraction, and contraction produces more cervical stretch, so the output amplifies rather than opposes the original stimulus. The lactation counterpart works the same way: continued suckling sustains reflex oxytocin pulses that eject milk. This is the opposite of the negative feedback that governs the anterior pituitary axes.",
+        "whyWrongByChoice": {
+          "A": "Long-loop negative feedback describes a target-gland hormone suppressing the hypothalamus and pituitary, which would terminate rather than intensify the response.",
+          "B": "Short-loop feedback is a pituitary tropic hormone suppressing hypothalamic releasing-hormone output, and oxytocin release here is escalating.",
+          "C": "Dopaminergic inhibition applies to prolactin in the anterior pituitary, not to oxytocin release.",
+          "E": "Oxytocin has no releasing hormone, no tropic hormone, and no target-gland tier to amplify through."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oxytocin",
+        "positive feedback",
+        "posterior pituitary"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-009",
+      "stem": "A 62-year-old man is admitted with dehydration. Plasma osmolality is 305 mOsm/kg and plasma vasopressin is elevated. After several hours of water intake, plasma osmolality falls to 285 mOsm/kg and plasma vasopressin returns to normal. Which of the following best explains why vasopressin secretion fell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Falling plasma osmolality sensed by hypothalamic osmoreceptors"
+        },
+        {
+          "label": "B",
+          "text": "Long-loop feedback from a hormone secreted by the kidney"
+        },
+        {
+          "label": "C",
+          "text": "Short-loop feedback of vasopressin on anterior pituitary cells"
+        },
+        {
+          "label": "D",
+          "text": "Dopaminergic inhibition of the posterior pituitary axon terminals"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of the pituitary tropic hormone that drives vasopressin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For vasopressin, the negative feedback signal is the physiological variable itself, not a downstream hormone.",
+        "whyCorrect": "Osmoreceptors sense rising plasma osmolality and baroreceptors sense falling volume; either drives ADH release. ADH promotes renal water reabsorption, which lowers osmolality and restores volume, and that correction removes the very stimulus that started the process. Once osmolality returns toward the set point, the afferent signal disappears and ADH secretion falls.",
+        "whyWrongByChoice": {
+          "B": "No renal hormone feeds back on ADH; the regulated variable itself closes the loop.",
+          "C": "Short-loop feedback belongs to the anterior pituitary axes, and vasopressin does not act on anterior pituitary cells.",
+          "D": "Dopamine inhibits prolactin in the anterior pituitary and does not regulate posterior pituitary release.",
+          "E": "There is no tropic hormone in the posterior pituitary pathway; the hypothalamic neuron releases ADH directly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vasopressin",
+        "osmoreceptors",
+        "negative feedback"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-010",
+      "stem": "Which of the following hypothalamic signals suppresses release of both growth hormone and thyroid-stimulating hormone from the anterior pituitary, independently of what the target glands are doing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine"
+        },
+        {
+          "label": "B",
+          "text": "Insulin-like growth factor-1"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Triiodothyronine"
+        },
+        {
+          "label": "E",
+          "text": "Corticotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Somatostatin is hypothalamic inhibitory tone, a parallel mechanism distinct from negative feedback, and it suppresses GH and TSH.",
+        "whyCorrect": "Dopamine and somatostatin are released by the hypothalamus to suppress pituitary output; the signal originates at the top and travels down, regardless of target-gland activity. Somatostatin is the one that suppresses both GH and TSH release. This is not feedback, because feedback originates from a target hormone traveling backward up the axis.",
+        "whyWrongByChoice": {
+          "A": "Dopamine is hypothalamic inhibitory tone as well, but its target is prolactin rather than GH and TSH.",
+          "B": "IGF-1 is a liver-derived feedback signal traveling up the axis, and it does not suppress TSH.",
+          "D": "Triiodothyronine is a target-gland hormone providing long-loop feedback on TRH and TSH, not a hypothalamic inhibitory signal.",
+          "E": "CRH is a stimulatory releasing hormone that drives ACTH secretion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "somatostatin",
+        "hypothalamic inhibitory tone",
+        "anterior pituitary"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-011",
+      "stem": "A 46-year-old woman is being evaluated for suspected hypothalamic-pituitary disease. Serum TSH and free T4 are obtained, but serum thyrotropin-releasing hormone is not measured. Which of the following best explains why TRH is not measured in the blood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is stored in Herring bodies and released only in brief bursts"
+        },
+        {
+          "label": "B",
+          "text": "It reaches the pituitary through direct neuronal synapses rather than blood"
+        },
+        {
+          "label": "C",
+          "text": "It is degraded by the anterior pituitary before entering any vessel"
+        },
+        {
+          "label": "D",
+          "text": "Its concentration in blood always mirrors the measured TSH concentration"
+        },
+        {
+          "label": "E",
+          "text": "It travels in hypophyseal portal blood, which cannot be sampled"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hypothalamic releasing hormones act through a short portal circulation that is inaccessible to sampling, so clinicians use tropic and target hormones instead.",
+        "whyCorrect": "TRH travels only the short distance from the hypothalamus to the anterior pituitary through the hypophyseal portal vessels, a specialized portal blood system. Because portal blood cannot be sampled clinically, releasing hormones are not routinely measured. Localization is done instead by pairing the pituitary tropic hormone with the target-gland hormone.",
+        "whyWrongByChoice": {
+          "A": "Herring bodies are storage sites for oxytocin and ADH at posterior pituitary axon terminals, not for TRH.",
+          "B": "TRH is a hormone carried in portal blood; the pituitary is reached through vessels, not synapses.",
+          "C": "The barrier to measurement is the inaccessibility of portal blood, not degradation within the pituitary.",
+          "D": "TRH and TSH move in opposite directions in pituitary disease, which is why the pair is informative at all."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "portal vessels",
+        "releasing hormones",
+        "H-P axis anatomy"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en04-012",
+      "stem": "A healthy 19-year-old man has a growth hormone pulse that stimulates hepatocytes to secrete insulin-like growth factor-1. Which of the following effects does the resulting rise in circulating IGF-1 have on the somatotropic axis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases GHRH from the hypothalamus and GH from the pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Suppresses GHRH from the hypothalamus and GH from the pituitary"
+        },
+        {
+          "label": "C",
+          "text": "Suppresses GH from the pituitary but leaves GHRH secretion unchanged"
+        },
+        {
+          "label": "D",
+          "text": "Increases hepatic GH receptor density without altering GHRH secretion"
+        },
+        {
+          "label": "E",
+          "text": "Suppresses GHRH only after being converted back into growth hormone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "IGF-1 is the target hormone of the GH axis and exerts long-loop negative feedback on both the hypothalamus and the anterior pituitary.",
+        "whyCorrect": "GH stimulates hepatocytes to secrete IGF-1, and both GH and IGF-1 feed back to the hypothalamus to suppress GHRH and to the anterior pituitary to suppress GH. This is the same long-loop pattern seen with T3/T4 on TRH and TSH and with cortisol on CRH and ACTH. Suppressing both tiers is what keeps GH output near its set point.",
+        "whyWrongByChoice": {
+          "A": "Rising target hormone reduces, rather than increases, releasing and tropic hormone output.",
+          "C": "Long-loop feedback suppresses the hypothalamus as well, so GHRH does not stay unchanged.",
+          "D": "The lecture describes feedback suppression of GHRH and GH, not upregulation of hepatic GH receptors.",
+          "E": "IGF-1 is not converted into GH; it acts as a feedback signal in its own right."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "growth hormone",
+        "IGF-1",
+        "long-loop feedback"
+      ],
+      "topicId": "hypothalamic-pituitary-axis-1",
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+    },
+    {
+      "id": "en05-001",
+      "stem": "A 46-year-old man is evaluated for enlarging hands and feet, coarsening facial features, and a widening gap between his teeth. MRI shows a 9-mm sellar mass, and resection reveals a benign pituitary adenoma. On hematoxylin and eosin staining, the tumor is composed of sheets of pink-staining cells. Proliferation of which of the following cell types best explains this patient's presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidophils"
+        },
+        {
+          "label": "B",
+          "text": "Basophils"
+        },
+        {
+          "label": "C",
+          "text": "Chromophobes"
+        },
+        {
+          "label": "D",
+          "text": "Pituicytes"
+        },
+        {
+          "label": "E",
+          "text": "Chief cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acidophils of the anterior pituitary stain pink with eosin and produce growth hormone and prolactin.",
+        "whyCorrect": "The anterior lobe contains three cell types named for how they stain, and acidophils take up eosin and appear pink. Acidophils secrete growth hormone and prolactin, and a functional adenoma made of them raises the corresponding hormone level. Growth hormone excess produces gigantism in children and acromegaly in adults, which matches this man's enlarging hands, feet, and facial bones.",
+        "whyWrongByChoice": {
+          "B": "Basophils stain bluish-purple with hematoxylin and make FSH, LH, ACTH, and TSH, none of which cause acral overgrowth.",
+          "C": "Chromophobes stain poorly with either dye and produce no hormone, so they cannot drive a hormone excess syndrome.",
+          "D": "Pituicytes are support cells of the posterior lobe that maintain axons rather than secrete hormones.",
+          "E": "Chief cells belong to the parathyroid gland and secrete parathyroid hormone, not growth hormone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "anterior pituitary",
+        "acidophil",
+        "growth hormone"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-002",
+      "stem": "A 38-year-old woman undergoes transsphenoidal resection of a pituitary adenoma. Histologic sections show glandular cells that stain deeply bluish-purple with hematoxylin. Excess of which of the following hormones is most consistent with the staining pattern of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Growth hormone"
+        },
+        {
+          "label": "B",
+          "text": "Prolactin"
+        },
+        {
+          "label": "C",
+          "text": "Corticotropin"
+        },
+        {
+          "label": "D",
+          "text": "Antidiuretic hormone"
+        },
+        {
+          "label": "E",
+          "text": "Oxytocin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Basophils stain with hematoxylin and secrete the B-FLAT hormones: FSH, LH, ACTH, and TSH.",
+        "whyCorrect": "Anterior pituitary cells are classified by their staining, and the hematoxylin-avid basophils appear bluish-purple. Their products are remembered as B-FLAT: Basophils make FSH, LH, ACTH, and TSH. ACTH is therefore the only listed hormone that a basophilic adenoma would overproduce.",
+        "whyWrongByChoice": {
+          "A": "Growth hormone comes from acidophils, which stain pink with eosin rather than purple with hematoxylin.",
+          "B": "Prolactin is the other acidophil product and would be expected in a pink, eosin-staining tumor.",
+          "D": "ADH is made by hypothalamic secretory neurons and only stored in the posterior lobe, not made by anterior lobe glandular cells.",
+          "E": "Oxytocin is likewise produced in the hypothalamus and stored in the neurohypophysis, so no adenohypophyseal cell secretes it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anterior pituitary",
+        "basophil",
+        "B-FLAT"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-003",
+      "stem": "A pituitary specimen from a 61-year-old man contains clusters of anterior lobe cells that take up neither hematoxylin nor eosin well and therefore appear pale. Which of the following best describes these pale cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A mixed group of stem, progenitor, and degranulated cells that secrete no hormone"
+        },
+        {
+          "label": "B",
+          "text": "Eosin-avid glandular cells that secrete growth hormone and prolactin"
+        },
+        {
+          "label": "C",
+          "text": "Hematoxylin-avid glandular cells that secrete FSH, LH, ACTH, and TSH"
+        },
+        {
+          "label": "D",
+          "text": "Modified sympathetic neurons that secrete epinephrine into capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Support cells whose nuclei lie scattered among unmyelinated axons"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chromophobes are the pale, poorly staining anterior pituitary cells and produce no hormone.",
+        "whyCorrect": "Chromophobes are defined by their failure to stain well with either hematoxylin or eosin, giving them a pale appearance. They are a heterogeneous population that includes stem cells, undifferentiated progenitor cells, and degranulated cells. They do not produce any hormone, which distinguishes them from the other two anterior lobe cell types.",
+        "whyWrongByChoice": {
+          "B": "That describes acidophils, which stain pink with eosin rather than appearing pale.",
+          "C": "That describes basophils, which stain bluish-purple with hematoxylin rather than appearing pale.",
+          "D": "Chromaffin cells with those features are found in the adrenal medulla, not in the pituitary.",
+          "E": "Pituicytes support axons in the posterior lobe, whereas these cells are in the glandular anterior lobe."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "anterior pituitary",
+        "chromophobe",
+        "staining"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-004",
+      "stem": "A section through the pars nervosa of the pituitary shows long, thin, string-like processes interspersed with large, rounded, pink structures. The hormones stored within those pink structures are synthesized in which of the following locations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidophils of the anterior lobe"
+        },
+        {
+          "label": "B",
+          "text": "Basophils of the anterior lobe"
+        },
+        {
+          "label": "C",
+          "text": "Pituicytes within the posterior lobe"
+        },
+        {
+          "label": "D",
+          "text": "Parafollicular cells of the thyroid"
+        },
+        {
+          "label": "E",
+          "text": "Secretory neurons of the hypothalamus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Herring bodies are dilated axon terminals in the posterior pituitary that store oxytocin and ADH made in the hypothalamus.",
+        "whyCorrect": "The posterior lobe is not glandular; it is roughly 100,000 nerve axons, and the large pink Herring bodies are their dilated terminal portions. Oxytocin and ADH are produced by secretory neurons whose cell bodies sit in the hypothalamus. The hormones travel down those axons to the neurohypophysis, where they are stored in Herring bodies until release.",
+        "whyWrongByChoice": {
+          "A": "Acidophils make growth hormone and prolactin, which are released from the anterior lobe and never stored in Herring bodies.",
+          "B": "Basophils make the B-FLAT hormones in the anterior lobe, a separate glandular compartment.",
+          "C": "Pituicytes are glial-type support cells for the axons; they keep the axons healthy but do not synthesize hormone.",
+          "D": "Parafollicular cells secrete calcitonin in the thyroid gland, unrelated to the neurohypophysis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "posterior pituitary",
+        "Herring bodies",
+        "ADH"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-005",
+      "stem": "A thyroid biopsy from a 34-year-old woman shows abundant round follicles, each lined by simple cuboidal to columnar epithelium and filled centrally with a pink, gelatinous material. Which of the following is the primary function of that central material?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Synthesizing thyroid hormone from circulating precursors"
+        },
+        {
+          "label": "B",
+          "text": "Secreting calcitonin in response to a rising serum calcium"
+        },
+        {
+          "label": "C",
+          "text": "Storing thyroid hormone until the body requires it"
+        },
+        {
+          "label": "D",
+          "text": "Supporting the epithelial cells and keeping them healthy"
+        },
+        {
+          "label": "E",
+          "text": "Storing oxytocin and antidiuretic hormone before their release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Colloid is the gelatinous follicular content that serves as the thyroid's hormone storage depot.",
+        "whyCorrect": "Each thyroid follicle is lined by simple cuboidal to columnar epithelium and holds pink, gelatinous colloid. Thyroid hormone made by the follicular epithelial cells is stored in large quantities in that colloid. When hormone is needed, the epithelial cells ingest colloid, extract the hormone, and secrete it into the blood.",
+        "whyWrongByChoice": {
+          "A": "Synthesis is carried out by the follicular epithelial cells lining the follicle, not by the colloid they surround.",
+          "B": "Calcitonin comes from scattered parafollicular C cells located next to follicles, not from colloid.",
+          "D": "A supportive maintenance role describes pituicytes in the posterior pituitary, not thyroid colloid.",
+          "E": "Oxytocin and ADH are stored in Herring bodies of the posterior pituitary, a different organ entirely."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "thyroid",
+        "follicle",
+        "colloid"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-006",
+      "stem": "A 52-year-old woman has a thyroid nodule, and laboratory studies show a markedly elevated serum calcitonin with a low-normal serum calcium. Thyroid hormone levels are normal. This tumor most likely arose from which of the following cell types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Follicular epithelial cells"
+        },
+        {
+          "label": "B",
+          "text": "Parafollicular C cells"
+        },
+        {
+          "label": "C",
+          "text": "Parathyroid chief cells"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid oxyphil cells"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal chromaffin cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Calcitonin comes from the thyroid's parafollicular (C) cells and acts to decrease serum calcium.",
+        "whyCorrect": "Scattered among the thyroid follicles are parafollicular cells, called C cells because they secrete calcitonin; they sit alongside follicles and can be hard to identify on routine sections. Calcitonin has nothing to do with thyroid hormone, which is why the thyroid function tests are normal here. It is a regulatory hormone that decreases serum calcium, explaining the low-normal calcium in the setting of calcitonin excess.",
+        "whyWrongByChoice": {
+          "A": "Follicular epithelial cells synthesize thyroid hormone and store it in colloid; a tumor of these cells would not raise calcitonin.",
+          "C": "Chief cells secrete parathyroid hormone, which raises rather than lowers serum calcium.",
+          "D": "Oxyphil cells are parathyroid cells that make only low levels of PTH, not calcitonin.",
+          "E": "Chromaffin cells of the adrenal medulla secrete epinephrine and norepinephrine, not calcium-regulating hormones."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thyroid",
+        "parafollicular C cells",
+        "calcitonin"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-007",
+      "stem": "A 49-year-old woman has persistent hypocalcemia requiring intravenous calcium one day after total thyroidectomy for thyroid cancer. Review of the resected specimen shows normal colloid-filled follicles and, at one edge, sheets of compact cells with minimal cytoplasm together with clusters of large cells with abundant eosinophilic cytoplasm. Which of the following best explains her low serum calcium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inadvertent removal of the parathyroid glands with loss of PTH"
+        },
+        {
+          "label": "B",
+          "text": "Ongoing calcitonin release from residual parafollicular C cells"
+        },
+        {
+          "label": "C",
+          "text": "Loss of thyroid follicular epithelium and its stored colloid"
+        },
+        {
+          "label": "D",
+          "text": "Surgical injury to the adrenal cortex with mineralocorticoid deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Interruption of ADH release from the posterior pituitary"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Compact chief cells and eosinophilic oxyphil cells in a thyroidectomy specimen mean parathyroid tissue was removed, causing hypocalcemia.",
+        "whyCorrect": "The parathyroid glands sit on the posterior surface of the thyroid, so they can be taken inadvertently during thyroidectomy. Chief cells are compact cells with minimal cytoplasm arranged in sheets, and oxyphil cells are large cells with abundant eosinophilic cytoplasm in clusters, so both described populations are parathyroid, not thyroid. Chief cells secrete parathyroid hormone, which increases calcium absorption and raises serum calcium; losing them drops the calcium level.",
+        "whyWrongByChoice": {
+          "B": "The C cells that secrete calcium-lowering calcitonin were removed with the thyroid, so residual C-cell activity is not the explanation.",
+          "C": "Loss of follicular epithelium and colloid causes thyroid hormone deficiency, which does not lower serum calcium.",
+          "D": "The adrenal glands sit atop the kidneys and are nowhere near the operative field of a thyroidectomy.",
+          "E": "ADH from the neurohypophysis regulates water balance and is not disturbed by neck surgery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parathyroid",
+        "chief cells",
+        "hypocalcemia"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-008",
+      "stem": "A parathyroid gland removed from a 74-year-old man contains scattered clusters of large cells with abundant, brightly eosinophilic cytoplasm; such clusters were far less prominent in a gland examined from a young adult. Which of the following best characterizes these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degenerated derivatives of chief cells that still make low levels of PTH"
+        },
+        {
+          "label": "B",
+          "text": "Principal secretory cells that carry out the gland's hormone production"
+        },
+        {
+          "label": "C",
+          "text": "Adipose cells that progressively replace the gland's secretory tissue"
+        },
+        {
+          "label": "D",
+          "text": "Follicular cells that store their hormone product in surrounding colloid"
+        },
+        {
+          "label": "E",
+          "text": "Modified sympathetic neurons that release catecholamines into capillaries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oxyphil cells are large, eosinophilic parathyroid cells that accumulate with age and are degenerated chief cells.",
+        "whyCorrect": "The parathyroid contains chief cells, oxyphil cells, and interspersed adipose cells. Oxyphil cells are large cells with abundant eosinophilic cytoplasm that occur in clusters and accumulate with age, matching both the appearance and the age difference described. They are degenerated derivatives of chief cells, with some still exhibiting low levels of PTH synthesis.",
+        "whyWrongByChoice": {
+          "B": "The functional workhorses of the gland are the chief cells, which are compact with minimal cytoplasm rather than large and eosinophilic.",
+          "C": "Adipose cells are present in the parathyroid but appear as clear fat cells, not as eosinophilic clusters.",
+          "D": "Colloid-storing follicular cells belong to the thyroid gland, not the parathyroid.",
+          "E": "Catecholamine-secreting chromaffin cells are found in the adrenal medulla."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "parathyroid",
+        "oxyphil cells",
+        "aging"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-009",
+      "stem": "A 19-year-old man develops hyperglycemia after selective autoimmune destruction of the most numerous cell type within the islets of Langerhans, which normally makes up 70% to 75% of islet cells. Deficiency of which of the following hormones best accounts for his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon and somatostatin"
+        },
+        {
+          "label": "B",
+          "text": "Insulin and amylin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin and ghrelin"
+        },
+        {
+          "label": "D",
+          "text": "Ghrelin and pancreatic polypeptide"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic polypeptide and glucagon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta cells are the most numerous islet cell type and secrete insulin and amylin.",
+        "whyCorrect": "Each islet of Langerhans contains five cell types, of which beta cells are the most numerous at 70% to 75% of the total. Beta cells make insulin and amylin, and insulin is central to regulating serum glucose levels and glucose storage. Losing this population therefore produces hyperglycemia.",
+        "whyWrongByChoice": {
+          "A": "Glucagon comes from alpha cells and somatostatin from delta cells, neither of which is the predominant islet population.",
+          "C": "Somatostatin is a delta cell product and ghrelin an epsilon cell product; these are minority populations.",
+          "D": "Ghrelin comes from epsilon cells and pancreatic polypeptide from PP cells, both minor islet constituents.",
+          "E": "PP cells and alpha cells together still do not represent the dominant islet cell type."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "endocrine pancreas",
+        "islets of Langerhans",
+        "beta cells"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-010",
+      "stem": "A pancreatic islet cell tumor in a 57-year-old woman is found to secrete large amounts of ghrelin. Electron microscopy is required to confirm the cell of origin, because on light microscopy the islet cells all appear as small, rounded cells in clusters. This tumor most likely arose from which of the following islet cell types?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha cells"
+        },
+        {
+          "label": "B",
+          "text": "Beta cells"
+        },
+        {
+          "label": "C",
+          "text": "Delta cells"
+        },
+        {
+          "label": "D",
+          "text": "Epsilon cells"
+        },
+        {
+          "label": "E",
+          "text": "PP cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Epsilon cells are the ghrelin-producing cells of the islets of Langerhans.",
+        "whyCorrect": "The five islet cell types each have a defined secretory product, and epsilon cells make ghrelin. Because the five types are indistinguishable on light microscopy, where they all appear as small, rounded cells in clusters, electron microscopy is needed to tell them apart. The hormone secreted therefore identifies the cell of origin.",
+        "whyWrongByChoice": {
+          "A": "Alpha cells make glucagon, one of the two classic regulators of serum glucose.",
+          "B": "Beta cells, the most numerous islet cells, make insulin and amylin.",
+          "C": "Delta cells make somatostatin.",
+          "E": "PP cells, also called gamma or F cells, make pancreatic polypeptide."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endocrine pancreas",
+        "islet cell types",
+        "ghrelin"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-011",
+      "stem": "A 16-year-old girl has not had a growth spurt or her first menstrual period. Imaging shows a small adrenal mass, and workup demonstrates deficient production of dehydroepiandrosterone. The lesion most likely involves which of the following regions of the adrenal gland?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zona glomerulosa"
+        },
+        {
+          "label": "B",
+          "text": "Zona fasciculata"
+        },
+        {
+          "label": "C",
+          "text": "Zona reticularis"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal medulla"
+        },
+        {
+          "label": "E",
+          "text": "Adrenal capsule"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The zona reticularis is the innermost cortical layer and secretes sex steroids such as DHEA.",
+        "whyCorrect": "The adrenal cortex is layered from outside in as glomerulosa, fasciculata, and reticularis (GFR). The zona reticularis is composed of compact cells arranged in a meandering, net-like pattern, and it secretes sex steroids such as DHEA. Those hormones are involved in development and function of the reproductive system, so their loss explains absent puberty.",
+        "whyWrongByChoice": {
+          "A": "The zona glomerulosa secretes mineralocorticoids such as aldosterone, which regulate blood pressure and sodium and potassium levels.",
+          "B": "The zona fasciculata secretes glucocorticoids such as cortisol, which regulate blood pressure, metabolism, and immune function during stress.",
+          "D": "The medulla secretes epinephrine and norepinephrine for the fight-or-flight response, not sex steroids.",
+          "E": "The capsule is the connective tissue covering of the gland and secretes no hormone."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal cortex",
+        "zona reticularis",
+        "DHEA"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en05-012",
+      "stem": "A section through an adrenal gland is examined. The innermost region contains clusters of cells that are modified sympathetic neurons and therefore lack axons and dendrites; they discharge their secretory product directly into adjacent capillaries. Which of the following do these cells secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldosterone"
+        },
+        {
+          "label": "B",
+          "text": "Cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Dehydroepiandrosterone"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Calcitonin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The adrenal medulla is made of chromaffin cells, modified sympathetic neurons that release epinephrine and norepinephrine.",
+        "whyCorrect": "The medulla lies deep to the cortex and is composed of clusters of chromaffin cells, which are modified sympathetic neurons and consequently lack axons and dendrites. On detecting a threat, they secrete a burst of adrenaline directly into capillaries. The result is an increase in heart rate, blood pressure, and blood sugar with blood flow redirected to muscle.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone is a mineralocorticoid from the zona glomerulosa, the thin outermost cortical layer.",
+          "B": "Cortisol is a glucocorticoid from the zona fasciculata, the thick middle cortical layer of lipid-laden cells.",
+          "C": "DHEA is a sex steroid from the zona reticularis, the innermost layer of the cortex.",
+          "E": "Calcitonin is secreted by parafollicular C cells of the thyroid gland, not by any adrenal cell."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adrenal medulla",
+        "chromaffin cells",
+        "epinephrine"
+      ],
+      "topicId": "histology-of-the-endocrine-system",
+      "topicName": "Histology of the Endocrine System"
+    },
+    {
+      "id": "en06-001",
+      "stem": "A 13-year-old girl is seen for a routine physical examination. Her breasts show enlargement in which the areola forms a secondary mound above the contour of the breast. Her pubic hair is of adult type and texture but does not extend onto the medial thighs. Which of the following is the most accurate Tanner stage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tanner stage 1"
+        },
+        {
+          "label": "B",
+          "text": "Tanner stage 2"
+        },
+        {
+          "label": "C",
+          "text": "Tanner stage 3"
+        },
+        {
+          "label": "D",
+          "text": "Tanner stage 4"
+        },
+        {
+          "label": "E",
+          "text": "Tanner stage 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A secondary areolar mound with adult-type pubic hair that spares the thighs defines Tanner stage 4.",
+        "whyCorrect": "Tanner staging in females scores breast development and pubic hair from 1 (prepubertal) to 5 (adult). Stage 4 breast development is defined by the areola forming a secondary mound above the breast contour, and stage 4 pubic hair is adult in type but has not yet spread to the medial thighs. Both of her findings match stage 4.",
+        "whyWrongByChoice": {
+          "A": "Stage 1 is prepubertal, with no glandular breast tissue and no pubic hair.",
+          "B": "Stage 2 is a breast bud with areolar enlargement and only sparse, slightly pigmented hair.",
+          "C": "In stage 3 the breast and areola enlarge together without a separate mound, and hair is darker and curlier over the pubis.",
+          "E": "Stage 5 is the adult contour with the areola recessed back into the breast and hair reaching the medial thighs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Tanner stages",
+        "puberty",
+        "physical examination"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-002",
+      "stem": "A 10-year-old boy is brought in because he is the shortest child in his class. His height is at the 5th percentile and his growth velocity over the past year has been 5.5 cm. His father is 165 cm tall and his mother is 158 cm tall. He has no chronic symptoms, and physical examination is normal. Which of the following is the most likely explanation for his stature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Growth hormone deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Familial short stature"
+        },
+        {
+          "label": "C",
+          "text": "Acquired hypothyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "E",
+          "text": "Central precocious puberty"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A normal growth velocity with a target height that matches the child's percentile points to familial short stature.",
+        "whyCorrect": "His target height from mid-parental height is (165 + 158 + 13) divided by 2, or about 168 cm, so he is tracking within his inherited genetic range. Height is a polygenic trait, and mid-parental height is the single most clinically useful genetic predictor of a child's stature. A growth velocity above the 5 cm per year minimum after age 3 argues against pathology, and 10% of normal children fall outside the 5th percentile.",
+        "whyWrongByChoice": {
+          "A": "Growth hormone deficiency characteristically produces a growth velocity below 5 cm per year, not the normal velocity seen here.",
+          "C": "Childhood hypothyroidism causes growth arrest with a markedly delayed bone age rather than steady normal-velocity growth.",
+          "D": "Celiac disease impairs growth through malabsorption and is typically accompanied by gastrointestinal symptoms and falling velocity.",
+          "E": "Precocious puberty accelerates growth velocity and causes tall stature for age, the opposite of this picture."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "short stature",
+        "mid-parental height",
+        "growth velocity"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-003",
+      "stem": "A 14-year-old girl has no breast development and no pubic hair. She is short compared with her classmates but has grown steadily. Her bone age is read as 11 years. Her mother reports that her own menarche occurred at age 16. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypogonadotropic hypogonadism"
+        },
+        {
+          "label": "B",
+          "text": "Constitutional delay of puberty"
+        },
+        {
+          "label": "C",
+          "text": "Turner syndrome (45,X)"
+        },
+        {
+          "label": "D",
+          "text": "Premature ovarian insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Central precocious puberty"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Delayed bone age plus a family history of late puberty is the classic profile of constitutional delay.",
+        "whyCorrect": "Constitutional delay of growth and puberty is the most common cause of delayed puberty and is frequently familial. These children are short for their chronological age but carry a correspondingly delayed bone age, so they retain remaining growth potential and ultimately reach a normal adult height. Her three-year bone age lag and her mother's menarche at 16 fit this pattern.",
+        "whyWrongByChoice": {
+          "A": "Hypogonadotropic hypogonadism shows low LH and FSH with a bone age that is normal or only minimally delayed.",
+          "C": "Turner syndrome causes short stature with dysmorphic features such as a webbed neck and an elevated FSH.",
+          "D": "Premature ovarian insufficiency produces an elevated FSH and is uncommon at this age.",
+          "E": "Precocious puberty means early rather than absent secondary sexual characteristics."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "delayed puberty",
+        "constitutional delay",
+        "bone age"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-004",
+      "stem": "A neonate born at term has a birth length and weight appropriate for gestational age. Which of the following signaling systems was the principal driver of this infant's linear growth during intrauterine life?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pituitary growth hormone acting directly on bone"
+        },
+        {
+          "label": "B",
+          "text": "Adrenal dehydroepiandrosterone sulfate"
+        },
+        {
+          "label": "C",
+          "text": "Insulin and insulin-like growth factor signaling"
+        },
+        {
+          "label": "D",
+          "text": "Gonadal estrogen and testosterone"
+        },
+        {
+          "label": "E",
+          "text": "Pulsatile hypothalamic gonadotropin-releasing hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fetal growth is driven by insulin and IGF signaling, with growth hormone contributing relatively little before birth.",
+        "whyCorrect": "Each period of growth has its own dominant hormonal regulator. During intrauterine life, insulin and IGF signaling are the primary drivers of fetal growth, while growth hormone plays only a minor role until after delivery. Only after birth does pituitary GH take over by stimulating hepatic IGF-1 production.",
+        "whyWrongByChoice": {
+          "A": "GH becomes the dominant driver only after birth, and it acts largely indirectly through hepatic IGF-1 rather than directly on bone.",
+          "B": "DHEAS is the product of adrenarche and drives pubic and axillary hair development, not fetal size.",
+          "D": "Gonadal sex steroids drive the adolescent growth spurt and epiphyseal fusion, not fetal growth.",
+          "E": "Pulsatile GnRH activates the gonadal axis at gonadarche, well after the intrauterine period."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "fetal growth",
+        "IGF",
+        "hormonal regulation"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-005",
+      "stem": "A term male infant is born at the 95th percentile for weight and length. His parents, who are both of average height, ask whether his large size at birth means he will be a tall adult. Which of the following statements is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Birth size mostly reflects the fetal genome, so it does forecast adult stature"
+        },
+        {
+          "label": "B",
+          "text": "Birth size predicts adult stature more reliably than mid-parental height does"
+        },
+        {
+          "label": "C",
+          "text": "Birth size is largely set by maternal factors, so it does not forecast stature"
+        },
+        {
+          "label": "D",
+          "text": "Birth size fixes the height percentile a child settles onto by 2 years of age"
+        },
+        {
+          "label": "E",
+          "text": "Birth size forecasts adult stature once a bone age radiograph is obtained"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Only about 20% of birth size traces to the fetal genome, so size at birth does not forecast adult height.",
+        "whyCorrect": "Birth size is roughly 20% fetal genome, 20% maternal genome, 30% maternal environmental factors such as nutrition, health, and placental function, and 30% unexplained. Because non-heritable maternal factors carry so much of the weight, size at birth does not predict adult stature. A child instead settles onto a height percentile by about 2 years of age and then tracks along it.",
+        "whyWrongByChoice": {
+          "A": "The fetal genome accounts for only about a fifth of birth size, so it cannot dictate adult height.",
+          "B": "Mid-parental height is the most clinically useful predictor of adult stature; birth size is not.",
+          "D": "The percentile a child establishes by age 2 reflects postnatal growth after the maternal influence recedes, not birth size.",
+          "E": "Bone age refines a height prediction from current height, but it does not turn birth size into a predictor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "birth size",
+        "growth percentiles",
+        "adult height prediction"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-006",
+      "stem": "A 7-year-old boy is being evaluated for a growth velocity of 3 cm per year. A random growth hormone level obtained in the clinic at 10:00 AM is low. Which of the following best explains why this single measurement cannot establish growth hormone deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Growth hormone circulates bound to a carrier protein that blocks the assay"
+        },
+        {
+          "label": "B",
+          "text": "Growth hormone is secreted continuously, so a low value reflects assay error"
+        },
+        {
+          "label": "C",
+          "text": "Growth hormone is released only during REM sleep, so daytime levels are low"
+        },
+        {
+          "label": "D",
+          "text": "Growth hormone rises only after a meal, so it must be drawn postprandially"
+        },
+        {
+          "label": "E",
+          "text": "Growth hormone is made in the liver, so pituitary disease does not lower it"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GH secretion is pulsatile and sleep-dependent, so a random daytime level is uninformative.",
+        "whyCorrect": "Growth hormone secretion is not continuous. Over a 24-hour period it is released during periods of REM sleep, so a sample drawn while a child is awake in clinic can be low even in a completely normal child. This is why the growth hormone axis is judged by IGF-1 and provocative testing rather than by a single random level.",
+        "whyWrongByChoice": {
+          "A": "Carrier-protein binding is not why a random GH level is uninterpretable; the timing of secretion is.",
+          "B": "GH secretion is explicitly pulsatile rather than continuous, which is the basis of the problem here.",
+          "D": "GH release is tied to sleep, not to meals.",
+          "E": "GH comes from the anterior pituitary; it is IGF-1 that the liver produces in response to GH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "growth hormone",
+        "pulsatile secretion",
+        "laboratory evaluation"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-007",
+      "stem": "A 6-year-old girl has had breast development and pubic hair since age 6 years. She is now well above the 97th percentile for height and is taller than all of her classmates. Her bone age is advanced by 3 years. If she is left untreated, which of the following is the most likely long-term outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Final adult height well above her mid-parental target height"
+        },
+        {
+          "label": "B",
+          "text": "Continued linear growth well into the third decade of life"
+        },
+        {
+          "label": "C",
+          "text": "Progressive disproportionate lengthening of the limbs"
+        },
+        {
+          "label": "D",
+          "text": "Arrest of growth velocity below 5 cm per year within the year"
+        },
+        {
+          "label": "E",
+          "text": "Final adult height below her mid-parental target height"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Precocious puberty makes a child tall for age at first but shortens final height by fusing the epiphyses early.",
+        "whyCorrect": "Precocious puberty, defined as onset before age 8 in females and before age 9 in males, initially accelerates growth and produces tall stature for chronological age. The same sex steroids that drive that acceleration also advance skeletal maturation and cause premature epiphyseal fusion, ending linear growth early and reducing final adult height. Her advanced bone age is the marker of that lost growth potential.",
+        "whyWrongByChoice": {
+          "A": "Early fusion of the growth plates cuts short her growing years, so she finishes shorter, not taller, than her genetic target.",
+          "B": "Sex steroids close the growth plates, and in precocious puberty they do so earlier than normal rather than later.",
+          "C": "Disproportionately long limbs are a consequence of extended delay of puberty, not of early puberty.",
+          "D": "Her velocity is currently accelerated; height is lost through early epiphyseal fusion rather than immediate growth arrest."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "precocious puberty",
+        "epiphyseal fusion",
+        "final adult height"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-008",
+      "stem": "A 9-year-old boy from a food-insecure household has a growth velocity of 3 cm per year and a weight well below the 3rd percentile. Provocative testing shows a normal growth hormone response, but his serum IGF-1 is low. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pituitary lesion that has abolished growth hormone secretion"
+        },
+        {
+          "label": "B",
+          "text": "Chronic undernutrition suppressing IGF-1 despite normal growth hormone"
+        },
+        {
+          "label": "C",
+          "text": "Autonomous IGF-1 production by hepatic tissue independent of GH"
+        },
+        {
+          "label": "D",
+          "text": "Premature epiphyseal fusion from excess sex steroid exposure"
+        },
+        {
+          "label": "E",
+          "text": "A SHOX gene deletion impairing growth plate function and limb length"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Undernutrition lowers IGF-1 in the face of normal GH, a state of GH resistance.",
+        "whyCorrect": "Nutrition is the most powerful environmental determinant of growth. Chronic undernutrition suppresses IGF-1 levels even when growth hormone secretion is normal, a state known as GH resistance, and IGF-1 is the mediator that acts on growth plates to promote chondrocyte proliferation and bone elongation. His low weight-for-age and food insecurity fit this mechanism.",
+        "whyWrongByChoice": {
+          "A": "A pituitary lesion would blunt the growth hormone response to provocative testing, which was normal here.",
+          "C": "Autonomous excess IGF-1 would raise, not lower, his IGF-1 level and would accelerate growth.",
+          "D": "Excess sex steroid exposure advances bone age and closes the plates; it does not lower IGF-1 with normal GH.",
+          "E": "SHOX deletion causes a skeletal growth defect with disproportion, not a low IGF-1 with a normal GH response."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nutrition",
+        "GH resistance",
+        "IGF-1"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-009",
+      "stem": "A 9-month-old infant is brought for a well-child visit. The pediatrician plots head circumference at every visit during the first 2 years of life. Which of the following best explains why head circumference is such a sensitive indicator at this age?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Head circumference tracks limb length better than standing height does"
+        },
+        {
+          "label": "B",
+          "text": "The head is one-tenth of body length in infancy and one-quarter in adults"
+        },
+        {
+          "label": "C",
+          "text": "Head circumference is the parameter most responsive to growth hormone"
+        },
+        {
+          "label": "D",
+          "text": "About 85% of postnatal head growth occurs in the first 18 months of life"
+        },
+        {
+          "label": "E",
+          "text": "Head circumference predicts cardiovascular risk better than body mass index"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Head circumference is driven by brain growth, and most of that growth is complete by 18 months.",
+        "whyCorrect": "Head circumference is primarily determined by brain growth, and 85% of all postnatal head growth occurs within the first 18 months of life. Because so much neurologic development is compressed into that window, serial head circumference measurements are a sensitive indicator of neurological development in infancy.",
+        "whyWrongByChoice": {
+          "A": "Limb length is assessed by arm span and the upper-to-lower segment ratio, not by head circumference.",
+          "B": "The proportions are reversed: the head is about one-quarter of body length in infants and one-tenth in adults.",
+          "C": "Head size reflects brain growth, whereas the growth hormone axis drives linear skeletal growth.",
+          "E": "Waist-to-height ratio is the better predictor of cardiovascular risk; head circumference is not used for that."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "head circumference",
+        "infancy",
+        "growth parameters"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-010",
+      "stem": "A 15-year-old boy is evaluated for tall stature. His standing height is 191 cm and his arm span is 199 cm. He has long, slender fingers and a high-arched palate. Which of the following conditions is most consistent with this pattern of body proportions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achondroplasia"
+        },
+        {
+          "label": "B",
+          "text": "Growth hormone deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Turner syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Familial short stature"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Arm span should equal height, and a span exceeding height by more than 5 cm suggests Marfan syndrome.",
+        "whyCorrect": "Arm span equals height throughout life, even in utero, so a discrepancy greater than 5 cm is clinically notable. When arm span exceeds height, as it does here by 8 cm, the pattern points toward a long-limbed condition such as Marfan syndrome. The reverse pattern, height greater than arm span, instead suggests a skeletal dysplasia.",
+        "whyWrongByChoice": {
+          "A": "Achondroplasia shortens the limbs, producing a high upper-to-lower segment ratio and a height that exceeds arm span.",
+          "B": "Growth hormone deficiency causes proportionate short stature with a low growth velocity, not tall stature.",
+          "C": "Turner syndrome causes short stature, contributed to by SHOX haploinsufficiency.",
+          "E": "Familial short stature involves normal proportions and a height that matches the mid-parental target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "body proportions",
+        "arm span",
+        "Marfan syndrome"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-011",
+      "stem": "A 5-year-old girl's height has fallen from the 50th percentile to the 10th percentile over the past 2 years, although she remains within the normal range on the growth chart. Which of the following is the single most informative parameter for deciding whether her growth is abnormal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Body mass index for age"
+        },
+        {
+          "label": "B",
+          "text": "Current height percentile"
+        },
+        {
+          "label": "C",
+          "text": "Head circumference percentile"
+        },
+        {
+          "label": "D",
+          "text": "Weight-for-height percentile"
+        },
+        {
+          "label": "E",
+          "text": "Growth velocity in cm per year"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Growth velocity, not a single height percentile, is the most informative parameter in growth assessment.",
+        "whyCorrect": "Growth velocity is the rate of height gain over time, calculated from heights taken at least 6 months apart. After age 3, a velocity below 5 cm per year is abnormal, and crossing two major percentile lines downward during the stable childhood period is a red flag even when absolute height remains within the normal range. A child growing at a normal velocity at the 3rd percentile is reassuring; this downward crossing is not.",
+        "whyWrongByChoice": {
+          "A": "BMI describes weight relative to height and does not measure linear growth over time.",
+          "B": "A single height percentile tells you where she is but not where she has been; 10% of normal children fall outside the 5th percentile.",
+          "C": "Head circumference reflects brain growth and is most useful in infancy, not for linear growth at age 5.",
+          "D": "Weight-for-height captures nutritional status rather than the rate of height gain."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "growth velocity",
+        "percentile crossing",
+        "growth assessment"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    },
+    {
+      "id": "en06-012",
+      "stem": "A pair of fraternal twins, one male and one female, are followed through puberty. The girl's peak height velocity occurs at Tanner stage 2, and the boy's occurs at Tanner stage 3 to 4. As adults, the brother is about 13 cm taller than his sister. Which of the following best explains this average height difference between adult men and women?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The male spurt starts later and is greater in magnitude"
+        },
+        {
+          "label": "B",
+          "text": "The male spurt starts earlier and lasts longer"
+        },
+        {
+          "label": "C",
+          "text": "Males lack estrogen and so never fuse their epiphyses"
+        },
+        {
+          "label": "D",
+          "text": "Males have a higher childhood growth velocity before puberty"
+        },
+        {
+          "label": "E",
+          "text": "Females fail to mount a growth hormone response to sex steroids"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Boys grow longer before their spurt and then grow faster during it, which accounts for the roughly 13 cm difference.",
+        "whyCorrect": "In females the growth spurt begins early in puberty around Tanner stage 2, peaks at about 8 to 9 cm per year, and adds roughly 25 cm to final height. In males it begins later, around Tanner stage 3 to 4, peaks at 10 to 12 cm per year, and adds about 28 cm. The later onset buys boys extra years of prepubertal growth, and the greater peak velocity adds more centimeters, together explaining the average 13 cm difference.",
+        "whyWrongByChoice": {
+          "B": "The male spurt begins later in puberty than the female spurt, not earlier.",
+          "C": "Sex steroids close the epiphyses in both sexes, which is what ultimately ends linear growth in males as well.",
+          "D": "Childhood growth before puberty is a stable GH-driven phase that does not differ enough by sex to explain the gap.",
+          "E": "Females do amplify GH secretion in response to estrogen; that is precisely what produces their pubertal spurt."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "growth spurt",
+        "puberty timing",
+        "sexual dimorphism"
+      ],
+      "topicId": "normal-growth-and-sexual-development",
+      "topicName": "Normal Growth and Sexual Development"
+    }
+  ]
+}

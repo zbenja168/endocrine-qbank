@@ -1,0 +1,2795 @@
+{
+  "categoryId": "endocrine-pancreas-diabetes",
+  "categoryName": "Endocrine Pancreas & Diabetes",
+  "questions": [
+    {
+      "id": "en23-001",
+      "stem": "A 9-year-old boy eats a large chocolate-dipped ice cream cone. Within several minutes his plasma insulin concentration rises sharply. Entry of glucose into the pancreatic beta cell, the step that initiates this secretory response, is mediated by which of the following transporters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "GLUT3"
+        },
+        {
+          "label": "D",
+          "text": "GLUT4"
+        },
+        {
+          "label": "E",
+          "text": "GLUT5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta cells sense hyperglycemia through insulin-independent GLUT2, the first step in glucose-stimulated insulin secretion.",
+        "whyCorrect": "GLUT2 sits in pancreatic beta islet cells (and hepatocytes) and is insulin-independent, so it lets intracellular glucose track serum glucose. Glucose entering through GLUT2 undergoes glycolysis, raising the ATP-to-ADP ratio, closing ATP-sensitive potassium channels, depolarizing the cell, and admitting calcium that triggers exocytosis of insulin granules. This is why plasma insulin climbs within about 5 minutes of a glucose load.",
+        "whyWrongByChoice": {
+          "A": "GLUT1 serves most cells, particularly red blood cells and brain, providing basal uptake rather than beta-cell glucose sensing.",
+          "C": "GLUT3 is expressed in brain and placenta and has no role in triggering insulin release.",
+          "D": "GLUT4 is the insulin-dependent transporter of skeletal and cardiac muscle and adipose tissue; it acts downstream of insulin, not upstream of its secretion.",
+          "E": "GLUT5 is a fructose transporter in small intestine, muscle, and testes and does not mediate glucose sensing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLUT2",
+        "insulin secretion",
+        "beta cell"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-002",
+      "stem": "A 29-year-old hospital nurse is brought to the emergency department after a witnessed episode of confusion and diaphoresis. Fingerstick glucose is 38 mg/dL. Serum insulin is markedly elevated, C-peptide is undetectable, and a sulfonylurea screen is negative. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin-secreting tumor of pancreatic beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon-secreting tumor of pancreatic alpha cells"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of pancreatic beta cells"
+        },
+        {
+          "label": "D",
+          "text": "Surreptitious injection of exogenous insulin"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin excess secreted by islet delta cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "C-peptide separates endogenous hyperinsulinemia from injected insulin, because only proinsulin-derived insulin carries C-peptide with it.",
+        "whyCorrect": "Beta cells cleave proinsulin into mature insulin plus a 31-amino acid C-peptide and release the two into blood in equimolar amounts. Synthetic insulin preparations contain no C-peptide, so injected insulin drives hypoglycemia with high measured insulin and a suppressed or undetectable C-peptide level. That is exactly the pattern here.",
+        "whyWrongByChoice": {
+          "A": "An insulinoma hypersecretes endogenous insulin, so C-peptide would be elevated in parallel with insulin, not undetectable.",
+          "B": "Alpha-cell tumors secrete glucagon and cause hyperglycemia with weight loss, diarrhea, and a migratory rash, not hypoglycemia.",
+          "C": "Autoimmune beta-cell loss causes insulin deficiency and hyperglycemia; both insulin and C-peptide would be low.",
+          "E": "Somatostatin inhibits insulin secretion, so an excess would lower, not raise, the measured insulin level."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "C-peptide",
+        "hypoglycemia",
+        "proinsulin"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-003",
+      "stem": "A 12-year-old girl with type 1 diabetes mellitus receives a subcutaneous dose of insulin for polyuria and polydipsia. Insulin exerts its effects on target cells by binding to which of the following types of receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G protein-coupled receptor"
+        },
+        {
+          "label": "B",
+          "text": "Ligand-gated ion channel"
+        },
+        {
+          "label": "C",
+          "text": "Receptor tyrosine kinase"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular nuclear hormone receptor"
+        },
+        {
+          "label": "E",
+          "text": "JAK-STAT-associated cytokine receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Insulin signals through a receptor tyrosine kinase that also binds IGF-1.",
+        "whyCorrect": "Insulin binds the insulin receptor, a receptor tyrosine kinase that likewise binds insulin-like growth factor 1. Autophosphorylation of tyrosine residues launches the cascade that ends with GLUT4 translocation to the membrane and glucose entry by facilitated diffusion. A separate arm, the MAP kinase pathway, drives cell growth and DNA synthesis.",
+        "whyWrongByChoice": {
+          "A": "The G protein-coupled receptor with adenylate cyclase and cAMP belongs to glucagon signaling in the liver, not to insulin.",
+          "B": "Insulin does not gate an ion channel; the ATP-sensitive potassium channel it is often confused with lies in the beta cell and is not an insulin receptor.",
+          "D": "Insulin is a water-soluble peptide that travels unbound in plasma and cannot cross the membrane to reach an intracellular receptor.",
+          "E": "JAK-STAT signaling is implicated in neoplastic and immune disorders but not in insulin action."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "insulin receptor",
+        "tyrosine kinase",
+        "signal transduction"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-004",
+      "stem": "A 44-year-old man has not eaten for 18 hours. Glucagon binds its G protein-coupled receptor on hepatocytes, activating adenylate cyclase and raising intracellular cyclic AMP. This second messenger most directly activates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenylate cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen synthase"
+        },
+        {
+          "label": "C",
+          "text": "Phosphoinositide-3-kinase"
+        },
+        {
+          "label": "D",
+          "text": "Mitogen-activated protein kinase"
+        },
+        {
+          "label": "E",
+          "text": "Protein kinase A"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the hepatic glucagon cascade, cAMP activates protein kinase A, which ultimately turns on glycogen phosphorylase.",
+        "whyCorrect": "Glucagon receptor occupancy activates adenylate cyclase, which converts ATP to cAMP. cAMP then activates protein kinase A, which activates phosphorylase kinase; that enzyme phosphorylates glycogen phosphorylase b to the active phosphorylase a, releasing glucose 1-phosphate from glycogen. Glycogenolysis proceeds quickly enough to raise blood sugar within minutes.",
+        "whyWrongByChoice": {
+          "A": "Adenylate cyclase lies upstream: the G protein activates it, and it generates cAMP rather than being activated by cAMP.",
+          "B": "Glycogen synthase builds glycogen and is favored by insulin in the fed state, the opposite of what glucagon accomplishes.",
+          "C": "The phosphoinositide-3-kinase arm belongs to insulin receptor signaling and mediates GLUT4 insertion.",
+          "D": "MAP kinase is the growth and DNA-synthesis arm activated by insulin receptor binding, not by cAMP from glucagon."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucagon",
+        "cAMP",
+        "protein kinase A",
+        "glycogenolysis"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-005",
+      "stem": "A 42-year-old woman feels dizzy and shaky several hours after skipping lunch. Her home glucometer reads 50 mg/dL. As her pancreatic islets respond to this blood glucose level, which of the following changes in hormone secretion is most likely occurring?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased glucagon secretion with increased insulin secretion"
+        },
+        {
+          "label": "B",
+          "text": "Decreased glucagon secretion with decreased insulin secretion"
+        },
+        {
+          "label": "C",
+          "text": "Increased glucagon secretion with decreased insulin secretion"
+        },
+        {
+          "label": "D",
+          "text": "Increased glucagon secretion with increased insulin secretion"
+        },
+        {
+          "label": "E",
+          "text": "Increased somatostatin secretion with increased insulin secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Alpha and beta cells read the same glucose signal in opposite directions, so hypoglycemia raises glucagon while suppressing insulin.",
+        "whyCorrect": "At low glucose, alpha cells depolarize, calcium enters through voltage-gated channels, and glucagon granules undergo exocytosis. The beta cell responds to glucose in the opposite direction, so its secretion falls as glucose falls. The result is coordinated counterregulation that mobilizes hepatic glycogen and restores serum glucose.",
+        "whyWrongByChoice": {
+          "A": "This reverses both hormones; low glucose stimulates glucagon and suppresses insulin, not the other way around.",
+          "B": "Glucagon direction is wrong: hypoglycemia is the principal stimulus for alpha-cell secretion.",
+          "D": "Insulin direction is wrong: insulin release is suppressed, not stimulated, as glucose falls.",
+          "E": "Somatostatin inhibits islet secretion and would not be paired with a rise in insulin during hypoglycemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucagon secretion",
+        "counterregulation",
+        "alpha cell"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-006",
+      "stem": "A 19-year-old man with type 1 diabetes mellitus forgets his morning insulin dose. His fingerstick glucose is 240 mg/dL, and after 45 minutes of basketball it falls to 150 mg/dL without any insulin having been given. Which of the following best explains the fall in his blood glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contracting skeletal muscle translocates GLUT4 by an insulin-independent pathway"
+        },
+        {
+          "label": "B",
+          "text": "Exercise upregulates hepatic GLUT2, increasing net hepatic glucose uptake"
+        },
+        {
+          "label": "C",
+          "text": "Exercise-induced incretin release stimulates residual beta cells to secrete insulin"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic activation during exercise suppresses alpha-cell glucagon secretion"
+        },
+        {
+          "label": "E",
+          "text": "Muscle contraction increases insulin receptor autophosphorylation in myocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Muscle contraction moves GLUT4 to the membrane through a pathway that does not require insulin.",
+        "whyCorrect": "Insulin normally drives GLUT4 translocation in skeletal and cardiac muscle and adipose tissue, but skeletal muscle contraction recruits GLUT4 through a separate, insulin-independent route. That is why exercise lowers glucose even when insulin signaling is absent or impaired, as in this patient who took no insulin.",
+        "whyWrongByChoice": {
+          "B": "GLUT2 in hepatocytes is insulin-independent and mediates bidirectional hepatic glucose movement; exercise does not lower systemic glucose by increasing hepatic uptake.",
+          "C": "Incretins such as GLP-1 and GIP are released after food ingestion, not by exercise, and act on beta cells this patient largely lacks.",
+          "D": "Sympathetic activity during exercise stimulates glucagon release and inhibits insulin, which would tend to raise glucose.",
+          "E": "Contraction bypasses the insulin receptor entirely; with no circulating insulin, receptor autophosphorylation cannot account for the drop."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "GLUT4",
+        "exercise",
+        "type 1 diabetes"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-007",
+      "stem": "A healthy volunteer drinks 75 g of glucose on one study day and, on another, receives an intravenous glucose infusion producing an identical plasma glucose curve. The insulin rise is substantially greater after the oral load. Which pair of gut-derived incretins most directly accounts for this difference by activating pancreatic beta cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholecystokinin and secretin"
+        },
+        {
+          "label": "B",
+          "text": "Somatostatin and gastrin"
+        },
+        {
+          "label": "C",
+          "text": "Glucagon and cortisol"
+        },
+        {
+          "label": "D",
+          "text": "GLP-1 and GIP"
+        },
+        {
+          "label": "E",
+          "text": "Insulin and C-peptide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GLP-1 and GIP are the incretins that amplify beta-cell insulin release when glucose arrives through the gut.",
+        "whyCorrect": "Food entering the gut triggers an anticipatory release of insulin mediated by gut hormones. Of these, glucagon-like peptide-1 and glucose-dependent insulinotropic peptide are specifically the incretins, and they activate pancreatic beta cells in response to elevated glucose. Because intravenous glucose bypasses the gut, no incretin signal is generated and the insulin response is smaller.",
+        "whyWrongByChoice": {
+          "A": "Cholecystokinin and secretin are gut hormones involved in the meal response but are not the incretins that directly activate beta cells.",
+          "B": "Somatostatin inhibits insulin secretion, and gastrin is not an incretin.",
+          "C": "Glucagon and cortisol raise blood glucose rather than amplifying insulin release after an oral load.",
+          "E": "Insulin and C-peptide are the beta-cell secretory products themselves, not the gut signals that stimulate them."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "incretins",
+        "GLP-1",
+        "GIP"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-008",
+      "stem": "A 61-year-old man with type 2 diabetes mellitus and a hemoglobin A1c of 8.4% is started on liraglutide. Which of the following best describes how this drug lowers his blood glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocks hepatic glucagon receptors to reduce glycogenolysis"
+        },
+        {
+          "label": "B",
+          "text": "Mimics native incretins to enhance beta-cell insulin secretion"
+        },
+        {
+          "label": "C",
+          "text": "Inhibits somatostatin release from pancreatic delta cells"
+        },
+        {
+          "label": "D",
+          "text": "Translocates GLUT4 to myocyte membranes without insulin"
+        },
+        {
+          "label": "E",
+          "text": "Supplies the C-peptide absent from synthetic insulin preparations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GLP-1 receptor agonists reproduce the native incretin signal that drives insulin release after a meal.",
+        "whyCorrect": "Liraglutide and exenatide are GLP-1 receptor agonists used for the hyperglycemia of type 2 diabetes. They mimic the action of the native incretins, which are secreted by the gut after a meal and activate pancreatic beta cells, complementing insulin's effect to lower the serum glucose level.",
+        "whyWrongByChoice": {
+          "A": "These agents act on the GLP-1 receptor of the beta cell rather than antagonizing hepatic glucagon receptors.",
+          "C": "Delta-cell somatostatin release is not the target of incretin-based therapy.",
+          "D": "GLUT4 translocation without insulin occurs with muscle contraction during exercise, not with a GLP-1 agonist.",
+          "E": "C-peptide is a byproduct of proinsulin cleavage with no glucose-lowering action being replaced here."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "GLP-1 agonist",
+        "type 2 diabetes",
+        "pharmacology"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-009",
+      "stem": "Delta cells are scattered throughout the islets of Langerhans and secrete growth hormone-inhibiting hormone, also known as somatostatin. Within the islet itself, this peptide most directly does which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulates insulin secretion from beta cells during hyperglycemia"
+        },
+        {
+          "label": "B",
+          "text": "Stimulates glucagon secretion from alpha cells during hypoglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Converts proinsulin into mature insulin within beta-cell granules"
+        },
+        {
+          "label": "D",
+          "text": "Promotes GLUT4 translocation in adjacent exocrine acinar cells"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits secretion of both insulin and glucagon by neighboring cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Islet somatostatin is a local paracrine brake on both alpha and beta cells.",
+        "whyCorrect": "Delta cells release somatostatin into the islet interstitium, where it inhibits alpha-cell glucagon secretion and beta-cell insulin secretion alike. Somatostatin is also made in the hypothalamus, where it suppresses growth hormone and prolactin release, and in the GI tract, where it slows secretion and motility, but those are separate pools with separate roles.",
+        "whyWrongByChoice": {
+          "A": "Somatostatin suppresses insulin release rather than stimulating it.",
+          "B": "Somatostatin inhibits alpha-cell glucagon output; hypoglycemia itself is the stimulus for glucagon.",
+          "C": "Proinsulin is cleaved by enzymes inside beta-cell granules, a process unrelated to delta-cell secretion.",
+          "D": "GLUT4 is expressed in skeletal and cardiac muscle and adipose tissue and is moved by insulin, not by somatostatin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "somatostatin",
+        "delta cell",
+        "paracrine regulation"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-010",
+      "stem": "A 58-year-old woman has 6 months of weight loss and watery diarrhea along with a red, blistering rash that migrates across her perineum and lower extremities. Fasting plasma glucose is 265 mg/dL. Which of the following is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor arising from pancreatic beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Tumor arising from pancreatic delta cells"
+        },
+        {
+          "label": "C",
+          "text": "Tumor arising from pancreatic alpha cells"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune destruction of pancreatic beta cells"
+        },
+        {
+          "label": "E",
+          "text": "Tumor of intestinal cells that secrete GLP-1"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hyperglycemia with weight loss, diarrhea, and migratory necrolytic erythema is the classic glucagonoma picture.",
+        "whyCorrect": "Glucagonoma is a rare tumor of pancreatic alpha cells. Unregulated glucagon drives hepatic glycogenolysis and gluconeogenesis, producing marked hyperglycemia, and the syndrome also features weight loss, diarrhea, and the migratory necrolytic erythema described here.",
+        "whyWrongByChoice": {
+          "A": "A beta-cell tumor hypersecretes insulin and produces hypoglycemia with confusion or seizures, not hyperglycemia.",
+          "B": "Delta cells produce somatostatin, which is not the source of a migratory blistering rash with hyperglycemia in this lecture's framework.",
+          "D": "Autoimmune beta-cell destruction causes type 1 diabetes; it does not produce the characteristic rash and diarrhea.",
+          "E": "GLP-1 is an incretin that lowers serum glucose, so excess would not cause a fasting glucose of 265 mg/dL."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "glucagonoma",
+        "alpha cell",
+        "clinical correlation"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-011",
+      "stem": "A college basketball player asks about carbohydrate loading and eats a large pasta meal several hours before her game. As insulin rises in response to the absorbed glucose, the excess nutrient is deposited in which of the following forms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycogen in liver and skeletal muscle and triglyceride in adipose tissue"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen in adipose tissue and triglyceride in liver and skeletal muscle"
+        },
+        {
+          "label": "C",
+          "text": "Free amino acids in skeletal muscle and glycogen in adipose tissue"
+        },
+        {
+          "label": "D",
+          "text": "Free fatty acids bound to albumin and glycogen in red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Glycogen in brain and red blood cells and triglyceride in the liver"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Insulin stores fuel as hepatic and muscle glycogen first and as adipose triglyceride once glycogen stores fill.",
+        "whyCorrect": "Insulin promotes glucose storage in liver and muscle as glycogen, the primary short-term storage form. Once the liver is saturated with glycogen, additional glucose taken up by hepatocytes is converted to fatty acids, esterified into triglycerides, and packaged into VLDL; lipoprotein lipase then releases fatty acids for adipocyte uptake, where insulin-stimulated glucose becomes the glycerol backbone for stored triglyceride.",
+        "whyWrongByChoice": {
+          "B": "This inverts the tissues: adipose tissue stores triglyceride, while liver and muscle store glycogen.",
+          "C": "Insulin promotes protein synthesis rather than accumulation of free amino acids, and adipose tissue does not serve as a glycogen depot.",
+          "D": "Circulating albumin-bound fatty acids are a transport pool, not a storage form, and red blood cells do not store glycogen.",
+          "E": "Brain and red blood cells take up glucose for immediate use through insulin-independent transporters and do not store it as glycogen."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "glycogen",
+        "fuel storage"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en23-012",
+      "stem": "During an oral glucose tolerance test, glucose entering a pancreatic beta cell is metabolized by glycolysis and the intracellular ATP-to-ADP ratio rises. Which of the following events follows most directly from this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opening of voltage-gated calcium channels in the beta-cell membrane"
+        },
+        {
+          "label": "B",
+          "text": "Exocytosis of preformed insulin granules at the cell surface"
+        },
+        {
+          "label": "C",
+          "text": "Entry of glucose into the beta cell through GLUT2 transporters"
+        },
+        {
+          "label": "D",
+          "text": "Closure of ATP-sensitive potassium channels in the beta cell"
+        },
+        {
+          "label": "E",
+          "text": "Hyperpolarization of the beta cell by increased potassium efflux"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A rising ATP-to-ADP ratio closes the beta cell's ATP-sensitive potassium channels, the step that couples metabolism to secretion.",
+        "whyCorrect": "Glucose enters through GLUT2 and is metabolized, generating ATP. The high ATP closes ATP-sensitive potassium channels, which depolarizes the membrane; depolarization then opens voltage-gated calcium channels, and the resulting rise in intracellular calcium moves insulin granules to the membrane for exocytosis. Channel closure is the event that immediately follows the metabolic signal.",
+        "whyWrongByChoice": {
+          "A": "Calcium channel opening requires depolarization, which occurs only after the potassium channels have already closed.",
+          "B": "Exocytosis is the final step and depends on the calcium influx that lies two steps further downstream.",
+          "C": "Glucose entry through GLUT2 precedes glycolysis and therefore comes before, not after, the rise in ATP.",
+          "E": "Potassium efflux is reduced when the channels close, so the cell depolarizes rather than hyperpolarizing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ATP-sensitive potassium channel",
+        "beta cell",
+        "insulin secretion"
+      ],
+      "topicId": "structure-and-function-of-the-endocrine-pancreas",
+      "topicName": "Structure and Function of the Endocrine Pancreas"
+    },
+    {
+      "id": "en24-001",
+      "stem": "A 13-year-old boy is brought to the emergency department with rapid deep breathing, excessive thirst, frequent urination, and 6 kg of unintentional weight loss over 3 weeks despite eating more than usual. He is thin and appears dehydrated. Plasma glucose is 486 mg/dL, and serum and urine ketones are elevated. Which of the following additional laboratory findings would most strongly support type 1 rather than type 2 diabetes in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin A1c of 11.4%"
+        },
+        {
+          "label": "B",
+          "text": "Fasting triglyceride concentration of 320 mg/dL"
+        },
+        {
+          "label": "C",
+          "text": "Undetectable serum C-peptide concentration"
+        },
+        {
+          "label": "D",
+          "text": "Fasting plasma glucose of 168 mg/dL on repeat testing"
+        },
+        {
+          "label": "E",
+          "text": "Elevated fasting serum insulin concentration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Low or absent C-peptide marks the absolute insulin deficiency that defines type 1 diabetes.",
+        "whyCorrect": "C-peptide is cleaved from proinsulin during endogenous insulin synthesis and is released in equimolar amounts with insulin, making it a reliable marker of beta-cell function. In T1DM the beta cells are destroyed, so C-peptide is low or absent, whereas in T2DM it is normal or elevated. This is one of the two mechanism-establishing tests, along with islet autoantibodies, used once hyperglycemia is confirmed.",
+        "whyWrongByChoice": {
+          "A": "An elevated HbA1c confirms sustained hyperglycemia but is seen in both types and says nothing about the mechanism.",
+          "B": "Hypertriglyceridemia is a feature of metabolic syndrome and does not distinguish the two types; its absence does not exclude either.",
+          "D": "A fasting glucose above 126 mg/dL confirms diabetes but does not identify which type is present.",
+          "E": "A high endogenous insulin level points away from absolute deficiency and toward insulin resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "C-peptide",
+        "diagnosis",
+        "T1DM vs T2DM"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-002",
+      "stem": "A 16-year-old girl has lost 5 kg over the past month even though her appetite has increased and she is eating larger meals than usual. Plasma glucose is 342 mg/dL. Which of the following best explains her weight loss?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of insulin's brake on lipolysis and proteolysis"
+        },
+        {
+          "label": "B",
+          "text": "Suppression of glucagon secretion by persistent hyperglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Appetite suppression by circulating ketone bodies"
+        },
+        {
+          "label": "D",
+          "text": "Reduced glucose uptake by brain and red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Autoantibody blockade of peripheral insulin receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Insulin is the body's brake on catabolism, so its absence breaks down fat and protein despite abundant circulating glucose.",
+        "whyCorrect": "Insulin is the master fed signal and the primary restraint on catabolism. When it is absent, storage stops and lipolysis and protein breakdown are unleashed, so fat and lean mass are consumed for fuel. Combined with urinary calorie loss from glucosuria, this produces weight loss even when appetite is normal or increased.",
+        "whyWrongByChoice": {
+          "B": "Glucagon is not suppressed in T1DM; loss of insulin leaves glucagon unopposed, which further drives gluconeogenesis and ketogenesis.",
+          "C": "Patients with new-onset T1DM are characteristically hungry, and polyphagia is one of the three Ps of the classic presentation.",
+          "D": "Brain and red blood cells take up glucose through insulin-independent transporters and continue to do so regardless of insulin.",
+          "E": "The autoantibodies of T1DM are markers of beta-cell destruction, not receptor blockers, and symptoms come from lack of insulin itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "pathophysiology",
+        "catabolism",
+        "weight loss"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-003",
+      "stem": "A 9-year-old boy with newly diagnosed diabetes has been urinating large volumes and drinking constantly for 2 weeks. His plasma glucose is 388 mg/dL and urinalysis shows 4+ glucose with no infection. Which of the following best explains his high-volume urine output?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deficient posterior pituitary release of antidiuretic hormone"
+        },
+        {
+          "label": "B",
+          "text": "Osmotic diuresis from glucose exceeding tubular reabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Renal tubular resistance to circulating antidiuretic hormone"
+        },
+        {
+          "label": "D",
+          "text": "Increased glomerular filtration rate from expanded plasma volume"
+        },
+        {
+          "label": "E",
+          "text": "Urinary loss of ketoacids obligating sodium and water excretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Polyuria in diabetes is an osmotic diuresis that begins when plasma glucose exceeds the kidney's reabsorptive capacity.",
+        "whyCorrect": "When plasma glucose exceeds the kidney's variable capacity to reabsorb filtered glucose, often approximated near 180 mg/dL, glucose spills into the urine and holds water in the tubular lumen. The resulting osmotic diuresis produces high-volume urination and free water loss, and the ensuing volume depletion drives compensatory thirst. This is the mechanism behind the polyuria and polydipsia of the classic presentation.",
+        "whyWrongByChoice": {
+          "A": "Deficient ADH release describes central diabetes insipidus, which does not produce hyperglycemia or 4+ glucosuria.",
+          "C": "Tubular resistance to ADH describes nephrogenic diabetes insipidus, a separate cause of polyuria with normal plasma glucose.",
+          "D": "This patient is volume depleted from ongoing water loss, not volume expanded, and glucosuria of this magnitude is the operative problem.",
+          "E": "Ketoacid excretion is a downstream consequence of unrestrained lipolysis and is not the principal osmotic driver of the polyuria."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "polyuria",
+        "osmotic diuresis",
+        "clinical presentation"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-004",
+      "stem": "A pancreatic specimen from a patient who died shortly after presenting with new-onset type 1 diabetes shows dense lymphocytic infiltration of the islets with loss of beta cells. Which of the following best describes the immunologic mechanism responsible for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated mast cell degranulation within the islets"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of circulating immune complexes in islet capillaries"
+        },
+        {
+          "label": "C",
+          "text": "Complement-mediated lysis of beta cells by anti-GAD antibodies"
+        },
+        {
+          "label": "D",
+          "text": "Cell-mediated destruction by T lymphocytes and macrophages"
+        },
+        {
+          "label": "E",
+          "text": "Extracellular amyloid deposition compressing the islet cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Type 1 diabetes is a type IV cell-mediated hypersensitivity in which T cells and macrophages destroy beta cells, producing insulitis.",
+        "whyCorrect": "B lymphocytes present islet autoantigens to helper T cells, which release cytokines that recruit T lymphocytes and macrophages; these effector cells directly destroy the beta cells. Histologically this appears as lymphocytic infiltration, or insulitis, with progressive islet beta-cell loss. Autoantibodies such as anti-GAD, IA-2, ZnT8, and insulin autoantibodies are markers of this process rather than the primary mediators of cell death.",
+        "whyWrongByChoice": {
+          "A": "IgE-mediated mast cell degranulation is a type I hypersensitivity mechanism and does not cause insulitis.",
+          "B": "Immune complex deposition is a type III mechanism and is not the lesion described in the islets in T1DM.",
+          "C": "Islet autoantibodies mark the autoimmune process but are not the direct cause of beta-cell death in this disease.",
+          "E": "Islet amyloid deposition is a feature of type 2 diabetes and does not explain a lymphocytic infiltrate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "pathophysiology",
+        "insulitis",
+        "hypersensitivity"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-005",
+      "stem": "A 41-year-old nurse is evaluated for recurrent episodes of confusion and diaphoresis. During a documented episode, plasma glucose is 38 mg/dL, serum insulin is markedly elevated, and C-peptide is suppressed. Which of the following best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin-secreting pancreatic islet cell tumor"
+        },
+        {
+          "label": "B",
+          "text": "Administration of exogenous insulin"
+        },
+        {
+          "label": "C",
+          "text": "Surreptitious use of a sulfonylurea"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral insulin resistance with compensatory hypersecretion"
+        },
+        {
+          "label": "E",
+          "text": "Latent autoimmune diabetes in adults"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High measured insulin with suppressed C-peptide identifies the insulin as exogenous, since injected insulin contains no C-peptide.",
+        "whyCorrect": "C-peptide is co-secreted in equimolar amounts with endogenous insulin, but insulin preparations that are injected contain none. Therefore a high insulin level paired with a low C-peptide level during hypoglycemia indicates that the insulin came from outside the body. Note that this pattern identifies the source of the insulin only; it does not by itself establish a diabetes type, since anyone who injects insulin shows it.",
+        "whyWrongByChoice": {
+          "A": "An insulinoma secretes endogenous insulin, so insulin and C-peptide would both be elevated.",
+          "C": "A sulfonylurea stimulates the beta cell, so endogenous secretion raises insulin and C-peptide together.",
+          "D": "Insulin resistance is associated with high C-peptide from compensatory endogenous secretion, and it does not cause hypoglycemia of this severity.",
+          "E": "Latent autoimmune diabetes in adults presents with hyperglycemia and still has measurable C-peptide early in its course."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "C-peptide",
+        "hypoglycemia workup",
+        "exogenous insulin"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-006",
+      "stem": "A 7-year-old girl whose brother has type 1 diabetes is found to have two islet autoantibodies on screening. Her fasting plasma glucose and HbA1c are normal and she has no symptoms. Overt hyperglycemia in this disease typically appears only after loss of approximately what proportion of beta cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "80%"
+        },
+        {
+          "label": "E",
+          "text": "100%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Autoantibodies appear years before symptoms, and clinical hyperglycemia emerges only after roughly 80% of beta cells are lost.",
+        "whyCorrect": "The autoimmune attack on beta cells is gradual, and autoantibodies including anti-GAD, IA-2, ZnT8, and insulin autoantibodies can be detected years to decades before any symptom. Clinical hyperglycemia emerges only once beta-cell loss exceeds roughly 80%, which is why a child can be antibody positive with normal glucose. The presence of two or more autoantibodies confers a nearly 100% risk of eventually developing insulin-requiring disease.",
+        "whyWrongByChoice": {
+          "A": "Loss of this small a fraction leaves ample beta-cell reserve, and glucose remains normal.",
+          "B": "Substantial reserve remains at this level of loss, so glucose tolerance is preserved.",
+          "C": "Even after losing about half the beta-cell mass, remaining secretion keeps glucose in the normal range.",
+          "E": "Hyperglycemia appears before beta-cell destruction is complete, and residual secretion may persist around the time of diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "autoantibodies",
+        "natural history",
+        "beta-cell loss"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-007",
+      "stem": "A 22-year-old asymptomatic man has a fasting plasma glucose of 131 mg/dL on a screening panel drawn after an overnight fast. He has no polyuria, polydipsia, or weight loss. Which of the following is the most appropriate next step in establishing the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Repeat the fasting glucose to confirm the abnormal result"
+        },
+        {
+          "label": "B",
+          "text": "Diagnose diabetes on this single value and begin therapy"
+        },
+        {
+          "label": "C",
+          "text": "Measure islet autoantibodies to establish whether diabetes is present"
+        },
+        {
+          "label": "D",
+          "text": "Obtain a random plasma glucose to confirm the diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "Defer any further testing until symptoms of hyperglycemia develop"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the absence of unequivocal hyperglycemia, a diagnostic result must be confirmed by a second abnormal test.",
+        "whyCorrect": "A fasting plasma glucose of 126 mg/dL or higher meets a diagnostic threshold, but in a patient without unequivocal hyperglycemia the criteria require two abnormal results, from the same or from different diagnostic tests. Repeating the test is therefore the next step before the diagnosis is made. Only classic hyperglycemic symptoms or a hyperglycemic crisis with a random glucose of 200 mg/dL or higher removes the need for confirmation.",
+        "whyWrongByChoice": {
+          "B": "A single abnormal value in an asymptomatic patient does not satisfy the diagnostic criteria and should be confirmed first.",
+          "C": "Autoantibodies establish the mechanism once hyperglycemia is confirmed; they do not diagnose diabetes.",
+          "D": "A random glucose is diagnostic only in a patient who has symptoms of hyperglycemia, which this man lacks.",
+          "E": "Waiting for symptoms ignores an already abnormal fasting value that meets a diagnostic threshold."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "diagnostic criteria",
+        "fasting glucose",
+        "confirmatory testing"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-008",
+      "stem": "A 27-year-old woman with hereditary hemolytic anemia and a markedly shortened red cell lifespan reports 3 weeks of polyuria, polydipsia, and a 4 kg weight loss. Random plasma glucose is 289 mg/dL, but her HbA1c is 5.7%. Which of the following best explains the discrepancy between her symptoms and her HbA1c?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her symptoms are too recent to have raised plasma glucose"
+        },
+        {
+          "label": "B",
+          "text": "Rapid red cell turnover lowers the measured glycated fraction"
+        },
+        {
+          "label": "C",
+          "text": "Anemia falsely lowers laboratory plasma glucose measurement"
+        },
+        {
+          "label": "D",
+          "text": "HbA1c reflects glucose control over the preceding 24 hours"
+        },
+        {
+          "label": "E",
+          "text": "Residual C-peptide secretion normalizes long-term glycemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HbA1c can be falsely low when red cells turn over rapidly, so a normal value does not exclude diabetes.",
+        "whyCorrect": "HbA1c is the percentage of hemoglobin that is glycated, and it reflects roughly the preceding 2 to 3 months because red cells circulate about 120 days. Conditions with rapid red cell turnover, such as hemolytic anemia, shorten the exposure time and falsely lower the measured value. A value below 6.5% therefore does not exclude diabetes, and in this symptomatic patient the random glucose of 200 mg/dL or higher is diagnostic.",
+        "whyWrongByChoice": {
+          "A": "Her plasma glucose is in fact markedly elevated at 289 mg/dL, so the premise of this explanation is wrong.",
+          "C": "Anemia does not falsely lower a plasma glucose measurement; the glucose value here is genuinely high.",
+          "D": "HbA1c integrates glycemia over roughly 2 to 3 months, not over a single day.",
+          "E": "Preserved C-peptide would not normalize an HbA1c in the face of glucose values in this range."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "HbA1c",
+        "diagnosis",
+        "lab pitfalls"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-009",
+      "stem": "A 12-year-old girl with newly diagnosed type 1 diabetes is ready for discharge on a physiologic outpatient regimen. Insulin aspart has been prescribed with each meal. Which of the following should be added to suppress hepatic glucose output between meals and overnight?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin glargine once daily"
+        },
+        {
+          "label": "B",
+          "text": "Insulin lispro before bedtime snacks"
+        },
+        {
+          "label": "C",
+          "text": "Metformin twice daily with meals"
+        },
+        {
+          "label": "D",
+          "text": "Glipizide once daily before breakfast"
+        },
+        {
+          "label": "E",
+          "text": "An additional dose of aspart at bedtime"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The basal-bolus regimen pairs a long-acting basal insulin with rapid-acting mealtime insulin to mimic normal pancreatic secretion.",
+        "whyCorrect": "Long-acting insulins such as glargine or detemir provide the basal component that suppresses hepatic glucose output between meals and overnight. Rapid-acting agents such as lispro or aspart cover the postprandial rise at meals. Combining the two is the current standard of care because it reproduces the physiologic pattern of endogenous secretion.",
+        "whyWrongByChoice": {
+          "B": "Lispro is a rapid-acting bolus insulin, so it covers a meal rather than providing between-meal basal coverage.",
+          "C": "No oral agent substitutes for insulin in T1DM, where beta-cell destruction has produced absolute deficiency.",
+          "D": "Sulfonylureas act by stimulating beta cells, which have been destroyed in this disease.",
+          "E": "Adding another rapid-acting dose provides brief coverage rather than the sustained basal effect that is needed."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "management",
+        "basal-bolus insulin",
+        "pharmacology"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-010",
+      "stem": "An 18-year-old man with type 1 diabetes managed with an insulin pump has had three episodes in the past month of shakiness, confusion, and profuse sweating during the late afternoon, each relieved by drinking juice. Which of the following is the most likely cause of these episodes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin delivery in excess of current needs"
+        },
+        {
+          "label": "B",
+          "text": "Interruption of insulin delivery by the pump"
+        },
+        {
+          "label": "C",
+          "text": "Accumulation of ketone bodies from lipolysis"
+        },
+        {
+          "label": "D",
+          "text": "Unopposed glucagon driving hepatic glucose output"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic diuresis from sustained hyperglycemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypoglycemia from excess insulin is the most common acute complication in treated type 1 diabetes.",
+        "whyCorrect": "Insulin therapy is a therapeutic tightrope: too little risks diabetic ketoacidosis, while too much causes hypoglycemia, which is the most common acute complication in treated T1DM. Shakiness, confusion, and diaphoresis are the classic warning symptoms that patients and caregivers are taught to recognize and treat promptly. Relief after carbohydrate intake supports hypoglycemia as the cause.",
+        "whyWrongByChoice": {
+          "B": "Interrupted insulin delivery causes hyperglycemia and ketosis, not symptoms relieved by drinking juice.",
+          "C": "Ketone accumulation produces Kussmaul respirations, nausea, and altered consciousness rather than symptoms resolving with sugar.",
+          "D": "Unopposed glucagon raises blood glucose, which cannot explain adrenergic symptoms that resolve with carbohydrate.",
+          "E": "Osmotic diuresis causes polyuria and volume loss and requires hyperglycemia, the opposite of what these episodes reflect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "management",
+        "hypoglycemia",
+        "acute complications"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-011",
+      "stem": "A 24-year-old woman with type 1 diabetes diagnosed 5 years ago has an HbA1c of 6.8% and no visual complaints. She has never had an eye examination since her diagnosis. Which of the following best describes when a dilated comprehensive eye examination should begin in adults with type 1 diabetes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At the time of diagnosis, then every 5 years"
+        },
+        {
+          "label": "B",
+          "text": "Five years after onset, then individualized intervals"
+        },
+        {
+          "label": "C",
+          "text": "Ten years after disease onset, then every 2 years"
+        },
+        {
+          "label": "D",
+          "text": "At age 40, regardless of disease duration"
+        },
+        {
+          "label": "E",
+          "text": "Only when visual symptoms or an abnormal HbA1c appears"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In adult type 1 diabetes, retinopathy screening starts 5 years after onset, with follow-up individualized thereafter.",
+        "whyCorrect": "For adults with T1DM, a dilated comprehensive eye examination should begin 5 years after disease onset. Follow-up is then individualized, often annually, though intervals of 1 to 2 years may be reasonable after normal examinations with stable glycemia. Renal screening follows a parallel schedule, with urine albumin and eGFR assessed at least annually once T1DM duration reaches 5 years.",
+        "whyWrongByChoice": {
+          "A": "Screening at diagnosis is not the recommendation for T1DM, and a fixed 5-year interval is too long once screening begins.",
+          "C": "Waiting a decade delays detection well past the point at which retinopathy screening is indicated.",
+          "D": "Screening is tied to disease duration rather than to reaching a particular age.",
+          "E": "Retinopathy is asymptomatic in its early stages, which is precisely why systematic screening is required."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "complications",
+        "retinopathy screening",
+        "management"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en24-012",
+      "stem": "A 38-year-old man with a BMI of 23 kg/m2 was diagnosed with diabetes 8 months ago and started on oral therapy. Despite adherence, his HbA1c has risen from 7.4% to 9.6% and he has lost 5 kg. Anti-GAD antibodies are positive and C-peptide is low. Which of the following best explains his course?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune beta-cell failure presenting in adulthood"
+        },
+        {
+          "label": "B",
+          "text": "Progressive insulin resistance from visceral adiposity"
+        },
+        {
+          "label": "C",
+          "text": "Nonadherence to the prescribed oral regimen"
+        },
+        {
+          "label": "D",
+          "text": "Monogenic diabetes with an inherited secretory defect"
+        },
+        {
+          "label": "E",
+          "text": "Falsely elevated HbA1c from delayed red cell turnover"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Latent autoimmune diabetes in adults is autoimmune beta-cell failure presenting after childhood and often first misclassified as type 2 diabetes.",
+        "whyCorrect": "Age is a clue, not a rule, in T1DM: roughly 60% of new cases each year are diagnosed in adults, and latent autoimmune diabetes in adults describes autoimmune beta-cell failure that first appears in adulthood. These patients are often initially labeled as having T2DM and then fail oral therapy as beta-cell function declines. A lean habitus, catabolic weight loss, positive anti-GAD antibodies, and low C-peptide all identify the process as autoimmune and predict a need for insulin.",
+        "whyWrongByChoice": {
+          "B": "Insulin resistance is associated with obesity and with normal or elevated C-peptide, neither of which fits this lean, C-peptide-low patient.",
+          "C": "Nonadherence would not explain positive islet autoantibodies or a low C-peptide level.",
+          "D": "Monogenic diabetes is considered when autoantibodies are absent; here the anti-GAD antibodies are positive.",
+          "E": "His rising HbA1c is corroborated by weight loss and worsening control, so a spurious laboratory value does not explain the course."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T1DM",
+        "LADA",
+        "epidemiology",
+        "autoantibodies"
+      ],
+      "topicId": "type-1-diabetes-mellitus",
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+    },
+    {
+      "id": "en25-001",
+      "stem": "A 58-year-old woman is evaluated after routine screening shows a fasting plasma glucose of 134 mg/dL, confirmed at 140 mg/dL on repeat testing. She feels mildly tired but denies polyuria, polydipsia, or weight loss. Her BMI is 32 kg/m2 with recent central weight gain, and her mother and older brother have diabetes. Which of the following additional physical examination findings would most strongly support underlying insulin resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse hyperpigmentation of the palmar creases and buccal mucosa"
+        },
+        {
+          "label": "B",
+          "text": "Symmetric, painless, diffuse enlargement of the thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Velvety hyperpigmentation of the posterior neck and axillae"
+        },
+        {
+          "label": "D",
+          "text": "Wide purple abdominal striae with proximal muscle weakness"
+        },
+        {
+          "label": "E",
+          "text": "Nonpitting thickening of the skin over the anterior shins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acanthosis nigricans is the classic cutaneous marker of insulin resistance in type 2 diabetes.",
+        "whyCorrect": "Acanthosis nigricans is a velvety hyperpigmentation of skin folds at the neck, axillae, and groin, and it signals underlying insulin resistance. Patients often report that the discoloration persists despite vigorous cleaning. Together with central obesity, it is one of the physical findings that raises suspicion for T2D in an otherwise asymptomatic patient found on screening.",
+        "whyWrongByChoice": {
+          "A": "Hyperpigmentation of creases and mucosa reflects excess ACTH-driven pigmentation, not the insulin-resistance phenotype described in T2D.",
+          "B": "A diffusely enlarged thyroid points to primary thyroid disease and is not a marker of peripheral insulin resistance.",
+          "D": "Purple striae with proximal weakness indicates cortisol excess; it is not the cutaneous sign linked to insulin resistance in this lecture.",
+          "E": "Nonpitting pretibial skin thickening is a dermal finding of thyroid disease, not a sign of resistance to insulin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "clinical presentation",
+        "acanthosis nigricans",
+        "insulin resistance"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-002",
+      "stem": "A 46-year-old man with a BMI of 34 kg/m2 has a fasting plasma glucose of 108 mg/dL and an HbA1c of 6.0%. Laboratory testing shows a markedly elevated fasting insulin concentration. Which of the following best explains the combination of near-normal glucose with high circulating insulin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of pancreatic beta cells"
+        },
+        {
+          "label": "B",
+          "text": "Compensatory increase in beta-cell insulin secretion"
+        },
+        {
+          "label": "C",
+          "text": "Increased hepatic glucose output from unsuppressed gluconeogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Excess glucagon secretion from pancreatic alpha cells"
+        },
+        {
+          "label": "E",
+          "text": "Decreased renal tubular reabsorption of filtered glucose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In prediabetes, beta cells hypersecrete insulin to compensate for peripheral resistance, holding glucose near normal.",
+        "whyCorrect": "As insulin resistance rises, pancreatic beta cells increase insulin secretion, and during this compensatory phase plasma glucose stays near-normal or only mildly elevated. This is exactly why a patient with significant insulin resistance can have a high fasting insulin with an essentially normal glucose. Glucose enters the diabetic range only when sustained demand exhausts beta-cell reserve.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune beta-cell destruction lowers insulin production, which is the pattern of type 1 diabetes, not hyperinsulinemia.",
+          "C": "Excess hepatic glucose output raises glucose but does not itself explain a high circulating insulin level.",
+          "D": "Glucagon excess stimulates hepatic glucose production; it does not drive beta-cell hypersecretion of insulin.",
+          "E": "Reduced renal glucose reabsorption produces glycosuria and would not raise the fasting insulin level."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "prediabetes",
+        "hyperinsulinemia",
+        "beta-cell compensation"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-003",
+      "stem": "A 55-year-old man with obesity and newly diagnosed type 2 diabetes has impaired glucose disposal on metabolic testing. Skeletal muscle, the body's major site of glucose disposal, fails to take up glucose despite adequate circulating insulin. Which of the following cellular defects best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete absence of circulating insulin from beta-cell destruction"
+        },
+        {
+          "label": "B",
+          "text": "Reduced delivery of glucose to muscle from capillary loss"
+        },
+        {
+          "label": "C",
+          "text": "Increased adipose glucose uptake diverting substrate away from muscle"
+        },
+        {
+          "label": "D",
+          "text": "Impaired insulin-stimulated translocation of GLUT4 to the cell surface"
+        },
+        {
+          "label": "E",
+          "text": "Excess glycogen synthase activity trapping glucose inside myocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Muscle insulin resistance is a failure of insulin-stimulated GLUT4 translocation to the membrane.",
+        "whyCorrect": "Glucose uptake in skeletal muscle normally depends on insulin-stimulated movement of GLUT4 transporters to the cell surface. In insulin resistance this translocation is impaired, so muscle cannot take up and use glucose as fuel even when insulin is present. Because muscle is the body's major site of glucose disposal, this defect contributes heavily to the rise in circulating glucose.",
+        "whyWrongByChoice": {
+          "A": "Insulin is normal or high in early T2D; complete insulin absence describes type 1 diabetes rather than resistance.",
+          "B": "The lecture attributes impaired muscle glucose disposal to a transporter signaling defect, not to loss of capillary delivery.",
+          "C": "Adipose tissue shares the same GLUT4 defect and takes up less, not more, glucose in insulin resistance.",
+          "E": "Increased intracellular glucose trapping would enhance, not impair, net glucose uptake by muscle."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "pathophysiology",
+        "GLUT4",
+        "skeletal muscle"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-004",
+      "stem": "A 61-year-old woman with type 2 diabetes has a fasting plasma glucose of 168 mg/dL after an overnight fast with no caloric intake. She has taken no medications and has not eaten since the previous evening. Which of the following mechanisms best accounts for her fasting hyperglycemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continued hepatic gluconeogenesis and glycogenolysis despite insulin"
+        },
+        {
+          "label": "B",
+          "text": "Continued intestinal absorption of glucose from the prior meal"
+        },
+        {
+          "label": "C",
+          "text": "Reduced glomerular filtration of glucose by the kidneys overnight"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune destruction of beta cells eliminating basal insulin"
+        },
+        {
+          "label": "E",
+          "text": "Increased skeletal muscle release of stored glucose into blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fasting hyperglycemia in T2D reflects active hepatic glucose overproduction, not just failed uptake.",
+        "whyCorrect": "Insulin normally suppresses hepatic gluconeogenesis and glycogenolysis, but with hepatic insulin resistance this suppression is blunted and the liver keeps exporting glucose. This underappreciated contribution means fasting hyperglycemia is driven by active overproduction of glucose rather than only by impaired peripheral uptake. Inappropriately elevated glucagon in T2D further stimulates this hepatic glucose output.",
+        "whyWrongByChoice": {
+          "B": "After an overnight fast, intestinal absorption of the prior meal is no longer a meaningful source of plasma glucose.",
+          "C": "Altered renal handling of glucose changes glycosuria, and it is not the mechanism the lecture assigns to fasting hyperglycemia.",
+          "D": "Beta-cell autoimmunity defines type 1 diabetes; this patient's T2D involves resistance with preserved insulin secretion.",
+          "E": "Muscle lacks glucose-6-phosphatase and cannot export stored glucose back into the circulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "pathophysiology",
+        "hepatic glucose output",
+        "fasting hyperglycemia"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-005",
+      "stem": "A 50-year-old man with visceral obesity and type 2 diabetes is found to have markedly elevated circulating free fatty acids. Which of the following best explains this laboratory finding and its metabolic consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced adipocyte GLUT4 function, increasing substrate available for fat storage"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of adipocytes, releasing stored lipid into the circulation"
+        },
+        {
+          "label": "C",
+          "text": "Excess hepatic ketone production, raising measured fatty acids in the blood"
+        },
+        {
+          "label": "D",
+          "text": "Impaired renal clearance of lipids, allowing fatty acids to accumulate in plasma"
+        },
+        {
+          "label": "E",
+          "text": "Adipocyte resistance to insulin's antilipolytic effect, releasing free fatty acids"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Insulin-resistant adipocytes release excess free fatty acids that further worsen resistance elsewhere.",
+        "whyCorrect": "In adipose tissue the same GLUT4 defect reduces glucose uptake, but more importantly the adipocyte becomes resistant to insulin's antilipolytic effect and spills free fatty acids into the circulation. That excess FFA load then worsens insulin resistance in both liver and muscle, compounding the cycle. This lipotoxic burden also contributes to the beta-cell dysfunction that follows.",
+        "whyWrongByChoice": {
+          "A": "Adipose GLUT4 function is impaired in insulin resistance, and better fat storage would lower rather than raise circulating FFAs.",
+          "B": "Adipocytes are not an autoimmune target in T2D; the autoimmunity of type 1 diabetes is directed at islet cells.",
+          "C": "Most T2D patients retain enough insulin to suppress ketogenesis, and ketone production does not explain elevated FFAs.",
+          "D": "The lecture attributes the FFA excess to unrestrained lipolysis in adipose tissue, not to defective clearance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "adipose tissue",
+        "free fatty acids",
+        "lipotoxicity"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-006",
+      "stem": "A 57-year-old woman with type 2 diabetes undergoes mixed-meal testing. After the meal her plasma glucagon fails to fall and remains inappropriately elevated. Which of the following best explains this response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of pancreatic alpha cells with hormone leakage"
+        },
+        {
+          "label": "B",
+          "text": "Impaired insulin-mediated paracrine suppression of pancreatic alpha cells"
+        },
+        {
+          "label": "C",
+          "text": "Loss of somatostatin-secreting delta cells from islet amyloid deposits"
+        },
+        {
+          "label": "D",
+          "text": "Failure of skeletal muscle GLUT4 transporters to reach the membrane"
+        },
+        {
+          "label": "E",
+          "text": "Excess renal glucose loss triggering a counterregulatory hormone surge"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Postprandial glucagon stays high in T2D because insulin's paracrine suppression of alpha cells is impaired.",
+        "whyCorrect": "Insulin normally suppresses glucagon secretion from pancreatic alpha cells by a paracrine effect in the postprandial state. In T2D this suppression is impaired, so glucagon levels are inappropriately elevated after meals. The unopposed glucagon then further stimulates hepatic glucose output, compounding the hyperglycemia produced by resistance and beta-cell failure.",
+        "whyWrongByChoice": {
+          "A": "Alpha cells are intact in T2D; the problem is failure to suppress them, not destruction with hormone release.",
+          "C": "Amyloid deposition in T2D is described as a mechanism of beta-cell dysfunction, not as delta-cell loss driving glucagon.",
+          "D": "The GLUT4 translocation defect explains impaired muscle glucose uptake, not the postprandial glucagon response.",
+          "E": "Renal glucose loss produces glycosuria and is not the described trigger for the elevated glucagon in T2D."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "glucagon",
+        "alpha cell",
+        "pathophysiology"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-007",
+      "stem": "A 49-year-old man has a waist circumference of 110 cm, serum triglycerides of 260 mg/dL, HDL cholesterol of 52 mg/dL, blood pressure of 120/76 mm Hg, and fasting plasma glucose of 92 mg/dL. Which of the following additional findings would establish a diagnosis of metabolic syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LDL cholesterol of 168 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "Body mass index of 31 kg/m2"
+        },
+        {
+          "label": "C",
+          "text": "Total cholesterol of 245 mg/dL"
+        },
+        {
+          "label": "D",
+          "text": "HDL cholesterol of 32 mg/dL"
+        },
+        {
+          "label": "E",
+          "text": "Serum uric acid of 8.4 mg/dL"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Metabolic syndrome requires any 3 of 5 criteria: abdominal obesity, high triglycerides, low HDL, hypertension, and fasting hyperglycemia.",
+        "whyCorrect": "This patient already meets two criteria, abdominal obesity by waist circumference and elevated triglycerides, while his blood pressure and fasting glucose are normal. Adding a low HDL cholesterol supplies the third of the five criteria and establishes metabolic syndrome. The syndrome is a clinical marker of the insulin resistance that underlies type 2 diabetes.",
+        "whyWrongByChoice": {
+          "A": "Elevated LDL cholesterol is not among the five criteria; the lipid criteria are high triglycerides and low HDL.",
+          "B": "Abdominal obesity for this diagnosis is measured by waist circumference rather than BMI, which is already accounted for here.",
+          "C": "Total cholesterol is not one of the defining criteria for the syndrome regardless of its value.",
+          "E": "Hyperuricemia is not part of the five-criterion definition used to make this clinical diagnosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metabolic syndrome",
+        "insulin resistance",
+        "diagnostic criteria"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-008",
+      "stem": "A 68-year-old woman with a 12-year history of type 2 diabetes is brought in after 3 days of confusion during a urinary tract infection. Plasma glucose is 812 mg/dL and serum osmolality is markedly elevated, but serum ketones are only minimally positive and arterial pH is 7.36. Which of the following best explains the absence of significant ketoacidosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circulating islet autoantibodies neutralize the ketogenic effect of glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Severe hyperglycemia directly inhibits hepatic fatty acid oxidation"
+        },
+        {
+          "label": "C",
+          "text": "Residual endogenous insulin secretion is sufficient to suppress ketogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Marked hyperosmolality prevents free fatty acids from reaching the liver"
+        },
+        {
+          "label": "E",
+          "text": "Renal excretion of ketoacids fully compensates for hepatic overproduction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HHS rather than DKA is the characteristic hyperglycemic crisis in T2D because residual insulin blocks ketogenesis.",
+        "whyCorrect": "Type 2 diabetes is most often complicated acutely by hyperosmolar hyperglycemic state rather than diabetic ketoacidosis, because most patients retain enough residual insulin secretion to suppress ketogenesis even as glucose climbs to dangerous levels. DKA can still occur in T2D under severe physiologic stress such as infection or myocardial infarction, or in very late-stage disease with beta-cell exhaustion. Here the very high glucose and osmolality with minimal ketosis fit HHS.",
+        "whyWrongByChoice": {
+          "A": "Islet autoantibodies are markers of type 1 diabetes and are generally absent in T2D; they do not block ketone formation.",
+          "B": "Hyperglycemia itself does not inhibit hepatic fatty acid oxidation; insulin is the factor that restrains ketogenesis.",
+          "D": "Hyperosmolality does not prevent fatty acid delivery to the liver, and this is not the explanation for the low ketone level.",
+          "E": "Renal excretion cannot offset the ketoacid production seen in true DKA; ketogenesis is suppressed at the source here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "HHS",
+        "DKA",
+        "acute complications"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-009",
+      "stem": "A 44-year-old asymptomatic woman with obesity is screened for diabetes at a wellness visit. Which of the following results would meet an American Diabetes Association threshold for the diagnosis of diabetes mellitus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fasting plasma glucose of 118 mg/dL after an overnight 8-hour fast"
+        },
+        {
+          "label": "B",
+          "text": "Random plasma glucose of 172 mg/dL drawn shortly after lunch"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin A1c of 6.1% measured on a standardized assay"
+        },
+        {
+          "label": "D",
+          "text": "Fasting serum insulin well above the upper limit of normal"
+        },
+        {
+          "label": "E",
+          "text": "Two-hour glucose of 214 mg/dL on oral glucose tolerance testing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ADA thresholds are FPG at least 126 mg/dL, HbA1c at least 6.5%, 2-hour OGTT glucose at least 200 mg/dL, or random glucose at least 200 mg/dL with symptoms.",
+        "whyCorrect": "A 2-hour OGTT glucose of at least 200 mg/dL meets the ADA threshold, so 214 mg/dL qualifies for the diagnosis. Because hyperglycemia here is not unequivocal and the patient is asymptomatic, the result should be confirmed on repeat testing. The OGTT remains a valid criterion even though it is not frequently used now.",
+        "whyWrongByChoice": {
+          "A": "A fasting plasma glucose of 118 mg/dL is below the diagnostic threshold of 126 mg/dL.",
+          "B": "The random glucose criterion requires a value of at least 200 mg/dL and applies only to symptomatic patients.",
+          "C": "An HbA1c of 6.1% falls below the diagnostic cutoff of 6.5% for diabetes mellitus.",
+          "D": "An elevated fasting insulin reflects beta-cell compensation for resistance and is not a diagnostic criterion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "ADA criteria",
+        "diagnosis",
+        "OGTT"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-010",
+      "stem": "A 60-year-old man with type 2 diabetes returns for follow-up and his hemoglobin A1c is reported as 8.4%. Which of the following does this value best represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycated hemoglobin reflecting control over the past 2 to 3 months"
+        },
+        {
+          "label": "B",
+          "text": "Plasma glucose at the moment the blood sample was drawn in clinic"
+        },
+        {
+          "label": "C",
+          "text": "Endogenous insulin secretion measured over the preceding 24 hours"
+        },
+        {
+          "label": "D",
+          "text": "The proportion of filtered glucose that is lost in the urine daily"
+        },
+        {
+          "label": "E",
+          "text": "Beta-cell reserve remaining relative to the patient's insulin demand"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HbA1c reports glycated hemoglobin as a fraction of total hemoglobin and tracks control over roughly 2-3 months.",
+        "whyCorrect": "The hemoglobin A1c test reports glycated hemoglobin as a fraction of total hemoglobin, and the value rises as average glucose levels rise. It therefore shows how well controlled blood sugar has been over approximately the past 2 to 3 months. A standardized assay is required, and a value of 6.5% or higher meets the ADA diagnostic threshold.",
+        "whyWrongByChoice": {
+          "B": "A point-in-time plasma glucose is what the random or fasting glucose measures, not the A1c.",
+          "C": "Endogenous insulin secretion is assessed with insulin or C-peptide levels rather than glycated hemoglobin.",
+          "D": "Urinary glucose loss is not what the A1c quantifies; it measures hemoglobin glycation in the blood.",
+          "E": "Remaining beta-cell reserve is inferred from C-peptide and clinical course, not from the A1c value."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HbA1c",
+        "diagnosis",
+        "monitoring"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-011",
+      "stem": "A 41-year-old man with a BMI of 27 kg/m2 has had gradually rising glucose over 8 months and now has a fasting plasma glucose of 158 mg/dL. Laboratory studies show a low C-peptide level and positive anti-GAD65 antibodies. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type 2 diabetes mellitus with early beta-cell failure"
+        },
+        {
+          "label": "B",
+          "text": "Maturity-onset diabetes of the young"
+        },
+        {
+          "label": "C",
+          "text": "Latent autoimmune diabetes in adults"
+        },
+        {
+          "label": "D",
+          "text": "Hyperosmolar hyperglycemic state"
+        },
+        {
+          "label": "E",
+          "text": "Metabolic syndrome without overt diabetes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Low C-peptide with positive islet autoantibodies indicates autoimmune diabetes, which in an adult is LADA.",
+        "whyCorrect": "C-peptide is released with endogenous insulin in equal amounts, so a low level signals marked beta-cell loss rather than the preserved secretion of T2D. Islet autoantibodies such as GAD65 are present in most patients with autoimmune diabetes and are generally absent in T2D. Age alone is unreliable, since type 1 diabetes can begin in adults as latent autoimmune diabetes in adults.",
+        "whyWrongByChoice": {
+          "A": "T2D characteristically shows normal or elevated C-peptide and negative islet autoantibodies, the opposite of this pattern.",
+          "B": "MODY is a monogenic form typically seen in younger, non-obese patients and is not an autoantibody-positive disease.",
+          "D": "HHS is an acute hyperglycemic complication, not a classification of the underlying diabetes type.",
+          "E": "Metabolic syndrome is a clinical cluster of resistance criteria and does not explain autoantibody positivity with low C-peptide."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "T1DM vs T2DM",
+        "C-peptide",
+        "islet autoantibodies",
+        "LADA"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en25-012",
+      "stem": "A 66-year-old man has had type 2 diabetes for 16 years, managed with oral agents. His HbA1c has drifted upward despite adherence, and his physician now starts basal insulin. Which of the following best explains the need for insulin therapy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of his disease into type 1 diabetes mellitus now"
+        },
+        {
+          "label": "B",
+          "text": "New autoimmune destruction of islets by anti-GAD65 antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Complete resolution of peripheral insulin resistance over years"
+        },
+        {
+          "label": "D",
+          "text": "Progressive failure of beta-cell reserve relative to insulin demand"
+        },
+        {
+          "label": "E",
+          "text": "Loss of glucagon secretion from the pancreatic alpha cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Needing insulin in long-standing T2D reflects exhausted beta-cell reserve, not conversion to type 1 diabetes.",
+        "whyCorrect": "Sustained demand from insulin resistance eventually exhausts beta-cell reserve through glucotoxicity, lipotoxicity, endoplasmic reticulum stress, and possibly islet amyloid deposition. As beta-cell mass and function decline, secretion becomes inadequate relative to demand and exogenous insulin is required. The lecture stresses that this reflects advanced beta-cell failure, not a change in the type of diabetes.",
+        "whyWrongByChoice": {
+          "A": "T2D does not convert into T1D; the need for insulin marks advanced beta-cell reserve failure within T2D.",
+          "B": "Islet autoantibodies are generally absent in T2D and are not the reason long-standing patients require insulin.",
+          "C": "Insulin resistance persists in these patients; it does not resolve, and its resolution would reduce insulin needs.",
+          "E": "Glucagon in T2D is inappropriately elevated because insulin fails to suppress alpha cells, not lost."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "T2DM",
+        "beta-cell failure",
+        "natural history",
+        "insulin therapy"
+      ],
+      "topicId": "type-2-diabetes-mellitus",
+      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+    },
+    {
+      "id": "en26-001",
+      "stem": "A 47-year-old man is evaluated for hypertension that remains at 166/102 mm Hg despite three antihypertensive agents. He reports intermittent muscle cramps and fatigue but no headache or palpitations. Laboratory studies show serum potassium 2.8 mEq/L, serum bicarbonate 33 mEq/L, suppressed plasma renin activity, and an elevated plasma aldosterone concentration. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary aldosteronism"
+        },
+        {
+          "label": "B",
+          "text": "Secondary aldosteronism from renal artery stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+        },
+        {
+          "label": "D",
+          "text": "Arginine vasopressin deficiency (central diabetes insipidus)"
+        },
+        {
+          "label": "E",
+          "text": "Arginine vasopressin resistance (nephrogenic diabetes insipidus)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypertension with hypokalemia, metabolic alkalosis, suppressed renin, and elevated aldosterone is the classic pattern of primary aldosteronism.",
+        "whyCorrect": "In primary aldosteronism the adrenal cortex secretes aldosterone autonomously, outside normal renin-angiotensin-aldosterone system feedback. Sodium retention expands extracellular volume and raises blood pressure, which in turn suppresses renin release, while enhanced potassium and hydrogen ion secretion produce hypokalemia and metabolic alkalosis. Resistant hypertension accompanied by hypokalemia and elevated bicarbonate is the clinical clue that should trigger this diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Secondary aldosteronism raises aldosterone because renin is high; this patient's renin is suppressed, which excludes an upstream RAAS driver.",
+          "C": "Inappropriate antidiuresis produces hypotonic hyponatremia with concentrated urine, not hypertension with hypokalemia and metabolic alkalosis.",
+          "D": "Deficient vasopressin causes dilute polyuria with high serum sodium and osmolality; it does not suppress renin or elevate aldosterone.",
+          "E": "Renal resistance to vasopressin also causes dilute polyuria and possible hypernatremia rather than a mineralocorticoid-excess laboratory pattern."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary aldosteronism",
+        "hypokalemia",
+        "metabolic alkalosis",
+        "renin"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-002",
+      "stem": "A 52-year-old woman with confirmed primary aldosteronism has a serum potassium of 2.9 mEq/L and a serum bicarbonate of 34 mEq/L. Which of the following best explains this combination of laboratory findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced distal sodium delivery limits potassium secretion while filtered bicarbonate is retained"
+        },
+        {
+          "label": "B",
+          "text": "Distal sodium reabsorption makes the lumen more negative, driving potassium and acid secretion"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone stimulates proximal tubular bicarbonate generation while trapping potassium intracellularly"
+        },
+        {
+          "label": "D",
+          "text": "Aquaporin-2 insertion into the apical membrane drives water and potassium into the tubular lumen"
+        },
+        {
+          "label": "E",
+          "text": "Angiotensin II-mediated vasoconstriction reduces potassium delivery to the collecting duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aldosterone-driven sodium reabsorption in principal cells creates a lumen-negative gradient that promotes potassium secretion, and separate stimulation of hydrogen ion secretion produces metabolic alkalosis.",
+        "whyCorrect": "Aldosterone increases epithelial sodium channel and Na+/K+ ATPase activity in collecting duct principal cells. As sodium leaves the lumen, the lumen becomes relatively more negative, and that electrical gradient favors potassium secretion into the urine, causing hypokalemia. Aldosterone also promotes hydrogen ion secretion, largely through intercalated cells, so urinary acid loss raises serum bicarbonate and produces metabolic alkalosis.",
+        "whyWrongByChoice": {
+          "A": "Distal sodium delivery and reabsorption are increased, not reduced, and it is that reabsorption that drives potassium loss.",
+          "C": "Aldosterone acts on the late distal nephron and collecting duct rather than generating bicarbonate proximally, and potassium is lost in the urine rather than trapped in cells.",
+          "D": "Aquaporin-2 insertion is the vasopressin pathway for water permeability and does not move potassium into the urine.",
+          "E": "Renin and angiotensin II are suppressed in primary aldosteronism, and vasoconstriction is not the mechanism of the potassium and bicarbonate changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aldosterone",
+        "ENaC",
+        "hypokalemia",
+        "metabolic alkalosis"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-003",
+      "stem": "A 55-year-old man has blood pressure of 158/96 mm Hg despite maximally dosed therapy with three agents including a thiazide. Repeated measurements show serum potassium between 3.0 and 3.3 mEq/L and serum bicarbonate of 31 mEq/L. Which of the following is the most appropriate initial diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Computed tomography of the adrenal glands"
+        },
+        {
+          "label": "B",
+          "text": "Adrenal venous sampling of both adrenal veins"
+        },
+        {
+          "label": "C",
+          "text": "Plasma aldosterone and renin with the aldosterone-to-renin ratio"
+        },
+        {
+          "label": "D",
+          "text": "Water deprivation testing with serial urine osmolality"
+        },
+        {
+          "label": "E",
+          "text": "Desmopressin administration with measurement of urine osmolality"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Suspected primary aldosteronism is screened with aldosterone, renin, and the aldosterone-to-renin ratio before any imaging or localization.",
+        "whyCorrect": "Resistant hypertension with hypokalemia and metabolic alkalosis should prompt screening for mineralocorticoid excess. In primary aldosteronism renin is suppressed while aldosterone is inappropriately high, giving an elevated aldosterone-to-renin ratio. Only after a positive screen, usually with confirmatory suppression testing, does evaluation move on to determining whether the excess is unilateral or bilateral.",
+        "whyWrongByChoice": {
+          "A": "Adrenal computed tomography shows anatomy but not hormone secretion, so it cannot establish that aldosterone excess is present.",
+          "B": "Adrenal venous sampling is a subtype-localization study performed after the diagnosis has been screened and confirmed, not a first test.",
+          "D": "Water deprivation testing is used in the evaluation of polyuria and free-water disorders, not in mineralocorticoid excess.",
+          "E": "Desmopressin testing distinguishes central from nephrogenic diabetes insipidus and has no role in evaluating hypertension with hypokalemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "screening",
+        "aldosterone-to-renin ratio",
+        "resistant hypertension"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-004",
+      "stem": "A 49-year-old woman has a positive aldosterone-to-renin ratio and confirmatory testing showing that aldosterone fails to suppress normally. Computed tomography demonstrates a 1.2-cm right adrenal nodule and mild thickening of the left adrenal gland. Which of the following studies best determines whether the aldosterone excess is unilateral or bilateral?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adrenal venous sampling of both adrenal veins"
+        },
+        {
+          "label": "B",
+          "text": "Repeat computed tomography with thinner adrenal sections"
+        },
+        {
+          "label": "C",
+          "text": "Repeat measurement of the aldosterone-to-renin ratio"
+        },
+        {
+          "label": "D",
+          "text": "Repeat aldosterone suppression testing after a salt load"
+        },
+        {
+          "label": "E",
+          "text": "Water deprivation testing with serial urine osmolality"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Computed tomography shows structure, whereas adrenal venous sampling shows which gland is actually secreting.",
+        "whyCorrect": "An adrenal nodule on imaging does not prove that the nodule is the source of aldosterone, and bilateral hyperplasia can look deceptively asymmetric. Adrenal venous sampling measures aldosterone output from each adrenal vein and therefore determines whether excess secretion is coming from one gland or both. That distinction matters because unilateral disease may be treated surgically while bilateral disease is managed medically.",
+        "whyWrongByChoice": {
+          "B": "Better anatomic resolution still cannot tell which gland is hypersecreting, since imaging does not measure hormone output.",
+          "C": "The screening ratio has already been positive; repeating it adds nothing about laterality.",
+          "D": "Suppression testing confirms autonomy of secretion, a step already completed here, and does not localize the source.",
+          "E": "Water deprivation testing evaluates polyuria and free-water handling and has no role in aldosterone subtyping."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adrenal venous sampling",
+        "localization",
+        "primary aldosteronism"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-005",
+      "stem": "A 51-year-old man with confirmed primary aldosteronism undergoes adrenal venous sampling, which demonstrates excess aldosterone secretion from both adrenal glands consistent with bilateral adrenal hyperplasia. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unilateral adrenalectomy of the larger adrenal gland"
+        },
+        {
+          "label": "B",
+          "text": "Mineralocorticoid receptor antagonist therapy"
+        },
+        {
+          "label": "C",
+          "text": "Desmopressin given intranasally each evening"
+        },
+        {
+          "label": "D",
+          "text": "Free-water restriction to less than one liter daily"
+        },
+        {
+          "label": "E",
+          "text": "Tolvaptan, a selective vasopressin receptor antagonist"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bilateral aldosterone excess is treated medically by blocking aldosterone at the kidney with a mineralocorticoid receptor antagonist.",
+        "whyCorrect": "Treatment of primary aldosteronism follows the mechanism: either remove the autonomous source or block the aldosterone signal at its renal receptor. When adrenal venous sampling shows that both glands are oversecreting, no single gland can be removed, so mineralocorticoid receptor blockade is used to prevent the sodium retention, potassium wasting, and hydrogen ion loss driven by aldosterone.",
+        "whyWrongByChoice": {
+          "A": "Adrenalectomy is reserved for confirmed unilateral disease; removing one gland leaves the other hypersecreting.",
+          "C": "Desmopressin replaces absent vasopressin in central diabetes insipidus and does nothing for aldosterone excess.",
+          "D": "Fluid restriction addresses free-water retention such as in inappropriate antidiuresis, not autonomous aldosterone secretion.",
+          "E": "Vasopressin receptor antagonists are used in selected hyponatremic states and do not block the mineralocorticoid receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "bilateral adrenal hyperplasia",
+        "mineralocorticoid receptor antagonist"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-006",
+      "stem": "A 63-year-old woman with poorly controlled hypertension has an abdominal bruit and a serum creatinine that rose after starting an ACE inhibitor. Laboratory studies show elevated plasma renin activity and an elevated plasma aldosterone concentration. Which of the following best interprets this hormonal pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary aldosteronism from an aldosterone-producing adrenal adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Primary aldosteronism from bilateral adrenal hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Secondary aldosteronism from upstream activation of the RAAS"
+        },
+        {
+          "label": "D",
+          "text": "Arginine vasopressin resistance affecting collecting duct principal cells"
+        },
+        {
+          "label": "E",
+          "text": "Inappropriate antidiuretic hormone secretion from an occult malignancy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High aldosterone with high renin means the adrenal gland is responding appropriately to upstream renin-angiotensin-aldosterone system activation.",
+        "whyCorrect": "Renin is the discriminating measurement. Reduced renal perfusion, as in renal artery stenosis, drives juxtaglomerular renin release, which generates angiotensin II and in turn stimulates the zona glomerulosa. Aldosterone is therefore high because renin is high, the defining feature of secondary aldosteronism, in contrast to primary disease where aldosterone is high despite suppressed renin.",
+        "whyWrongByChoice": {
+          "A": "An aldosterone-producing adenoma secretes autonomously and suppresses renin; elevated renin argues against it.",
+          "B": "Bilateral hyperplasia is also autonomous and likewise produces high aldosterone with suppressed, not elevated, renin.",
+          "D": "Renal resistance to vasopressin causes dilute polyuria with a tendency to hypernatremia and does not raise renin and aldosterone together.",
+          "E": "Inappropriate antidiuresis is a free-water disorder producing hypotonic hyponatremia and is not defined by renin and aldosterone levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary aldosteronism",
+        "renin",
+        "renal artery stenosis"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-007",
+      "stem": "Water permeability of the collecting duct is regulated by hormonal insertion of channels into the apical membrane of principal cells. Which of the following best describes the pathway that directly increases collecting duct water permeability?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldosterone acting on the mineralocorticoid receptor to increase ENaC activity"
+        },
+        {
+          "label": "B",
+          "text": "Angiotensin II acting on vascular receptors to raise systemic arterial tone"
+        },
+        {
+          "label": "C",
+          "text": "Aldosterone acting on intercalated cells to increase hydrogen ion secretion"
+        },
+        {
+          "label": "D",
+          "text": "Vasopressin acting on V2 receptors to insert aquaporin-2 into the apical membrane"
+        },
+        {
+          "label": "E",
+          "text": "Renin acting on juxtaglomerular cells to increase Na+/K+ ATPase activity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Vasopressin is the free-water signal: V2 receptor activation inserts aquaporin-2 channels that make the collecting duct water permeable.",
+        "whyCorrect": "When plasma osmolality rises, hypothalamic osmoreceptors trigger posterior pituitary release of vasopressin. In collecting duct principal cells, vasopressin binds V2 receptors and activates a cyclic AMP and protein kinase A pathway that inserts aquaporin-2 into the apical membrane. Water then enters the cell and exits basolaterally through aquaporin-3 and aquaporin-4, producing more water reabsorption, lower urine volume, and more concentrated urine.",
+        "whyWrongByChoice": {
+          "A": "Epithelial sodium channel activity governs sodium reabsorption and salt-volume balance rather than water permeability.",
+          "B": "Angiotensin II raises blood pressure through vasoconstriction and adrenal stimulation, not by altering collecting duct water channels.",
+          "C": "Hydrogen ion secretion by intercalated cells affects acid-base balance and contributes to alkalosis in aldosterone excess.",
+          "E": "Renin is released by juxtaglomerular cells to generate angiotensin II; it does not act on the collecting duct."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vasopressin",
+        "V2 receptor",
+        "aquaporin-2",
+        "collecting duct"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-008",
+      "stem": "A 32-year-old woman develops intense thirst and passes 8 L of dilute urine daily beginning two days after transsphenoidal resection of a pituitary macroadenoma. Serum sodium is 151 mEq/L, serum osmolality is high, and urine osmolality is low. After administration of desmopressin, her urine osmolality rises substantially. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Desmopressin to replace the deficient hormonal signal"
+        },
+        {
+          "label": "B",
+          "text": "Mineralocorticoid receptor antagonist to block renal sodium retention"
+        },
+        {
+          "label": "C",
+          "text": "Free-water restriction to reduce ongoing water retention"
+        },
+        {
+          "label": "D",
+          "text": "Discontinuation of any agent causing renal resistance to vasopressin"
+        },
+        {
+          "label": "E",
+          "text": "Behavioral reduction of excessive voluntary water intake"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Postoperative dilute polyuria with hypernatremia that concentrates the urine after desmopressin is vasopressin deficiency, treated by replacing the hormone.",
+        "whyCorrect": "Pituitary surgery is a classic cause of arginine vasopressin deficiency, traditionally called central diabetes insipidus. Without vasopressin, aquaporin-2 is not inserted into collecting duct principal cells, so free water is lost as large volumes of dilute urine and serum sodium and osmolality rise. The rise in urine osmolality after desmopressin proves the kidney can still respond, so treatment simply supplies the missing signal.",
+        "whyWrongByChoice": {
+          "B": "Blocking the mineralocorticoid receptor targets aldosterone excess, a salt-volume disorder, and would not correct free-water loss.",
+          "C": "Restricting water in a hypernatremic patient losing free water would worsen the deficit; fluid restriction is used for water excess.",
+          "D": "Drug-induced renal resistance underlies nephrogenic diabetes insipidus, but here the kidney responded normally to desmopressin.",
+          "E": "Excess intake defines primary polydipsia, which lowers rather than raises serum sodium and osmolality."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "central diabetes insipidus",
+        "AVP deficiency",
+        "desmopressin",
+        "hypernatremia"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-009",
+      "stem": "A 44-year-old woman treated with lithium for eight years reports passing large volumes of urine and drinking constantly. Serum sodium is 148 mEq/L with high serum osmolality, and urine osmolality is low. After desmopressin is given, urine osmolality remains essentially unchanged. Which of the following best explains her findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior pituitary release of vasopressin has become inadequate"
+        },
+        {
+          "label": "B",
+          "text": "Collecting duct principal cells fail to respond to circulating vasopressin"
+        },
+        {
+          "label": "C",
+          "text": "Excessive water intake has appropriately suppressed vasopressin release"
+        },
+        {
+          "label": "D",
+          "text": "Vasopressin effect persists despite a low plasma osmolality"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous aldosterone secretion is driving an osmotic diuresis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dilute polyuria with hypernatremia and no response to desmopressin indicates vasopressin resistance, or nephrogenic diabetes insipidus.",
+        "whyCorrect": "In arginine vasopressin resistance the hormone is present but the kidney cannot execute the message, typically because of lithium therapy, hypercalcemia, hypokalemia, chronic kidney disease, or inherited defects of the V2 receptor or aquaporin-2 pathway. Free water is therefore lost as dilute urine, raising serum sodium and osmolality. Because the defect is renal, giving exogenous desmopressin produces little or no rise in urine osmolality, which is what separates it from vasopressin deficiency.",
+        "whyWrongByChoice": {
+          "A": "Deficient hormone release would produce the same polyuria, but urine osmolality would rise after desmopressin because the kidney can respond.",
+          "C": "Suppression of vasopressin by excess intake lowers serum sodium and osmolality rather than producing hypernatremia.",
+          "D": "Persistent antidiuretic effect causes hypotonic hyponatremia with concentrated urine, the opposite of this pattern.",
+          "E": "Aldosterone excess is recognized by hypertension with hypokalemia and metabolic alkalosis, not by dilute polyuria."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "nephrogenic diabetes insipidus",
+        "AVP resistance",
+        "lithium",
+        "desmopressin"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-010",
+      "stem": "A 68-year-old man with a 50-pack-year smoking history and a newly identified lung mass is admitted with confusion. He is normotensive and euvolemic on examination, and urine output has been normal. Serum sodium is 118 mEq/L and serum osmolality is low. Which of the following urine findings is most consistent with his diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High urine volume with maximally dilute urine"
+        },
+        {
+          "label": "B",
+          "text": "High urine volume with inappropriately concentrated urine"
+        },
+        {
+          "label": "C",
+          "text": "Low urine volume with a urine osmolality below serum osmolality"
+        },
+        {
+          "label": "D",
+          "text": "Normal urine volume with maximally dilute urine"
+        },
+        {
+          "label": "E",
+          "text": "Normal urine volume with inappropriately concentrated urine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Inappropriate antidiuresis produces hypotonic hyponatremia with inappropriately concentrated urine and low or normal urine volume.",
+        "whyCorrect": "Small cell lung carcinoma is a classic cause of the syndrome of inappropriate antidiuretic hormone secretion, in which vasopressin effect persists even though plasma osmolality is low. Continued aquaporin-2 insertion means the kidney keeps reabsorbing free water, so urine remains concentrated when it should be maximally dilute. It is not a polyuria disorder, so urine volume is low or normal rather than high.",
+        "whyWrongByChoice": {
+          "A": "Dilute polyuria is the pattern of diabetes insipidus or primary polydipsia, both of which occur with high or low-normal serum sodium rather than concentrated urine.",
+          "B": "Large-volume urine is not a feature of inappropriate antidiuresis, in which water is retained rather than lost.",
+          "C": "A urine osmolality below serum osmolality in this hypotonic patient would indicate suppressed vasopressin effect, not persistent antidiuresis.",
+          "D": "Maximally dilute urine would be the appropriate renal response to hyponatremia and would argue against inappropriate antidiuresis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SIADH",
+        "hyponatremia",
+        "urine osmolality",
+        "small cell lung carcinoma"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-011",
+      "stem": "A 28-year-old woman with schizophrenia drinks 9 to 10 L of water daily and reports frequent urination of large volumes of clear urine. Serum sodium is 133 mEq/L, serum osmolality is low, and urine osmolality is low. Which of the following best explains her findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Water intake exceeding need, appropriately suppressing vasopressin release"
+        },
+        {
+          "label": "B",
+          "text": "Inadequate posterior pituitary release of vasopressin after hypothalamic injury"
+        },
+        {
+          "label": "C",
+          "text": "Collecting duct resistance to an intact circulating vasopressin signal"
+        },
+        {
+          "label": "D",
+          "text": "Persistent vasopressin effect despite low measured plasma osmolality"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous adrenal aldosterone secretion with renal potassium wasting"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary polydipsia is excess water intake that lowers plasma osmolality and appropriately switches off vasopressin, giving dilute polyuria with low-normal sodium.",
+        "whyCorrect": "In primary polydipsia the endocrine axis is intact and behaving correctly. Excess intake lowers plasma osmolality, hypothalamic osmoreceptors reduce vasopressin release, aquaporin-2 is withdrawn, and the kidney excretes the surplus water as large volumes of dilute urine. Serum sodium and osmolality are therefore low or low-normal, and during water deprivation urine begins to concentrate as endogenous vasopressin rises.",
+        "whyWrongByChoice": {
+          "B": "Deficient hormone release causes free-water loss with high or high-normal serum sodium and high serum osmolality, not hypotonic values.",
+          "C": "Renal resistance likewise produces free-water loss with a tendency to hypernatremia rather than a low serum osmolality.",
+          "D": "Persistent antidiuretic effect would produce concentrated urine in the face of hyponatremia, whereas her urine is dilute.",
+          "E": "Aldosterone excess is a salt-volume disorder recognized by hypertension, hypokalemia, and metabolic alkalosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary polydipsia",
+        "urine osmolality",
+        "free water"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en26-012",
+      "stem": "A 50-year-old man with biochemically confirmed primary aldosteronism has blood pressure of 162/98 mm Hg, serum potassium 3.0 mEq/L, and serum bicarbonate 32 mEq/L. His serum sodium is 142 mEq/L. Which of the following best explains why his serum sodium is not markedly elevated despite ongoing renal sodium retention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aldosterone increases sodium excretion once extracellular volume has expanded"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone regulates potassium and hydrogen ions without affecting sodium transport"
+        },
+        {
+          "label": "C",
+          "text": "Suppressed renin prevents any sodium reabsorption in the distal nephron"
+        },
+        {
+          "label": "D",
+          "text": "Retained sodium is accompanied by water, so the sodium concentration changes little"
+        },
+        {
+          "label": "E",
+          "text": "Coexisting vasopressin deficiency causes free-water loss that masks sodium retention"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Serum sodium is a concentration, so sodium retention with proportional water retention expands volume without producing severe hypernatremia.",
+        "whyCorrect": "Serum sodium reflects the relationship between body sodium and body water, not total body sodium alone. In primary aldosteronism the retained sodium expands extracellular fluid volume and raises blood pressure, while water intake, vasopressin regulation, and renal escape mechanisms keep the sodium concentration near normal. This is why the high-yield pattern is hypertension with low renin, high aldosterone, low potassium, and metabolic alkalosis rather than high sodium.",
+        "whyWrongByChoice": {
+          "A": "Aldosterone promotes sodium reabsorption rather than excretion; the excess secretion here is autonomous and persistent.",
+          "B": "Aldosterone acts on sodium transport directly by increasing epithelial sodium channel and Na+/K+ ATPase activity in principal cells.",
+          "C": "Renin suppression is a consequence of volume expansion and does not switch off aldosterone-driven distal sodium reabsorption.",
+          "E": "There is no indication of deficient vasopressin here, and free-water loss would raise rather than normalize serum sodium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "serum sodium",
+        "concentration versus content",
+        "primary aldosteronism"
+      ],
+      "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+    },
+    {
+      "id": "en27-001",
+      "stem": "A 64-year-old man with type 2 diabetes mellitus is seen for routine follow-up. He has been taking metformin for 6 years with an HbA1c of 6.9%. Repeat laboratory studies now show a serum creatinine of 2.8 mg/dL with an estimated GFR of 24 mL/min/1.73 m2. His physician stops the metformin. Which of the following adverse effects is the reason this drug is contraindicated in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lactic acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Fasting hypoglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral edema"
+        },
+        {
+          "label": "D",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "E",
+          "text": "Genital candidiasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metformin is contraindicated when a condition predisposes to lactic acidosis, including CKD with GFR below 30 mL/min/1.73 m2.",
+        "whyCorrect": "Metformin's rare but potentially fatal adverse effect is lactic acidosis. It is therefore contraindicated in conditions that predispose to it: chronic kidney disease with markedly reduced GFR (<30 mL/min/1.73 m2), severe congestive heart failure, and progressive liver disease. For the same reason it is temporarily held around iodinated contrast studies and restarted only after renal function is confirmed stable.",
+        "whyWrongByChoice": {
+          "B": "Metformin carries a low risk of hypoglycemia, which is one of its advantages over the insulin secretagogues.",
+          "C": "Fluid retention and peripheral edema are the hallmark problems of thiazolidinediones acting through PPAR-gamma, not of metformin.",
+          "D": "Acute pancreatitis is a recognized adverse effect of GLP-1 receptor agonists and, rarely, of DPP-4 inhibitors.",
+          "E": "Genital candidiasis follows the glycosuria produced by SGLT2 inhibitors, not by metformin."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metformin",
+        "biguanides",
+        "contraindications"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-002",
+      "stem": "A 67-year-old man with type 2 diabetes mellitus returns for follow-up with an HbA1c of 8.5% despite adherence to metformin. His history includes heart failure with reduced ejection fraction, hypertension, and obesity. His physician plans to add a second glucose-lowering agent. Which of the following agents is most likely to worsen his cardiac condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Empagliflozin"
+        },
+        {
+          "label": "B",
+          "text": "Semaglutide"
+        },
+        {
+          "label": "C",
+          "text": "Pioglitazone"
+        },
+        {
+          "label": "D",
+          "text": "Sitagliptin"
+        },
+        {
+          "label": "E",
+          "text": "Acarbose"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Thiazolidinediones cause sodium and fluid retention through PPAR-gamma and should generally be avoided in heart failure.",
+        "whyCorrect": "Pioglitazone activates PPAR-gamma, which increases sodium reabsorption in the collecting tubules. The resulting fluid retention produces peripheral edema and can precipitate or worsen heart failure, so patients with heart failure should generally avoid thiazolidinediones.",
+        "whyWrongByChoice": {
+          "A": "SGLT2 inhibitors reduce cardiac events in patients with cardiovascular disease and are an attractive second agent here.",
+          "B": "GLP-1 receptor agonists reduce cardiac events in coronary artery disease and promote weight loss without fluid retention.",
+          "D": "DPP-4 inhibitors are weight neutral and generally well tolerated; only saxagliptin has been linked to heart failure hospitalization.",
+          "E": "Alpha-glucosidase inhibitors act in the gut lumen; their main problem is flatulence, not fluid retention."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiazolidinediones",
+        "heart failure",
+        "drug selection"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-003",
+      "stem": "A 24-year-old woman with newly diagnosed type 1 diabetes mellitus takes insulin glargine each evening and an injection before each meal. She realizes at the table that she forgot her pre-lunch dose and wants the preparation that will cover this meal with the fastest onset of action. Which of the following insulin preparations is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin aspart"
+        },
+        {
+          "label": "B",
+          "text": "Regular insulin"
+        },
+        {
+          "label": "C",
+          "text": "NPH insulin"
+        },
+        {
+          "label": "D",
+          "text": "Insulin detemir"
+        },
+        {
+          "label": "E",
+          "text": "Insulin degludec"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rapid-acting insulin analogs have the fastest onset and are the mealtime component of a basal-bolus regimen.",
+        "whyCorrect": "Rapid-acting analogs such as insulin aspart have the quickest onset of any preparation and are given up to 15 minutes before a meal to mimic the prandial insulin peak. They are also the insulins used in insulin pumps.",
+        "whyWrongByChoice": {
+          "B": "Regular insulin is short-acting with a slower onset and should be given 30 to 60 minutes before a meal.",
+          "C": "NPH is intermediate-acting, combined with protamine and zinc to delay absorption, and is used for basal coverage.",
+          "D": "Detemir is a long-acting basal insulin and does not provide prandial coverage.",
+          "E": "Degludec forms multihexamer depots and has the longest duration of the daily basal insulins."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "pharmacokinetics",
+        "basal-bolus"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-004",
+      "stem": "A 19-year-old man with type 1 diabetes mellitus is brought to the emergency department with vomiting and Kussmaul respirations. Serum glucose is 512 mg/dL, bicarbonate is 8 mEq/L, and serum ketones are strongly positive. After fluid resuscitation is begun, the team wants to start a continuous intravenous insulin infusion. Which of the following preparations can be administered by this route?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NPH insulin"
+        },
+        {
+          "label": "B",
+          "text": "Regular insulin"
+        },
+        {
+          "label": "C",
+          "text": "Insulin glargine"
+        },
+        {
+          "label": "D",
+          "text": "Insulin degludec"
+        },
+        {
+          "label": "E",
+          "text": "Insulin icodec"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Short-acting regular insulin is the only formulation that can be given intravenously and is the agent used in acute hyperglycemic crises.",
+        "whyCorrect": "Regular (short-acting) insulin is the only insulin formulation that can be administered intravenously, which is why it is used in diabetic ketoacidosis, hyperosmolar hyperglycemic state, and severe hyperkalemia. Given intravenously it acts immediately rather than over the 30 to 60 minutes required subcutaneously.",
+        "whyWrongByChoice": {
+          "A": "NPH is given subcutaneously only, never intravenously, and is not appropriate for rapid glucose lowering in DKA.",
+          "C": "Glargine precipitates in subcutaneous tissue to release insulin slowly and is a basal agent only.",
+          "D": "Degludec relies on subcutaneous multihexamer formation for its ultra-long action and is not an intravenous drug.",
+          "E": "Icodec is an ultra-long-acting basal insulin dosed subcutaneously once weekly through albumin binding."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "insulin",
+        "diabetic ketoacidosis",
+        "route of administration"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-005",
+      "stem": "A 61-year-old woman with type 2 diabetes mellitus and prior myocardial infarction is started on empagliflozin in addition to metformin. Her fasting glucose falls and urinalysis at the next visit shows 3+ glucose with no ketones or leukocyte esterase. Which of the following best describes the mechanism responsible for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of glucose reabsorption in the proximal tubule"
+        },
+        {
+          "label": "B",
+          "text": "Closure of ATP-sensitive potassium channels in beta cells"
+        },
+        {
+          "label": "C",
+          "text": "Activation of nuclear PPAR-gamma receptors in adipocytes"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the enzyme that degrades endogenous GLP-1"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of brush-border enzymes that digest carbohydrates"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SGLT2 inhibitors block the proximal tubule transporter that reclaims filtered glucose, so glucose is lost in the urine.",
+        "whyCorrect": "Glucose is normally reabsorbed by SGLT2 transporters in the proximal tubule and appears in urine only with marked hyperglycemia. Gliflozins block that transporter, so serum glucose falls independently of insulin levels or beta-cell function and glycosuria appears even at ordinary glucose levels. The accompanying osmotic diuresis also produces weight loss.",
+        "whyWrongByChoice": {
+          "B": "Channel closure describes sulfonylureas and meglitinides, which raise insulin secretion rather than urinary glucose losses.",
+          "C": "PPAR-gamma activation is the thiazolidinedione mechanism, which improves insulin sensitivity without causing glycosuria.",
+          "D": "Blocking DPP-4 raises endogenous incretin levels and enhances glucose-dependent insulin release; urine glucose does not rise.",
+          "E": "Alpha-glucosidase inhibitors blunt postprandial glucose absorption in the gut and do not cause renal glucose wasting."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitors",
+        "mechanism",
+        "glycosuria"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-006",
+      "stem": "A 78-year-old woman with type 2 diabetes mellitus is brought in after a fall at home. She is confused, diaphoretic, and tachycardic; fingerstick glucose is 44 mg/dL. Her only diabetes medication is glipizide, started 2 weeks ago. Which of the following best describes how this drug produces her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closes beta-cell ATP-sensitive potassium channels, triggering insulin exocytosis"
+        },
+        {
+          "label": "B",
+          "text": "Binds a Gs-coupled receptor that raises beta-cell cAMP during meals"
+        },
+        {
+          "label": "C",
+          "text": "Prevents degradation of endogenous incretin hormones after eating"
+        },
+        {
+          "label": "D",
+          "text": "Increases GLUT-4 translocation and suppresses hepatic gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Delays gastric emptying and suppresses postprandial glucagon release"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sulfonylureas force insulin release by closing beta-cell K-ATP channels, so hypoglycemia occurs regardless of the ambient glucose.",
+        "whyCorrect": "Sulfonylureas close ATP-sensitive potassium channels on pancreatic beta cells, causing depolarization, voltage-gated calcium influx, and exocytosis of insulin granules. Because this release is not glucose-dependent, the resulting insulin surge can drive glucose down far enough to cause confusion, dizziness, falls, and coma, and excretion is further reduced in older patients with chronic kidney disease.",
+        "whyWrongByChoice": {
+          "B": "The Gs-coupled GLP-1 receptor is the target of incretin mimetics, which rarely cause hypoglycemia because their effect is glucose-dependent.",
+          "C": "Blocking incretin degradation is the DPP-4 inhibitor mechanism; these agents do not typically cause hypoglycemia.",
+          "D": "GLUT-4 translocation with reduced gluconeogenesis is metformin's mechanism, and metformin carries a low hypoglycemia risk.",
+          "E": "Delayed gastric emptying with glucagon suppression describes amylin analogs and GLP-1 agonists, not sulfonylureas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sulfonylureas",
+        "hypoglycemia",
+        "beta-cell physiology"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-007",
+      "stem": "A 38-year-old man with type 1 diabetes mellitus reports burning and stinging at the injection site each evening when he takes his basal insulin. His glucose tracings show a flat, essentially peakless effect over the following 24 hours. Which of the following properties best explains both findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A low isoelectric point causing precipitation in subcutaneous tissue"
+        },
+        {
+          "label": "B",
+          "text": "Complexation with protamine and zinc that delays absorption"
+        },
+        {
+          "label": "C",
+          "text": "Formation of multihexamers that create a slow-release depot"
+        },
+        {
+          "label": "D",
+          "text": "Strong albumin binding that stretches release over about a week"
+        },
+        {
+          "label": "E",
+          "text": "Fusion to an IgG Fc domain that prolongs the circulating half-life"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Insulin glargine's low isoelectric point makes it precipitate at the injection site, producing a peakless profile and injection-site stinging.",
+        "whyCorrect": "Glargine has a lower isoelectric point than human insulin, so it precipitates once injected into the neutral pH of subcutaneous tissue. The precipitate dissolves slowly, giving the flat, peakless basal profile, and the same acidic formulation and precipitation account for the burning or stinging sensation patients describe.",
+        "whyWrongByChoice": {
+          "B": "Protamine and zinc complexation describes NPH, an intermediate-acting insulin that does have a peak and is not associated with this sting.",
+          "C": "Multihexamer formation is how degludec achieves the longest duration among daily basal insulins.",
+          "D": "Albumin binding with release over roughly a week describes insulin icodec, a once-weekly basal insulin.",
+          "E": "An insulin linked to an IgG Fc domain describes insulin efsitora alfa, another once-weekly basal preparation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "insulin glargine",
+        "basal insulin",
+        "pharmacology"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-008",
+      "stem": "A 31-year-old woman with type 1 diabetes mellitus on a basal-bolus regimen still has glucose readings of 260 to 300 mg/dL two hours after meals despite appropriate bolus dosing. Her physician adds pramlintide, injected with insulin at each meal. Which of the following best describes how this drug improves her postprandial readings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It replaces a beta-cell peptide that slows gastric emptying and lowers glucagon"
+        },
+        {
+          "label": "B",
+          "text": "It blocks intestinal enzymes that release glucose from complex carbohydrates"
+        },
+        {
+          "label": "C",
+          "text": "It closes potassium channels so residual beta cells release stored insulin"
+        },
+        {
+          "label": "D",
+          "text": "It blocks renal glucose reabsorption so the meal load is excreted in urine"
+        },
+        {
+          "label": "E",
+          "text": "It activates nuclear receptors that shift muscle toward glucose utilization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pramlintide is an analog of amylin, the peptide cosecreted with insulin, and replaces it in patients whose islets are destroyed.",
+        "whyCorrect": "Amylin is a small peptide cosecreted with insulin by pancreatic beta cells that reduces glucagon secretion, slows gastric emptying, and increases satiety. Islet destruction in type 1 diabetes leaves patients deficient in both insulin and amylin, so pramlintide is injected with insulin at meals as an adjunct for inadequate postprandial control in insulin-treated patients.",
+        "whyWrongByChoice": {
+          "B": "Blocking brush-border carbohydrate digestion is the acarbose and miglitol mechanism, and those drugs are not amylin replacements.",
+          "C": "Closing beta-cell potassium channels requires functioning beta cells, which this patient has lost to autoimmune destruction.",
+          "D": "Renal glucose excretion is the SGLT2 inhibitor mechanism and is not how a mealtime amylin analog works.",
+          "E": "Nuclear receptor activation describes thiazolidinediones, which address insulin resistance rather than postprandial peaks."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pramlintide",
+        "amylin",
+        "type 1 diabetes"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-009",
+      "stem": "A 57-year-old man with type 2 diabetes mellitus and moderate hyperglycemia is started on a new oral agent taken with the first bite of each meal. Two weeks later he reports bloating and considerable flatulence, and his physician reassures him that gradual dose escalation usually relieves this. Which of the following mechanisms explains both the glucose lowering and the symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed digestion of complex carbohydrates at the intestinal brush border"
+        },
+        {
+          "label": "B",
+          "text": "Reduced intestinal glucose absorption with increased GLUT-4 translocation"
+        },
+        {
+          "label": "C",
+          "text": "Slowed gastric emptying through replacement of a beta-cell peptide"
+        },
+        {
+          "label": "D",
+          "text": "Increased incretin levels through inhibition of dipeptidyl peptidase-4"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic diuresis from blocked glucose reabsorption in the nephron"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alpha-glucosidase inhibitors blunt postprandial glucose by delaying carbohydrate digestion, and undigested carbohydrate causes gas and bloating.",
+        "whyCorrect": "Alpha-glucosidase enzymes at the intestinal brush border break complex carbohydrates into absorbable glucose. Acarbose and miglitol inhibit them, delaying digestion and lowering postprandial glucose. The carbohydrate that escapes digestion is fermented downstream, producing the bloating and flatulence, which can be minimized by increasing the dose gradually.",
+        "whyWrongByChoice": {
+          "B": "Reduced gut absorption plus GLUT-4 translocation is metformin, whose GI complaints are nausea, diarrhea, and metallic taste.",
+          "C": "Replacement of amylin describes pramlintide, an injectable adjunct whose main adverse effects are nausea and vomiting.",
+          "D": "DPP-4 inhibitors are oral but typically cause nasopharyngitis and headache rather than flatulence.",
+          "E": "Osmotic diuresis from blocked renal reabsorption describes SGLT2 inhibitors, which cause dehydration and urogenital infections."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-glucosidase inhibitors",
+        "acarbose",
+        "adverse effects"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-010",
+      "stem": "A 55-year-old woman with type 2 diabetes mellitus and coronary artery disease has an HbA1c of 9.4% with persistent polyuria despite maximal metformin. Her BMI is 38 kg/m2 and her estimated GFR is 38 mL/min/1.73 m2. She is willing to use an injectable medication. Which of the following is the most appropriate agent to add?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Semaglutide"
+        },
+        {
+          "label": "B",
+          "text": "Dapagliflozin"
+        },
+        {
+          "label": "C",
+          "text": "Glyburide"
+        },
+        {
+          "label": "D",
+          "text": "Rosiglitazone"
+        },
+        {
+          "label": "E",
+          "text": "Repaglinide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "GLP-1 agonists are the preferred add-on for an obese patient with cardiovascular disease and HbA1c above 9%, particularly when renal function limits SGLT2 inhibitors.",
+        "whyCorrect": "GLP-1 receptor agonists are especially effective in patients with persistent symptoms or HbA1c above 9% despite metformin. They reduce cardiac events in coronary artery disease and promote weight loss through delayed gastric emptying and satiety, and they rarely cause hypoglycemia. Their subcutaneous dosing, which can last up to a week, is acceptable to this patient.",
+        "whyWrongByChoice": {
+          "B": "SGLT2 inhibitors work poorly once eGFR falls below 45 mL/min/1.73 m2 because their action depends on filtered glucose delivery.",
+          "C": "Sulfonylureas cause weight gain and hypoglycemia, and their excretion is reduced in chronic kidney disease.",
+          "D": "Thiazolidinediones promote weight gain through adipocyte proliferation and fluid retention, the opposite of what she needs.",
+          "E": "Meglitinides act like sulfonylureas, causing hypoglycemia and weight gain, and require frequent dosing before each meal."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "GLP-1 agonists",
+        "drug selection",
+        "obesity"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-011",
+      "stem": "A 49-year-old woman with type 2 diabetes mellitus taking metformin and canagliflozin presents with 2 days of nausea, vomiting, and abdominal pain after a low-carbohydrate diet and a viral illness. Serum glucose is 188 mg/dL, bicarbonate is 11 mEq/L, anion gap is 22 mEq/L, and serum beta-hydroxybutyrate is markedly elevated. Lactate is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Euglycemic diabetic ketoacidosis"
+        },
+        {
+          "label": "B",
+          "text": "Hyperosmolar hyperglycemic state"
+        },
+        {
+          "label": "C",
+          "text": "Metformin-associated lactic acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Insulin-induced hypoglycemia"
+        },
+        {
+          "label": "E",
+          "text": "Drug-induced acute pancreatitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SGLT2 inhibitors can precipitate ketoacidosis with only modestly elevated glucose because they lower serum glucose independently of insulin.",
+        "whyCorrect": "Gliflozins lower serum glucose by dumping it in the urine, independently of insulin levels or beta-cell function. In patients with low insulin secretion, especially under a stressor such as illness or carbohydrate restriction, ketogenesis proceeds while the urinary glucose loss keeps the serum glucose near normal, producing a high-anion-gap ketoacidosis at a glucose level that would otherwise be reassuring.",
+        "whyWrongByChoice": {
+          "B": "Hyperosmolar hyperglycemic state is defined by extreme hyperglycemia with minimal ketosis, not a glucose of 188 mg/dL with heavy ketonemia.",
+          "C": "Metformin-associated lactic acidosis would show an elevated lactate, and her lactate is normal.",
+          "D": "She is not taking insulin, and her glucose is elevated rather than below 70 mg/dL.",
+          "E": "Pancreatitis is a GLP-1 agonist and DPP-4 inhibitor adverse effect and would not produce ketonemia with an anion-gap acidosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SGLT2 inhibitors",
+        "euglycemic DKA",
+        "adverse effects"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    },
+    {
+      "id": "en27-012",
+      "stem": "A 72-year-old man with type 2 diabetes mellitus had two hypoglycemic episodes on glipizide, both occurring hours after meals were skipped. His physician stops the glipizide and starts repaglinide, dosed before each meal. Which of the following properties of the new drug best accounts for its lower risk of hypoglycemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its shorter half-life, which requires more frequent dosing"
+        },
+        {
+          "label": "B",
+          "text": "Its action on the GLP-1 receptor rather than the potassium channel"
+        },
+        {
+          "label": "C",
+          "text": "Its glucose-dependent stimulation of insulin secretion"
+        },
+        {
+          "label": "D",
+          "text": "Its predominant effect on hepatic rather than pancreatic tissue"
+        },
+        {
+          "label": "E",
+          "text": "Its clearance by the kidney rather than by the liver"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypoglycemia risk among glucose-lowering drugs tracks with half-life, so short-acting meglitinides are safer than sulfonylureas but must be dosed more often.",
+        "whyCorrect": "The risk of hypoglycemia from glucose-lowering drugs is directly related to the drug's half-life. Meglitinides such as repaglinide share the sulfonylurea mechanism but have a rapid onset and a shorter duration of action, so the insulin surge does not persist into a missed meal. The trade-off is that they must be dosed more frequently, before each meal.",
+        "whyWrongByChoice": {
+          "B": "Meglitinides do not act at the GLP-1 receptor; their mechanism overlaps that of sulfonylureas, which is why the two are not combined.",
+          "C": "Glucose-dependent insulin release describes the incretin-based agents; meglitinides stimulate secretion regardless of glucose level.",
+          "D": "Meglitinides act on pancreatic beta cells; reducing hepatic glucose output is a feature of metformin.",
+          "E": "Renal clearance would prolong, not shorten, drug exposure in an older patient and would raise hypoglycemia risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "meglitinides",
+        "sulfonylureas",
+        "hypoglycemia risk"
+      ],
+      "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+    }
+  ]
+}

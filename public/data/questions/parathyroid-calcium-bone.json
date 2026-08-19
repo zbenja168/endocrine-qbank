@@ -1,0 +1,1662 @@
+{
+  "categoryId": "parathyroid-calcium-bone",
+  "categoryName": "Parathyroid, Calcium & Bone",
+  "questions": [
+    {
+      "id": "en17-001",
+      "stem": "A 62-year-old woman comes to the orthopedic surgeon with right hip and leg pain that began 2 days ago when she stepped off a curb during her daily 3-mile walk. She can now barely bear weight. She fractured her wrist a year ago. She went through menopause at age 44 and declined hormone replacement therapy. Radiographs show a femoral neck fracture with diffusely decreased bone density. Serum calcium, phosphorus, and 25-hydroxyvitamin D are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osteitis fibrosa cystica"
+        },
+        {
+          "label": "B",
+          "text": "Osteomalacia"
+        },
+        {
+          "label": "C",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "D",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "E",
+          "text": "Albright hereditary osteodystrophy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Osteoporosis is loss of bone mass with normal mineral chemistry, presenting silently until a fragility fracture.",
+        "whyCorrect": "Bone resorption exceeding formation leaves porous, brittle bone that fractures at the hip, spine, and wrist after trivial force. Calcium, phosphorus, and vitamin D are characteristically normal, and diagnosis rests on a quantitative DEXA T score. Early menopause with untreated estrogen loss is a classic hormone-deficient cause.",
+        "whyWrongByChoice": {
+          "A": "Osteitis fibrosa cystica results from excessive PTH and would be accompanied by abnormal calcium and PTH levels.",
+          "B": "Osteomalacia is defective mineralization and typically shows low vitamin D, low calcium or phosphate, and a high alkaline phosphatase.",
+          "C": "Osteopetrosis is excessive bone formation from osteoclast hypofunction, giving dense rather than thinned bone.",
+          "E": "Albright hereditary osteodystrophy presents with short stature, obesity, ectopic calcifications, hypocalcemia, and elevated PTH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "osteoporosis",
+        "fragility fracture",
+        "DEXA"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-002",
+      "stem": "A 54-year-old man with malabsorption following bowel surgery reports several months of vague, hard-to-localize bone pain, proximal muscle weakness, and increasing difficulty walking. Radiographs show pseudofractures. Laboratory studies show a low 25-hydroxyvitamin D level, low serum calcium and phosphate, and an elevated alkaline phosphatase. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bisphosphonate therapy"
+        },
+        {
+          "label": "B",
+          "text": "Denosumab therapy"
+        },
+        {
+          "label": "C",
+          "text": "Parathyroid hormone analog therapy"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin D replacement"
+        },
+        {
+          "label": "E",
+          "text": "Bone marrow transplantation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Osteomalacia is defective mineralization from vitamin D deficiency, and vitamin D replacement is the mainstay of treatment.",
+        "whyCorrect": "Cryptic bone pain, muscle weakness, trouble ambulating, and pseudofractures with low vitamin D, low calcium or phosphate, and a high alkaline phosphatase define osteomalacia. Replacing vitamin D restores mineralization, with calcium and phosphate supplemented as needed. Any underlying cause, here malabsorption, is treated as well.",
+        "whyWrongByChoice": {
+          "A": "Bisphosphonates are reserved for advanced osteoporosis and do not correct a mineralization defect.",
+          "B": "Denosumab is likewise an antiresorptive used in advanced osteoporosis, not in vitamin D deficiency.",
+          "C": "PTH analogs are an option in advanced osteoporosis and would not address the missing vitamin D.",
+          "E": "Bone marrow transplantation treats osteopetrosis, where transplantable osteoclasts are the deficient cell."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteomalacia",
+        "vitamin D",
+        "pseudofracture"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-003",
+      "stem": "A 58-year-old postmenopausal woman with no fracture history undergoes screening dual-energy x-ray absorptiometry. Her T score is -1.8. Which of the following best describes her bone density?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Healthy, normal bone density"
+        },
+        {
+          "label": "B",
+          "text": "Osteopenia, which raises the risk of osteoporosis"
+        },
+        {
+          "label": "C",
+          "text": "Osteoporosis, with an increased risk of fracture"
+        },
+        {
+          "label": "D",
+          "text": "Osteomalacia, from defective bone mineralization"
+        },
+        {
+          "label": "E",
+          "text": "Osteopetrosis, from excessive bone formation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A DEXA T score between -1 and -2.5 defines osteopenia, an intermediate state that increases osteoporosis risk.",
+        "whyCorrect": "The T score compares a patient's bone density to a healthy average person in their twenties or thirties, and results are reported as negative numbers. A value between 0 and -1 is healthy, between -1 and -2.5 is osteopenia, and -2.5 or lower is osteoporosis. At -1.8 this patient falls squarely in the osteopenic range.",
+        "whyWrongByChoice": {
+          "A": "Healthy bone density corresponds to a T score between 0 and -1, or a positive value.",
+          "C": "Osteoporosis requires a T score of -2.5 or lower, which she has not reached.",
+          "D": "Osteomalacia is diagnosed from abnormal mineral chemistry and pseudofractures, not from a T score.",
+          "E": "Osteopetrosis is a hyperostotic disorder with dense bone, the opposite of a reduced T score."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "DEXA",
+        "T score",
+        "osteopenia"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-004",
+      "stem": "A 7-year-old boy has progressive widening of the facial bones, worsening vision, and a right facial droop. Skeletal radiographs show generalized hyperostosis of the craniofacial bones and the appendicular skeleton. Which of the following abnormalities best explains his excessive bone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osteoblast hyperfunctioning"
+        },
+        {
+          "label": "B",
+          "text": "Osteoclast hyperfunctioning"
+        },
+        {
+          "label": "C",
+          "text": "Deficiency of vitamin D"
+        },
+        {
+          "label": "D",
+          "text": "Excessive intake of vitamin D"
+        },
+        {
+          "label": "E",
+          "text": "Long-standing untreated osteomalacia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess bone formation reflects osteoblast hyperfunction, osteoclast hypofunction, or abnormal osteocytic osteocyte function.",
+        "whyCorrect": "Osteoblasts lay down bone, so hyperfunctioning osteoblasts produce the generalized hyperostosis seen in craniodiaphyseal dysplasia. Thickened cranial bones entrap cranial nerves, causing blindness, deafness, and facial nerve palsies as described here. Encroachment on cranial foramina can also obstruct venous egress and raise intracranial pressure.",
+        "whyWrongByChoice": {
+          "B": "Hyperfunctioning osteoclasts would resorb bone and decrease bone mass rather than build hyperostosis.",
+          "C": "Vitamin D deficiency causes rickets and osteomalacia, softening bone instead of thickening it.",
+          "D": "Vitamin D excess does not drive the hyperostotic bone dysplasias in either direction.",
+          "E": "Osteomalacia is a mineralization defect and is unrelated to the pathogenesis of hyperostosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hyperostosis",
+        "osteoblast",
+        "cranial nerve entrapment"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-005",
+      "stem": "A 9-year-old girl has progressive facial distortion, hearing loss, and decreased vision. Radiographs show generalized hyperostosis of the craniofacial bones and a 'policeman's night stick' configuration of the femurs. Serum PTH and alkaline phosphatase are elevated. Her father is similarly affected. Which of the following genes is most likely mutated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ANKH"
+        },
+        {
+          "label": "B",
+          "text": "GNAS"
+        },
+        {
+          "label": "C",
+          "text": "MEN1"
+        },
+        {
+          "label": "D",
+          "text": "RET"
+        },
+        {
+          "label": "E",
+          "text": "SOST"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Craniodiaphyseal dysplasia is an autosomal dominant osteoblast disorder caused by upregulating SOST mutations.",
+        "whyCorrect": "Upregulating mutations of SOST at 17q21.31 drive osteoblast hyperfunctioning and generalized hyperostosis of craniofacial and appendicular bones. The night stick femur is the distinctive long bone finding, and laboratory studies show increased PTH and alkaline phosphatase. Autosomal dominant transmission fits an affected parent.",
+        "whyWrongByChoice": {
+          "A": "ANKH mutations cause craniometaphyseal dysplasia, which gives Erlenmeyer flask femurs and normal laboratory values.",
+          "B": "GNAS Gs-alpha mutations produce Albright hereditary osteodystrophy and McCune-Albright syndrome, not night stick femurs.",
+          "C": "MEN1 mutations cause multiple endocrine neoplasia, not a hyperostotic craniotubular dysplasia.",
+          "D": "RET mutations underlie medullary thyroid carcinoma syndromes and do not cause generalized hyperostosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "craniodiaphyseal dysplasia",
+        "SOST",
+        "hyperostosis"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-006",
+      "stem": "An 8-year-old boy has a broadened nasal bridge, progressive hearing loss, and a facial nerve palsy. Radiographs show hyperostosis of the craniofacial bones and flaring of the distal femoral metaphyses described as an Erlenmeyer flask deformity. Serum calcium, phosphate, PTH, and alkaline phosphatase are all normal. His mother had similar facial changes. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Craniodiaphyseal dysplasia"
+        },
+        {
+          "label": "B",
+          "text": "Craniometaphyseal dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "D",
+          "text": "Osteitis fibrosa cystica"
+        },
+        {
+          "label": "E",
+          "text": "Nutritional rickets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Craniometaphyseal dysplasia is an autosomal dominant ANKH disorder of osteocytic osteocytes with Erlenmeyer flask femurs and normal labs.",
+        "whyCorrect": "Mutations of ANKH at 5p15.2 disrupt the osteocytic osteocytes that coordinate osteoblast and osteoclast activity. Craniofacial hyperostosis resembles craniodiaphyseal dysplasia, but the long bones show metaphyseal flaring of the distal femur rather than a night stick shape. There are no distinctive laboratory features, so diagnosis is clinical and radiographic, confirmed by DNA testing.",
+        "whyWrongByChoice": {
+          "A": "Craniodiaphyseal dysplasia gives night stick femurs and elevated PTH and alkaline phosphatase, both absent here.",
+          "C": "Osteopetrosis features generalized dense bone with fractures and marrow failure, not isolated metaphyseal flaring.",
+          "D": "Osteitis fibrosa cystica is driven by excessive PTH, which is normal in this boy.",
+          "E": "Nutritional rickets softens bone with bowing and a rachitic rosary rather than causing hyperostosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "craniometaphyseal dysplasia",
+        "ANKH",
+        "Erlenmeyer flask"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-007",
+      "stem": "A 10-month-old infant has had two long bone fractures after minor falls and has progressive vision loss. Radiographs show diffusely dense bone. A complete blood count shows anemia, and evaluation reveals marrow hypocellularity with extramedullary hematopoiesis. Which of the following is the most appropriate definitive treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone marrow transplantation"
+        },
+        {
+          "label": "B",
+          "text": "High-dose vitamin D replacement"
+        },
+        {
+          "label": "C",
+          "text": "Long-term bisphosphonate therapy"
+        },
+        {
+          "label": "D",
+          "text": "Parathyroid hormone analog therapy"
+        },
+        {
+          "label": "E",
+          "text": "Oral calcium and phosphate supplementation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Osteopetrosis results from osteoclast hypofunction and can be corrected by bone marrow transplant because osteoclasts are transplantable cells.",
+        "whyCorrect": "Downregulating mutations leave osteoclasts unable to resorb bone, so hyperostotic bone crowds out marrow and compresses the optic nerves. Loss of marrow elements produces hypocellularity with compensatory extramedullary hematopoiesis, and the dense but disorganized bone still fractures. Transplanting marrow supplies functional osteoclast precursors, which is why it is the definitive therapy.",
+        "whyWrongByChoice": {
+          "B": "Vitamin D replacement treats osteomalacia and rickets, disorders of deficient mineralization rather than excess bone.",
+          "C": "Bisphosphonates further suppress osteoclasts, the cells already hypofunctioning in this disease.",
+          "D": "PTH analogs are used in advanced osteoporosis and do not restore osteoclast function.",
+          "E": "Calcium and phosphate supplementation addresses mineral deficiency, which is not the problem here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "osteopetrosis",
+        "osteoclast",
+        "bone marrow transplant"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-008",
+      "stem": "A 2-year-old boy who began walking late has bowed legs, thickened wrists and ankles, bone tenderness, and delayed tooth eruption. On examination of the anterior chest, bead-like enlargements are palpable in a row along the costochondral junctions. Which of the following best explains this chest wall finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enlargement of unmineralized cartilage at the growth junctions"
+        },
+        {
+          "label": "B",
+          "text": "Excess bone laid down by hyperfunctioning osteoblasts"
+        },
+        {
+          "label": "C",
+          "text": "Callus from healed fractures caused by repeated minor trauma"
+        },
+        {
+          "label": "D",
+          "text": "Ectopic calcification of the costal cartilage and soft tissue"
+        },
+        {
+          "label": "E",
+          "text": "Subperiosteal bone resorption driven by excess PTH"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The rachitic rosary of rickets reflects unmineralized cartilage and bone enlarging at the costochondral junctions.",
+        "whyCorrect": "In rickets the cartilage and bone at growth plates enlarge because they are not mineralizing normally, and the costochondral junctions become palpable beads. The same failure of mineralization produces bowed legs, thickened wrists and ankles, bone pain, delayed walking, and dental problems. This is the classic pediatric counterpart to adult osteomalacia.",
+        "whyWrongByChoice": {
+          "B": "Osteoblast hyperfunction causes hyperostotic dysplasias with dense bone, not soft bowing bones in a toddler.",
+          "C": "Fracture callus would be irregular and asymmetric rather than a symmetric row of beads along the junctions.",
+          "D": "Ectopic calcification is a feature of Albright hereditary osteodystrophy, not of rickets.",
+          "E": "Subperiosteal resorption reflects excessive PTH and osteitis fibrosa cystica, a different disease process."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "rickets",
+        "rachitic rosary",
+        "mineralization"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-009",
+      "stem": "A 3-year-old boy has short stature and progressively bowing legs despite a diet with ample dairy and a daily multivitamin. Serum 25-hydroxyvitamin D and calcium are normal, serum phosphate is low, and urinary phosphate excretion is high. His mother had similar leg bowing as a child. Which of the following best explains his rickets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive loss of phosphate through the kidneys"
+        },
+        {
+          "label": "B",
+          "text": "Inadequate dietary intake of vitamin D"
+        },
+        {
+          "label": "C",
+          "text": "Inability to convert vitamin D to its active form"
+        },
+        {
+          "label": "D",
+          "text": "Resistance of target tissues to vitamin D"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous secretion of PTH by a parathyroid adenoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypophosphatemic rickets is an inherited disorder in which the kidneys waste phosphate.",
+        "whyCorrect": "X-linked and dominant hypophosphatemic rickets are caused by excess phosphate loss in the kidneys, so bone cannot mineralize despite adequate vitamin D. The biochemical signature is low serum phosphate with inappropriately high urinary phosphate and normal vitamin D and calcium. A similarly affected parent fits the inherited pattern.",
+        "whyWrongByChoice": {
+          "B": "Nutritional rickets requires deficient intake or malabsorption, but his diet, supplement, and vitamin D level are all adequate.",
+          "C": "Vitamin D-dependent rickets type 1 is a defect in activating vitamin D and would not selectively waste phosphate.",
+          "D": "Vitamin D-dependent rickets type 2 is end-organ resistance to vitamin D, again not a renal phosphate leak.",
+          "E": "A parathyroid adenoma would produce hypercalcemia and osteitis fibrosa cystica rather than childhood rickets."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rickets",
+        "hypophosphatemic rickets",
+        "phosphate wasting"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-010",
+      "stem": "Vitamin D-dependent rickets type 2 differs from vitamin D-dependent rickets type 1 in which of the following ways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Target tissues are resistant to vitamin D"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin D cannot be converted to its active form"
+        },
+        {
+          "label": "C",
+          "text": "Phosphate is lost excessively in the urine"
+        },
+        {
+          "label": "D",
+          "text": "Dietary intake of vitamin D is inadequate"
+        },
+        {
+          "label": "E",
+          "text": "Antiepileptic medications interfere with vitamin D"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Among the vitamin D-dependent rickets, type 1 is failure to activate vitamin D and type 2 is resistance to it.",
+        "whyCorrect": "Both vitamin D-dependent forms are genetic and are described with autosomal dominant and recessive inheritance. Type 1 is the inability to activate vitamin D, while type 2 is resistance of the target tissues to vitamin D that is already present. Recognizing which step fails separates these rare hereditary forms from ordinary nutritional rickets.",
+        "whyWrongByChoice": {
+          "B": "Failure of vitamin D activation defines type 1, which is the comparison condition rather than the distinguishing feature of type 2.",
+          "C": "Renal phosphate wasting defines X-linked and dominant hypophosphatemic rickets, a separate genetic form.",
+          "D": "Inadequate intake describes nutritional rickets, the most common cause but not a vitamin D-dependent form.",
+          "E": "Antiepileptic drugs are an acquired secondary cause of rickets and osteomalacia, not a hereditary defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "rickets",
+        "vitamin D-dependent rickets",
+        "genetics"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-011",
+      "stem": "A 14-year-old girl has disproportionate short stature, obesity, characteristic facial changes, mild cognitive impairment, and firm subcutaneous calcifications. Laboratory studies show hypocalcemia, hyperphosphatemia, and an elevated PTH level. After PTH is administered, her urinary cyclic AMP rises only minimally, and erythrocyte Gs activity is reduced. Which of the following best explains her findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of all four parathyroid glands"
+        },
+        {
+          "label": "B",
+          "text": "A parathyroid adenoma secreting PTH autonomously"
+        },
+        {
+          "label": "C",
+          "text": "Failure of Gs-alpha signal transduction inside target cells"
+        },
+        {
+          "label": "D",
+          "text": "Deficient dietary intake and absorption of vitamin D"
+        },
+        {
+          "label": "E",
+          "text": "Excessive excretion of phosphate by the renal tubules"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Albright hereditary osteodystrophy is pseudohypoparathyroidism type 1A: clinical hypoparathyroidism with normal to elevated PTH from a Gs-alpha defect.",
+        "whyCorrect": "Mutations in the Gs-alpha subunit of GNAS block post-receptor signal transduction, so hormone-receptor coupling occurs but the intracellular cascade never fires. Target tissues therefore behave as if hypoparathyroid, giving hypocalcemia and hyperphosphatemia while PTH rises, and the urinary cyclic AMP response to exogenous PTH stays blunted with reduced erythrocyte Gs activity. The phenotype includes short stature, facial changes, obesity, ectopic calcifications, and mild cognitive change.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune parathyroid destruction produces true hypoparathyroidism with a low, not elevated, PTH level.",
+          "B": "A PTH-secreting adenoma causes hypercalcemia rather than the hypocalcemia seen here.",
+          "D": "Vitamin D deficiency causes osteomalacia with low phosphate, whereas this girl is hyperphosphatemic.",
+          "E": "Renal phosphate wasting lowers serum phosphate and underlies hypophosphatemic rickets, the opposite pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Albright hereditary osteodystrophy",
+        "pseudohypoparathyroidism",
+        "Gs-alpha"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en17-012",
+      "stem": "A 6-year-old girl developed breast tissue and vaginal bleeding at age 5. Examination shows several large hyperpigmented macules over the trunk. Radiographs obtained after a femur fracture show fibrous dysplasia involving multiple bones. Serum calcium, phosphate, and alkaline phosphatase are normal, but her estradiol level is markedly elevated for age. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "McCune-Albright syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Albright hereditary osteodystrophy"
+        },
+        {
+          "label": "C",
+          "text": "Craniodiaphyseal dysplasia"
+        },
+        {
+          "label": "D",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "E",
+          "text": "Osteitis fibrosa cystica"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "McCune-Albright syndrome is a Gs-alpha GNAS disorder with hyperpigmented macules, polyostotic fibrous dysplasia, and multiple endocrine excesses.",
+        "whyCorrect": "The triad of large clonal hyperpigmented skin macules, polyostotic fibrous dysplasia, and endocrine hyperfunction is characteristic. Reported endocrine changes include precocious puberty, hyperparathyroidism, Cushing syndrome, acromegaly, and hyperprolactinemia. Laboratory values are otherwise normal except for the elevated hormone levels driven by the syndrome, as seen with this girl's estradiol.",
+        "whyWrongByChoice": {
+          "B": "Albright hereditary osteodystrophy causes hypocalcemia, hyperphosphatemia, and elevated PTH with short stature and ectopic calcifications.",
+          "C": "Craniodiaphyseal dysplasia produces craniofacial hyperostosis and night stick femurs, not fibrous dysplasia with precocious puberty.",
+          "D": "Osteopetrosis gives generalized dense bone with marrow failure and vision loss rather than skin macules and hormone excess.",
+          "E": "Osteitis fibrosa cystica is caused by excessive PTH and would be accompanied by abnormal calcium and PTH levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "McCune-Albright syndrome",
+        "GNAS",
+        "fibrous dysplasia"
+      ],
+      "topicId": "endocrine-bone-disorders",
+      "topicName": "Endocrine Bone Disorders"
+    },
+    {
+      "id": "en18-001",
+      "stem": "A 57-year-old woman is evaluated for her second episode of kidney stones this year. She also reports constant bone pain, fatigue, constipation, and low mood. She has well-controlled hypothyroidism and normal renal function. Laboratory studies show an elevated serum calcium, a serum phosphate at the lower limit of normal, and an elevated parathyroid hormone level. Which of the following is the most likely cause of her findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Four-gland hyperplasia in a patient on dialysis"
+        },
+        {
+          "label": "B",
+          "text": "Dietary phosphate excess suppressing calcitriol"
+        },
+        {
+          "label": "C",
+          "text": "Parathyroid adenoma over-secreting PTH"
+        },
+        {
+          "label": "D",
+          "text": "Chronic kidney disease lowering serum calcium"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D deficiency from poor sun exposure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypercalcemia with low-normal phosphate and an elevated PTH is primary hyperparathyroidism, most often from a parathyroid adenoma.",
+        "whyCorrect": "In primary hyperparathyroidism the disease lies within the gland itself, and the most common cause is an adenoma on one of the four parathyroid glands. Autonomous PTH raises serum calcium and drives phosphate into the urine, so calcium is high while phosphate is low or low-normal. Her stones, bone pain, constipation, fatigue, and depressed mood are the classic bones, stones, groans, and moans of hypercalcemia.",
+        "whyWrongByChoice": {
+          "A": "Four-gland hyperplasia with autonomous secretion is tertiary disease, seen essentially only in end-stage renal disease on dialysis, and her renal function is normal.",
+          "B": "Excess dietary phosphate is not a described cause of hypercalcemia with elevated PTH; phosphate loading would tend to lower serum calcium.",
+          "D": "Chronic kidney disease causes secondary hyperparathyroidism, in which calcium is low to normal and phosphate is high, the opposite of her labs.",
+          "E": "Vitamin D deficiency lowers serum calcium and raises PTH secondarily; it does not produce hypercalcemia."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "primary hyperparathyroidism",
+        "hypercalcemia",
+        "parathyroid adenoma"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-002",
+      "stem": "A 62-year-old man with chronic kidney disease has a serum calcium of 8.2 mg/dL (low-normal), a serum phosphate of 6.4 mg/dL, and a markedly elevated parathyroid hormone level. Which of the following additional laboratory findings is most likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased serum phosphate on repeat testing"
+        },
+        {
+          "label": "B",
+          "text": "Suppressed parathyroid hormone after a calcium load"
+        },
+        {
+          "label": "C",
+          "text": "Serum calcium above the upper limit of normal"
+        },
+        {
+          "label": "D",
+          "text": "Decreased serum 1,25-dihydroxy vitamin D"
+        },
+        {
+          "label": "E",
+          "text": "Increased serum 1,25-dihydroxy vitamin D"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In secondary hyperparathyroidism from chronic kidney disease, calcitriol is low, phosphate is high, and calcium is low to normal despite high PTH.",
+        "whyCorrect": "The failing kidney stops converting vitamin D to its active form, so 1,25-dihydroxy vitamin D (calcitriol) falls. Reduced calcitriol means less intestinal calcium absorption, and poor glomerular filtration of phosphate raises serum phosphate; both push serum calcium down. The parathyroid glands respond appropriately with high PTH, which pulls calcium back toward, but not above, normal.",
+        "whyWrongByChoice": {
+          "A": "Phosphate stays high in chronic kidney disease because the diseased glomerulus cannot filter it, and it is a driver of the hypocalcemia.",
+          "B": "PTH secretion here is an appropriate response to chronic hypocalcemia and is not the autonomous, calcium-independent secretion of tertiary disease.",
+          "C": "Frank hypercalcemia characterizes primary and tertiary disease; secondary hyperparathyroidism runs low-to-normal calcium.",
+          "E": "Calcitriol is elevated in primary hyperparathyroidism, where high PTH drives 1-alpha-hydroxylase in healthy kidneys; in chronic kidney disease that conversion is lost."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary hyperparathyroidism",
+        "chronic kidney disease",
+        "calcitriol"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-003",
+      "stem": "A 54-year-old woman with end-stage renal disease has received hemodialysis for 7 years. She reports worsening bone and joint pain, bone deformities, and decreased mobility. Laboratory studies show an elevated serum calcium, an elevated serum phosphate, and a parathyroid hormone level several times the upper limit of normal that has not responded to phosphate binders or a vitamin D receptor activator. Which of the following is the most appropriate definitive management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased dietary calcium and phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Surgical parathyroidectomy"
+        },
+        {
+          "label": "C",
+          "text": "Higher-dose calcitriol supplementation"
+        },
+        {
+          "label": "D",
+          "text": "Addition of calcium acetate with meals"
+        },
+        {
+          "label": "E",
+          "text": "Alendronate to inactivate osteoclasts"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tertiary hyperparathyroidism is autonomous PTH secretion in end-stage renal disease and is treated surgically when medical therapy fails.",
+        "whyCorrect": "Years of hypocalcemic stimulation during secondary hyperparathyroidism cause the glands to hypertrophy and eventually secrete PTH independent of serum calcium, producing hypercalcemia with the hyperphosphatemia of end-stage renal disease. Because the secretion is autonomous, it is refractory to medical treatment. Parathyroidectomy removes the source; in some patients autonomous secretion instead subsides after a kidney transplant.",
+        "whyWrongByChoice": {
+          "A": "Increasing calcium and phosphate intake would aggravate both the hypercalcemia and the hyperphosphatemia.",
+          "C": "Vitamin D receptor activators are used in secondary disease to suppress PTH, but this patient is already hypercalcemic and is not responding to them.",
+          "D": "Calcium-based binders add to the calcium load and would worsen her hypercalcemia, and phosphate binders have already failed.",
+          "E": "Bisphosphonates protect bone density but do nothing about the autonomously hypersecreting glands."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tertiary hyperparathyroidism",
+        "end-stage renal disease",
+        "parathyroidectomy"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-004",
+      "stem": "A 61-year-old man with years of untreated primary hyperparathyroidism has diffuse bone pain and a pathologic fracture. Bone biopsy shows markedly increased osteoclastic resorption with fibrous replacement of marrow. Which of the following best explains how the excess parathyroid hormone activated his osteoclasts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PTH stimulates osteoblasts to produce RANK-L, which binds osteoclast RANK"
+        },
+        {
+          "label": "B",
+          "text": "PTH binds receptors on osteoclasts directly, with no osteoblast involvement"
+        },
+        {
+          "label": "C",
+          "text": "Calcitonin from thyroid C cells is released and activates osteoclasts"
+        },
+        {
+          "label": "D",
+          "text": "PTH blocks renal 1-alpha-hydroxylase, and low calcitriol activates osteoclasts"
+        },
+        {
+          "label": "E",
+          "text": "Retained serum phosphate deposits in bone and mechanically recruits osteoclasts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PTH drives bone resorption indirectly: it makes osteoblasts express RANK-L, which activates osteoclasts through RANK.",
+        "whyCorrect": "Chronically high PTH levels cause osteoblasts to increase production of RANK-L (receptor activator of nuclear factor kappa-B ligand). RANK-L on the osteoblast engages RANK receptors on osteoclasts, and the activated osteoclasts break down bone. Sustained resorption produces osteitis fibrosa cystica, with the fibrous marrow replacement seen on his biopsy.",
+        "whyWrongByChoice": {
+          "B": "PTH's effect on osteoclasts is indirect; the signal must pass through osteoblasts by way of RANK-L.",
+          "C": "Calcitonin is not the mediator described here, and excess PTH, not C-cell hormone, drives this high-turnover bone disease.",
+          "D": "PTH stimulates rather than blocks renal 1-alpha-hydroxylase, so calcitriol rises in primary hyperparathyroidism.",
+          "E": "Phosphate is low or low-normal in primary hyperparathyroidism because PTH promotes its urinary excretion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "osteitis fibrosa cystica",
+        "RANK-L",
+        "bone resorption"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-005",
+      "stem": "A 48-year-old woman with long-standing primary hyperparathyroidism has an expansile lytic lesion of the femur. At surgery, the lesion is a cystic mass with a distinctly brown cut surface. Histology shows fibrous stroma with numerous osteoclast-type giant cells and no malignant cells. Which of the following best explains the brown color of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Melanin pigment produced by cells within the fibrous stroma"
+        },
+        {
+          "label": "B",
+          "text": "Lipofuscin accumulated from chronic osteoblastic overactivity"
+        },
+        {
+          "label": "C",
+          "text": "Calcium phosphate crystals precipitated within the cystic space"
+        },
+        {
+          "label": "D",
+          "text": "Amyloid deposited around the resorbing bone trabeculae"
+        },
+        {
+          "label": "E",
+          "text": "Hemosiderin deposited in the stroma after hemorrhage into the cyst"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A brown tumor gets its color from hemosiderin left behind after bleeding into a cystic bone lesion.",
+        "whyCorrect": "Chronic bone resorption from excess PTH produces cystic lesions known as brown tumors. Hemorrhage into the cystic space breaks down, and hemosiderin is deposited into the fibrous stroma, giving the brown color. A brown tumor is not a true neoplasm but a mass resulting from local bone breakdown, bleeding, and iron pigment buildup, and it can arise in either primary or secondary hyperparathyroidism.",
+        "whyWrongByChoice": {
+          "A": "Melanin is not a feature of brown tumors, which arise from local bone breakdown rather than from pigment-producing cells.",
+          "B": "Lipofuscin is a wear-and-tear pigment of aging cells and does not account for the color of these hemorrhagic bone cysts.",
+          "C": "Mineral crystals would appear white or chalky; the defining pigment here is iron derived from blood.",
+          "D": "Amyloid within tumor stroma is characteristic of medullary thyroid carcinoma, not of hyperparathyroid bone disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "brown tumor",
+        "hemosiderin",
+        "primary hyperparathyroidism"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-006",
+      "stem": "A 59-year-old woman undergoes parathyroidectomy for a parathyroid adenoma. Two days later she develops perioral tingling and painful muscle cramps. Which of the following sets of laboratory abnormalities is most likely in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High calcium, low magnesium, low phosphate, low potassium"
+        },
+        {
+          "label": "B",
+          "text": "High calcium, high magnesium, low phosphate, high potassium"
+        },
+        {
+          "label": "C",
+          "text": "Low calcium, low magnesium, low phosphate, high potassium"
+        },
+        {
+          "label": "D",
+          "text": "High calcium, high magnesium, high phosphate, low potassium"
+        },
+        {
+          "label": "E",
+          "text": "Low calcium, high magnesium, high phosphate, low potassium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After parathyroidectomy, hungry bones rapidly take up minerals and produce hypocalcemia with associated electrolyte shifts.",
+        "whyCorrect": "Once the source of excess PTH is removed, chronically resorbing bone rapidly takes up and mineralizes calcium and other minerals. This hungry bone syndrome shows up as hypocalcemia, hypomagnesemia, hypophosphatemia, and hyperkalemia, and patients must be monitored for it after surgery. Her perioral tingling and cramps are the neuromuscular consequences of the falling calcium.",
+        "whyWrongByChoice": {
+          "A": "Hypercalcemia would not explain perioral tingling and cramps, which are symptoms of a low calcium level.",
+          "B": "Only the potassium direction is right here; calcium and magnesium both drop after the operation.",
+          "D": "Rising calcium and phosphate would suggest persistent or recurrent hyperparathyroidism, not the post-surgical mineral avidity of bone.",
+          "E": "Magnesium and phosphate fall rather than rise, because bone takes them up along with calcium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hungry bone syndrome",
+        "parathyroidectomy",
+        "hypocalcemia"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-007",
+      "stem": "A 71-year-old woman with primary hyperparathyroidism and a serum calcium of 13.4 mg/dL is not a surgical candidate because of severe cardiopulmonary disease. She is started on cinacalcet. Which of the following best describes how this drug lowers her parathyroid hormone level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds parathyroid calcium receptors, signaling that calcium is adequate"
+        },
+        {
+          "label": "B",
+          "text": "It inactivates osteoclasts directly, reducing release of calcium from bone"
+        },
+        {
+          "label": "C",
+          "text": "It binds dietary phosphate in the gut, preventing its absorption"
+        },
+        {
+          "label": "D",
+          "text": "It activates the vitamin D receptor, raising intestinal calcium uptake"
+        },
+        {
+          "label": "E",
+          "text": "It blocks renal 1-alpha-hydroxylase, lowering active vitamin D levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cinacalcet is a calcimimetic that engages the parathyroid calcium receptor and shuts down PTH secretion.",
+        "whyCorrect": "Cinacalcet binds the calcium receptors on the parathyroid gland and fools the gland into behaving as if serum calcium were adequate, so it turns off PTH secretion. It is used short-term to control severe hypercalcemia before surgery, or long-term to protect bone density when surgery is not an option, as in this patient. It works on the gland rather than on bone or gut.",
+        "whyWrongByChoice": {
+          "B": "Direct osteoclast inactivation describes bisphosphonates such as alendronate, which do not suppress PTH secretion.",
+          "C": "Intestinal phosphate binding describes sevelamer, lanthanum, and calcium acetate, used in secondary hyperparathyroidism from kidney disease.",
+          "D": "Vitamin D receptor activators raise intestinal calcium absorption and would be counterproductive in a patient with a calcium of 13.4 mg/dL.",
+          "E": "Cinacalcet does not target 1-alpha-hydroxylase; its site of action is the parathyroid calcium receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cinacalcet",
+        "calcimimetic",
+        "hypercalcemia treatment"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-008",
+      "stem": "A 63-year-old man has hypercalcemia with an elevated parathyroid hormone level, and a technetium-99 sestamibi scan is ordered before planned neck exploration. Uptake of the radiotracer by which of the following best explains this study's ability to localize the lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Areas of active osteoblastic bone formation"
+        },
+        {
+          "label": "B",
+          "text": "Proximal renal tubular cells concentrating the tracer"
+        },
+        {
+          "label": "C",
+          "text": "Reticuloendothelial cells within the liver and spleen"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondria within parathyroid tissue"
+        },
+        {
+          "label": "E",
+          "text": "The sodium-iodide symporter of thyroid follicular cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sestamibi localizes parathyroid lesions because the tracer is taken up by parathyroid mitochondria.",
+        "whyCorrect": "The technetium-99 sestamibi radiotracer is taken up by parathyroid mitochondria, so a hyperfunctioning gland lights up against surrounding tissue. The scan is very good at identifying a single parathyroid adenoma, which is what makes it useful before an operation to remove one gland. It is considerably less accurate for parathyroid hyperplasia, where all four glands are involved.",
+        "whyWrongByChoice": {
+          "A": "Osteoblastic uptake is the basis of a bone scan, which shows skeletal turnover rather than the offending gland.",
+          "B": "Renal tubular uptake is the basis of renal scintigraphy and would not identify a neck lesion.",
+          "C": "Reticuloendothelial uptake underlies liver-spleen imaging and has no role in parathyroid localization.",
+          "E": "Iodine trapping by follicular cells underlies radioiodine thyroid imaging, a different tracer and a different target organ."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "sestamibi scan",
+        "imaging",
+        "parathyroid adenoma"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-009",
+      "stem": "A resected parathyroid adenoma is studied molecularly. An inversion on chromosome 11 has repositioned the cyclin D1 gene so that it now sits adjacent to genomic elements that normally regulate the PTH gene. Which of the following is the most likely consequence of this rearrangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of the RET proto-oncogene, driving growth of parathyroid C cells"
+        },
+        {
+          "label": "B",
+          "text": "Overexpression of cyclin D1 in PTH-producing cells, increasing their proliferation"
+        },
+        {
+          "label": "C",
+          "text": "Silencing of the PTH gene, so the tumor secretes less hormone than normal tissue"
+        },
+        {
+          "label": "D",
+          "text": "Inactivation of both copies of the MEN1 tumor suppressor gene by the inversion"
+        },
+        {
+          "label": "E",
+          "text": "Deletion of the calcium receptor, removing feedback control from chief cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A chromosome 11 inversion puts cyclin D1 under PTH gene regulatory control, driving proliferation of parathyroid cells.",
+        "whyCorrect": "Cyclin D1 is a positive regulator of the cell cycle. The inversion moves the cyclin D1 gene next to elements that regulate PTH expression, and those elements drive abnormal cyclin D1 expression in PTH-producing cells, increasing their proliferation. Cyclin D1 is overexpressed in roughly 40% of parathyroid adenomas, which means other mechanisms contribute as well.",
+        "whyWrongByChoice": {
+          "A": "RET activation drives medullary thyroid carcinoma from thyroid C cells; C cells are not parathyroid tissue.",
+          "C": "The rearrangement hijacks the PTH regulatory elements to overexpress cyclin D1; the resulting tumor over-secretes PTH rather than under-secreting it.",
+          "D": "Biallelic MEN1 inactivation is a separate mechanism, found in about 20% to 30% of sporadic parathyroid tumors, and is not what this inversion does.",
+          "E": "Loss of the calcium receptor is not the described genetic abnormality in parathyroid adenoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cyclin D1",
+        "parathyroid adenoma genetics",
+        "MEN1"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-010",
+      "stem": "A 66-year-old man on hemodialysis has a serum phosphate of 7.1 mg/dL, a low-normal serum calcium, and a persistently elevated parathyroid hormone level. He is already on dietary phosphate restriction, and sevelamer is added with meals. Which of the following best describes how this drug helps lower his parathyroid hormone level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It increases urinary phosphate excretion by the remaining nephrons"
+        },
+        {
+          "label": "B",
+          "text": "It supplies calcium that raises serum calcium and suppresses the gland"
+        },
+        {
+          "label": "C",
+          "text": "It converts 25-hydroxy vitamin D to calcitriol in the diseased kidney"
+        },
+        {
+          "label": "D",
+          "text": "It binds parathyroid calcium receptors to shut off hormone release"
+        },
+        {
+          "label": "E",
+          "text": "It binds dietary phosphate in the gut lumen so it passes out in the stool"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Phosphate binders such as sevelamer trap dietary phosphate in the intestine, correcting the hyperphosphatemia that drives secondary hyperparathyroidism.",
+        "whyCorrect": "Treatment of secondary hyperparathyroidism targets the factors that chronically stimulate PTH: hyperphosphatemia, hypocalcemia, and vitamin D deficiency. Taken with meals, binders bind dietary phosphate within the intestinal lumen, preventing absorption and promoting elimination in the stool. Sevelamer is a non-calcium-based binder, so unlike calcium acetate it lowers phosphate without adding to the patient's calcium load.",
+        "whyWrongByChoice": {
+          "A": "A dialysis patient cannot excrete a meaningful phosphate load in the urine; that failure is why phosphate accumulates in the first place.",
+          "B": "Supplying calcium describes calcium-based binders such as calcium acetate, which must be used cautiously; sevelamer contains no calcium.",
+          "C": "That conversion requires renal 1-alpha-hydroxylase and is supplied instead by giving calcitriol or another vitamin D receptor activator.",
+          "D": "Binding parathyroid calcium receptors describes the calcimimetic cinacalcet, which acts on the gland rather than in the gut."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "phosphate binders",
+        "sevelamer",
+        "secondary hyperparathyroidism"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-011",
+      "stem": "A 55-year-old woman with newly diagnosed primary hyperparathyroidism from a parathyroid adenoma undergoes a 24-hour urine collection. Which of the following patterns of urinary excretion is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased calcium and decreased phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Normal calcium and normal phosphate"
+        },
+        {
+          "label": "C",
+          "text": "Increased calcium and increased phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Increased calcium and decreased phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Decreased calcium and increased phosphate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In primary hyperparathyroidism, urinary calcium rises because of the high filtered calcium load, and urinary phosphate rises because PTH blocks phosphate reabsorption.",
+        "whyCorrect": "PTH increases renal calcium reabsorption, but the serum calcium in primary hyperparathyroidism is high enough that the filtered load overwhelms that effect, so 24-hour urinary calcium is increased. PTH simultaneously decreases phosphate reabsorption, so phosphate is dumped into the urine, which is why serum phosphate is low or low-normal. Both minerals therefore appear in excess in the urine.",
+        "whyWrongByChoice": {
+          "A": "Both minerals are being lost in excess, so neither excretion rate is reduced.",
+          "B": "Normal excretion of both would not fit a patient with frank hypercalcemia and autonomous PTH secretion.",
+          "D": "Phosphate excretion rises rather than falls; PTH-mediated phosphaturia is what lowers her serum phosphate.",
+          "E": "Urinary calcium is increased, not decreased, because of the elevated serum calcium being filtered."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "urinary calcium",
+        "phosphaturia",
+        "PTH physiology"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en18-012",
+      "stem": "A 34-year-old woman with a long history of malabsorption and minimal sun exposure reports diffuse bone pain. Serum creatinine is normal. Laboratory studies show a low serum calcium, a low serum 25-hydroxy vitamin D, and an elevated parathyroid hormone level. Which of the following best explains her elevated parathyroid hormone level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autonomous secretion by hypertrophied glands after years of dialysis"
+        },
+        {
+          "label": "B",
+          "text": "Excess pituitary stimulation of the parathyroid glands by a trophic hormone"
+        },
+        {
+          "label": "C",
+          "text": "Impaired phosphate filtration by a failing glomerulus raising serum phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Appropriate gland response to chronic hypocalcemia from vitamin D deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous hormone secretion by an adenoma in one parathyroid gland"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Secondary hyperparathyroidism is an appropriate PTH response to chronic hypocalcemia, and it does not require kidney disease.",
+        "whyCorrect": "In secondary hyperparathyroidism, a nonparathyroid disease lowers serum calcium and the glands appropriately increase PTH secretion, so the patient is hypocalcemic with a high PTH. Chronic kidney disease is the most common cause, but the lecture notes that secondary disease is occasionally seen without kidney disease when hypocalcemia comes from gut malabsorption or from vitamin D deficiency due to poor diet or lack of sun exposure. Her normal creatinine and low 25-hydroxy vitamin D fit that scenario.",
+        "whyWrongByChoice": {
+          "A": "Autonomous secretion from hypertrophied glands is tertiary hyperparathyroidism, seen essentially only in end-stage renal disease on dialysis.",
+          "B": "There is no excess stimulating hormone in secondary hyperparathyroidism; the parathyroid gland responds to serum calcium, not to a pituitary trophic hormone.",
+          "C": "Impaired glomerular phosphate filtration is the kidney-disease pathway, and her serum creatinine is normal.",
+          "E": "An autonomously secreting adenoma causes primary hyperparathyroidism, which presents with hypercalcemia rather than the low calcium seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary hyperparathyroidism",
+        "vitamin D deficiency",
+        "malabsorption"
+      ],
+      "topicId": "hyperparathyroidism",
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+    },
+    {
+      "id": "en19-001",
+      "stem": "A 47-year-old woman develops perioral tingling and painful hand cramps 18 hours after total thyroidectomy for papillary thyroid carcinoma. She is anxious and irritable. Tapping her cheek just in front of the ear produces a twitch of the facial muscles. Which of the following is the most likely cause of her symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Removal or injury of the parathyroid glands during surgery"
+        },
+        {
+          "label": "B",
+          "text": "Autoantibodies against the parathyroid glands"
+        },
+        {
+          "label": "C",
+          "text": "Inherited resistance of tissues to parathyroid hormone"
+        },
+        {
+          "label": "D",
+          "text": "Radioiodine-induced destruction of parathyroid tissue"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin D deficiency from poor dietary intake"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most common cause of hypoparathyroidism is incidental removal of or damage to the parathyroid glands during neck surgery.",
+        "whyCorrect": "Low PTH most frequently results from removal of the parathyroid glands during thyroid surgery or resection of another head and neck malignancy. The resulting acute hypocalcemia produces tetany, with paresthesias, cramps, and a positive Chvostek sign. The timing immediately after thyroidectomy makes surgical injury the clear explanation.",
+        "whyWrongByChoice": {
+          "B": "Autoimmune hypoparathyroidism is a hereditary polyglandular syndrome that develops over time, not within a day of an operation.",
+          "C": "Pseudohypoparathyroidism is a rare genetic defect in PTH receptors present since childhood and would not appear abruptly after surgery.",
+          "D": "Radioiodine is given for hyperthyroidism and only rarely causes hypoparathyroidism; this patient had surgery for carcinoma.",
+          "E": "Vitamin D deficiency can cause hypocalcemia, but it develops gradually and does not explain symptoms beginning the day after thyroidectomy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hypoparathyroidism",
+        "postoperative",
+        "hypocalcemia"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-002",
+      "stem": "A 62-year-old man with chronic alcohol overuse is brought in by his daughter for poor oral intake and progressive weakness. He is severely underweight. Laboratory studies show serum calcium 7.7 mg/dL (normal 8.4-10.2), low ionized calcium, elevated phosphate, low parathyroid hormone, and a low serum magnesium level. He has no tetany or airway symptoms. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Replace magnesium"
+        },
+        {
+          "label": "B",
+          "text": "Give intravenous calcium gluconate"
+        },
+        {
+          "label": "C",
+          "text": "Start a thiazide diuretic"
+        },
+        {
+          "label": "D",
+          "text": "Refer for parathyroidectomy"
+        },
+        {
+          "label": "E",
+          "text": "Begin high-dose oral phosphate binders"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypomagnesemia impairs PTH synthesis and release, and correcting the magnesium corrects the hypocalcemia.",
+        "whyCorrect": "Magnesium is required for the parathyroid glands to make and secrete PTH, so hypomagnesemia produces a transient hypoparathyroidism with low calcium and elevated phosphate. This is classically seen in malnourished patients and those with chronic alcohol overuse. Magnesium replacement corrects the underlying problem and the serum calcium normalizes with it.",
+        "whyWrongByChoice": {
+          "B": "Intravenous calcium is reserved for acute hypocalcemia with tetany or other urgent neuromuscular findings, which this patient does not have.",
+          "C": "Thiazides are an adjunct in chronic hypoparathyroidism, not the treatment for a reversible magnesium-driven cause.",
+          "D": "Removing the parathyroid glands would worsen a state that already has too little PTH.",
+          "E": "The elevated phosphate is a consequence of the low PTH and resolves as the magnesium and PTH are restored."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hypomagnesemia",
+        "management",
+        "alcohol overuse"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-003",
+      "stem": "A 55-year-old woman reports numbness around her mouth and muscle cramps two days after neck surgery. Inflating a blood pressure cuff above her systolic pressure for 3 minutes produces a painful spasm of her hand and wrist. Which of the following laboratory patterns is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low calcium, high phosphate, low PTH"
+        },
+        {
+          "label": "B",
+          "text": "Low calcium, low phosphate, high PTH"
+        },
+        {
+          "label": "C",
+          "text": "Low calcium, high phosphate, high PTH"
+        },
+        {
+          "label": "D",
+          "text": "High calcium, low phosphate, high PTH"
+        },
+        {
+          "label": "E",
+          "text": "High calcium, high phosphate, low PTH"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypoparathyroidism produces hypocalcemia, mild hyperphosphatemia, and a low serum PTH.",
+        "whyCorrect": "Carpopedal spasm elicited by a blood pressure cuff is the Trousseau sign, which indicates hypocalcemia. After neck surgery the cause is damaged or removed parathyroid glands, so the PTH is low. Hypoparathyroidism also usually causes a mild elevation in serum phosphate.",
+        "whyWrongByChoice": {
+          "B": "A low phosphate with a high PTH is the opposite of the hypoparathyroid pattern; hypophosphatemia argues against this diagnosis.",
+          "C": "Hypocalcemia and hyperphosphatemia with a high PTH describes pseudohypoparathyroidism, a genetic receptor defect rather than surgical gland loss.",
+          "D": "Hypercalcemia with a high PTH describes hyperparathyroidism, which would not produce tetany.",
+          "E": "Hypercalcemia is inconsistent with the tetany and positive Trousseau sign described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "laboratory findings",
+        "Trousseau sign",
+        "hypoparathyroidism"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-004",
+      "stem": "A 9-year-old boy is evaluated for muscle cramps and short stature. His fourth and fifth metacarpals are noticeably short. Laboratory studies show a low serum calcium, an elevated serum phosphate, and a markedly elevated parathyroid hormone level. Serum magnesium and 25-OH vitamin D are normal. Which of the following best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tissue resistance to parathyroid hormone from a receptor defect"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of the parathyroid glands"
+        },
+        {
+          "label": "C",
+          "text": "Impaired PTH release from magnesium deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Surgical loss of parathyroid tissue during childhood"
+        },
+        {
+          "label": "E",
+          "text": "Autonomous PTH secretion from a parathyroid adenoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pseudohypoparathyroidism is PTH resistance: hypocalcemia and hyperphosphatemia despite a high PTH level.",
+        "whyCorrect": "Pseudohypoparathyroidism is a rare genetic defect in PTH receptors that leaves tissues unable to respond to the hormone. It reproduces the biochemical picture of hypoparathyroidism, including hypocalcemia and hyperphosphatemia, but the PTH level is high rather than low. Affected children may be shorter and have shortened bones in the hands and feet.",
+        "whyWrongByChoice": {
+          "B": "Autoimmune hypoparathyroidism destroys the glands, so the PTH level would be low, not markedly elevated.",
+          "C": "Magnesium deficiency lowers PTH, and his magnesium level is normal.",
+          "D": "Loss of parathyroid tissue removes the source of the hormone and produces a low PTH.",
+          "E": "A hormone-secreting parathyroid adenoma raises serum calcium rather than lowering it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pseudohypoparathyroidism",
+        "PTH resistance",
+        "pediatrics"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-005",
+      "stem": "A 58-year-old man with nephrotic syndrome is found on routine testing to have a serum calcium of 7.6 mg/dL (normal 8.4-10.2) and a serum albumin of 1.9 g/dL. He is asymptomatic, and Chvostek and Trousseau signs are negative. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Measure the ionized (free) calcium level"
+        },
+        {
+          "label": "B",
+          "text": "Administer intravenous calcium gluconate"
+        },
+        {
+          "label": "C",
+          "text": "Start oral calcium carbonate and calcitriol"
+        },
+        {
+          "label": "D",
+          "text": "Obtain a head CT to look for basal ganglia calcifications"
+        },
+        {
+          "label": "E",
+          "text": "Begin a thiazide diuretic to retain calcium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because albumin binds calcium, a low total calcium in a hypoalbuminemic patient must be confirmed with an ionized calcium.",
+        "whyCorrect": "Patients with low serum albumin, as in nephrotic syndrome or liver failure, should have a free (ionized) calcium checked to confirm that the low total calcium reflects true hypocalcemia. The ionized calcium is always low in true hypocalcemia. Confirming this before further workup or treatment prevents treating an artifact of low protein binding.",
+        "whyWrongByChoice": {
+          "B": "Intravenous calcium is for acute symptomatic hypocalcemia with tetany, and this patient has no neuromuscular findings.",
+          "C": "Oral calcium and calcitriol treat confirmed chronic hypoparathyroidism, which has not been established here.",
+          "D": "Basal ganglia calcification is a late complication of chronic hypocalcemia, not a first diagnostic step.",
+          "E": "A thiazide is an adjunct in established hypoparathyroidism, not a test to clarify an ambiguous calcium value."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ionized calcium",
+        "hypoalbuminemia",
+        "diagnosis"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-006",
+      "stem": "A 44-year-old woman has had hypoparathyroidism since a thyroidectomy 20 years ago and has been poorly adherent to therapy. She now has a resting tremor, rigidity, and intermittent involuntary flinging movements of her left arm. Which of the following best explains her new neurologic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcifications in the basal ganglia"
+        },
+        {
+          "label": "B",
+          "text": "Cataract formation in the ocular lens"
+        },
+        {
+          "label": "C",
+          "text": "Tetany of the laryngeal musculature"
+        },
+        {
+          "label": "D",
+          "text": "Nephrogenic diabetes insipidus from hypercalcemia"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition within peripheral nerves"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic hypoparathyroidism can cause movement disorders through calcification of the basal ganglia.",
+        "whyCorrect": "Chronic hypocalcemia and low PTH lead to calcium deposition in the basal ganglia. This produces movement disorders such as parkinsonism and hemiballismus, exactly the tremor, rigidity, and flinging limb movements described. These are features of longstanding rather than acute disease.",
+        "whyWrongByChoice": {
+          "B": "Cataracts are the other classic chronic complication, but they cause decreased vision rather than a movement disorder.",
+          "C": "Laryngospasm is an acute tetanic manifestation causing wheezing, not chronic involuntary movements.",
+          "D": "Polyuria from hypercalcemia occurs in hyperparathyroidism; this patient has too little PTH, not too much.",
+          "E": "Amyloid deposition is not a described consequence of hypoparathyroidism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "chronic hypoparathyroidism",
+        "basal ganglia",
+        "complications"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-007",
+      "stem": "A 39-year-old woman has chronic hypoparathyroidism after a thyroidectomy performed 3 years ago. She has mild paresthesias but no tetany. Which of the following is the most appropriate first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral calcium supplementation plus calcitriol"
+        },
+        {
+          "label": "B",
+          "text": "A thiazide diuretic used alone"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous calcium given at scheduled intervals"
+        },
+        {
+          "label": "D",
+          "text": "Oral magnesium supplementation alone"
+        },
+        {
+          "label": "E",
+          "text": "Surgical exploration of the parathyroid beds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic hypoparathyroidism is treated first line with calcium supplementation and active vitamin D.",
+        "whyCorrect": "First-line treatment is oral calcium as calcium carbonate or calcium citrate. Vitamin D in its active form, calcitriol, is added because it helps with calcium absorption. Together they correct the hypocalcemia that results from the low PTH state.",
+        "whyWrongByChoice": {
+          "B": "Thiazides may be used in conjunction with calcium and vitamin D but are not adequate treatment on their own.",
+          "C": "Intravenous calcium is reserved for acute hypocalcemia with urgent neuromuscular findings, not routine chronic therapy.",
+          "D": "Magnesium is the answer only when hypomagnesemia is the cause; this patient's cause is surgical gland loss.",
+          "E": "Re-operating on the neck cannot restore parathyroid function and risks further injury."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "calcitriol",
+        "chronic hypoparathyroidism"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-008",
+      "stem": "A 45-year-old woman with chronic hypoparathyroidism remains mildly hypocalcemic despite oral calcium carbonate and calcitriol. Her physician adds a thiazide diuretic. Which of the following best explains how this drug helps her calcium level?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It decreases urinary excretion of calcium and enhances its reabsorption"
+        },
+        {
+          "label": "B",
+          "text": "It increases intestinal absorption of dietary calcium"
+        },
+        {
+          "label": "C",
+          "text": "It stimulates the parathyroid glands to secrete more PTH"
+        },
+        {
+          "label": "D",
+          "text": "It mobilizes calcium stores out of the skeleton"
+        },
+        {
+          "label": "E",
+          "text": "It increases renal excretion of phosphate to free bound calcium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thiazide diuretics help in hypoparathyroidism by reducing renal calcium losses.",
+        "whyCorrect": "Thiazides decrease urinary excretion of calcium and enhance its reabsorption, so more of the ingested calcium is retained. This makes them a useful adjunct in the treatment of hypoparathyroidism. They supplement, rather than replace, calcium and active vitamin D.",
+        "whyWrongByChoice": {
+          "B": "Improving intestinal absorption of calcium is the role of calcitriol, the active form of vitamin D.",
+          "C": "Thiazides do not stimulate PTH secretion; in surgical hypoparathyroidism there is little or no gland left to stimulate.",
+          "D": "Mobilizing skeletal calcium is not the described mechanism of thiazide benefit in this setting.",
+          "E": "Thiazides are not used here to manipulate phosphate excretion; the mild hyperphosphatemia is a consequence of low PTH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "thiazide",
+        "pharmacology",
+        "treatment"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-009",
+      "stem": "A 22-year-old woman has hypocalcemia with a low PTH level, and she also carries diagnoses of primary adrenal insufficiency, autoimmune thyroid disease, and type 1 diabetes mellitus. There is a family history of similar multiglandular disease. A mutation in which of the following genes best accounts for her presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AIRE, the autoimmune regulator gene"
+        },
+        {
+          "label": "B",
+          "text": "MEN1, encoding menin"
+        },
+        {
+          "label": "C",
+          "text": "RET proto-oncogene"
+        },
+        {
+          "label": "D",
+          "text": "CDKN1B, encoding p27Kip1"
+        },
+        {
+          "label": "E",
+          "text": "CASR, the calcium-sensing receptor gene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Autoimmune hypoparathyroidism is part of a hereditary polyglandular deficiency syndrome caused by AIRE mutations.",
+        "whyCorrect": "Autoimmune hypoparathyroidism arises from autoantibodies directed against multiple endocrine organs, including the parathyroid, thyroid, adrenals, and pancreas. This hereditary polyglandular deficiency syndrome is caused by mutations in the autoimmune regulator (AIRE) gene. The combination of hypoparathyroidism with adrenal, thyroid, and pancreatic autoimmunity is the giveaway.",
+        "whyWrongByChoice": {
+          "B": "MEN1 causes hormone-secreting tumors, including parathyroid tumors with hypercalcemia, not autoimmune glandular destruction.",
+          "C": "RET mutations drive medullary thyroid carcinoma and pheochromocytoma rather than polyglandular autoimmunity.",
+          "D": "CDKN1B underlies a tumor-predisposition syndrome, not autoantibody-mediated endocrine failure.",
+          "E": "A calcium-sensing receptor defect is not the described mechanism of this hereditary polyglandular syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "autoimmune hypoparathyroidism",
+        "AIRE",
+        "polyglandular"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-010",
+      "stem": "Two patients each have a serum calcium of 7.5 mg/dL. The first developed the abnormality over 12 hours after a thyroidectomy and has florid tetany; the second has had the same value for several years and reports only mild fatigue. Which of the following best explains the difference in symptom severity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A rapid fall in calcium gives the body no time to acclimate"
+        },
+        {
+          "label": "B",
+          "text": "Serum phosphate rises only when calcium falls slowly"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hypocalcemia is accompanied by a higher PTH level"
+        },
+        {
+          "label": "D",
+          "text": "Albumin binds a larger calcium fraction after surgery"
+        },
+        {
+          "label": "E",
+          "text": "Tetany requires an accompanying magnesium deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Acute hypocalcemia causes symptoms at smaller reductions in calcium than chronic hypocalcemia does.",
+        "whyCorrect": "The level of symptoms depends on both the degree and the duration of the hypocalcemia. Acute hypocalcemia may cause symptoms with smaller reductions in serum calcium than chronic hypocalcemia because the body is not given time to acclimate. This is why postoperative hypocalcemia presents dramatically with tetany and must be managed urgently.",
+        "whyWrongByChoice": {
+          "B": "Mild hyperphosphatemia accompanies hypoparathyroidism regardless of how quickly the calcium fell.",
+          "C": "Both patients have hypoparathyroidism with a low PTH; chronicity does not raise the PTH level.",
+          "D": "Albumin binding is not altered by the speed of the calcium decline and does not explain the tetany.",
+          "E": "Tetany results from the hypocalcemia itself; magnesium deficiency is one possible cause of that hypocalcemia, not a requirement for symptoms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "acute vs chronic",
+        "tetany",
+        "pathophysiology"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-011",
+      "stem": "A 58-year-old man with hypoparathyroidism of many years' duration reports progressively blurred vision. Which of the following ocular findings is most likely on examination?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opacification of the lens"
+        },
+        {
+          "label": "B",
+          "text": "Retinal detachment"
+        },
+        {
+          "label": "C",
+          "text": "Optic disc pallor"
+        },
+        {
+          "label": "D",
+          "text": "Corneal ulceration"
+        },
+        {
+          "label": "E",
+          "text": "Increased intraocular pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Longstanding hypoparathyroidism causes cataracts, a disease of the lens, not of the retina.",
+        "whyCorrect": "Chronic hypoparathyroidism can cause decreased vision from cataracts. A cataract is an opacity of the ocular lens, so lens clouding is the expected examination finding. This sits alongside basal ganglia calcification as a manifestation of longstanding hypocalcemia.",
+        "whyWrongByChoice": {
+          "B": "Retinal disease is not a feature of hypoparathyroidism; the lesion is at the lens.",
+          "C": "Optic nerve pallor is not among the described ocular complications of chronic hypocalcemia.",
+          "D": "Corneal ulceration is not a manifestation of low PTH or chronic hypocalcemia.",
+          "E": "Elevated intraocular pressure is not a described consequence of hypoparathyroidism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cataracts",
+        "chronic complications",
+        "hypoparathyroidism"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    },
+    {
+      "id": "en19-012",
+      "stem": "A 36-year-old woman is confirmed to have true hypocalcemia on an ionized calcium measurement. She has never had neck surgery or irradiation. Which of the following tests will best establish that hypoparathyroidism, rather than another disorder, is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum parathyroid hormone level"
+        },
+        {
+          "label": "B",
+          "text": "Serum 25-OH vitamin D level"
+        },
+        {
+          "label": "C",
+          "text": "Serum magnesium level"
+        },
+        {
+          "label": "D",
+          "text": "Serum albumin level"
+        },
+        {
+          "label": "E",
+          "text": "Serum phosphate level"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Documenting a low serum PTH is what establishes hypoparathyroidism as the cause of confirmed hypocalcemia.",
+        "whyCorrect": "Once hypocalcemia is confirmed, the further workup is aimed at distinguishing hypoparathyroidism from other causes. A serum PTH level that is low documents that the parathyroid axis itself is the problem. The other tests in the panel are aimed at alternative explanations or at supporting evidence.",
+        "whyWrongByChoice": {
+          "B": "A 25-OH vitamin D level is drawn because vitamin D deficiency is a different cause of hypocalcemia, not to confirm low PTH.",
+          "C": "Magnesium is checked because hypomagnesemia causes hypocalcemia; it identifies a cause of low PTH rather than documenting it.",
+          "D": "Albumin is used earlier, to determine whether a low total calcium reflects true hypocalcemia, which is already established here.",
+          "E": "Phosphate is usually mildly elevated in hypoparathyroidism, but it is supporting evidence rather than the defining test."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "PTH",
+        "workup"
+      ],
+      "topicId": "hypoparathyroidism",
+      "topicName": "Hypoparathyroidism"
+    }
+  ]
+}
