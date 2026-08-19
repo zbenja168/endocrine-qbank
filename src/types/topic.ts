@@ -9,6 +9,10 @@ export interface Category {
   id: string;
   name: string;
   topics: Topic[];
+  /** Teaching week this category belongs to; the picker groups by it. */
+  week?: number;
+  weekName?: string;
+  weekSubtitle?: string;
 }
 
 export interface TopicsIndex {

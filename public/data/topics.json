@@ -40,7 +40,10 @@
           "sourceFile": "Endocrine Brick 6",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Foundations, Anatomy & the Pituitary"
     },
     {
       "id": "pituitary-disorders",
@@ -64,7 +67,10 @@
           "sourceFile": "Endocrine Brick 9",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": "Foundations, Anatomy & the Pituitary"
     },
     {
       "id": "thyroid-physiology-dysfunction",
@@ -88,7 +94,10 @@
           "sourceFile": "Endocrine Brick 12",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Thyroid, Parathyroid & Bone"
     },
     {
       "id": "thyroid-neoplasia-men",
@@ -118,7 +127,10 @@
           "sourceFile": "Endocrine Brick 16",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Thyroid, Parathyroid & Bone"
     },
     {
       "id": "parathyroid-calcium-bone",
@@ -142,7 +154,10 @@
           "sourceFile": "Endocrine Brick 19",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": "Thyroid, Parathyroid & Bone"
     },
     {
       "id": "adrenal-cortex-medulla",
@@ -166,7 +181,10 @@
           "sourceFile": "Endocrine Brick 22",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Adrenal, Pancreas & Diabetes"
     },
     {
       "id": "endocrine-pancreas-diabetes",
@@ -202,7 +220,10 @@
           "sourceFile": "Endocrine Brick 27",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Adrenal, Pancreas & Diabetes"
     },
     {
       "id": "adrenal-masses-diabetes-emergencies",
@@ -232,7 +253,10 @@
           "sourceFile": "Endocrine Brick 31",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": "Adrenal, Pancreas & Diabetes"
     }
   ],
   "totalQuestions": 372
