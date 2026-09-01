@@ -3006,7 +3006,7 @@
         },
         {
           "label": "C",
-          "text": "Growth hormone is released only during REM sleep, so daytime levels are low"
+          "text": "Growth hormone is secreted in brief pulses, so a level drawn between pulses is low even in a normal child"
         },
         {
           "label": "D",
@@ -3019,8 +3019,8 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "GH secretion is pulsatile and sleep-dependent, so a random daytime level is uninformative.",
-        "whyCorrect": "Growth hormone secretion is not continuous. Over a 24-hour period it is released during periods of REM sleep, so a sample drawn while a child is awake in clinic can be low even in a completely normal child. This is why the growth hormone axis is judged by IGF-1 and provocative testing rather than by a single random level.",
+        "summary": "GH secretion is pulsatile, so a random level drawn between pulses is uninformative.",
+        "whyCorrect": "Growth hormone secretion is not continuous but pulsatile: brief bursts occur throughout the day and night, with the largest pulses during slow-wave sleep shortly after sleep onset. Between pulses the circulating level is often near-undetectable, so a sample drawn in clinic can be low in a completely normal child. This is why the growth hormone axis is judged by IGF-1 and provocative testing rather than by a single random level.",
         "whyWrongByChoice": {
           "A": "Carrier-protein binding is not why a random GH level is uninterpretable; the timing of secretion is.",
           "B": "GH secretion is explicitly pulsatile rather than continuous, which is the basis of the problem here.",
