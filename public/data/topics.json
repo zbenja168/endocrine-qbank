@@ -257,7 +257,94 @@
       "week": 3,
       "weekName": "Week 3",
       "weekSubtitle": "Adrenal, Pancreas & Diabetes"
+    },
+    {
+      "id": "urinary-tract-cystic-disease",
+      "name": "Urinary Tract Structure & Cystic Disease",
+      "topics": [
+        {
+          "id": "histology-of-the-ureters-bladder-and-urethra",
+          "name": "Histology of the Ureters, Bladder, and Urethra",
+          "sourceFile": "Endocrine Brick 32",
+          "questionCount": 12
+        },
+        {
+          "id": "congenital-disorders-of-the-lower-urinary-tract",
+          "name": "Congenital Disorders of the Lower Urinary Tract",
+          "sourceFile": "Endocrine Brick 33",
+          "questionCount": 12
+        },
+        {
+          "id": "polycystic-kidney-disease",
+          "name": "Polycystic Kidney Disease",
+          "sourceFile": "Endocrine Brick 34",
+          "questionCount": 12
+        },
+        {
+          "id": "medullary-sponge-kidney",
+          "name": "Medullary Sponge Kidney",
+          "sourceFile": "Endocrine Brick 35",
+          "questionCount": 12
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Kidney, Bladder & Urinary Tract"
+    },
+    {
+      "id": "renal-bladder-tumors",
+      "name": "Renal & Bladder Tumors",
+      "topics": [
+        {
+          "id": "wilms-tumor",
+          "name": "Wilms Tumor",
+          "sourceFile": "Endocrine Brick 36",
+          "questionCount": 12
+        },
+        {
+          "id": "renal-cell-carcinoma",
+          "name": "Renal Cell Carcinoma",
+          "sourceFile": "Endocrine Brick 37",
+          "questionCount": 12
+        },
+        {
+          "id": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+          "name": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)",
+          "sourceFile": "Endocrine Brick 38",
+          "questionCount": 12
+        },
+        {
+          "id": "bladder-cancer",
+          "name": "Bladder Cancer",
+          "sourceFile": "Endocrine Brick 39",
+          "questionCount": 12
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Kidney, Bladder & Urinary Tract"
+    },
+    {
+      "id": "micturition-bladder-dysfunction",
+      "name": "Micturition & Bladder Dysfunction",
+      "topics": [
+        {
+          "id": "micturition",
+          "name": "Micturition",
+          "sourceFile": "Endocrine Brick 40",
+          "questionCount": 12
+        },
+        {
+          "id": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+          "name": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder",
+          "sourceFile": "Endocrine Brick 41",
+          "questionCount": 12
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": "Kidney, Bladder & Urinary Tract"
     }
   ],
-  "totalQuestions": 372
+  "totalQuestions": 492
 }

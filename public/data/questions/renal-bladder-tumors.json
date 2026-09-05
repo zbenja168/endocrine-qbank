@@ -1,0 +1,2209 @@
+{
+  "categoryId": "renal-bladder-tumors",
+  "categoryName": "Renal & Bladder Tumors",
+  "questions": [
+    {
+      "id": "en36-001",
+      "stem": "A 3-year-old boy is brought to the pediatrician after his mother felt a firm lump in his abdomen while giving him a bath. He has no pain, fever, or urinary complaints, is meeting all developmental milestones, and appears well. Examination shows a firm, non-tender mass in the left side of the abdomen that does not cross the midline. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydronephrosis"
+        },
+        {
+          "label": "B",
+          "text": "Neuroblastoma"
+        },
+        {
+          "label": "C",
+          "text": "Wilms tumor"
+        },
+        {
+          "label": "D",
+          "text": "Polycystic kidney disease"
+        },
+        {
+          "label": "E",
+          "text": "Pyelonephritis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A painless, palpable abdominal mass in an otherwise healthy toddler is the classic presentation of Wilms tumor.",
+        "whyCorrect": "Wilms tumor (nephroblastoma) is the most common renal malignancy of early childhood, with peak incidence between ages 2 and 5 years. The most common presenting sign is a painless, palpable mass, often first noticed by a parent while bathing the child or found on routine examination. Tumors are usually unilateral, well-circumscribed, and do not cross the midline.",
+        "whyWrongByChoice": {
+          "A": "Hydronephrosis reflects urinary obstruction rather than a firm, well-circumscribed unilateral renal mass in an otherwise well toddler.",
+          "B": "Neuroblastoma is not the most common renal malignancy of early childhood; a firm unilateral flank mass that does not cross the midline in a 2- to 5-year-old is classic for Wilms tumor.",
+          "D": "Polycystic kidney disease produces bilateral cystic kidneys, not a solitary firm unilateral mass in a well-appearing child.",
+          "E": "Pyelonephritis causes fever and an ill-appearing child, not an asymptomatic painless mass."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "presentation",
+        "pediatrics"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-002",
+      "stem": "A 4-year-old girl undergoes resection of a large renal mass. Histology shows a triphasic pattern. One component consists of undifferentiated small round blue cells that are rapidly proliferating and resemble the embryonic renal tissue from which the tumor arose. Which of the following components does this describe?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epithelial"
+        },
+        {
+          "label": "B",
+          "text": "Stromal"
+        },
+        {
+          "label": "C",
+          "text": "Blastemal"
+        },
+        {
+          "label": "D",
+          "text": "Anaplastic"
+        },
+        {
+          "label": "E",
+          "text": "Endothelial"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The blastemal component of Wilms tumor is made of undifferentiated small round blue cells and is the tumor's most primitive, most rapidly proliferating part.",
+        "whyCorrect": "Wilms tumor classically shows a triphasic pattern of blastemal, epithelial, and stromal cell types. The blastemal cells are undifferentiated small round blue cells representing the most primitive and rapidly proliferating part of the tumor, often resembling the embryonic renal tissue from which the tumor originates.",
+        "whyWrongByChoice": {
+          "A": "The epithelial component consists of primitive epithelial cells forming tubules, rosettes, and nonfunctional glomeruli-like structures, not sheets of small round blue cells.",
+          "B": "The stromal component is supportive connective tissue that is loose and myxoid or dense and fibrous.",
+          "D": "Anaplastic cells are large with pleomorphic nuclei and define unfavorable histology; they are not the small round blue cell population.",
+          "E": "Endothelial tissue is not one of the three cell types of the classic triphasic pattern."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "histopathology",
+        "blastemal"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-003",
+      "stem": "A 5-year-old boy undergoes nephrectomy for Wilms tumor. The pathology report notes large cells with enlarged, pleomorphic, hyperchromatic nuclei and atypical multipolar mitotic figures. Which of the following best describes the significance of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is present in the majority of Wilms tumors"
+        },
+        {
+          "label": "B",
+          "text": "It classifies the tumor as unfavorable histology"
+        },
+        {
+          "label": "C",
+          "text": "It confirms the tumor has favorable histology"
+        },
+        {
+          "label": "D",
+          "text": "It excludes metastatic spread of the tumor"
+        },
+        {
+          "label": "E",
+          "text": "It represents the stromal component of the tumor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anaplastic cells define unfavorable histology in Wilms tumor and predict a worse prognosis.",
+        "whyCorrect": "Prognosis in Wilms tumor is assessed by histology. Tumors containing anaplastic cells, which are large cells with pleomorphic, hyperchromatic nuclei and atypical multipolar mitoses, have unfavorable histology. Four-year survival is 55% to 85% with anaplastic histology versus 85% to 100% with favorable histology.",
+        "whyWrongByChoice": {
+          "A": "Anaplasia is found in only about 5% of patients, not the majority.",
+          "C": "Favorable histology is defined by the absence of anaplastic cells, so this finding indicates the opposite.",
+          "D": "Anaplasia is a histologic prognostic marker; it says nothing about the absence of metastasis, which is determined by staging.",
+          "E": "The stromal component is supportive connective tissue, not large pleomorphic cells with multipolar mitoses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "anaplasia",
+        "prognosis"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-004",
+      "stem": "A 2-year-old boy is evaluated for a left-sided abdominal mass. He was born without irises, has cryptorchidism, and has been diagnosed with intellectual disability. Ultrasound confirms a renal tumor. Which of the following genetic abnormalities most likely underlies this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Germline deletion of WT1 at 11p13"
+        },
+        {
+          "label": "B",
+          "text": "Germline missense mutation in WT1"
+        },
+        {
+          "label": "C",
+          "text": "Epimutations of the imprinted 11p15.5 region"
+        },
+        {
+          "label": "D",
+          "text": "Germline deletion of CDKN1C at 11p13"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy of chromosome 11"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "WAGR syndrome (Wilms tumor, aniridia, genitourinary anomalies, intellectual disability) is caused by a germline deletion of the WT1 gene at 11p13.",
+        "whyCorrect": "This child has Wilms tumor, aniridia (absent irises), a genitourinary anomaly (cryptorchidism), and intellectual disability, the four features of WAGR syndrome. WAGR results from a germline deletion of the WT1 tumor suppressor gene located at 11p13.",
+        "whyWrongByChoice": {
+          "B": "A germline missense mutation in WT1 causes Denys-Drash syndrome, which combines chronic kidney disease and disorders of sexual development with Wilms tumor, without aniridia.",
+          "C": "Epimutations at imprinted 11p15.5 cause Beckwith-Wiedemann syndrome, an overgrowth syndrome with organomegaly, macroglossia, hemihypertrophy, and omphalocele.",
+          "D": "CDKN1C is located in the 11p15.5 imprinted region implicated in Beckwith-Wiedemann syndrome, not at 11p13, and WAGR is defined by loss of WT1.",
+          "E": "WAGR involves deletion of genetic material at 11p13, not an extra copy of chromosome 11."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "wagr",
+        "genetics"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-005",
+      "stem": "A 3-year-old child with chronic kidney disease and ambiguous external genitalia is found to have a mass arising from the right kidney. The irises are normal and development is age-appropriate. Which of the following genetic lesions is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Germline missense mutation in the WT1 gene"
+        },
+        {
+          "label": "B",
+          "text": "Germline deletion of the WT1 gene at 11p13"
+        },
+        {
+          "label": "C",
+          "text": "Epimutations at the imprinted 11p15.5 region"
+        },
+        {
+          "label": "D",
+          "text": "Sporadic somatic mutation with no germline component"
+        },
+        {
+          "label": "E",
+          "text": "Germline mutation of the IGF2 gene at 11p13"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Denys-Drash syndrome combines chronic kidney disease, disorders of sexual development, and Wilms tumor, and is caused by a germline missense mutation in WT1.",
+        "whyCorrect": "The triad of chronic kidney disease, abnormal external genitalia (disorder of sexual development), and Wilms tumor defines Denys-Drash syndrome. Its cause is a germline missense mutation in the WT1 gene, distinguishing it mechanistically from the WT1 deletion of WAGR syndrome.",
+        "whyWrongByChoice": {
+          "B": "Germline deletion of WT1 at 11p13 causes WAGR syndrome, which includes aniridia and intellectual disability; this child has normal irises and normal development.",
+          "C": "11p15.5 epimutations cause Beckwith-Wiedemann syndrome, characterized by overgrowth features such as macroglossia, organomegaly, hemihypertrophy, and omphalocele.",
+          "D": "A syndromic presentation with chronic kidney disease and genital abnormalities indicates a germline lesion rather than a purely sporadic tumor.",
+          "E": "IGF2 lies within the imprinted 11p15.5 region linked to Beckwith-Wiedemann syndrome, not at 11p13, and is not the cause of this triad."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "denys-drash",
+        "genetics"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-006",
+      "stem": "A newborn girl has macroglossia, an omphalocele, hemihypertrophy, and organomegaly. Genetic evaluation confirms an imprinting disorder involving the 11p15.5 region. Which of the following surveillance strategies is recommended to detect Wilms tumor in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal ultrasound every 3 months until age 7"
+        },
+        {
+          "label": "B",
+          "text": "Abdominal ultrasound every 3 months until age 5"
+        },
+        {
+          "label": "C",
+          "text": "Abdominal CT scan every 6 months until age 7"
+        },
+        {
+          "label": "D",
+          "text": "Annual abdominal MRI until age 10"
+        },
+        {
+          "label": "E",
+          "text": "No routine imaging surveillance is required"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Children with Beckwith-Wiedemann syndrome should have serial abdominal ultrasound every 3 months until age 7 to screen for Wilms tumor.",
+        "whyCorrect": "This infant has Beckwith-Wiedemann syndrome, an overgrowth imprinting disorder of 11p15.5 that predisposes to Wilms tumor. Recommended surveillance is serial abdominal ultrasound every 3 months until age 7 for Beckwith-Wiedemann syndrome, allowing early tumor detection in this high-risk group.",
+        "whyWrongByChoice": {
+          "B": "Screening every 3 months until age 5 is the protocol for WAGR and other WT1-related syndromes; Beckwith-Wiedemann screening continues until age 7.",
+          "C": "Surveillance uses ultrasound, which avoids radiation exposure; serial CT scanning is not the recommended screening tool.",
+          "D": "Annual imaging is too infrequent; the recommendation is ultrasound every 3 months.",
+          "E": "Beckwith-Wiedemann syndrome is a high-risk condition for Wilms tumor, so surveillance is specifically recommended."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "beckwith-wiedemann",
+        "screening"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-007",
+      "stem": "A 4-year-old boy with newly diagnosed Wilms tumor undergoes staging studies. His parents are told that about 10% of patients have metastatic disease at diagnosis. Which of the following sites is most commonly involved by distant metastases?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Bone"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Lungs"
+        },
+        {
+          "label": "E",
+          "text": "Distant lymph nodes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When Wilms tumor metastasizes, the metastases are usually pulmonary.",
+        "whyCorrect": "Metastasis is present in around 10% of Wilms tumor cases at diagnosis, and these are usually pulmonary metastases. Hepatic involvement is rare, and nodal spread stays regional.",
+        "whyWrongByChoice": {
+          "A": "The brain is not described as a usual site of Wilms tumor metastasis; pulmonary spread predominates.",
+          "B": "Bone is not the typical site of spread for Wilms tumor.",
+          "C": "Hepatic involvement is rare, though when present it can cause jaundice or elevated liver function tests.",
+          "E": "Wilms tumor sometimes spreads to abdominal and pelvic lymph nodes but not to more distant nodes."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "metastasis",
+        "complications"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-008",
+      "stem": "During a well-child visit, a pediatrician palpates a firm, non-tender mass in the right flank of a 3-year-old girl. Which of the following is the most appropriate initial imaging study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plain abdominal radiograph"
+        },
+        {
+          "label": "B",
+          "text": "Contrast-enhanced CT of the abdomen"
+        },
+        {
+          "label": "C",
+          "text": "Renal ultrasound"
+        },
+        {
+          "label": "D",
+          "text": "MRI of the abdomen"
+        },
+        {
+          "label": "E",
+          "text": "Whole-body PET scan"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Renal ultrasound is the first imaging study for a suspected Wilms tumor because it avoids radiation exposure.",
+        "whyCorrect": "When a mass is felt, renal ultrasound is used first to diagnose the tumor since it does not expose the child to radiation. Only after a tumor is confirmed are CT scanning or MRI used to evaluate the extent of spread or metastasis.",
+        "whyWrongByChoice": {
+          "A": "A plain radiograph is not the study used to confirm a renal mass in a child.",
+          "B": "CT is reserved for evaluating extent of spread after ultrasound confirms a tumor, and it exposes the child to radiation.",
+          "D": "MRI, like CT, is used after confirmation to assess spread rather than as the initial diagnostic study.",
+          "E": "PET scanning is not part of the initial assessment of a suspected Wilms tumor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "diagnosis",
+        "imaging"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-009",
+      "stem": "A 2-year-old girl has a renal mass confirmed on ultrasound, and CT shows tumor confined to the left kidney. The oncology team schedules surgical resection without first obtaining a percutaneous biopsy of the mass. Which of the following best explains this decision?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biopsy could seed tumor cells elsewhere in the abdomen"
+        },
+        {
+          "label": "B",
+          "text": "Biopsy findings would never change the treatment plan"
+        },
+        {
+          "label": "C",
+          "text": "The tumor's histologic subtype is established by ultrasound"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous biopsy exposes the child to ionizing radiation"
+        },
+        {
+          "label": "E",
+          "text": "Renal tumors in young children are too small to sample"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Biopsy of Wilms tumor is rarely done because it risks seeding tumor elsewhere in the abdomen.",
+        "whyCorrect": "A biopsy is rarely performed in suspected Wilms tumor because it introduces the possibility of seeding the tumor elsewhere in the abdomen. Diagnosis relies on imaging, and staging is surgical-pathologic, determined at resection.",
+        "whyWrongByChoice": {
+          "B": "Histology matters greatly for treatment and prognosis, but it is obtained from the resected specimen rather than a preoperative needle biopsy.",
+          "C": "Ultrasound confirms the presence of a mass; it cannot determine histology, which requires tissue examination after resection.",
+          "D": "Radiation exposure is the reason ultrasound is chosen over CT for initial imaging; it is not the rationale for avoiding biopsy.",
+          "E": "Wilms tumors are usually large and well-circumscribed; size is not the barrier to biopsy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "biopsy",
+        "diagnosis"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-010",
+      "stem": "A 4-year-old boy is diagnosed with a 6-cm Wilms tumor confined to the left kidney. Staging studies show no lymph node involvement and no distant metastases. Which of the following is the most appropriate first step in treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neoadjuvant combination chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Radiation therapy to the tumor bed"
+        },
+        {
+          "label": "C",
+          "text": "Surgical resection of the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Observation with serial ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "WT1-targeted T-cell immunotherapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surgery is the first treatment for Wilms tumor in all patients except those with distant metastases.",
+        "whyCorrect": "Wilms tumor is managed according to its surgical-pathologic stage. Surgery is done first in all patients except those with distant metastases, and it is most beneficial in eradicating disease at lower stages. With favorable histology, surgery may provide a complete cure, with chemotherapy reserved for relapse.",
+        "whyWrongByChoice": {
+          "A": "Chemotherapy is more likely to be necessary at higher stages and, when needed, radiation and chemotherapy follow surgery; upfront chemotherapy is not the first step for kidney-confined disease.",
+          "B": "Radiation, if necessary, is used after surgery rather than as initial therapy.",
+          "D": "Wilms tumor is an aggressive malignancy; observation is not an appropriate management strategy.",
+          "E": "CRISPR-based WT1-targeted T-cell therapy is an area of current research, not an established first-line treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "treatment",
+        "staging"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-011",
+      "stem": "A 5-year-old girl with stage 3 Wilms tumor is treated after surgery with a regimen of vincristine, dactinomycin, and doxorubicin. Which of the following mechanisms accounts for the antitumor action of vincristine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binds tubulin and blocks microtubule formation, arresting cells at metaphase"
+        },
+        {
+          "label": "B",
+          "text": "Intercalates between guanine-cytosine base pairs, inhibiting DNA and RNA synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Cross-links DNA chains and causes breaks, halting replication and transcription"
+        },
+        {
+          "label": "D",
+          "text": "Inhibits dihydrofolate reductase, depleting folate needed for DNA synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits topoisomerase II, preventing religation of cleaved DNA strands"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Vincristine is a vinca alkaloid that binds tubulin, inhibits microtubule formation, and arrests cells at metaphase by disrupting the mitotic spindle.",
+        "whyCorrect": "Vincristine, dactinomycin, and doxorubicin are the most common chemotherapies used for Wilms tumor. Vincristine is a vinca alkaloid that binds tubulin and inhibits microtubule formation, arresting the cell at metaphase by disrupting formation of the mitotic spindle.",
+        "whyWrongByChoice": {
+          "B": "Binding the guanine portion of DNA and intercalating between guanine and cytosine base pairs is the mechanism of dactinomycin, a cell cycle-independent agent.",
+          "C": "Cross-linking DNA chains and causing them to break, inhibiting DNA replication and transcription, describes doxorubicin of the anthracycline class.",
+          "D": "Dihydrofolate reductase inhibition is an antifolate mechanism, not the action of any drug in this Wilms tumor regimen.",
+          "E": "Topoisomerase II inhibition is not the mechanism of vincristine, which acts on tubulin and the mitotic spindle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "chemotherapy",
+        "pharmacology"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en36-012",
+      "stem": "A 5-year-old girl undergoes unilateral nephrectomy for a Wilms tumor with favorable histology and recovers well. Her parents ask what her kidney health will look like in the long term. Which of the following is the most accurate counseling point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She will most likely need dialysis within a few years"
+        },
+        {
+          "label": "B",
+          "text": "The remaining kidney is unable to compensate for the one removed"
+        },
+        {
+          "label": "C",
+          "text": "She has a higher later risk of chronic kidney disease and hypertension"
+        },
+        {
+          "label": "D",
+          "text": "She faces no increase in long-term renal risk after her recovery"
+        },
+        {
+          "label": "E",
+          "text": "Tumor recurrence in the remaining kidney occurs in most survivors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After unilateral nephrectomy for Wilms tumor, the remaining kidney usually compensates, but the child carries a higher lifetime risk of chronic kidney disease and hypertension.",
+        "whyCorrect": "Nephrectomy can have a significant long-term impact on renal function. For children who undergo unilateral nephrectomy, the remaining kidney can usually compensate and maintain normal function, but these patients are at higher risk of developing chronic kidney disease and hypertension later in life.",
+        "whyWrongByChoice": {
+          "A": "The remaining kidney usually maintains normal function, so dialysis is not the expected outcome.",
+          "B": "The remaining kidney can usually compensate and maintain normal function after unilateral nephrectomy.",
+          "D": "Although function is usually maintained, there is a real increase in later risk of chronic kidney disease and hypertension, so counseling of no risk would be inaccurate.",
+          "E": "With favorable histology, surgery may provide a complete cure; recurrence in most survivors is not expected, and most children without other conditions have an average lifespan."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "wilms-tumor",
+        "nephrectomy",
+        "long-term-outcomes"
+      ],
+      "topicId": "wilms-tumor",
+      "topicName": "Wilms Tumor"
+    },
+    {
+      "id": "en37-001",
+      "stem": "A 58-year-old man with a 30-pack-year smoking history comes to the office because of 2 weeks of visible blood in his urine and dull right flank pain. He is afebrile. Physical examination shows a firm, palpable mass over the right flank. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nephrolithiasis"
+        },
+        {
+          "label": "B",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Acute pyelonephritis"
+        },
+        {
+          "label": "D",
+          "text": "Polycystic kidney disease"
+        },
+        {
+          "label": "E",
+          "text": "Bladder carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hematuria, flank pain, and a palpable flank mass form the classic triad of renal cell carcinoma.",
+        "whyCorrect": "This patient has all three elements of the classic RCC triad, which is found in only about 10% of patients but is highly suggestive when present. His smoking history is the most significant risk factor for RCC, roughly doubling its incidence, and RCC is the most common primary renal malignancy of adults.",
+        "whyWrongByChoice": {
+          "A": "A kidney stone can cause hematuria and flank pain, but it does not produce a firm palpable flank mass, and this presentation lasting weeks without colicky pain fits a tumor better.",
+          "C": "Pyelonephritis causes flank tenderness but presents with fever and signs of infection, which are absent here.",
+          "D": "Polycystic kidney disease can cause hematuria and enlarged kidneys, but a solitary unilateral firm mass in an older smoker points to malignancy instead.",
+          "E": "Bladder carcinoma causes hematuria in smokers but does not explain a palpable flank mass or flank pain."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "clinical-presentation",
+        "classic-triad",
+        "hematuria"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-002",
+      "stem": "A 61-year-old man is diagnosed with renal cell carcinoma after an evaluation for microscopic hematuria. He asks what may have contributed to his cancer. Exposure to which of the following approximately doubles the incidence of this malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tobacco smoke"
+        },
+        {
+          "label": "B",
+          "text": "Heavy alcohol use"
+        },
+        {
+          "label": "C",
+          "text": "Asbestos fibers"
+        },
+        {
+          "label": "D",
+          "text": "Dietary calcium excess"
+        },
+        {
+          "label": "E",
+          "text": "Ionizing radiation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tobacco use is the most significant risk factor for RCC and doubles its incidence in smokers.",
+        "whyCorrect": "The lecture identifies tobacco use as the single most significant risk factor for renal cell carcinoma, with the incidence doubled in smokers. Other risk factors include obesity, hypertension, acquired cystic kidney disease, occupational toxins, and family history, but none is described as doubling incidence.",
+        "whyWrongByChoice": {
+          "B": "Alcohol use is not listed among the risk factors for RCC.",
+          "C": "Asbestos is an occupational risk factor for RCC, but it is not the exposure credited with doubling incidence; that distinction belongs to tobacco.",
+          "D": "Excess dietary calcium is not a described risk factor for RCC.",
+          "E": "Ionizing radiation is not among the risk factors cited for RCC."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "risk-factors",
+        "smoking",
+        "epidemiology"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-003",
+      "stem": "A 63-year-old woman undergoes nephrectomy for a renal mass. Gross examination shows a solitary golden-yellow tumor in the upper pole with areas of hemorrhage and necrosis. Microscopy shows nests of cells with abundant clear cytoplasm containing glycogen and lipid, separated by delicate branching blood vessels. This tumor most likely arose from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proximal tubular epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Distal convoluted tubule"
+        },
+        {
+          "label": "C",
+          "text": "Intercalated cells of the collecting ducts"
+        },
+        {
+          "label": "D",
+          "text": "Transitional epithelium of the renal pelvis"
+        },
+        {
+          "label": "E",
+          "text": "Glomerular epithelial cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clear cell carcinoma, the most common RCC, arises from the proximal tubular epithelium.",
+        "whyCorrect": "The golden-yellow gross appearance (from intracellular lipid), hemorrhage and necrosis, and nests of clear cells with glycogen- and lipid-rich cytoplasm among scant delicate branching vessels are the hallmarks of clear cell carcinoma, which accounts for about 70% of RCCs and is thought to arise from the proximal tubular epithelium.",
+        "whyWrongByChoice": {
+          "B": "The distal convoluted tubule is the origin of papillary carcinoma, which shows papillae with fibrovascular cores rather than nests of clear cells.",
+          "C": "Intercalated cells of the collecting ducts give rise to chromophobe carcinoma, which shows pale eosinophilic cells with perinuclear halos.",
+          "D": "Transitional epithelium lines the renal pelvis and gives rise to urothelial tumors, not the clear cell neoplasm described.",
+          "E": "Glomerular epithelial cells are not the origin of renal cell carcinoma; RCCs arise from renal tubules."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clear-cell-carcinoma",
+        "pathology",
+        "proximal-tubule"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-004",
+      "stem": "A 59-year-old man has a clear cell renal cell carcinoma with loss of the short arm of chromosome 3. The tumor is highly vascular. Which of the following mechanisms best explains the increased angiogenesis in this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of oxygen-dependent degradation of HIF-1 with increased VEGF expression"
+        },
+        {
+          "label": "B",
+          "text": "Constitutive activation of the MET receptor driving endothelial proliferation"
+        },
+        {
+          "label": "C",
+          "text": "Loss of multiple whole chromosomes with reduced tumor suppressor dosage"
+        },
+        {
+          "label": "D",
+          "text": "Tumor secretion of erythropoietin acting directly on vessel endothelium"
+        },
+        {
+          "label": "E",
+          "text": "Loss of a ubiquitin ligase that normally targets MYC for degradation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of VHL prevents HIF-1 degradation, so HIF-1 accumulates and turns on angiogenic genes such as VEGF.",
+        "whyCorrect": "The VHL gene, located on chromosome 3p, encodes part of a ubiquitin ligase complex that targets hypoxia-inducible factor-1 (HIF-1) for degradation in an oxygen-dependent fashion. When VHL is inactive, HIF-1 levels remain high, causing inappropriate expression of HIF target genes that promote angiogenesis, such as VEGF, and growth factors such as IGF-1.",
+        "whyWrongByChoice": {
+          "B": "MET oncogene mutations are associated with papillary carcinoma, not with the angiogenesis of clear cell RCC.",
+          "C": "Multiple chromosome losses (hypoploidy) characterize chromophobe carcinoma, not the 3p-deleted clear cell tumor described.",
+          "D": "Erythropoietin production by RCC explains paraneoplastic elevation of hematocrit, not the tumor's angiogenic drive.",
+          "E": "The VHL ubiquitin ligase complex targets HIF-1, not MYC; HIF instead collaborates with MYC to reprogram metabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "VHL",
+        "HIF-1",
+        "VEGF",
+        "pathophysiology"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-005",
+      "stem": "A 34-year-old woman is found to have bilateral clear cell renal cell carcinomas. She has previously been treated for a cerebellar hemangioblastoma and retinal angiomas, and her father had similar tumors. The gene mutated in this autosomal dominant condition is located at which of the following sites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Short arm of chromosome 3"
+        },
+        {
+          "label": "B",
+          "text": "Long arm of chromosome 3"
+        },
+        {
+          "label": "C",
+          "text": "Short arm of chromosome 11"
+        },
+        {
+          "label": "D",
+          "text": "Long arm of chromosome 10"
+        },
+        {
+          "label": "E",
+          "text": "Short arm of chromosome 17"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Von Hippel-Lindau disease is an autosomal dominant disorder caused by mutation of the VHL gene on chromosome 3p.",
+        "whyCorrect": "Multiple tumors including hemangioblastomas, retinal angiomas, pheochromocytomas, and RCCs in a family pattern indicate von Hippel-Lindau (VHL) disease, an autosomal dominant condition. Most clear cell RCCs are associated with loss of the short arm (p) of chromosome 3, which includes the VHL gene locus.",
+        "whyWrongByChoice": {
+          "B": "The VHL locus lies on the short arm of chromosome 3, not the long arm.",
+          "C": "Chromosome 11p is not the site of the VHL gene described in this lecture.",
+          "D": "Chromosome 10q is not the location of the VHL gene.",
+          "E": "Chromosome 17p is not the site of the VHL gene."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "von-hippel-lindau",
+        "genetics",
+        "chromosome-3p"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-006",
+      "stem": "A 55-year-old man undergoes resection of bilateral, multifocal renal tumors with a hemorrhagic, cystic gross appearance. Histology shows tumor cells lining small outpouchings of tissue with fibrovascular cores, interstitial foamy macrophages within the cores, and scattered microscopic calcified collections. Which of the following genetic changes is most associated with this tumor type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MET oncogene mutation"
+        },
+        {
+          "label": "B",
+          "text": "Loss of the short arm of chromosome 3"
+        },
+        {
+          "label": "C",
+          "text": "Multiple whole-chromosome losses"
+        },
+        {
+          "label": "D",
+          "text": "RET proto-oncogene mutation"
+        },
+        {
+          "label": "E",
+          "text": "TP53 tumor suppressor deletion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Papillary renal cell carcinoma is associated with mutations in the MET oncogene.",
+        "whyCorrect": "Multifocal, bilateral tumors with hemorrhagic, cystic gross appearance and papillae containing fibrovascular cores, foam cells, and psammoma bodies define papillary carcinoma, which arises from the distal convoluted tubule. Some sporadic and genetic variants of papillary carcinoma are associated with mutations in the MET oncogene.",
+        "whyWrongByChoice": {
+          "B": "Loss of chromosome 3p, which includes the VHL locus, characterizes clear cell carcinoma rather than papillary carcinoma.",
+          "C": "Multiple chromosome losses (hypoploidy) are the genetic signature of chromophobe carcinoma.",
+          "D": "RET mutations are not described in association with any renal cell carcinoma subtype in this lecture.",
+          "E": "TP53 deletion is not the association given for papillary renal cell carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "papillary-carcinoma",
+        "MET",
+        "psammoma-bodies"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-007",
+      "stem": "A 60-year-old woman has a small, well-circumscribed renal tumor with a tan-brown cut surface. Microscopy shows sheets of pale eosinophilic cells with perinuclear halos, with the largest cells concentrated around blood vessels. Which of the following types of renal cell carcinoma is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clear cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Papillary carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Chromophobe carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Medullary carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Collecting duct carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pale eosinophilic cells with perinuclear halos arranged in sheets are the histologic signature of chromophobe carcinoma.",
+        "whyCorrect": "Chromophobe carcinoma, the least common of the three main RCC types (about 5%), arises from the intercalated cells of the collecting ducts. It is grossly small and well circumscribed with a tan to brown cut surface, and histologically shows pale eosinophilic cells with perinuclear halos in sheets, with the largest cells around blood vessels. Most are low grade, confined to the kidney, and carry a favorable outcome.",
+        "whyWrongByChoice": {
+          "A": "Clear cell carcinoma appears golden yellow grossly and shows nests of cells with clear cytoplasm, not pale eosinophilic cells with perinuclear halos.",
+          "B": "Papillary carcinoma shows papillary structures with fibrovascular cores and foam cells, not sheets of halo-bearing cells.",
+          "D": "Medullary carcinoma is not one of the three main RCC types described, and the histology given is classic for chromophobe carcinoma.",
+          "E": "Although chromophobe tumors arise from collecting duct intercalated cells, 'collecting duct carcinoma' is a different entity and not the diagnosis matching these classic chromophobe features."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "chromophobe-carcinoma",
+        "histology",
+        "perinuclear-halos"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-008",
+      "stem": "A 66-year-old man with newly diagnosed renal cell carcinoma is found to have a serum calcium concentration of 12.4 mg/dL. He has no bone pain, and imaging shows no skeletal metastases. Which of the following substances produced by the tumor is the most likely cause of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parathyroid hormone-related peptide"
+        },
+        {
+          "label": "B",
+          "text": "Erythropoietin"
+        },
+        {
+          "label": "C",
+          "text": "Granulocyte colony-stimulating factor"
+        },
+        {
+          "label": "D",
+          "text": "Calcitonin gene-related peptide"
+        },
+        {
+          "label": "E",
+          "text": "Insulin-like growth factor-1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paraneoplastic hypercalcemia in RCC is caused by tumor production of parathyroid hormone-related peptide (PTHrP).",
+        "whyCorrect": "Hypercalcemia is one of the most common paraneoplastic syndromes of RCC and results from tumor cell production of PTHrP. Recognizing it matters clinically because the hypercalcemia can precede the diagnosis of the cancer, and its resolution often indicates a successful response to treatment.",
+        "whyWrongByChoice": {
+          "B": "Erythropoietin production by RCC causes an elevated hematocrit (polycythemia), not hypercalcemia.",
+          "C": "Granulocyte colony-stimulating factor from a tumor drives paraneoplastic leukocytosis, not hypercalcemia.",
+          "D": "Calcitonin gene-related peptide is a vasodilatory neuropeptide; it does not raise serum calcium and is not a described renal cell carcinoma product.",
+          "E": "IGF-1 is a growth-promoting gene product turned on downstream of HIF; it does not mediate hypercalcemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "paraneoplastic",
+        "hypercalcemia",
+        "PTHrP"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-009",
+      "stem": "A 64-year-old man with renal cell carcinoma is found at diagnosis to have a tumor thrombus within a dilated renal vein and metastases in the lungs and bones. Which of the following characteristics of this cancer best accounts for this pattern of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Predilection for hematogenous over lymphatic spread"
+        },
+        {
+          "label": "B",
+          "text": "Preferential spread through regional lymphatic channels"
+        },
+        {
+          "label": "C",
+          "text": "Transcoelomic seeding across the peritoneal cavity"
+        },
+        {
+          "label": "D",
+          "text": "Perineural invasion along retroperitoneal nerves"
+        },
+        {
+          "label": "E",
+          "text": "Contiguous seeding down the ureteral lumen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "RCC is unique among carcinomas for favoring hematogenous over lymphatic spread.",
+        "whyCorrect": "RCC has a predilection for hematogenous over lymphatic spread, which makes it unique among carcinomas; invasion of the renal vein with tumor thrombus and blood-borne metastases to lungs and bones reflect this behavior. RCC metastasizes widely, and 25% of patients may already have distant metastases to lymph nodes, liver, lungs, bones, or brain at presentation.",
+        "whyWrongByChoice": {
+          "B": "Most carcinomas spread first via lymphatics, but RCC is distinctive precisely because it favors the bloodstream.",
+          "C": "Transcoelomic peritoneal seeding is not the described route of RCC dissemination.",
+          "D": "Perineural invasion is not the mechanism behind renal vein thrombus and pulmonary or bony metastases.",
+          "E": "RCC extends locally through the renal fascia and into the adrenal gland, not by seeding down the ureter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metastasis",
+        "hematogenous-spread",
+        "renal-vein"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-010",
+      "stem": "A 29-year-old woman at 24 weeks' gestation develops painless gross hematuria. Her physician is concerned about a renal mass. Which of the following is the most appropriate imaging study for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT of the abdomen and pelvis with contrast"
+        },
+        {
+          "label": "B",
+          "text": "Renal ultrasound"
+        },
+        {
+          "label": "C",
+          "text": "Renal angiography"
+        },
+        {
+          "label": "D",
+          "text": "Abdominal radiograph"
+        },
+        {
+          "label": "E",
+          "text": "Bone scan"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Renal ultrasound is preferred when radiation or intravenous contrast must be avoided, as in pregnancy.",
+        "whyCorrect": "Although contrast CT of the abdomen and pelvis is the preferred diagnostic study for suspected RCC, renal ultrasound is the better choice in people who cannot receive radiation, such as pregnant patients, or who cannot receive intravenous contrast, such as those with decreased kidney function.",
+        "whyWrongByChoice": {
+          "A": "Contrast CT is the usual preferred study but exposes the fetus to radiation, so it should be avoided in pregnancy.",
+          "C": "Renal angiography involves both radiation and contrast and is not the diagnostic study described for renal masses.",
+          "D": "A plain abdominal radiograph delivers radiation and cannot adequately characterize a renal mass.",
+          "E": "A bone scan evaluates skeletal disease, involves radiation, and does not assess a renal mass."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "ultrasound",
+        "pregnancy"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-011",
+      "stem": "A healthy 55-year-old woman is found to have a 4-cm solid mass in the lower pole of the left kidney. CT shows the tumor is confined within the renal fascia, without adrenal involvement or distant metastases. She has no significant comorbidities. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Needle core biopsy of the mass"
+        },
+        {
+          "label": "B",
+          "text": "Surgical excision of the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Cryotherapy of the lesion"
+        },
+        {
+          "label": "D",
+          "text": "Combination checkpoint-inhibitor therapy"
+        },
+        {
+          "label": "E",
+          "text": "Serial surveillance imaging"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Localized RCC in a good surgical candidate is managed with surgical excision, which provides both cure and diagnosis.",
+        "whyCorrect": "In good surgical candidates, the standard management of tumors that have not extended beyond the renal fascia, have not invaded the adrenal gland, and lack distant metastases is surgical excision, either a limited nephrectomy (kidney and tumor) or a radical nephrectomy (also adrenal gland and nearby lymph nodes), followed by monitoring for relapse.",
+        "whyWrongByChoice": {
+          "A": "Biopsy is typically unnecessary when imaging is suspicious for RCC, because surgical resection simultaneously provides cure and confirms the diagnosis.",
+          "C": "Cryotherapy and radiofrequency ablation are reserved for patients who are not good candidates for surgery.",
+          "D": "Checkpoint-inhibitor combinations such as nivolumab plus ipilimumab are systemic treatments for advanced or metastatic disease.",
+          "E": "Monitoring with imaging is an option for older patients or noncandidates with small tumors, not for a fit patient with a resectable localized tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "nephrectomy",
+        "localized-disease"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en37-012",
+      "stem": "A 62-year-old man with metastatic clear cell renal cell carcinoma has progressive disease despite treatment with nivolumab plus ipilimumab and subsequently cabozantinib. His oncologist starts belzutifan. Which of the following best describes the mechanism of action of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of hypoxia-inducible factor-2 alpha"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of the PD-1 immune checkpoint"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of the CTLA-4 immune checkpoint"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of VEGFR tyrosine kinase activity"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of the mTOR signaling pathway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Belzutifan is a HIF-2 alpha inhibitor used for refractory renal cell carcinoma.",
+        "whyCorrect": "Belzutifan is described as a HIF-2 alpha inhibitor that is an option in refractory RCC. This is mechanistically rational because VHL loss in clear cell RCC leaves HIF transcription factors undegraded, driving expression of angiogenic and growth-promoting genes; belzutifan targets that pathway directly.",
+        "whyWrongByChoice": {
+          "B": "Anti-PD-1 therapy describes nivolumab and pembrolizumab, which this patient has already received in combination therapy.",
+          "C": "Anti-CTLA-4 therapy describes ipilimumab, part of his prior checkpoint-inhibitor combination.",
+          "D": "VEGFR tyrosine kinase inhibition describes drugs such as axitinib and the targeted agents sunitinib and cabozantinib, which have already failed here.",
+          "E": "mTOR pathway inhibition describes everolimus, not belzutifan."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "belzutifan",
+        "HIF-2-alpha",
+        "advanced-disease"
+      ],
+      "topicId": "renal-cell-carcinoma",
+      "topicName": "Renal Cell Carcinoma"
+    },
+    {
+      "id": "en38-001",
+      "stem": "A 58-year-old man undergoes a CT scan for suspected nephrolithiasis, which incidentally reveals a 3-cm sharply demarcated mass in the right kidney. He undergoes partial nephrectomy. Gross examination shows a mahogany-brown, circumscribed but unencapsulated tumor with a central stellate scar and no necrosis. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal cell carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Renal oncocytoma"
+        },
+        {
+          "label": "C",
+          "text": "Classic angiomyolipoma"
+        },
+        {
+          "label": "D",
+          "text": "Epithelioid angiomyolipoma"
+        },
+        {
+          "label": "E",
+          "text": "Simple renal cyst"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A mahogany-brown, circumscribed renal mass with a central stellate scar and no necrosis is classic for renal oncocytoma.",
+        "whyCorrect": "Renal oncocytomas are benign tumors that are characteristically mahogany brown, circumscribed but not encapsulated, and lack necrosis. A central stellate scar is the characteristic gross finding, although it is present in only about one-third of cases. They are most common in adults aged 50 to 80 and are often found incidentally during imaging for other reasons, such as stone workups.",
+        "whyWrongByChoice": {
+          "A": "Renal cell carcinoma is typically golden yellow with areas of hemorrhage and necrosis, none of which are present here.",
+          "C": "Classic angiomyolipoma is composed of vessels, smooth muscle, and fat; it is not described as a mahogany-brown mass with a stellate scar.",
+          "D": "The epithelioid variant of AML contains large epithelial-like cells and lacks this characteristic mahogany-brown gross appearance.",
+          "E": "A simple cyst is a fluid-filled structure, not a solid brown tumor with a central scar."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oncocytoma",
+        "gross-pathology"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-002",
+      "stem": "A 63-year-old woman undergoes resection of a renal mass. Histology shows large cells with small, benign-appearing nuclei, no mitotic figures, and intensely eosinophilic cytoplasm. Which of the following best explains the cytoplasmic staining pattern of these tumor cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased numbers of mitochondria"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of lipids and carbohydrates"
+        },
+        {
+          "label": "C",
+          "text": "Abundant rough endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Cytoplasmic hemosiderin deposition"
+        },
+        {
+          "label": "E",
+          "text": "Dense keratin filament aggregates"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oncocytoma cells are intensely eosinophilic because they are packed with mitochondria.",
+        "whyCorrect": "Renal oncocytomas consist of large cells with benign-appearing small nuclei and no mitotic figures. Their intensely eosinophilic cytoplasm is due to the increased number of mitochondria in these cells, which is the defining histologic feature of the oncocyte.",
+        "whyWrongByChoice": {
+          "B": "Accumulated lipids and carbohydrates produce the polygonal clear cells of renal cell carcinoma, not intense eosinophilia.",
+          "C": "Rough endoplasmic reticulum is basophilic and would not create an intensely pink cytoplasm.",
+          "D": "Hemosiderin is a golden-brown iron pigment and is not the basis of oncocytoma eosinophilia.",
+          "E": "Keratin aggregates are a feature of squamous differentiation, not of renal oncocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oncocytoma",
+        "histopathology"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-003",
+      "stem": "A pathologist reviews a benign renal tumor composed of oncocytes. This tumor is thought to originate from which of the following cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epithelial cells of the proximal convoluted tubule"
+        },
+        {
+          "label": "B",
+          "text": "Podocytes of the glomerular visceral epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Intercalated cells of the collecting ducts"
+        },
+        {
+          "label": "D",
+          "text": "Perivascular epithelioid cells"
+        },
+        {
+          "label": "E",
+          "text": "Mesangial cells of the glomerular tuft"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Renal oncocytoma is thought to arise from the intercalated cells of the collecting ducts.",
+        "whyCorrect": "The lecture defines renal oncocytoma as a mostly benign kidney tumor thought to originate from the intercalated cells of the collecting ducts. It should not be confused with oncocytomas of other organs such as the adrenal, salivary, thyroid, or parathyroid glands.",
+        "whyWrongByChoice": {
+          "A": "Proximal tubule cells are not the described cell of origin for oncocytoma.",
+          "B": "Podocytes are glomerular filtration cells and do not give rise to oncocytomas.",
+          "D": "Perivascular epithelioid cells are the origin of angiomyolipomas, not oncocytomas.",
+          "E": "Mesangial cells support the glomerular capillaries and are not the source of this tumor."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "oncocytoma",
+        "cell-of-origin"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-004",
+      "stem": "A 61-year-old man has a 4-cm solid renal mass discovered on CT. The radiologic appearance is a sharply demarcated lesion with a possible central scar, and the team cannot exclude malignancy. Fine-needle aspiration is discussed but ultimately not performed. Which of the following is the most appropriate way to establish a definitive diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Analysis of surgical pathology after resection"
+        },
+        {
+          "label": "B",
+          "text": "Repeat contrast-enhanced CT in three months"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic resonance imaging of the abdomen"
+        },
+        {
+          "label": "D",
+          "text": "Urinalysis with urine cytology"
+        },
+        {
+          "label": "E",
+          "text": "Percutaneous fine-needle aspiration of the mass"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The only definitive way to diagnose renal oncocytoma is surgical pathology after resection.",
+        "whyCorrect": "Oncocytomas and renal cell carcinomas both appear as nonspecific, sharply demarcated lesions on imaging, and a central stellate scar can occur in both. Because fine-needle aspiration lacks characteristic histologic features that reliably distinguish the two tumors, definitive diagnosis requires analysis of surgical pathology after the tumor is resected.",
+        "whyWrongByChoice": {
+          "B": "Interval CT cannot distinguish oncocytoma from renal cell carcinoma; both look similar on imaging.",
+          "C": "MRI shares the same limitation as CT and cannot make the definitive distinction.",
+          "D": "Urinalysis may show hematuria but cannot characterize a solid renal mass.",
+          "E": "Fine-needle aspiration remains controversial because it cannot reliably separate oncocytoma from renal cell carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oncocytoma",
+        "diagnosis"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-005",
+      "stem": "A nephrectomy specimen contains a solitary kidney tumor. Which of the following gross findings would most strongly indicate that the lesion is a renal cell carcinoma rather than an oncocytoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gross invasion into the perirenal fat"
+        },
+        {
+          "label": "B",
+          "text": "A central stellate scar within the tumor"
+        },
+        {
+          "label": "C",
+          "text": "A sharply circumscribed border"
+        },
+        {
+          "label": "D",
+          "text": "Absence of a surrounding capsule"
+        },
+        {
+          "label": "E",
+          "text": "A uniform mahogany-brown cut surface"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oncocytomas never grossly invade the renal vessels or perirenal fat; invasion points to renal cell carcinoma.",
+        "whyCorrect": "The lecture emphasizes that renal oncocytomas never grossly invade the renal vessels or perirenal fat. If such invasion is seen, the lesion is likely to be a renal cell carcinoma, which is also typically golden yellow with hemorrhage and necrosis.",
+        "whyWrongByChoice": {
+          "B": "A central stellate scar is characteristic of oncocytoma, and although it may also be seen in RCC, it does not strongly indicate malignancy.",
+          "C": "Oncocytomas are classically circumscribed, so a sharp border does not favor carcinoma.",
+          "D": "Oncocytomas are circumscribed but not encapsulated, so a missing capsule is expected in the benign tumor.",
+          "E": "A mahogany-brown surface is the classic gross appearance of oncocytoma, not carcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oncocytoma",
+        "renal-cell-carcinoma",
+        "gross-pathology"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-006",
+      "stem": "A 47-year-old woman has a renal mass resected after imaging could not fully characterize it. Microscopy shows thick-walled blood vessels, spindle-shaped smooth muscle cells, and mature adipose tissue in varying proportions. From which of the following cells did this tumor most likely originate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intercalated cells of the collecting ducts"
+        },
+        {
+          "label": "B",
+          "text": "Perivascular epithelioid cells"
+        },
+        {
+          "label": "C",
+          "text": "Proximal tubular epithelial cells"
+        },
+        {
+          "label": "D",
+          "text": "Metanephric blastemal cells"
+        },
+        {
+          "label": "E",
+          "text": "Juxtaglomerular smooth muscle cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A renal tumor made of thick-walled vessels, spindled smooth muscle, and fat is a classic angiomyolipoma, which arises from perivascular epithelioid cells.",
+        "whyCorrect": "Renal angiomyolipomas originate from perivascular epithelioid cells and consist of blood vessels (angio), smooth muscle cells (myo), and fat (lipo). In the classic variant the components may appear in any proportion, and the smooth muscle cells are usually spindle-shaped.",
+        "whyWrongByChoice": {
+          "A": "Intercalated cells of the collecting ducts give rise to oncocytomas, which are made of eosinophilic oncocytes rather than this triphasic mixture.",
+          "C": "Proximal tubular cells are not described as the origin of a vessel, muscle, and fat tumor.",
+          "D": "Blastemal cells relate to pediatric renal tumors, not to this adult triphasic lesion.",
+          "E": "Juxtaglomerular cells secrete renin and are not the source of angiomyolipoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "histopathology"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-007",
+      "stem": "A 19-year-old man with epilepsy, hypopigmented skin nodules, facial angiofibromas, and cognitive limitations is found to have multiple large fat-containing tumors in both kidneys. Loss-of-function mutations in which of the following genes most likely underlie his renal lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "VHL"
+        },
+        {
+          "label": "B",
+          "text": "WT1"
+        },
+        {
+          "label": "C",
+          "text": "NF2"
+        },
+        {
+          "label": "D",
+          "text": "TSC1 and TSC2"
+        },
+        {
+          "label": "E",
+          "text": "RET"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tuberous sclerosis-associated angiomyolipomas are caused by loss-of-function mutations in the tumor suppressor genes TSC1 and TSC2.",
+        "whyCorrect": "This patient has tuberous sclerosis, a syndrome of benign tumors in the skin, brain, heart, eyes, kidneys, lungs, and liver, with skin disease, epilepsy, and cognitive limitations. About 10% of AMLs occur with tuberous sclerosis; these arise from loss-of-function mutations in the tumor suppressors TSC1 and TSC2, occur in younger patients with no sex predilection, and are often multiple and larger.",
+        "whyWrongByChoice": {
+          "A": "VHL mutations are linked to von Hippel-Lindau disease, not to the skin, seizure, and hamartoma picture here.",
+          "B": "WT1 relates to Wilms tumor of childhood, not to fat-containing angiomyolipomas.",
+          "C": "NF2 causes neurofibromatosis type 2, which does not explain these renal lesions.",
+          "E": "RET mutations underlie MEN2 syndromes, which feature endocrine tumors rather than renal AMLs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "tuberous-sclerosis",
+        "genetics"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-008",
+      "stem": "A 55-year-old woman has an incidental renal lesion on ultrasound. A CT scan is ordered to characterize it. Which of the following CT findings would most strongly support a diagnosis of angiomyolipoma over renal cell carcinoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macroscopic fat density without calcifications"
+        },
+        {
+          "label": "B",
+          "text": "Coarse calcifications within a solid lesion"
+        },
+        {
+          "label": "C",
+          "text": "Tumor extension into the renal vein"
+        },
+        {
+          "label": "D",
+          "text": "A central stellate scar in the mass"
+        },
+        {
+          "label": "E",
+          "text": "A simple fluid-density cystic cavity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On CT, angiomyolipoma shows macroscopic fat, seen as darker density, without calcifications.",
+        "whyCorrect": "AML can be differentiated from renal cell carcinoma by the absence of calcifications within its macroscopic fat lesions, making CT one of the two preferred imaging modalities along with MRI. Fat appears as a darker density area on CT. The lecture cautions that fat is helpful but not pathognomonic, since some other renal tumors contain fat and rare AMLs are fat-poor.",
+        "whyWrongByChoice": {
+          "B": "Calcifications within the lesion argue against AML; their absence within fat is what favors it.",
+          "C": "Venous invasion is a feature of renal cell carcinoma, not of a benign angiomyolipoma.",
+          "D": "A central stellate scar is associated with oncocytoma and sometimes RCC, not with AML.",
+          "E": "A simple fluid-filled cavity suggests a renal cyst rather than a fat-containing solid tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "imaging",
+        "diagnosis"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-009",
+      "stem": "A 34-year-old woman with tuberous sclerosis and multiple known renal angiomyolipomas presents with sudden severe flank pain. Her blood pressure is 82/50 mm Hg, pulse is 128/min, hemoglobin has fallen from 13 g/dL to 8 g/dL, and creatinine is acutely elevated. Her abdomen shows no bruising or distension. Which of the following best explains why this degree of blood loss can occur without visible findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The retroperitoneal space can hold up to 4 L of blood"
+        },
+        {
+          "label": "B",
+          "text": "AML bleeding is confined within the renal capsule"
+        },
+        {
+          "label": "C",
+          "text": "Blood is rapidly cleared into the urinary collecting system"
+        },
+        {
+          "label": "D",
+          "text": "Tumor smooth muscle contracts to stop hemorrhage early"
+        },
+        {
+          "label": "E",
+          "text": "The bleeding is venous and therefore too slow to accumulate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Retroperitoneal hemorrhage from a ruptured AML is dangerous because the retroperitoneal space can conceal up to 4 L of blood.",
+        "whyCorrect": "In AML, abnormal clusters of blood vessels can dilate and rupture, causing severe bleeding into the retroperitoneum with life-threatening hypotension and shock. This bleed is dangerous precisely because the retroperitoneal space has the potential to hold up to 4 L of blood without it being visible. Flank pain, anemia, gross hematuria, and acute deterioration of kidney function suggest active bleeding.",
+        "whyWrongByChoice": {
+          "B": "The hemorrhage extends into the retroperitoneum; it is not contained by the renal capsule.",
+          "C": "The collecting system cannot absorb liters of blood; hematuria is a marker, not a drainage route.",
+          "D": "Tumor vessels are abnormal and rupture-prone; there is no described self-limiting muscular contraction.",
+          "E": "The lecture describes this bleeding as life-threatening and capable of causing shock, not slow and trivial."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "retroperitoneal-hemorrhage",
+        "emergency"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-010",
+      "stem": "A 52-year-old asymptomatic woman is found to have a 2-cm renal angiomyolipoma on a CT scan performed for other reasons. She has no hematuria, no pain, and no history of tuberous sclerosis. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No treatment"
+        },
+        {
+          "label": "B",
+          "text": "Partial nephrectomy"
+        },
+        {
+          "label": "C",
+          "text": "Catheter embolization"
+        },
+        {
+          "label": "D",
+          "text": "Everolimus therapy"
+        },
+        {
+          "label": "E",
+          "text": "Radical nephrectomy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Asymptomatic patients with small angiomyolipomas require no treatment.",
+        "whyCorrect": "The prognosis for most cases of AML is good, and asymptomatic patients with small tumors require no treatment. More aggressive options are reserved for large or symptomatic tumors, and mTOR inhibitors are used for multiple rapidly growing AMLs, most commonly in tuberous sclerosis.",
+        "whyWrongByChoice": {
+          "B": "Partial nephrectomy is reserved for large or symptomatic tumors, not a small incidental lesion.",
+          "C": "Embolization is used for large (>60 mm) or symptomatic tumors, particularly those that bleed.",
+          "D": "Everolimus is used for multiple, rapidly growing AMLs, most commonly with tuberous sclerosis.",
+          "E": "Removing the entire kidney is not indicated for a small, benign, asymptomatic lesion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "management"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-011",
+      "stem": "A 26-year-old man with tuberous sclerosis has multiple bilateral renal angiomyolipomas that are enlarging rapidly on serial imaging. His nephrologist starts a medication to reduce tumor size and help preserve renal function. Which of the following best describes the mechanism of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of a serine/threonine kinase that regulates cell growth"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of a receptor tyrosine kinase on tumor vessels"
+        },
+        {
+          "label": "C",
+          "text": "Restoration of normal TSC1 and TSC2 gene copies"
+        },
+        {
+          "label": "D",
+          "text": "Stimulation of interleukin-2-mediated immune clearance"
+        },
+        {
+          "label": "E",
+          "text": "Cross-linking of DNA strands in dividing tumor cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Everolimus works by inhibiting mTOR, a serine/threonine kinase that regulates cell growth and metabolism.",
+        "whyCorrect": "In patients with multiple, rapidly growing AMLs, most commonly associated with tuberous sclerosis, mTOR inhibitors such as everolimus reduce tumor size and help preserve renal function. These drugs inhibit mTOR (mammalian target of rapamycin), a serine/threonine kinase that regulates cell growth and metabolism.",
+        "whyWrongByChoice": {
+          "B": "mTOR is a serine/threonine kinase, not a receptor tyrosine kinase.",
+          "C": "No therapy described in the lecture restores the mutated tumor suppressor genes themselves.",
+          "D": "Interleukin-2 immunotherapy is not the described treatment for TSC-associated AML.",
+          "E": "DNA cross-linking describes alkylating chemotherapy, which is not the mechanism of everolimus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "mTOR",
+        "pharmacology"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en38-012",
+      "stem": "A 60-year-old woman undergoes resection of a renal mass. Pathology shows an angiomyolipoma variant composed predominantly of large, eosinophilic, epithelial-like cells. Compared with the classic variant, this tumor carries which of the following additional risks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant transformation with distant metastases"
+        },
+        {
+          "label": "B",
+          "text": "Conversion into a renal oncocytoma over time"
+        },
+        {
+          "label": "C",
+          "text": "Obligate spread to the contralateral kidney"
+        },
+        {
+          "label": "D",
+          "text": "Secretion of renin causing refractory hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Transformation into a fluid-filled simple cyst"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The epithelioid variant of angiomyolipoma can, in rare cases, transform into a malignant tumor with distant metastases.",
+        "whyCorrect": "Epithelioid variant angiomyolipoma contains large, eosinophilic, epithelial-like cells. In rare cases, mainly involving this epithelioid variant, AML may transform into a malignant tumor characterized by distant metastases, which is why surgical management is typically preferred for malignant AML or AML at high risk of malignant transformation.",
+        "whyWrongByChoice": {
+          "B": "Oncocytoma is a separate tumor of collecting duct intercalated cells; AML does not convert into it.",
+          "C": "AMLs are usually solitary and unilateral; spread to the other kidney is not a described risk.",
+          "D": "Renin secretion is not a feature of angiomyolipoma described in the lecture.",
+          "E": "AML is a solid tumor of vessels, muscle, and fat; it does not become a simple cyst."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "angiomyolipoma",
+        "epithelioid-variant",
+        "malignant-transformation"
+      ],
+      "topicId": "other-renal-tumors-oncocytoma-and-angiomyolipoma",
+      "topicName": "Other Renal Tumors (Oncocytoma and Angiomyolipoma)"
+    },
+    {
+      "id": "en39-001",
+      "stem": "A 67-year-old man with a 45-pack-year smoking history reports intermittently seeing blood in his urine for the past month. He has no pain with urination and no fever. Urinalysis shows numerous red blood cells without white blood cells, bacteria, or protein. Cystoscopy reveals a papillary mass on the posterior bladder wall. Which of the following is the most likely histologic type of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urothelial (transitional cell) carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Keratinizing squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Mucin-producing adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Small cell neuroendocrine carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Leiomyosarcoma of the bladder wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Urothelial carcinoma is by far the most common bladder cancer and classically presents with painless hematuria in an older male smoker.",
+        "whyCorrect": "UCC arises from the urothelium of the genitourinary tract and accounts for the large majority of bladder cancers, with about 90% of UCC occurring in the bladder. It is most often seen in males aged 50 to 80, and smoking raises the risk 3- to 7-fold. Painless gross hematuria is the most common presenting symptom, and papillary architecture is typical of the common noninvasive papillary lesions.",
+        "whyWrongByChoice": {
+          "B": "Squamous cell carcinoma makes up only about 5% of bladder cancers and is linked to Schistosoma haematobium infection rather than the typical smoking history.",
+          "C": "Adenocarcinoma is not the characteristic bladder cancer described in this setting; urothelial carcinoma dominates in older male smokers.",
+          "D": "Small cell carcinoma is not the expected histology for a papillary bladder mass in a smoker; urothelial carcinoma is far more common.",
+          "E": "Leiomyosarcoma is a mesenchymal tumor and is not the common malignancy arising from the bladder lining."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "urothelial-carcinoma",
+        "presentation",
+        "hematuria"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-002",
+      "stem": "A 59-year-old man who worked for 35 years in a paint and dye manufacturing plant presents with painless gross hematuria. Cystoscopy shows a bladder tumor, and biopsy confirms urothelial carcinoma. Which of the following occupational exposures most likely contributed to this malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arylamines"
+        },
+        {
+          "label": "B",
+          "text": "Asbestos"
+        },
+        {
+          "label": "C",
+          "text": "Vinyl chloride"
+        },
+        {
+          "label": "D",
+          "text": "Aflatoxin"
+        },
+        {
+          "label": "E",
+          "text": "Benzene"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Occupational arylamine exposure, classically in the dye industry, causes urothelial carcinoma after a long latency.",
+        "whyCorrect": "Arylamines used in dyes are an established cause of urothelial carcinoma, producing cancer 15 to 40 years after first exposure. Occupations associated with UCC include chemical workers, metal workers, painters, cement workers, and those who manufacture carpets and paint.",
+        "whyWrongByChoice": {
+          "B": "Asbestos is tied to mesothelioma and lung disease, not to urothelial carcinoma from dye manufacturing.",
+          "C": "Vinyl chloride is associated with hepatic angiosarcoma, not bladder cancer.",
+          "D": "Aflatoxin is linked to hepatocellular carcinoma, not urothelial carcinoma.",
+          "E": "Benzene exposure is associated with leukemias rather than bladder cancer."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "risk-factors",
+        "arylamines",
+        "occupational-exposure"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-003",
+      "stem": "A 46-year-old woman has received years of immunosuppressive therapy for an autoimmune disease. During treatment she was hospitalized once for bladder inflammation with bleeding. Years later she develops painless hematuria, and biopsy shows urothelial carcinoma. Which of the following drugs most likely contributed to both conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "C",
+          "text": "Azathioprine"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone"
+        },
+        {
+          "label": "E",
+          "text": "Hydroxychloroquine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cyclophosphamide causes hemorrhagic cystitis and increases the risk of urothelial carcinoma.",
+        "whyCorrect": "The immunosuppressive drug cyclophosphamide is known to cause hemorrhagic cystitis, an inflammation of the bladder with bleeding, and it also increases the risk of UCC. The combination of a prior hemorrhagic cystitis episode and later bladder cancer points directly to this agent.",
+        "whyWrongByChoice": {
+          "B": "Methotrexate is not the immunosuppressant tied to hemorrhagic cystitis and subsequent bladder cancer.",
+          "C": "Azathioprine is not the drug associated with both hemorrhagic cystitis and urothelial carcinoma.",
+          "D": "Prednisone does not cause hemorrhagic cystitis or raise urothelial cancer risk in this way.",
+          "E": "Hydroxychloroquine is known for retinal toxicity, not bladder inflammation or bladder cancer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "risk-factors",
+        "cyclophosphamide",
+        "hemorrhagic-cystitis"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-004",
+      "stem": "A 41-year-old man who emigrated from sub-Saharan Africa has had years of intermittent hematuria. Cystectomy for a bladder mass reveals keratinizing squamous cell carcinoma, and adjacent tissue contains parasite eggs surrounded by dense eosinophilic infiltrates and granulomas. Which of the following mechanisms best explains the development of this cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic granulomatous inflammation inducing squamous metaplasia of the urothelium"
+        },
+        {
+          "label": "B",
+          "text": "Integration of oncogenic viral DNA into urothelial cell genomes"
+        },
+        {
+          "label": "C",
+          "text": "Formation of DNA adducts by arylamine metabolites in the urine"
+        },
+        {
+          "label": "D",
+          "text": "Radiation-induced double-strand DNA breaks in the bladder wall"
+        },
+        {
+          "label": "E",
+          "text": "Direct malignant transformation of the parasite's ova within the mucosa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Schistosoma haematobium ova provoke chronic granulomatous inflammation that drives squamous metaplasia, a major risk factor for squamous cell carcinoma of the bladder.",
+        "whyCorrect": "S. haematobium is a parasitic fluke whose ova lodge in the walls of the bladder and ureters, inducing a chronic granulomatous inflammatory response. The urothelium responds to this chronic stress by undergoing squamous metaplasia, and this chronic inflammation is a major risk factor for squamous cell carcinoma of the bladder in endemic regions of Africa and the Middle East.",
+        "whyWrongByChoice": {
+          "B": "The eggs and eosinophils indicate schistosomiasis, a parasitic process, not a virally driven cancer.",
+          "C": "Arylamine exposure is an occupational cause of urothelial carcinoma, not squamous cell carcinoma from parasitic infection.",
+          "D": "There is no history of pelvic radiotherapy, and radiation is a risk factor for urothelial carcinoma after a long latency.",
+          "E": "The parasite ova do not themselves become malignant; they incite the host inflammation that transforms the urothelium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "squamous-cell-carcinoma",
+        "schistosoma",
+        "pathophysiology"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-005",
+      "stem": "A pathologist reviews a bladder biopsy showing high-grade urothelial carcinoma. Loss-of-function mutations in which of the following pairs of genes are most commonly associated with this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "TP53 and RB"
+        },
+        {
+          "label": "B",
+          "text": "BRCA1 and BRCA2"
+        },
+        {
+          "label": "C",
+          "text": "APC and SMAD4"
+        },
+        {
+          "label": "D",
+          "text": "RET and VHL"
+        },
+        {
+          "label": "E",
+          "text": "MEN1 and NF1"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "High-grade urothelial carcinoma is commonly associated with loss-of-function mutations in the TP53 and RB tumor suppressor genes.",
+        "whyCorrect": "UCC has only a minor familial inheritance, but the tumors themselves commonly carry loss-of-function mutations in the TP53 and RB tumor suppressor genes, an association seen particularly with high-grade disease.",
+        "whyWrongByChoice": {
+          "B": "BRCA1 and BRCA2 mutations are tied to breast and ovarian cancer, not to high-grade urothelial carcinoma.",
+          "C": "APC and SMAD4 are tumor suppressors classically mutated in colorectal cancer pathways.",
+          "D": "RET is an oncogene of thyroid tumor syndromes and VHL relates to renal cell carcinoma, not urothelial cancer.",
+          "E": "MEN1 and NF1 mutations underlie endocrine tumor syndromes rather than bladder cancer."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "TP53",
+        "RB"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-006",
+      "stem": "A 72-year-old man undergoes cystoscopy for hematuria. No papillary masses are seen, but a reddened flat area is biopsied. Histology shows an epithelial lesion with full cytologic features of malignancy that does not extend through the basement membrane. Which of the following best describes this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carcinoma in situ"
+        },
+        {
+          "label": "B",
+          "text": "Noninvasive papillary carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Invasive urothelial carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Urothelial dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Squamous metaplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carcinoma in situ is a flat lesion with the cytologic features of malignancy that remains confined to the epithelium.",
+        "whyCorrect": "The two noninvasive flat lesion subtypes are dysplastic lesions and carcinoma in situ. CIS specifically refers to epithelial lesions that have the cytologic features of malignancy but are confined to the epithelium, exactly matching this flat, non-stalked lesion that does not cross the basement membrane.",
+        "whyWrongByChoice": {
+          "B": "Papillary lesions grow as finger-like projections on fibrovascular stalks, and none were seen here.",
+          "C": "Invasive carcinoma extends through the basement membrane into the lamina propria, which this lesion does not.",
+          "D": "Dysplastic lesions are the other flat subtype but lack the full cytologic features of malignancy described here.",
+          "E": "Squamous metaplasia is a reactive change of the urothelium, not a lesion with malignant cytology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "carcinoma-in-situ",
+        "pathology",
+        "precursor-lesions"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-007",
+      "stem": "A 64-year-old man is diagnosed with urothelial carcinoma of the bladder after transurethral resection of a visible tumor. Which of the following features is the most important prognostic factor for this cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depth of invasion below the basement membrane"
+        },
+        {
+          "label": "B",
+          "text": "Histologic grade of the tumor cells"
+        },
+        {
+          "label": "C",
+          "text": "Diameter of the primary tumor"
+        },
+        {
+          "label": "D",
+          "text": "Number of separate tumors in the bladder"
+        },
+        {
+          "label": "E",
+          "text": "Patient age at the time of diagnosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most important prognostic factor for urothelial carcinoma is the degree to which it invades structures below the basement membrane.",
+        "whyCorrect": "Invasive UCC invades below the basement membrane while noninvasive neoplasms do not, and for invasive disease the prognosis worsens with greater depth of invasion as the tumor extends into the submucosa, muscle, perivesical fat, adjacent organs, or the abdominal wall. This degree of invasion is the single most important prognostic factor.",
+        "whyWrongByChoice": {
+          "B": "Grade matters, since within each stage the prognosis worsens with advancing histologic grade, but depth of invasion is the most important factor.",
+          "C": "Tumor size is not identified as the key determinant of prognosis for urothelial carcinoma.",
+          "D": "Multifocality is not the primary driver of outcome; extension below the basement membrane is.",
+          "E": "Age influences who develops the disease but is not the main prognostic factor once cancer is diagnosed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "prognosis",
+        "staging",
+        "depth-of-invasion"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-008",
+      "stem": "A 58-year-old man is found to have 25 red blood cells per high-power field on a routine urinalysis. He has no dysuria or fever. The urine shows no white blood cells, bacteria, protein, or casts, and a repeat urinalysis confirms the findings. Which of the following is the most appropriate next step to evaluate for bladder cancer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystoscopy with urine cytology"
+        },
+        {
+          "label": "B",
+          "text": "Empiric antibiotic therapy with repeat urinalysis"
+        },
+        {
+          "label": "C",
+          "text": "Percutaneous renal biopsy"
+        },
+        {
+          "label": "D",
+          "text": "Radionuclide imaging of the skeleton"
+        },
+        {
+          "label": "E",
+          "text": "Serum prostate-specific antigen measurement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Once cystitis and glomerular disease are excluded, cystoscopy is the gold standard for the initial diagnosis of bladder cancer and is combined with urine cytology.",
+        "whyCorrect": "In a patient with confirmed hematuria and no white blood cells, bacteria, proteinuria, or casts, infection and glomerular disease are effectively excluded. Cystoscopy, typically performed as an outpatient procedure with a flexible cystoscope, is the gold standard for initial diagnosis, and adding urine cytology can detect lesions missed at cystoscopy or lesions of the upper urinary tract.",
+        "whyWrongByChoice": {
+          "B": "There are no white blood cells or bacteria, so cystitis is already ruled out and antibiotics are not indicated.",
+          "C": "Renal biopsy addresses glomerular disease, which is unlikely without proteinuria or casts.",
+          "D": "Skeletal radionuclide imaging assesses distant metastasis after a cancer is diagnosed, not as the initial diagnostic step.",
+          "E": "PSA testing evaluates the prostate and does not diagnose the source of isolated hematuria in the bladder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "cystoscopy",
+        "hematuria-workup"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-009",
+      "stem": "A 70-year-old male smoker presents with hematuria, a weakened urinary stream, and a sensation of incomplete bladder emptying. He also reports new right flank pain. CT shows a bladder tumor overlying the right ureteral orifice. Which of the following best explains his flank pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydronephrosis from tumor obstruction of urine outflow"
+        },
+        {
+          "label": "B",
+          "text": "Ascending bacterial infection of the renal pelvis"
+        },
+        {
+          "label": "C",
+          "text": "Embolic infarction of the right kidney"
+        },
+        {
+          "label": "D",
+          "text": "Immune complex deposition in the glomeruli"
+        },
+        {
+          "label": "E",
+          "text": "Passage of a calcium oxalate stone down the ureter"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A bladder tumor blocking the ureteral orifice backs urine up into the kidney, causing hydronephrosis, flank pain, and renal obstruction.",
+        "whyCorrect": "Less commonly, bladder cancer causes decreased force of stream and incomplete voiding when the tumor blocks the bladder neck or a ureteral orifice. In these cases patients may experience flank pain due to hydronephrosis, which is swelling of the kidney from the backup of urine, along with renal obstruction.",
+        "whyWrongByChoice": {
+          "B": "Pyelonephritis would produce fever and pyuria, which are absent, and it does not follow from a mass at the ureteral orifice.",
+          "C": "Renal infarction from emboli is unrelated to the obstructing tumor demonstrated on imaging.",
+          "D": "Glomerular disease presents with proteinuria and casts rather than obstructive flank pain from a bladder mass.",
+          "E": "A ureteral stone can cause flank pain, but the imaging shows tumor obstruction at the ureteral orifice, not a stone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "presentation",
+        "hydronephrosis",
+        "obstruction"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-010",
+      "stem": "A 68-year-old woman is diagnosed with a low-grade papillary urothelial carcinoma of the bladder. Biopsy confirms the lesion is confined to the epithelium without extension through the basement membrane. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystoscopic local resection followed by intravesical gemcitabine"
+        },
+        {
+          "label": "B",
+          "text": "Radical cystectomy with removal of the urethra and ovaries"
+        },
+        {
+          "label": "C",
+          "text": "Neoadjuvant cisplatin-based chemotherapy followed by cystectomy"
+        },
+        {
+          "label": "D",
+          "text": "Systemic enfortumab combined with pembrolizumab"
+        },
+        {
+          "label": "E",
+          "text": "Oral erdafitinib after FGFR mutation testing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Superficial noninvasive urothelial carcinoma is treated with cystoscopic local resection followed by intravesical therapy.",
+        "whyCorrect": "For superficial disease confined to the bladder epithelium, including papillary and flat noninvasive lesions, cystoscopy with local resection is used, followed by instillation of chemotherapy agents into the bladder. This intravesicular therapy is usually gemcitabine, an antimetabolite, and can also be BCG, which induces inflammation that helps treat superficial disease.",
+        "whyWrongByChoice": {
+          "B": "Radical cystectomy is reserved for muscle-invasive disease or squamous cell carcinoma, not a noninvasive papillary lesion.",
+          "C": "Neoadjuvant chemotherapy followed by cystectomy is the approach for cancer that has invaded the bladder muscle.",
+          "D": "Enfortumab with pembrolizumab is used for invasive and metastatic disease in eligible patients.",
+          "E": "Erdafitinib is a gene-targeted option for FGFR-mutated invasive or metastatic disease, not first-line therapy for a superficial tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "intravesical-therapy",
+        "superficial-disease"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-011",
+      "stem": "A 63-year-old man undergoes transurethral resection of a bladder tumor. Pathology shows urothelial carcinoma invading the detrusor muscle. Staging studies show no lymph node involvement or distant metastases. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cisplatin-based chemotherapy followed by radical cystectomy"
+        },
+        {
+          "label": "B",
+          "text": "Cystoscopic local resection with intravesical BCG"
+        },
+        {
+          "label": "C",
+          "text": "Repeated intravesical gemcitabine instillations alone"
+        },
+        {
+          "label": "D",
+          "text": "Immediate cystectomy without preoperative chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Erdafitinib monotherapy without mutation testing"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Muscle-invasive bladder cancer is best treated with neoadjuvant cisplatin-based chemotherapy followed by radical cystectomy.",
+        "whyCorrect": "For bladder cancer that has invaded the bladder muscle, the best treatment is chemotherapy given before surgery, usually cisplatin with gemcitabine or paclitaxel, followed by radical cystectomy. In males the surgery includes removal of the prostate, seminal vesicles, and proximal urethra, and immunotherapy is sometimes given after surgery.",
+        "whyWrongByChoice": {
+          "B": "Local resection with intravesical BCG treats superficial disease confined to the epithelium, not muscle-invasive cancer.",
+          "C": "Intravesical chemotherapy alone is inadequate once the tumor has penetrated the detrusor muscle.",
+          "D": "Proceeding straight to cystectomy omits the neoadjuvant chemotherapy that defines the best approach for muscle-invasive disease.",
+          "E": "Erdafitinib is reserved for patients whose biopsied cells carry a specific FGFR mutation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "muscle-invasive",
+        "radical-cystectomy"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    },
+    {
+      "id": "en39-012",
+      "stem": "A 71-year-old man with metastatic urothelial carcinoma involving the liver undergoes molecular testing of his biopsied tumor cells, which reveals a specific FGFR mutation. Which of the following therapies is directed at this mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erdafitinib"
+        },
+        {
+          "label": "B",
+          "text": "Enfortumab"
+        },
+        {
+          "label": "C",
+          "text": "Pembrolizumab"
+        },
+        {
+          "label": "D",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "E",
+          "text": "Bacillus Calmette-Guerin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Erdafitinib is the first gene-targeted therapy for urothelial carcinoma, used when a specific FGFR mutation is present.",
+        "whyCorrect": "Biopsied cells from patients with invasive or metastatic UCC can be tested for a specific FGFR mutation, and patients who carry it can be treated with erdafitinib, an FGFR-directed agent. This first gene-targeted therapy for UCC shows promise for improved future treatment.",
+        "whyWrongByChoice": {
+          "B": "Enfortumab targets Nectin-4, not FGFR, and is paired with pembrolizumab for eligible patients.",
+          "C": "Pembrolizumab is a PD-1 inhibitor immunotherapy and does not act on the FGFR mutation.",
+          "D": "Cisplatin is conventional platinum-based chemotherapy without any mutation-specific targeting.",
+          "E": "BCG is an intravesical agent for superficial disease and has no role directed at FGFR-mutated metastatic cancer."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "erdafitinib",
+        "targeted-therapy"
+      ],
+      "topicId": "bladder-cancer",
+      "topicName": "Bladder Cancer"
+    }
+  ]
+}

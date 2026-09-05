@@ -1,0 +1,1104 @@
+{
+  "categoryId": "micturition-bladder-dysfunction",
+  "categoryName": "Micturition & Bladder Dysfunction",
+  "questions": [
+    {
+      "id": "en40-001",
+      "stem": "A pharmaceutical company is developing a drug for overactive bladder that promotes the storage phase by directly relaxing detrusor smooth muscle to allow low-pressure filling. An agonist at which of the following receptors would best achieve this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-1 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta-3 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "M3 muscarinic receptor"
+        },
+        {
+          "label": "D",
+          "text": "M2 muscarinic receptor"
+        },
+        {
+          "label": "E",
+          "text": "Nicotinic acetylcholine receptor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beta-3 adrenergic activation on the detrusor raises cAMP and relaxes the bladder for low-pressure filling.",
+        "whyCorrect": "During storage, sympathetic fibers release norepinephrine onto beta-3 receptors on the detrusor. These receptors activate adenylyl cyclase, increasing cAMP and promoting smooth muscle relaxation, which lets the bladder fill at low pressure. A beta-3 agonist reproduces this storage-phase signal.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 receptors are on the internal urethral sphincter and drive contraction via Gq/IP3; they maintain outlet resistance rather than relaxing the detrusor.",
+          "C": "M3 activation raises intracellular calcium via Gq/phospholipase C and drives sustained detrusor contraction, the opposite of the desired effect.",
+          "D": "M2 activation inhibits cAMP-mediated relaxation, amplifying detrusor contraction rather than promoting relaxation.",
+          "E": "Nicotinic receptors are on the striated muscle of the external urethral sphincter and mediate its contraction, not detrusor relaxation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "beta-3 receptor",
+        "storage phase",
+        "pharmacology"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-002",
+      "stem": "A 68-year-old man is started on an alpha-1 adrenergic antagonist. Two weeks later he reports new dribbling of urine between voids. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced internal sphincter contraction, lowering outlet resistance"
+        },
+        {
+          "label": "B",
+          "text": "Increased detrusor relaxation from elevated cAMP levels"
+        },
+        {
+          "label": "C",
+          "text": "Blocked nicotinic transmission at the external sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced M3-mediated contraction of the detrusor muscle"
+        },
+        {
+          "label": "E",
+          "text": "Loss of stretch signaling from bladder afferent fibers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alpha-1 receptors on the internal urethral sphincter maintain outlet resistance during storage; blocking them promotes leakage.",
+        "whyCorrect": "Sympathetic norepinephrine acts on alpha-1 receptors on the internal urethral sphincter, signaling through Gq/IP3 to drive smooth muscle contraction and maintain outlet resistance during filling. An alpha-1 antagonist removes this tone, so the outlet offers less resistance and urine can leak.",
+        "whyWrongByChoice": {
+          "B": "Detrusor relaxation during storage is mediated by beta-3 receptors raising cAMP; an alpha-1 antagonist does not act on that pathway.",
+          "C": "The external sphincter uses nicotinic receptors activated by the pudendal nerve; alpha-1 blockade does not affect nicotinic transmission.",
+          "D": "M3 receptors respond to parasympathetic acetylcholine, not to alpha-adrenergic drugs; the antagonist does not enhance detrusor contraction.",
+          "E": "Stretch sensation is carried by A-delta afferents in the bladder wall and is not blocked by alpha-1 antagonists."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "alpha-1 receptor",
+        "internal urethral sphincter",
+        "pharmacology"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-003",
+      "stem": "A 74-year-old woman with urgency incontinence is prescribed an antagonist of the muscarinic receptor that is the primary driver of sustained detrusor contraction. This drug most directly interferes with which of the following signaling events?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenylyl cyclase activation with increased cAMP"
+        },
+        {
+          "label": "B",
+          "text": "Gq/phospholipase C signaling with increased intracellular calcium"
+        },
+        {
+          "label": "C",
+          "text": "Gq/IP3 signaling in the internal urethral sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of cAMP-mediated smooth muscle relaxation"
+        },
+        {
+          "label": "E",
+          "text": "Direct acetylcholine action on striated sphincter muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "M3 muscarinic receptors drive sustained detrusor contraction through Gq/phospholipase C and increased intracellular calcium.",
+        "whyCorrect": "Parasympathetic fibers from S2-S4 release acetylcholine onto detrusor M3 receptors, which signal via Gq/phospholipase C to raise intracellular calcium and produce sustained detrusor contraction. Blocking M3 therefore interrupts this calcium-dependent contraction pathway and reduces involuntary contractions.",
+        "whyWrongByChoice": {
+          "A": "Adenylyl cyclase activation and increased cAMP is the beta-3 adrenergic pathway that relaxes the detrusor; it is not the M3 mechanism.",
+          "C": "Gq/IP3 signaling in the internal sphincter belongs to alpha-1 adrenergic receptors, not the detrusor M3 receptor.",
+          "D": "Inhibition of cAMP-mediated relaxation is the M2 receptor's amplifying mechanism, not the primary M3 contraction pathway.",
+          "E": "Direct acetylcholine action on striated muscle describes nicotinic receptors at the external sphincter, which muscarinic antagonists do not block."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "M3 receptor",
+        "signaling",
+        "detrusor"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-004",
+      "stem": "During a difficult pelvic operation, a 41-year-old woman sustains injury to a nerve arising from Onuf's nucleus at spinal levels S2-S4. Which of the following functions is most likely to be impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voluntary contraction of the external urethral sphincter"
+        },
+        {
+          "label": "B",
+          "text": "Sustained detrusor contraction during voiding"
+        },
+        {
+          "label": "C",
+          "text": "Internal sphincter contraction during bladder filling"
+        },
+        {
+          "label": "D",
+          "text": "Detrusor relaxation during low-pressure filling"
+        },
+        {
+          "label": "E",
+          "text": "Transmission of stretch signals from the bladder wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pudendal nerve arises from Onuf's nucleus and provides somatic, voluntary control of the external urethral sphincter.",
+        "whyCorrect": "The pudendal nerve originates in Onuf's nucleus at S2-S4 and releases acetylcholine onto nicotinic receptors on the striated muscle of the external urethral sphincter. Because the EUS is striated muscle under somatic control, it is the primary site of voluntary continence, and pudendal injury impairs voluntary sphincter contraction.",
+        "whyWrongByChoice": {
+          "B": "Detrusor contraction is driven by parasympathetic fibers of the pelvic nerve acting on muscarinic receptors, not by the pudendal nerve.",
+          "C": "Internal sphincter contraction is mediated by sympathetic alpha-1 signaling from the hypogastric nerve (T10-L2).",
+          "D": "Detrusor relaxation during filling depends on sympathetic beta-3 receptor activation, which does not travel in the pudendal nerve.",
+          "E": "Stretch signals travel in A-delta afferent fibers via the pelvic nerve, not in the pudendal nerve."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pudendal nerve",
+        "Onuf's nucleus",
+        "external urethral sphincter"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-005",
+      "stem": "In an animal study of bladder function, nerve recordings during one phase of the micturition cycle show high hypogastric nerve activity, high pudendal nerve activity, and minimal pelvic nerve activity. Which of the following bladder states is most likely present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relaxed detrusor with both urethral sphincters contracted"
+        },
+        {
+          "label": "B",
+          "text": "Contracting detrusor with both urethral sphincters relaxed"
+        },
+        {
+          "label": "C",
+          "text": "Contracting detrusor with both urethral sphincters contracted"
+        },
+        {
+          "label": "D",
+          "text": "Relaxed detrusor with both urethral sphincters relaxed"
+        },
+        {
+          "label": "E",
+          "text": "Relaxed detrusor with a contracted internal but relaxed external sphincter"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sympathetic plus pudendal dominance with low parasympathetic activity defines the storage phase: a compliant bladder with a closed outlet.",
+        "whyCorrect": "High hypogastric (sympathetic) output relaxes the detrusor via beta-3 receptors and contracts the internal sphincter via alpha-1 receptors, while high pudendal activity contracts the external sphincter through nicotinic receptors. With minimal pelvic (parasympathetic) activity, there is no detrusor contraction, so the bladder fills at low pressure behind a closed, high-resistance outlet.",
+        "whyWrongByChoice": {
+          "B": "A contracting detrusor with relaxed sphincters is the voiding pattern, which requires dominant pelvic activity and suppressed sympathetic and pudendal output.",
+          "C": "Simultaneous detrusor and sphincter contraction describes dyssynergia, and it would require active parasympathetic (pelvic) output, which is minimal here.",
+          "D": "Relaxation of both sphincters cannot occur while hypogastric and pudendal activity are high, since these signals actively contract the sphincters.",
+          "E": "High pudendal activity contracts the external sphincter, so the EUS would not be relaxed in this recording."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "storage phase",
+        "neural output patterns"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-006",
+      "stem": "In an experimental model, electrodes selectively stimulate Barrington's nucleus in the dorsal pons. Which of the following responses is most likely to occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Detrusor contraction with simultaneous external sphincter relaxation"
+        },
+        {
+          "label": "B",
+          "text": "Detrusor relaxation with increased external sphincter tone"
+        },
+        {
+          "label": "C",
+          "text": "Isolated external sphincter contraction without detrusor change"
+        },
+        {
+          "label": "D",
+          "text": "Detrusor contraction with increased external sphincter tone"
+        },
+        {
+          "label": "E",
+          "text": "Detrusor relaxation with external sphincter relaxation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pontine micturition center is the master switch for voiding, simultaneously exciting sacral parasympathetics and inhibiting Onuf's nucleus.",
+        "whyCorrect": "The PMC (Barrington's nucleus) sends excitatory signals to sacral parasympathetic neurons, triggering detrusor contraction, while sending inhibitory signals to Onuf's nucleus, suppressing pudendal activity and relaxing the external sphincter. Stimulating it therefore produces the coordinated voiding pattern.",
+        "whyWrongByChoice": {
+          "B": "Detrusor relaxation with sphincter contraction is the storage pattern, driven by sympathetic and pudendal activity, not by the PMC.",
+          "C": "The PMC inhibits Onuf's nucleus rather than driving sphincter contraction, and it simultaneously excites the parasympathetic outflow to the detrusor.",
+          "D": "Detrusor contraction against a contracted sphincter is dyssynergia, which reflects failed PMC coordination, not intact PMC activation.",
+          "E": "PMC activation contracts the detrusor via sacral parasympathetics; the bladder does not remain relaxed."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pontine micturition center",
+        "voiding phase"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-007",
+      "stem": "A 45-year-old man has a brainstem stroke. Afterward he strains to urinate and feels incomplete emptying. Urodynamic testing shows detrusor contractions occurring against a contracted external urethral sphincter. Damage to which of the following structures best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Periaqueductal gray of the midbrain"
+        },
+        {
+          "label": "B",
+          "text": "Pontine micturition center"
+        },
+        {
+          "label": "C",
+          "text": "Onuf's nucleus in the sacral cord"
+        },
+        {
+          "label": "D",
+          "text": "Prefrontal cortex"
+        },
+        {
+          "label": "E",
+          "text": "Sacral parasympathetic neurons"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Detrusor-sphincter dyssynergia reflects loss of the PMC's simultaneous coordination of detrusor contraction and sphincter relaxation.",
+        "whyCorrect": "Voiding requires the PMC to excite sacral parasympathetic neurons while inhibiting Onuf's nucleus so that detrusor contraction and sphincter relaxation occur simultaneously. A pontine lesion removes this coordination, so incomplete suppression of pudendal activity leaves the sphincter contracted during detrusor contraction, producing dyssynergia with incomplete or obstructed voiding.",
+        "whyWrongByChoice": {
+          "A": "The PAG is a midbrain relay that gates the voiding signal; the patient's lesion is pontine, and detrusor contractions are still being generated, so afferent relay is intact.",
+          "C": "Onuf's nucleus damage would weaken external sphincter contraction, causing leakage rather than a persistently contracted sphincter during voiding.",
+          "D": "Prefrontal cortex lesions impair the decision to defer voiding and its tonic inhibition of PAG-PMC; they do not produce simultaneous detrusor-sphincter contraction.",
+          "E": "Loss of sacral parasympathetic neurons would abolish detrusor contractions, but urodynamics show the detrusor is contracting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyssynergia",
+        "pontine micturition center",
+        "clinical"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-008",
+      "stem": "As the bladder fills, ascending signals from A-delta stretch afferents travel through the spinal cord toward the brain. Which of the following structures first receives these ascending signals and integrates them with descending cortical input?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pontine micturition center"
+        },
+        {
+          "label": "B",
+          "text": "Periaqueductal gray"
+        },
+        {
+          "label": "C",
+          "text": "Prefrontal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Anterior cingulate cortex"
+        },
+        {
+          "label": "E",
+          "text": "Onuf's nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ascending A-delta signals first reach the periaqueductal gray, which relays and gates the voiding signal based on cortical input.",
+        "whyCorrect": "The PAG in the midbrain is the first supraspinal target of ascending bladder fullness signals. It acts as a relay and integrator, receiving stretch information alongside descending input from the prefrontal cortex and limbic areas, and it gates the signal by context before activating the pontine micturition center.",
+        "whyWrongByChoice": {
+          "A": "The PMC is activated downstream of the PAG once conditions are appropriate; it is the voiding switch, not the first relay of afferent signals.",
+          "C": "The prefrontal cortex sends descending modulation to the PAG and receives relayed fullness information; it is not the first recipient of ascending signals.",
+          "D": "The anterior cingulate cortex participates in tonic inhibitory control over the PAG-PMC pathway, not in first-line afferent relay.",
+          "E": "Onuf's nucleus contains pudendal motor neurons in the sacral cord; it is a motor output site, not an integrator of ascending stretch signals."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "periaqueductal gray",
+        "neural control loop"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-009",
+      "stem": "In a physiology laboratory, investigators measure the neural signals that encode bladder volume and wall tension during filling. Which of the following fiber types carries this information to the spinal cord?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myelinated A-delta afferents traveling in the pelvic nerve"
+        },
+        {
+          "label": "B",
+          "text": "Unmyelinated C afferents traveling in the hypogastric nerve"
+        },
+        {
+          "label": "C",
+          "text": "Parasympathetic efferent fibers of the pelvic nerve"
+        },
+        {
+          "label": "D",
+          "text": "Somatic motor fibers of the pudendal nerve"
+        },
+        {
+          "label": "E",
+          "text": "Sympathetic efferent fibers of the hypogastric nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bladder stretch is detected by myelinated A-delta afferents that travel rapidly to the spinal cord via the pelvic nerve.",
+        "whyCorrect": "As the bladder fills, wall tension rises and is detected by A-delta myelinated afferent fibers in the bladder wall, which encode bladder volume and wall tension. These fibers transmit signals rapidly to the spinal cord via the pelvic nerve and ascend to supraspinal centers to initiate the voiding reflex.",
+        "whyWrongByChoice": {
+          "B": "The lecture attributes volume and tension encoding to myelinated A-delta fibers in the pelvic nerve, not unmyelinated fibers in the hypogastric nerve.",
+          "C": "Parasympathetic efferents of the pelvic nerve carry motor commands to the detrusor; they do not carry stretch information toward the cord.",
+          "D": "Pudendal fibers are somatic motor output to the external sphincter, not sensory afferents from the bladder wall.",
+          "E": "Hypogastric sympathetic fibers are efferents that relax the detrusor and contract the internal sphincter; they are not the stretch afferents."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "A-delta afferents",
+        "stretch signaling"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-010",
+      "stem": "A 29-year-old man has an incomplete spinal cord injury at the T6 level. Despite disrupted communication with supraspinal centers, his external urethral sphincter still tightens when he coughs, and he remains continent during these episodes. Which of the following best explains this preserved response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A spinal loop in which bladder afferents activate pudendal motor neurons via sacral interneurons"
+        },
+        {
+          "label": "B",
+          "text": "Preserved tonic inhibition of the PAG-PMC pathway by the prefrontal cortex"
+        },
+        {
+          "label": "C",
+          "text": "Intact pontine coordination of detrusor contraction and sphincter relaxation"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic beta-3 signaling that relaxes the detrusor during filling"
+        },
+        {
+          "label": "E",
+          "text": "Passive opening of the internal sphincter as the bladder neck descends"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The guarding reflex is a spinal loop that reinforces EUS contraction and operates independently of supraspinal control.",
+        "whyCorrect": "The guarding reflex increases external sphincter contraction in response to rising bladder pressure or sudden intra-abdominal pressure, such as coughing. It is mediated entirely within the cord: bladder afferents activate pudendal motor neurons via interneurons in the sacral cord, independent of supraspinal control, which is why some continence is preserved after incomplete spinal cord injuries.",
+        "whyWrongByChoice": {
+          "B": "Cortical inhibition of PAG-PMC modulates the voiding threshold; it does not generate reflexive sphincter tightening with coughing, and its descending path is disrupted by the injury.",
+          "C": "The PMC coordinates voiding, not the cough-related continence response, and its descending output is compromised by the cord lesion.",
+          "D": "Beta-3 mediated detrusor relaxation supports low-pressure filling but does not tighten the external sphincter during coughing.",
+          "E": "Passive internal sphincter opening occurs during voiding as the detrusor contracts; it is unrelated to preserved sphincter tightening during coughing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "guarding reflex",
+        "spinal cord injury"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-011",
+      "stem": "A 60-year-old man sustains a traumatic injury involving the prefrontal cortex. Afterward, he voids as soon as he feels his bladder is full and cannot postpone urination in public places. Loss of which of the following functions best explains this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tonic inhibitory control over the PAG-PMC pathway"
+        },
+        {
+          "label": "B",
+          "text": "Pudendal nerve output to the external sphincter"
+        },
+        {
+          "label": "C",
+          "text": "A-delta afferent transmission from the bladder wall"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic outflow from spinal levels T10-L2"
+        },
+        {
+          "label": "E",
+          "text": "The sacral spinal loop of the guarding reflex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The prefrontal and anterior cingulate cortices tonically inhibit the PAG-PMC pathway, raising the voiding threshold and enabling voluntary deferral.",
+        "whyCorrect": "During storage, the prefrontal cortex and anterior cingulate cortex exert tonic inhibitory control over the PAG-PMC pathway. This raises the threshold for voiding, allowing the bladder to fill beyond the point at which stretch afferents first fire, and the decision to void or defer is a cortical function shaped by social context. Losing this inhibition makes voiding occur as soon as fullness is sensed.",
+        "whyWrongByChoice": {
+          "B": "Pudendal output arises from Onuf's nucleus in the sacral cord; a cortical injury does not abolish it, and its loss would cause sphincter weakness rather than inability to defer.",
+          "C": "A-delta transmission is intact; the patient clearly senses fullness, which requires functioning stretch afferents.",
+          "D": "Sympathetic storage signals from T10-L2 are spinal in origin and are not eliminated by prefrontal injury.",
+          "E": "The guarding reflex is a spinal loop independent of supraspinal control, so cortical injury does not remove it."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cortical modulation",
+        "voiding threshold"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en40-012",
+      "stem": "A 58-year-old woman reports sudden, intense urges to urinate followed by leakage before she can reach a bathroom. Urodynamic testing shows involuntary detrusor contractions during filling, occurring well before the bladder reaches normal capacity. Which of the following best explains her leakage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Premature detrusor contractions overwhelming sphincter resistance"
+        },
+        {
+          "label": "B",
+          "text": "Detrusor contraction against a persistently contracted sphincter"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the guarding reflex during increases in abdominal pressure"
+        },
+        {
+          "label": "D",
+          "text": "Loss of alpha-1 mediated internal sphincter tone during storage"
+        },
+        {
+          "label": "E",
+          "text": "Excess beta-3 signaling causing continuous detrusor relaxation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Detrusor overactivity produces involuntary contractions before normal capacity that overwhelm sphincter resistance, causing urgency and leakage.",
+        "whyCorrect": "This is the pattern of detrusor overactivity: parasympathetic activity or detrusor hypersensitivity causes involuntary detrusor contractions during filling, before the bladder reaches normal capacity. These premature contractions overwhelm sphincter resistance, producing urgency and leakage, a storage-phase dysfunction.",
+        "whyWrongByChoice": {
+          "B": "Detrusor contraction against a contracted sphincter is dyssynergia, which causes incomplete or obstructed voiding rather than urgency leakage during filling.",
+          "C": "Guarding reflex failure would cause leakage with coughing or exercise; it does not produce involuntary detrusor contractions on urodynamics.",
+          "D": "Loss of internal sphincter tone lowers outlet resistance but would not generate the involuntary detrusor contractions documented during filling.",
+          "E": "Beta-3 signaling relaxes the detrusor for storage; excess relaxation would oppose, not produce, involuntary contractions."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "detrusor overactivity",
+        "urgency incontinence",
+        "clinical"
+      ],
+      "topicId": "micturition",
+      "topicName": "Micturition"
+    },
+    {
+      "id": "en41-001",
+      "stem": "A 58-year-old woman comes to the office because of urine leakage for 8 months. She leaks small volumes of urine when she coughs, laughs, or lifts groceries. She denies urgency, dysuria, and nocturia. She has had four uncomplicated vaginal deliveries. Pelvic examination is unremarkable, and urinalysis is normal. Which of the following is the most likely mechanism of her incontinence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Involuntary detrusor contractions during bladder filling"
+        },
+        {
+          "label": "B",
+          "text": "Loss of urethral support from weakened levator ani muscles"
+        },
+        {
+          "label": "C",
+          "text": "Chronic bladder overdistension with weak detrusor contractions"
+        },
+        {
+          "label": "D",
+          "text": "Urethral compression from pelvic organ prolapse"
+        },
+        {
+          "label": "E",
+          "text": "Impaired sensation of bladder fullness from autonomic neuropathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Stress incontinence is small-volume leakage with increased abdominal pressure due to loss of mechanical urethral support by weakened levator ani muscles.",
+        "whyCorrect": "Leakage of small urine volumes during laughing, coughing, or lifting is classic stress incontinence. It results from lack of mechanical support of the urethra by weakened levator ani muscles and is most common in women with a history of multiple vaginal deliveries, as in this patient.",
+        "whyWrongByChoice": {
+          "A": "Involuntary detrusor contractions cause urge incontinence, which presents with a sudden, intense urge to urinate rather than leakage triggered by abdominal pressure.",
+          "C": "Overdistension with weak detrusor contractions causes overflow incontinence, which presents with continuous dribbling and postvoid leakage, not cough-triggered leaks.",
+          "D": "Pelvic organ prolapse such as a cystocele causes bladder outlet obstruction leading to overflow incontinence; her pelvic examination is also unremarkable.",
+          "E": "Autonomic neuropathy impairs sensation of fullness and causes painless distension with overflow incontinence, typically in patients with diabetes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stress-incontinence",
+        "pathophysiology",
+        "pelvic-floor"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-002",
+      "stem": "A 67-year-old man with a 20-year history of poorly controlled type 2 diabetes mellitus reports continuous dribbling of urine and leakage after voiding. He also notes a weak urinary stream, hesitancy, and nocturia. Digital rectal examination shows a normal-sized prostate. Postvoid residual volume measured by catheterization is 420 mL. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stress incontinence from weak urethral support"
+        },
+        {
+          "label": "B",
+          "text": "Urge incontinence from detrusor hyperactivity"
+        },
+        {
+          "label": "C",
+          "text": "Overflow incontinence from detrusor underactivity"
+        },
+        {
+          "label": "D",
+          "text": "Overflow incontinence from bladder outlet obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Functional incontinence from impaired mobility"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Diabetic autonomic neuropathy causes detrusor underactivity, producing a flaccid bladder that overdistends and leaks by overflow.",
+        "whyCorrect": "Continuous dribbling, postvoid leakage, weak stream, hesitancy, nocturia, and a markedly elevated postvoid residual indicate overflow incontinence. In a long-standing diabetic with a normal-sized prostate, the cause is detrusor underactivity from autonomic neuropathy, which impairs both bladder sensation and contraction so the bladder fills until pressure overcomes outlet resistance.",
+        "whyWrongByChoice": {
+          "A": "Stress incontinence causes small leaks with coughing or laughing due to increased abdominal pressure, and it is not associated with a large postvoid residual.",
+          "B": "Urge incontinence causes a sudden, intense urge with frequent small-volume voids; the bladder empties rather than retaining hundreds of milliliters.",
+          "D": "Outlet obstruction can cause overflow incontinence, but his prostate is normal-sized on examination, while his long-standing diabetes points to a neurogenic, underactive detrusor.",
+          "E": "Functional incontinence is leakage due to cognitive or mobility barriers to reaching a toilet, not retention with a high postvoid residual."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "overflow-incontinence",
+        "diabetes",
+        "neurogenic-bladder"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-003",
+      "stem": "A 61-year-old woman with urge incontinence has taken oxybutynin for 3 months. Her urgency has improved, but she reports intolerable dry mouth and constipation, so she is switched to mirabegron. Which of the following should be monitored most closely after this medication change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum potassium concentration"
+        },
+        {
+          "label": "B",
+          "text": "Blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "Intraocular pressure"
+        },
+        {
+          "label": "D",
+          "text": "Fasting glucose concentration"
+        },
+        {
+          "label": "E",
+          "text": "Serum creatinine concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The key safety consideration with mirabegron, a beta-3 agonist for overactive bladder, is its potential to raise blood pressure.",
+        "whyCorrect": "Mirabegron stimulates beta-3 receptors in the detrusor during the storage phase, relaxing the muscle and increasing bladder capacity. It is often chosen when antimuscarinic adverse effects such as dry mouth and constipation limit therapy, and its principal safety concern is elevation of blood pressure; headaches and palpitations can also occur but are less common.",
+        "whyWrongByChoice": {
+          "A": "Potassium disturbances are not a described adverse effect of beta-3 agonist therapy for overactive bladder.",
+          "C": "Raised intraocular pressure is a concern with antimuscarinics, which should be avoided in narrow-angle glaucoma; she is stopping that class.",
+          "D": "Mirabegron is not associated with dysglycemia; glucose monitoring relates to her general health, not this drug switch.",
+          "E": "Renal function changes are not the characteristic safety issue with mirabegron; hemodynamic effects are."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mirabegron",
+        "pharmacology",
+        "overactive-bladder"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-004",
+      "stem": "A 24-year-old man sustained a complete spinal cord injury at the T4 level in a motor vehicle collision 6 months ago. He now has episodes of urinary incontinence, and urodynamic studies show high-pressure detrusor contractions occurring against a closed urethral sphincter. This voiding pattern places him at greatest risk for which of the following complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secondary vesicoureteral reflux"
+        },
+        {
+          "label": "B",
+          "text": "Acute bacterial epididymitis"
+        },
+        {
+          "label": "C",
+          "text": "Bulbar urethral stricture formation"
+        },
+        {
+          "label": "D",
+          "text": "Traumatic penile skin ulceration"
+        },
+        {
+          "label": "E",
+          "text": "Orthostatic hypotension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Detrusor-sphincter dyssynergia after suprasacral spinal cord injury drives urine backward, causing secondary vesicoureteral reflux.",
+        "whyCorrect": "Bladder contractions against a closed sphincter define detrusor-sphincter dyssynergia, a pattern seen after spinal cord injury. Because the outlet stays closed while the detrusor generates high pressure, urine refluxes up the ureters, producing secondary vesicoureteral reflux.",
+        "whyWrongByChoice": {
+          "B": "Epididymitis is a risk of indwelling urinary catheters in males, not a direct consequence of dyssynergic voiding.",
+          "C": "Urethral stricture is a cause of bladder outlet obstruction and overflow incontinence, not a complication produced by dyssynergia.",
+          "D": "Penile trauma is a risk of an improperly placed condom catheter, not of high-pressure detrusor contractions.",
+          "E": "Orthostatic hypotension is a hemodynamic adverse effect of alpha-1 blocker therapy, unrelated to this urodynamic pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "spinal-cord-injury",
+        "detrusor-sphincter-dyssynergia",
+        "vesicoureteral-reflux"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-005",
+      "stem": "A 70-year-old man has urinary hesitancy, a weak stream, and a sensation of incomplete bladder emptying with nighttime dribbling. Digital rectal examination shows a symmetrically enlarged prostate. Urinalysis is normal, and postvoid residual volume is elevated. In addition to lifestyle modification, which of the following medications is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "B",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "C",
+          "text": "Tamsulosin"
+        },
+        {
+          "label": "D",
+          "text": "Mirabegron"
+        },
+        {
+          "label": "E",
+          "text": "Phenylephrine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "BPH-related obstruction is a problem of too much outlet resistance, treated by relaxing prostatic and bladder neck smooth muscle with an alpha-1 blocker.",
+        "whyCorrect": "Hesitancy, weak stream, incomplete emptying, and elevated postvoid residual in a man with an enlarged prostate indicate bladder outlet obstruction from BPH. Alpha-1 blockers such as tamsulosin relax smooth muscle in the prostate and bladder neck, reducing outlet resistance, improving urine flow, and facilitating more complete emptying.",
+        "whyWrongByChoice": {
+          "A": "Bethanechol stimulates detrusor contraction for a hypotonic, flaccid bladder; his problem is outlet resistance, not weak detrusor drive.",
+          "B": "Oxybutynin is an antimuscarinic for detrusor overactivity and can worsen urinary retention in a patient with impaired emptying.",
+          "D": "Mirabegron relaxes the detrusor during storage for overactive bladder and does not address outlet obstruction.",
+          "E": "Alpha-1 agonists such as phenylephrine increase outlet smooth muscle contraction and are no longer used, being only mildly effective with a high rate of adverse effects."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "bph",
+        "alpha-1-blockers",
+        "overflow-incontinence"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-006",
+      "stem": "A 66-year-old woman reports worsening leakage of urine when she sneezes or laughs since her antihypertensive regimen was changed 2 months ago. Her current medications are doxazosin, metformin, atorvastatin, levothyroxine, and omeprazole. Which of the following medications is most likely contributing to her incontinence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doxazosin"
+        },
+        {
+          "label": "B",
+          "text": "Metformin"
+        },
+        {
+          "label": "C",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "D",
+          "text": "Levothyroxine"
+        },
+        {
+          "label": "E",
+          "text": "Omeprazole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alpha-1 blocking drugs relax the internal urethral sphincter and can cause or worsen stress incontinence.",
+        "whyCorrect": "Doxazosin is an alpha-1 blocker. By relaxing the internal urethral sphincter, alpha-1 blockade lowers outlet resistance, so leakage with sneezing or laughing worsens. Recognizing contributing medications is a key step before escalating incontinence treatment.",
+        "whyWrongByChoice": {
+          "B": "Metformin is not described as a cause of incontinence; diabetes itself causes bladder dysfunction through neuropathy over years, not weeks.",
+          "C": "Statins are not associated with worsening urinary incontinence.",
+          "D": "Levothyroxine does not relax the urethral sphincter or provoke stress leakage.",
+          "E": "Proton pump inhibitors are not among the drug classes linked to incontinence, unlike alpha-1 blockers, diuretics, antidepressants, antihypertensives, and NSAIDs."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stress-incontinence",
+        "drug-adverse-effects",
+        "alpha-1-blockers"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-007",
+      "stem": "A 45-year-old woman with a flaccid neurogenic bladder after a cauda equina injury has persistent urinary retention despite bladder retraining. Her physician is considering bethanechol to promote bladder emptying. A history of which of the following conditions warrants the greatest caution before starting this medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Asthma"
+        },
+        {
+          "label": "B",
+          "text": "Hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Narrow-angle glaucoma"
+        },
+        {
+          "label": "D",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "E",
+          "text": "Hypothyroidism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bethanechol causes generalized muscarinic stimulation, including bronchospasm, so caution is warranted in reactive airway disease.",
+        "whyCorrect": "Bethanechol is a muscarinic agonist that stimulates M3 receptors to increase detrusor contractility in a hypotonic, flaccid bladder. Its adverse effects reflect generalized muscarinic stimulation, including abdominal cramping, salivation, sweating, bradycardia, and bronchospasm, so patients with reactive airway disease such as asthma require particular caution.",
+        "whyWrongByChoice": {
+          "B": "Raising blood pressure is the key safety concern with mirabegron, not with cholinergic therapy.",
+          "C": "Narrow-angle glaucoma is the condition to avoid with antimuscarinics such as oxybutynin, the opposite drug class.",
+          "D": "Bone density is not affected by muscarinic agonist therapy.",
+          "E": "Thyroid disease does not interact with the muscarinic effects of bethanechol in a clinically important way."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bethanechol",
+        "pharmacology",
+        "flaccid-bladder"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-008",
+      "stem": "A 59-year-old woman comes to the office because of 3 weeks of urinary urgency and frequency with several episodes of leakage before reaching the bathroom. She has no fever or flank pain. After a thorough history and physical examination, which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urinalysis"
+        },
+        {
+          "label": "B",
+          "text": "Urodynamic studies"
+        },
+        {
+          "label": "C",
+          "text": "Postvoid residual measurement by catheterization"
+        },
+        {
+          "label": "D",
+          "text": "Pelvic ultrasonography"
+        },
+        {
+          "label": "E",
+          "text": "Cystoscopy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After history and physical examination, evaluation of incontinence begins by ruling out urinary tract infection with urinalysis.",
+        "whyCorrect": "Any bladder irritation, including urinary tract infection, can cause an overactive bladder and urge incontinence. The diagnostic approach is therefore to rule out UTI with urinalysis, adding urine culture if needed, before pursuing specialized testing.",
+        "whyWrongByChoice": {
+          "B": "Urodynamic studies performed by a urologist measure flow rates, capacity, and detrusor pressure but are not the initial step before infection is excluded.",
+          "C": "Postvoid residual testing evaluates for retention and abnormal voiding; it is a specific test used after simple causes are excluded, and her picture suggests urgency rather than retention.",
+          "D": "Ultrasound can estimate postvoid residual without a catheter but is not the first step in a patient with new irritative symptoms.",
+          "E": "Cystoscopy is not part of the initial workup for new urgency and frequency."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "urinalysis",
+        "urge-incontinence"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-009",
+      "stem": "A 72-year-old woman with urge incontinence has persistent symptoms despite limiting caffeine and alcohol and losing weight. Her physician recommends bladder retraining. Which of the following instructions is most appropriate for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Void on a fixed schedule every 2 to 3 hours throughout the daytime"
+        },
+        {
+          "label": "B",
+          "text": "Gradually lengthen the time between voids toward every 3 to 4 hours"
+        },
+        {
+          "label": "C",
+          "text": "Void immediately whenever any urge to urinate is felt"
+        },
+        {
+          "label": "D",
+          "text": "Restrict all fluid intake during the daytime hours"
+        },
+        {
+          "label": "E",
+          "text": "Perform intermittent self-catheterization after each void"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In urge incontinence, bladder retraining progressively increases the interval between voids to a goal of every 3 to 4 hours.",
+        "whyCorrect": "For urge incontinence, the goal of bladder retraining is to train the bladder to hold urine for progressively longer periods: the patient may start by voiding every hour and then stretches the interval toward every 3 to 4 hours.",
+        "whyWrongByChoice": {
+          "A": "A fixed timed-voiding schedule every 2 to 3 hours is the retraining strategy for overflow incontinence, where the aim is to avoid overdistension.",
+          "C": "Voiding at every urge reinforces the overactive pattern instead of training the bladder to hold urine longer.",
+          "D": "Lifestyle advice is to reduce daily fluid intake appropriately and avoid large volumes at once, not to restrict all daytime fluids.",
+          "E": "Intermittent catheterization is used for retention and after spinal trauma or surgery, not as part of retraining for urge incontinence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bladder-retraining",
+        "urge-incontinence",
+        "behavioral-therapy"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-010",
+      "stem": "A 49-year-old woman with stress incontinence has had no meaningful improvement after 9 months of pelvic floor muscle exercises and a trial of a vaginal pessary. She asks about surgical options. Which of the following procedures is most appropriate for her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sling procedure"
+        },
+        {
+          "label": "B",
+          "text": "Sacral neuromodulation"
+        },
+        {
+          "label": "C",
+          "text": "Botulinum toxin injection of the detrusor"
+        },
+        {
+          "label": "D",
+          "text": "Bladder augmentation"
+        },
+        {
+          "label": "E",
+          "text": "Suprapubic catheter placement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Refractory stress incontinence is treated surgically with procedures that increase urethral outlet resistance, such as slings.",
+        "whyCorrect": "Stress incontinence can be improved by procedures that increase urethral outlet resistance, including sling procedures, periurethral bulking therapy, and the artificial urinary sphincter. A sling directly addresses the loss of urethral support underlying her leakage.",
+        "whyWrongByChoice": {
+          "B": "Sacral neuromodulation improves bladder capacity and is used for urge incontinence, not for a support problem.",
+          "C": "Botulinum toxin injections target detrusor overactivity in urge incontinence rather than deficient outlet resistance.",
+          "D": "Bladder augmentation increases bladder capacity for refractory urge incontinence, which is not her diagnosis.",
+          "E": "A suprapubic catheter is a drainage option for chronic incontinence, not a corrective operation for stress leakage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "surgery",
+        "stress-incontinence",
+        "sling"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-011",
+      "stem": "A 78-year-old man had an ischemic stroke 6 weeks ago. Immediately after the stroke he required catheterization for urinary retention. He has since recovered much of his strength, but he now voids frequently in small volumes and often cannot suppress the urge long enough to reach the bathroom. Which of the following best explains his current urinary symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of voluntary cortical control with an intact spinal micturition reflex"
+        },
+        {
+          "label": "B",
+          "text": "Interruption of the sacral parasympathetic reflex arc"
+        },
+        {
+          "label": "C",
+          "text": "Autonomic neuropathy impairing the sensation of bladder fullness"
+        },
+        {
+          "label": "D",
+          "text": "Detrusor contraction against a closed external urethral sphincter"
+        },
+        {
+          "label": "E",
+          "text": "Increased outlet resistance from prostatic smooth muscle contraction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After a stroke, the recovering bladder is freed from higher CNS control and empties frequently with small volumes because the spinal micturition reflex remains intact.",
+        "whyCorrect": "Brain injuries to the micturition center inhibit voluntary control of micturition but leave the involuntary spinal micturition reflex intact, producing an overactive bladder with uncontrolled voiding. The stroke course is characteristic: initial urinary retention, then frequent small-volume voiding during recovery once the bladder escapes higher CNS control.",
+        "whyWrongByChoice": {
+          "B": "Interrupting the sacral reflex arc, as in cauda equina injury, produces a flaccid bladder with retention and overflow, not frequent uncontrollable voiding.",
+          "C": "Autonomic neuropathy from diabetes causes painless distension and overflow leakage from an underactive bladder, the opposite pattern.",
+          "D": "Detrusor-sphincter dyssynergia occurs with spinal cord lesions and causes retention and urinary reflux rather than this post-stroke pattern.",
+          "E": "Outlet obstruction from the prostate causes hesitancy, weak stream, and overflow symptoms, and it would not appear abruptly after a stroke."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "stroke",
+        "neurogenic-bladder",
+        "micturition-reflex"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    },
+    {
+      "id": "en41-012",
+      "stem": "A 74-year-old woman with long-standing diabetes mellitus reports urinary urgency along with continuous dribbling of urine between voids. Postvoid residual volume is 260 mL. Which of the following therapies is most likely to worsen her incontinence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxybutynin"
+        },
+        {
+          "label": "B",
+          "text": "Bethanechol"
+        },
+        {
+          "label": "C",
+          "text": "Topical vaginal estrogen"
+        },
+        {
+          "label": "D",
+          "text": "Scheduled timed voiding"
+        },
+        {
+          "label": "E",
+          "text": "Pelvic floor muscle exercises"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Antimuscarinics can worsen urinary retention and exacerbate overflow symptoms when impaired bladder emptying is the primary problem.",
+        "whyCorrect": "Her elevated postvoid residual and continuous dribbling indicate impaired bladder emptying with overflow leakage. Antimuscarinics such as oxybutynin reduce detrusor contractions, so they can worsen retention and exacerbate overflow symptoms in patients whose main problem is incomplete emptying, despite her coexisting urgency.",
+        "whyWrongByChoice": {
+          "B": "Bethanechol stimulates detrusor contraction and promotes emptying, which targets rather than worsens her retention.",
+          "C": "Topical vaginal estrogen restores urogenital epithelium in postmenopausal women and does not impair bladder emptying.",
+          "D": "Timed voiding every 2 to 3 hours prevents overdistension in patients prone to retention and overflow, helping rather than harming.",
+          "E": "Pelvic floor exercises strengthen support muscles and can help stress and urge symptoms without reducing detrusor contractility."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "antimuscarinics",
+        "overflow-incontinence",
+        "drug-adverse-effects"
+      ],
+      "topicId": "bladder-dysfunction-urinary-incontinence-and-neurogenic-bladder",
+      "topicName": "Bladder Dysfunction: Urinary Incontinence and Neurogenic Bladder"
+    }
+  ]
+}

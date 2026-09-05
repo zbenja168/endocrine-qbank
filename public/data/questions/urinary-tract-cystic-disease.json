@@ -1,0 +1,2219 @@
+{
+  "categoryId": "urinary-tract-cystic-disease",
+  "categoryName": "Urinary Tract Structure & Cystic Disease",
+  "questions": [
+    {
+      "id": "en32-001",
+      "stem": "A pathologist examines a cross section of a paired retroperitoneal tube that carries urine from the renal pelvis to the urinary bladder. Which of the following best describes the outermost layer of this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A defined serosal layer of mesothelium"
+        },
+        {
+          "label": "B",
+          "text": "Adventitia containing blood vessels, nerves, and adipose tissue"
+        },
+        {
+          "label": "C",
+          "text": "A ring of skeletal muscle forming a voluntary sphincter"
+        },
+        {
+          "label": "D",
+          "text": "A layer of transitional epithelium six or more cells thick"
+        },
+        {
+          "label": "E",
+          "text": "Loose areolar tissue of the lamina propria"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ureter, a retroperitoneal organ, is covered by adventitia that carries its blood vessels, nerves, and adipose tissue.",
+        "whyCorrect": "The structure described is the ureter. Retroperitoneal organs such as the ureters are covered by adventitia, loose connective tissue that blends with surrounding tissues, and the ureteric adventitia contains the supplying blood vessels, associated nerves, and adipose tissue.",
+        "whyWrongByChoice": {
+          "A": "Serosa covers intraperitoneal surfaces such as the superior bladder; the retroperitoneal ureter has adventitia instead.",
+          "C": "Skeletal muscle forming the external urethral sphincter surrounds the membranous urethra, not the ureter.",
+          "D": "Transitional epithelium is the innermost lining, and in the ureter it is four or five cells thick, not six or more.",
+          "E": "The lamina propria lies just beneath the epithelium in the mucosa, not on the outer surface."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ureter",
+        "adventitia",
+        "wall-layers"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-002",
+      "stem": "Which of the following correctly lists the layers of the wall of the ureters, bladder, and urethra from the lumen outward?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucosa, muscularis, then adventitia or serosa"
+        },
+        {
+          "label": "B",
+          "text": "Muscularis, mucosa, then adventitia or serosa"
+        },
+        {
+          "label": "C",
+          "text": "Adventitia or serosa, muscularis, then mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Mucosa, adventitia or serosa, then muscularis"
+        },
+        {
+          "label": "E",
+          "text": "Lamina propria, epithelium, then muscularis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "From inner to outer, the urinary passages consist of mucosa, muscularis, and an outer adventitia or serosa.",
+        "whyCorrect": "The ureters, bladder, and urethra share a three-layer composition: an inner mucosa (epithelium plus lamina propria), a middle muscularis of smooth muscle, and an outer layer that is either adventitia or serosa. Like an insulated pipe, the lining resists the liquid, the middle forms the pipe, and the outer layer insulates.",
+        "whyWrongByChoice": {
+          "B": "This places the smooth muscle at the lumen; the mucosa, not the muscularis, faces the urine.",
+          "C": "This is the correct sequence reversed, running from outside inward rather than from the lumen outward.",
+          "D": "The adventitia or serosa is the outermost layer; it does not sit between mucosa and muscularis.",
+          "E": "Within the mucosa the epithelium faces the lumen and the lamina propria lies beneath it, so this order is inverted and omits the outer coat."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "wall-layers",
+        "mucosa",
+        "muscularis"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-003",
+      "stem": "A 22-year-old man drinks a large volume of fluid and delays urinating for several hours. His bladder distends markedly but does not rupture. Which of the following properties of the bladder lining best explains this capacity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surface cells secrete mucus that lubricates the expanding wall"
+        },
+        {
+          "label": "B",
+          "text": "The epithelium is replaced by simple squamous cells during filling"
+        },
+        {
+          "label": "C",
+          "text": "The epithelial layers flatten and unfold to accommodate volume"
+        },
+        {
+          "label": "D",
+          "text": "The surface layer keratinizes to reinforce the stretched wall"
+        },
+        {
+          "label": "E",
+          "text": "Rapid mitosis adds new cell layers as the bladder fills"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The hallmark of transitional epithelium is its ability to adapt to significant distention by flattening and unfolding its layers.",
+        "whyCorrect": "When the bladder fills with urine, the transitional epithelium, normally six or more cells thick, appears to have as few as three layers. The layers flatten and unfold to accommodate the increased volume and prevent the bladder from bursting, aided by the loose areolar tissue of the lamina propria.",
+        "whyWrongByChoice": {
+          "A": "Distensibility of the urothelium, not mucus secretion, is what allows the bladder to accommodate urine.",
+          "B": "The lining remains transitional epithelium; it merely appears thinner because its layers flatten, not because it converts to another epithelial type.",
+          "D": "The urothelium does not keratinize; keratinized epithelium is not a feature of the bladder lining.",
+          "E": "The apparent layer count decreases with filling; the epithelium unfolds rather than proliferating."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "transitional-epithelium",
+        "bladder",
+        "distention"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-004",
+      "stem": "A histology slide shows a tubular organ lined by transitional epithelium four to five cells thick, with a muscularis composed of an inner longitudinal, a middle circular, and an outer longitudinal layer of smooth muscle. Which of the following structures is most likely shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urinary bladder"
+        },
+        {
+          "label": "B",
+          "text": "Ureter"
+        },
+        {
+          "label": "C",
+          "text": "Minor calyx"
+        },
+        {
+          "label": "D",
+          "text": "Membranous urethra"
+        },
+        {
+          "label": "E",
+          "text": "Penile urethra"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ureter has transitional epithelium four or five cells thick and a three-layered smooth muscle coat.",
+        "whyCorrect": "In the ureter, the inner luminal layer is transitional epithelium four or five cells thick, and the muscularis consists of three layers of smooth muscle: an inner longitudinal segment, a middle circular segment, and an outer longitudinal segment.",
+        "whyWrongByChoice": {
+          "A": "The bladder urothelium is six or more cells thick and its muscularis is the thick detrusor muscle, not three discrete thin layers around a small tube.",
+          "C": "The minor calyces are where transitional epithelium begins and are only two cell layers thick.",
+          "D": "The membranous urethra is lined by stratified or pseudostratified columnar epithelium and is surrounded by skeletal muscle of the deep perineal pouch.",
+          "E": "The penile urethra is lined by pseudostratified columnar and then stratified squamous epithelium, not transitional epithelium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ureter",
+        "muscularis",
+        "transitional-epithelium"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-005",
+      "stem": "Which of the following best describes the barrier function of the transitional epithelium lining the urinary tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is impermeable to the salts and water contained in urine"
+        },
+        {
+          "label": "B",
+          "text": "It actively reabsorbs water to concentrate the stored urine"
+        },
+        {
+          "label": "C",
+          "text": "It secretes digestive enzymes that sterilize the urine"
+        },
+        {
+          "label": "D",
+          "text": "It moves urine along using coordinated ciliary beating"
+        },
+        {
+          "label": "E",
+          "text": "It absorbs urinary solutes for return to the renal pelvis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transitional epithelium is a stratified epithelium that is impermeable to salts and water.",
+        "whyCorrect": "The lecture emphasizes that transitional epithelium (urothelium) is a stratified epithelium impermeable to salts and water, so the urine it contains cannot leak back into the body as it passes from the minor calyces through the ureters and bladder.",
+        "whyWrongByChoice": {
+          "B": "Urine concentration occurs in the kidney; the urothelium is a barrier and does not reabsorb water.",
+          "C": "The urothelium is not a secretory enzyme-producing epithelium.",
+          "D": "Urine is moved by the smooth muscle of the muscularis, not by cilia on the epithelium.",
+          "E": "Impermeability means solutes are not absorbed across the lining; nothing is returned to the renal pelvis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "transitional-epithelium",
+        "barrier",
+        "urothelium"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-006",
+      "stem": "A healthy man's bladder progressively fills with urine over several hours. In addition to flattening and unfolding of the transitional epithelium, which of the following responses of the bladder wall allows it to hold more urine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relaxation of the detrusor muscle"
+        },
+        {
+          "label": "B",
+          "text": "Sustained contraction of the detrusor muscle"
+        },
+        {
+          "label": "C",
+          "text": "Relaxation of the external urethral sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Contraction of the bulbospongiosus muscles"
+        },
+        {
+          "label": "E",
+          "text": "Peristaltic contraction of the ureteric muscularis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During filling, the detrusor muscle relaxes so the bladder can hold more urine.",
+        "whyCorrect": "As the bladder fills, the transitional epithelium flattens and unfolds to adapt to the increased volume, and the detrusor muscle relaxes to allow the bladder to hold more. Voluntary micturition later occurs via bladder muscle contraction.",
+        "whyWrongByChoice": {
+          "B": "Detrusor contraction produces micturition, expelling urine rather than storing it.",
+          "C": "Relaxing the external urethral sphincter would release urine; the sphincter provides voluntary control of micturition.",
+          "D": "The bulbospongiosus muscles surround the proximal penile urethra and do not expand bladder capacity.",
+          "E": "Ureteric muscle activity delivers urine to the bladder; it does not change how much the bladder wall can accommodate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "detrusor",
+        "bladder",
+        "micturition"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-007",
+      "stem": "During laparoscopy, a surgeon inspects the superior surface of the urinary bladder from within the peritoneal cavity. Which of the following covers the bladder at this surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adventitia blending into the surrounding connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "A serosa formed by a defined layer of mesothelium"
+        },
+        {
+          "label": "C",
+          "text": "Transitional epithelium continuous with the mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Skeletal muscle of the deep perineal pouch"
+        },
+        {
+          "label": "E",
+          "text": "Dense adipose tissue of the adventitial coat"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The superior surface of the bladder, being intraperitoneal, is covered by serosa; the rest of the bladder is covered by adventitia.",
+        "whyCorrect": "Intraperitoneal organs such as the bladder carry a serosa, a defined outer layer of mesothelium. The lecture specifies that the outer layer of the bladder consists of serosa on the superior surface and adventitia on the rest of the bladder.",
+        "whyWrongByChoice": {
+          "A": "Adventitia covers the non-superior portions of the bladder and retroperitoneal organs like the ureters, not the peritoneal-facing superior surface.",
+          "C": "Transitional epithelium lines the lumen on the inside; it is never the outer covering.",
+          "D": "Skeletal muscle of the deep perineal pouch surrounds the membranous urethra, not the bladder dome.",
+          "E": "Adipose-containing adventitia describes the ureteric outer coat, not the peritonealized superior bladder surface."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bladder",
+        "serosa",
+        "adventitia"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-008",
+      "stem": "A biopsy is taken from the 1-cm segment of the male urethra that passes through the deep perineal pouch. Which of the following epithelia is most likely to be seen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transitional epithelium with surface umbrella cells"
+        },
+        {
+          "label": "B",
+          "text": "Stratified or pseudostratified columnar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Keratinized stratified squamous epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Simple columnar or simple cuboidal epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Simple squamous or low cuboidal epithelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The membranous urethra, the middle 1-cm segment in the deep perineal pouch, is lined by stratified or pseudostratified columnar epithelium.",
+        "whyCorrect": "The membranous urethra is the middle 1-cm segment where the urethra passes through the deep perineal pouch, and it is lined by stratified or pseudostratified columnar epithelium. It is surrounded by the skeletal muscle that forms the external urethral sphincter.",
+        "whyWrongByChoice": {
+          "A": "Transitional epithelium lines the preprostatic and prostatic segments, proximal to the membranous urethra.",
+          "C": "Stratified squamous epithelium appears distally in the penile urethra, continuous with the skin, not in the membranous segment.",
+          "D": "Simple columnar epithelium is not described in any urethral segment in this lecture.",
+          "E": "Simple squamous epithelium does not line the urethra; the urinary passages use stratified linings."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "membranous-urethra",
+        "epithelium",
+        "male-urethra"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-009",
+      "stem": "A tissue sample is taken from the male urethra just inside the external opening at the tip of the penis. Which of the following best describes the expected lining at this site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transitional epithelium resting on a thick detrusor layer"
+        },
+        {
+          "label": "B",
+          "text": "Pseudostratified columnar epithelium over the prostate"
+        },
+        {
+          "label": "C",
+          "text": "Stratified squamous epithelium continuous with the penile skin"
+        },
+        {
+          "label": "D",
+          "text": "Two-cell-thick transitional epithelium as in the calyces"
+        },
+        {
+          "label": "E",
+          "text": "Stratified columnar epithelium ringed by skeletal muscle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The distal penile urethra is lined by stratified squamous epithelium continuous with the skin of the penis.",
+        "whyCorrect": "The penile (spongy) urethra opens to the outside of the body and is lined by pseudostratified columnar epithelium proximally and stratified squamous epithelium distally, continuous with the skin of the penis. A sample near the external opening therefore shows stratified squamous epithelium.",
+        "whyWrongByChoice": {
+          "A": "Transitional epithelium ends in the proximal urethral segments, and the detrusor is the bladder's muscle, not part of the penis.",
+          "B": "Pseudostratified columnar epithelium lines the proximal penile urethra; the segment through the prostate is lined by transitional epithelium.",
+          "D": "The two-cell-thick urothelium of the minor calyces is at the opposite end of the urinary tract.",
+          "E": "Columnar epithelium with a surrounding skeletal muscle sphincter describes the membranous urethra, not the distal penile urethra."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "penile-urethra",
+        "stratified-squamous",
+        "male-urethra"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-010",
+      "stem": "A 26-year-old woman presents with her third urinary tract infection in a year. Compared with a man, which of the following features of her lower urinary tract most increases her risk of these infections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A urethra measuring 3 to 5 cm that lies near the rectum"
+        },
+        {
+          "label": "B",
+          "text": "A urethra divided into four bacteria-harboring segments"
+        },
+        {
+          "label": "C",
+          "text": "A urethral lining that lacks stratified squamous epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Absence of an external urethral sphincter in females"
+        },
+        {
+          "label": "E",
+          "text": "A bladder urothelium thinner than six cell layers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Women have higher UTI risk because the female urethra is short (3 to 5 cm) and lies close to the rectum.",
+        "whyCorrect": "The female urethra is only 3 to 5 cm long, versus about 20 cm in males, so bacteria can travel to the bladder more easily. In addition, the proximity of the female urethra to the rectum increases the likelihood of bacteria from fecal matter entering the urinary tract.",
+        "whyWrongByChoice": {
+          "B": "It is the male urethra that has four distinct segments; the female urethra has no distinct segments, and segments do not harbor bacteria.",
+          "C": "The female urethra does transition to stratified squamous epithelium by its end, just as in the male.",
+          "D": "Females do have an external urethral sphincter, located where the urethra penetrates the urogenital diaphragm.",
+          "E": "Bladder urothelial thickness is not described as differing between the sexes; the bladder lining is six or more cells thick."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "female-urethra",
+        "uti",
+        "clinical-correlation"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-011",
+      "stem": "A 68-year-old man undergoes a procedure on the 3- to 4-cm segment of the urethra that tunnels through the prostate gland. Which of the following epithelia normally lines this segment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stratified squamous epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Pseudostratified columnar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Transitional epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Simple columnar epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Stratified cuboidal epithelium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The prostatic urethra, like the preprostatic urethra, is lined by transitional epithelium.",
+        "whyCorrect": "The prostatic urethra is the 3- to 4-cm segment that tunnels through the prostate gland and emerges from it. Like the preprostatic segment before it, it is lined with transitional epithelium; the change to columnar and then squamous linings occurs in the more distal segments.",
+        "whyWrongByChoice": {
+          "A": "Stratified squamous epithelium appears only distally in the penile urethra, continuous with the skin.",
+          "B": "Pseudostratified columnar epithelium lines the membranous urethra and proximal penile urethra, distal to the prostate.",
+          "D": "Simple columnar epithelium is not part of the urethral lining described in this lecture.",
+          "E": "Stratified cuboidal epithelium is not found in the urethra."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "prostatic-urethra",
+        "transitional-epithelium",
+        "male-urethra"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en32-012",
+      "stem": "On a bladder biopsy, the layer immediately deep to the transitional epithelium is composed of loose areolar connective tissue. Which of the following functions does this layer serve in the bladder and ureters?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It facilitates folding and stretching of the mucosa"
+        },
+        {
+          "label": "B",
+          "text": "It generates the contraction that expels urine"
+        },
+        {
+          "label": "C",
+          "text": "It forms the impermeable barrier against urine"
+        },
+        {
+          "label": "D",
+          "text": "It anchors the organ to surrounding retroperitoneal fat"
+        },
+        {
+          "label": "E",
+          "text": "It provides voluntary control over micturition"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The lamina propria's loose areolar tissue facilitates the folding and stretching of the urinary mucosa.",
+        "whyCorrect": "The layer described is the lamina propria, the connective tissue component of the mucosa. In the bladder and ureters it contains loose (areolar) tissue, which facilitates the folding and stretching that accompany distention of the transitional epithelium.",
+        "whyWrongByChoice": {
+          "B": "Expulsion of urine is produced by contraction of the smooth muscle of the muscularis, the detrusor in the bladder.",
+          "C": "The impermeable barrier to salts and water is the transitional epithelium itself, not the connective tissue beneath it.",
+          "D": "Blending with surrounding tissue is the role of the outer adventitia, not the lamina propria.",
+          "E": "Voluntary control of micturition comes from the skeletal muscle of the external urethral sphincter."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lamina-propria",
+        "mucosa",
+        "bladder"
+      ],
+      "topicId": "histology-of-the-ureters-bladder-and-urethra",
+      "topicName": "Histology of the Ureters, Bladder, and Urethra"
+    },
+    {
+      "id": "en33-001",
+      "stem": "A 9-month-old girl is evaluated after her second febrile urinary tract infection. A voiding cystourethrogram shows contrast flowing retrograde from the bladder into the left ureter and renal pelvis during micturition. There is no evidence of bladder outlet obstruction. Which of the following developmental abnormalities is the most likely cause of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shortened intramural ureteral segment weakening the flap valve"
+        },
+        {
+          "label": "B",
+          "text": "Persistent obstructing folds within the posterior urethra"
+        },
+        {
+          "label": "C",
+          "text": "Failed recanalization at the ureteropelvic junction"
+        },
+        {
+          "label": "D",
+          "text": "Incomplete obliteration of the allantois after birth"
+        },
+        {
+          "label": "E",
+          "text": "Failed midline closure of the anterior bladder wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary VUR results from abnormal ureterovesical junction development that shortens the intramural ureter and weakens its one-way flap valve.",
+        "whyCorrect": "The ureter normally enters the bladder wall at an oblique angle, creating a flap valve that closes during bladder contraction. In primary VUR, abnormal development of the ureterovesical junction shortens the intramural (within the bladder wall) segment, so urine refluxes into the ureter during micturition. The retrograde flow on VCUG without outlet obstruction confirms primary reflux.",
+        "whyWrongByChoice": {
+          "B": "Posterior urethral valves occur only in males and cause bladder outlet obstruction, which is absent here; the reflux they produce is secondary VUR.",
+          "C": "Failure of UPJ recanalization obstructs drainage from the renal pelvis into the ureter; it causes hydronephrosis, not retrograde bladder-to-ureter flow.",
+          "D": "A persistent allantois produces urachal anomalies such as a patent urachus with umbilical urine leakage, not reflux at the ureterovesical junction.",
+          "E": "Failed midline closure of the anterior bladder and abdominal wall produces bladder exstrophy, with exposed bladder mucosa evident at birth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "vesicoureteral-reflux",
+        "embryology",
+        "VCUG"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-002",
+      "stem": "A 2-year-old boy is diagnosed with low-grade primary vesicoureteral reflux after a single urinary tract infection. His parents ask what will happen to the abnormality itself over time. Which of the following is the most accurate counseling point?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The malformed ureteral entry often corrects itself as the child ages"
+        },
+        {
+          "label": "B",
+          "text": "The defect inevitably progresses to end-stage renal disease"
+        },
+        {
+          "label": "C",
+          "text": "The condition always requires immediate surgical reimplantation"
+        },
+        {
+          "label": "D",
+          "text": "The reflux will resolve only after endoscopic valve ablation"
+        },
+        {
+          "label": "E",
+          "text": "The abnormality typically spreads to involve the urethra"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The malformed entry of the ureters into the bladder in primary VUR often corrects itself as the child ages.",
+        "whyCorrect": "Primary VUR is caused by a short intramural ureter with a weak flap-valve mechanism. As the child grows, this malformed entry of the ureter into the bladder often self-corrects, which is why management options include watchful waiting and prophylactic antibiotics to prevent recurrent UTI rather than universal surgery.",
+        "whyWrongByChoice": {
+          "B": "Renal impairment from reflux nephropathy occurs with persistent high-pressure reflux, but progression to end-stage disease is not inevitable in low-grade primary VUR.",
+          "C": "Management varies with cause and severity; options include watchful waiting and prophylactic antibiotics, so immediate surgery is not mandatory.",
+          "D": "Endoscopic valve ablation is the treatment for posterior urethral valves, not for primary VUR.",
+          "E": "Primary VUR involves the ureterovesical junction; it does not extend to involve the urethra."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "vesicoureteral-reflux",
+        "natural-history",
+        "management"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-003",
+      "stem": "A newborn boy with a congenital narrowing at the bladder neck develops dilation of both ureters and both renal collecting systems. Which of the following best explains why his reflux involves both kidneys rather than one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated bladder pressure from distal obstruction forces urine backward into both ureters"
+        },
+        {
+          "label": "B",
+          "text": "Both ureteric buds branched prematurely along their lengths"
+        },
+        {
+          "label": "C",
+          "text": "Both intramural ureteral segments failed to elongate during development"
+        },
+        {
+          "label": "D",
+          "text": "An aberrant renal artery compresses each ureter externally"
+        },
+        {
+          "label": "E",
+          "text": "The allantois remained patent at its connection to the bladder apex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secondary VUR arises from obstruction distal to the ureteric orifices, and the resulting pressure rise generally produces bilateral reflux.",
+        "whyCorrect": "In secondary VUR, the obstruction is distal to the ureteric orifice, for example at a narrowed bladder neck or in the urethra. The increased bladder pressure is transmitted to both ureteral openings simultaneously, forcing urine backward into both ureters and kidneys, which is why secondary VUR is generally bilateral.",
+        "whyWrongByChoice": {
+          "B": "Premature branching of the ureteric bud causes partial ureteral duplication, in which urine flow is generally unaffected; it does not explain pressure-driven bilateral reflux.",
+          "C": "A short intramural segment is the mechanism of primary VUR, which stems from ureterovesical junction development rather than downstream obstruction; the vignette describes an obstructive cause.",
+          "D": "An aberrant renal artery causes ureteropelvic junction obstruction, which blocks drainage from the renal pelvis and typically produces unilateral hydronephrosis, not reflux from the bladder.",
+          "E": "A patent connection at the bladder apex is a vesicourachal diverticulum, a pouch from the bladder apex; it does not force urine up both ureters."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary-VUR",
+        "bladder-outlet-obstruction",
+        "mechanism"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-004",
+      "stem": "A 6-week-old girl is evaluated for hydronephrosis first noted on prenatal ultrasound. Postnatal imaging shows marked dilation of the left renal pelvis and calyces with a normal-caliber left ureter, a normal bladder, and a normal right kidney. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ureteropelvic junction obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Primary vesicoureteral reflux"
+        },
+        {
+          "label": "C",
+          "text": "Posterior urethral valves"
+        },
+        {
+          "label": "D",
+          "text": "Patent urachus"
+        },
+        {
+          "label": "E",
+          "text": "Complete ureteral duplication"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hydronephrosis with a non-dilated ureter localizes the blockage to the ureteropelvic junction.",
+        "whyCorrect": "UPJ obstruction is a partial or complete narrowing where the renal pelvis transitions into the ureter, from failed recanalization or muscular development, or external compression by an aberrant renal artery. Urine backs up above the junction, dilating the renal pelvis and calyces while the ureter below remains normal. It is often detected on prenatal screening ultrasound and is typically unilateral.",
+        "whyWrongByChoice": {
+          "B": "Severe reflux dilates the ureter (hydroureter) along with the renal pelvis, because urine travels retrograde up the entire ureter; a normal-caliber ureter argues against it.",
+          "C": "Posterior urethral valves occur only in males and cause bladder outlet obstruction with a thickened bladder and typically bilateral hydroureter and hydronephrosis.",
+          "D": "A patent urachus causes urine leakage from the umbilicus and does not produce isolated unilateral hydronephrosis.",
+          "E": "Ureteral duplication shows more than one ureter attached to the kidney on imaging, which is not described here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "UPJ-obstruction",
+        "hydronephrosis",
+        "prenatal-ultrasound"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-005",
+      "stem": "A 10-year-old boy presents with gross hematuria and left flank pain after a low-speed fall from his bicycle that would not usually injure a kidney. He has a history of intermittent flank discomfort and poor weight gain. CT shows severe left hydronephrosis with an abrupt caliber change at the junction of the renal pelvis and ureter, where a vessel crosses the ureter. Which of the following best explains the underlying lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "External compression of the ureteropelvic junction by an aberrant renal artery"
+        },
+        {
+          "label": "B",
+          "text": "Retrograde flow of urine through an incompetent ureterovesical junction"
+        },
+        {
+          "label": "C",
+          "text": "Obstructing membranous folds in the posterior prostatic urethra"
+        },
+        {
+          "label": "D",
+          "text": "Ectopic insertion of a duplicated ureter into an adjacent structure"
+        },
+        {
+          "label": "E",
+          "text": "An infected midline cyst arising from an incompletely obliterated urachus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "UPJ obstruction can result from an aberrant renal artery crossing and externally compressing the ureter, and the enlarged kidney is more vulnerable to traumatic injury after falls.",
+        "whyCorrect": "In some cases of UPJ obstruction, an aberrant renal artery crossing the ureter compresses it externally, narrowing the junction between the renal pelvis and ureter. Children not diagnosed in utero may develop failure to thrive, hematuria, or declining kidney function, and the enlarged hydronephrotic kidney is more susceptible to traumatic injury after falls, matching this presentation.",
+        "whyWrongByChoice": {
+          "B": "Vesicoureteral reflux dilates the ureter as well as the pelvis and does not create a focal crossing-vessel narrowing at the ureteropelvic junction.",
+          "C": "Posterior urethral valves obstruct the bladder outlet, producing a thickened bladder and typically bilateral upper tract dilation rather than a focal unilateral UPJ lesion.",
+          "D": "Ectopic insertion of a duplicated ureter causes reflux, obstruction, or incontinence at the level of the bladder or adjacent structures, not compression at the UPJ by a crossing vessel.",
+          "E": "An infected urachal cyst presents with midline lower abdominal pain, swelling, and possible abscess near the umbilicus, not flank hydronephrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "UPJ-obstruction",
+        "aberrant-renal-artery",
+        "trauma"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-006",
+      "stem": "A 4-year-old girl is brought in because her underwear is constantly damp even though she voids normally on the toilet several times a day. She has had two urinary tract infections. Renal imaging shows two separate collecting systems on the right with two ureters that do not join. Which of the following best explains her continuous wetness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One ureter drains into the vagina, bypassing the urinary sphincter"
+        },
+        {
+          "label": "B",
+          "text": "Both ureters merge into a single channel above the bladder"
+        },
+        {
+          "label": "C",
+          "text": "The bladder mucosa is open on the abdominal wall surface"
+        },
+        {
+          "label": "D",
+          "text": "Obstructing valves in the urethra cause overflow of retained urine"
+        },
+        {
+          "label": "E",
+          "text": "A patent urachal channel drains urine to the umbilicus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ectopic insertion of a completely duplicated ureter into the vagina bypasses the sphincter mechanism and causes continuous incontinence in girls.",
+        "whyCorrect": "In complete duplication, two ureteric buds arise from the mesonephric duct and each induces its own collecting system. Abnormal migration can insert one ureter ectopically, such as into the vagina in females. Because urine then bypasses the sphincter mechanism entirely, the child leaks continuously despite otherwise normal voiding; early recognition allows surgical correction to prevent renal damage and social distress.",
+        "whyWrongByChoice": {
+          "B": "Ureters joining before the bladder describes partial duplication, in which urine flow is generally unaffected and continence is preserved.",
+          "C": "Bladder exstrophy is a visible defect with exposed bladder mucosa on the lower abdominal wall, evident at birth, which is not described.",
+          "D": "Posterior urethral valves occur only in males, since they are a malformation of the prostatic urethra.",
+          "E": "A patent urachus leaks urine from the umbilicus, not into the vagina or perineum, and would not be explained by the duplicated collecting systems seen here."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ureteral-duplication",
+        "ectopic-ureter",
+        "incontinence"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-007",
+      "stem": "An infant is incidentally found to have two ureters draining the left kidney, each entering the bladder through its own separate orifice. Which of the following embryologic events most likely produced this anatomy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two ureteric buds arose from the mesonephric duct"
+        },
+        {
+          "label": "B",
+          "text": "A single ureteric bud branched prematurely along its length"
+        },
+        {
+          "label": "C",
+          "text": "The allantois failed to regress before birth"
+        },
+        {
+          "label": "D",
+          "text": "Mesoderm failed to migrate into the lower abdominal wall"
+        },
+        {
+          "label": "E",
+          "text": "The urogenital sinus formed redundant urethral folds"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Complete ureteral duplication occurs when two ureteric buds arise from the mesonephric duct and each induces its own collecting system.",
+        "whyCorrect": "The ureter develops from the ureteric bud of the mesonephric duct. When two separate buds form, each induces its own collecting system, producing two ureters that travel and insert separately, which matches the two independent bladder orifices seen here.",
+        "whyWrongByChoice": {
+          "B": "Premature branching of one bud causes partial duplication, in which the two ureters usually join before entering the bladder rather than inserting separately.",
+          "C": "Failure of the allantois to regress produces urachal anomalies between the bladder apex and umbilicus, not duplicated ureters.",
+          "D": "Failed mesodermal migration in the lower abdominal wall underlies bladder exstrophy.",
+          "E": "Persistent folds in the urethra from urogenital sinus development describe posterior urethral valves, not ureteral duplication."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ureteral-duplication",
+        "embryology",
+        "ureteric-bud"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-008",
+      "stem": "A newborn boy is noted in the delivery room to have a moist, bright red plate of exposed mucosa on his lower anterior abdominal wall that intermittently leaks urine. Prenatal ultrasound at 20 weeks had failed to visualize the bladder. Which of the following embryologic failures most likely caused this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incomplete mesodermal migration between ectoderm and endoderm of the lower abdomen"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete obliteration of the allantois into a fibrous cord"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the ureter to enter the bladder at an oblique angle"
+        },
+        {
+          "label": "D",
+          "text": "Persistence of hypertrophied smooth muscle folds in the urethra"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal caudal migration of a second ureteric bud"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bladder exstrophy results from failed midline closure of the anterior abdominal and bladder walls due to incomplete mesodermal migration between ectoderm and endoderm.",
+        "whyCorrect": "The bladder develops from the urogenital sinus. In exstrophy, failure of midline closure of the anterior abdominal wall and anterior bladder wall during embryonic folding leaves bladder mucosa exposed on the abdominal surface. This defect often results from incomplete migration of mesoderm between the ectoderm and endoderm in the lower abdominal region, and it is frequently suspected prenatally when the bladder is not visualized on second-trimester ultrasound.",
+        "whyWrongByChoice": {
+          "B": "Failure of allantois obliteration produces urachal anomalies such as a patent urachus leaking urine at the umbilicus, not an exposed bladder plate.",
+          "C": "Loss of the oblique ureteral entry causes vesicoureteral reflux, an internal abnormality with no visible abdominal wall defect.",
+          "D": "Persistent obstructing folds in the prostatic urethra cause posterior urethral valves, an internal obstruction with no external malformation.",
+          "E": "A second ureteric bud causes complete ureteral duplication, which does not involve the abdominal wall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "bladder-exstrophy",
+        "embryology",
+        "mesoderm"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-009",
+      "stem": "The parents of a 3-week-old girl report that clear fluid persistently wets her umbilicus, especially when she cries or strains. Analysis of the fluid is consistent with urine. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patent urachus"
+        },
+        {
+          "label": "B",
+          "text": "Urachal cyst"
+        },
+        {
+          "label": "C",
+          "text": "Vesicourachal diverticulum"
+        },
+        {
+          "label": "D",
+          "text": "Bladder exstrophy"
+        },
+        {
+          "label": "E",
+          "text": "Ureteropelvic junction obstruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A patent urachus keeps the entire channel between bladder apex and umbilicus open, allowing urine to leak from the umbilicus.",
+        "whyCorrect": "The allantois normally obliterates to form the urachus, which becomes the median umbilical ligament after birth. When the entire urachal channel remains open, there is a direct connection between the bladder apex and the umbilicus, so urine can leak from the umbilicus. Management is surgical excision to close the tract and prevent infection.",
+        "whyWrongByChoice": {
+          "B": "A urachal cyst has both ends closed with only the midportion patent, so it cannot leak urine at the umbilicus; it presents with infection, pain, or swelling.",
+          "C": "A vesicourachal diverticulum is open only at the bladder end, forming a pouch off the bladder apex without any umbilical communication.",
+          "D": "Bladder exstrophy is an open bladder plate visible on the lower abdominal wall, not urinary drainage through an intact umbilicus.",
+          "E": "UPJ obstruction blocks urine flow from the renal pelvis into the ureter, causing hydronephrosis, and has no connection to the umbilicus."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "patent-urachus",
+        "urachal-anomalies",
+        "allantois"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-010",
+      "stem": "A 19-year-old man presents with fever and a tender midline mass below the umbilicus. Imaging shows a fluid collection along the course of the urachus that communicates with neither the bladder nor the umbilicus. After antibiotics and drainage resolve the acute infection, surgical removal of the lesion is recommended. Which of the following is the best rationale for excision?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It prevents recurrent infection and the rare risk of malignant transformation"
+        },
+        {
+          "label": "B",
+          "text": "It restores normal antegrade urine flow from the kidneys"
+        },
+        {
+          "label": "C",
+          "text": "It prevents progression to bilateral hydronephrosis"
+        },
+        {
+          "label": "D",
+          "text": "It eliminates continuous urinary leakage from the umbilicus"
+        },
+        {
+          "label": "E",
+          "text": "It corrects the associated defect of the anterior abdominal wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Surgery is the definitive treatment for urachal anomalies, preventing recurrence, infection, and the rare malignant transformation seen in adults.",
+        "whyCorrect": "This is a urachal cyst: only the midportion of the urachus remains open with both ends closed, and trapped fluid can become infected, causing pain, swelling, and abscess. Management is antibiotics with or without drainage for the acute infection, followed by surgical removal, because surgery definitively prevents recurrence, further infection, and the rare risk of malignant transformation in adults.",
+        "whyWrongByChoice": {
+          "B": "A urachal cyst lies between the bladder apex and umbilicus and does not obstruct urine flow from the kidneys or ureters.",
+          "C": "Hydronephrosis is a complication of disorders such as VUR, UPJ obstruction, and posterior urethral valves, not of a closed urachal cyst.",
+          "D": "Umbilical urine leakage occurs with a patent urachus; this lesion communicates with neither the bladder nor the umbilicus.",
+          "E": "An anterior abdominal wall closure defect describes bladder exstrophy, which is unrelated to a urachal cyst."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "urachal-cyst",
+        "management",
+        "malignant-transformation"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-011",
+      "stem": "A 5-day-old boy has a weak, dribbling urinary stream and a palpable lower abdominal mass. Prenatal ultrasound showed bilateral hydronephrosis and a dilated, thick-walled bladder with a dilated posterior urethra. Which of the following studies is the gold standard to confirm the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Voiding cystourethrogram"
+        },
+        {
+          "label": "B",
+          "text": "Contrast-enhanced CT of the abdomen"
+        },
+        {
+          "label": "C",
+          "text": "Serum creatinine and electrolyte panel"
+        },
+        {
+          "label": "D",
+          "text": "Radionuclide bone scan of the pelvis"
+        },
+        {
+          "label": "E",
+          "text": "MRI of the lumbosacral spine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "VCUG is the gold standard for diagnosing posterior urethral valves.",
+        "whyCorrect": "This infant has the classic picture of posterior urethral valves: a male newborn with poor urinary stream, palpable bladder, bilateral hydronephrosis, and the keyhole sign of a dilated posterior urethra and bladder on prenatal ultrasound. The gold standard for diagnosis is the voiding cystourethrogram, which images the urethra and bladder during micturition.",
+        "whyWrongByChoice": {
+          "B": "CT is not the diagnostic standard for PUV; ultrasound and VCUG establish the diagnosis, and advanced imaging is reserved for complex cases of other anomalies.",
+          "C": "Renal function tests assess the impact on the kidneys but cannot demonstrate the obstructing urethral lesion itself.",
+          "D": "A bone scan evaluates skeletal disease and has no role in diagnosing a urethral obstruction.",
+          "E": "Spinal MRI evaluates neurologic causes of bladder dysfunction and would not visualize the obstructing valves in the prostatic urethra."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "posterior-urethral-valves",
+        "VCUG",
+        "keyhole-sign"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en33-012",
+      "stem": "A boy is delivered at 36 weeks after a pregnancy complicated by severe oligohydramnios attributed to posterior urethral valves. Immediately after birth he develops severe respiratory distress requiring intubation. Which of the following mechanisms best explains his respiratory failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low amniotic fluid volume impaired fetal lung development"
+        },
+        {
+          "label": "B",
+          "text": "Refluxed urine chemically injured the alveolar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "The distended bladder directly compressed the diaphragm"
+        },
+        {
+          "label": "D",
+          "text": "Uremic toxins crossed the placenta and suppressed respiratory drive"
+        },
+        {
+          "label": "E",
+          "text": "Recurrent intrauterine infections scarred the airways"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PUV obstruction reduces fetal urine output into the amniotic cavity, and the resulting oligohydramnios causes pulmonary hypoplasia.",
+        "whyCorrect": "Posterior urethral valves obstruct urine outflow, so impaired urine output into the amniotic cavity produces oligohydramnios. Amniotic fluid is crucial for lung maturation, and pulmonary hypoplasia results from oligohydramnios in severe prenatal cases, explaining respiratory failure at birth. This is the rationale for investigational fetal interventions such as vesicoamniotic shunting, which restores amniotic fluid levels to support lung maturation.",
+        "whyWrongByChoice": {
+          "B": "The lungs are not injured by contact with urine; the problem is deficient amniotic fluid during lung maturation.",
+          "C": "The dilated bladder raises pressure within the urinary tract, transmitting it to the ureters and kidneys; it is not described as a cause of diaphragmatic compression and respiratory failure.",
+          "D": "Fetal renal impairment in PUV leads to postnatal CKD risk; respiratory distress at birth is explained by hypoplastic lungs, not transplacental toxin effects on respiratory drive.",
+          "E": "Recurrent UTIs are a postnatal complication of PUV; intrauterine airway scarring is not the described mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "posterior-urethral-valves",
+        "oligohydramnios",
+        "pulmonary-hypoplasia"
+      ],
+      "topicId": "congenital-disorders-of-the-lower-urinary-tract",
+      "topicName": "Congenital Disorders of the Lower Urinary Tract"
+    },
+    {
+      "id": "en34-001",
+      "stem": "A 39-year-old man presents with intermittent gross hematuria and dull bilateral flank pain. His father is on hemodialysis. Blood pressure is 162/94 mm Hg, and both kidneys are palpable on abdominal examination. Renal ultrasound shows innumerable bilateral cysts. Which of the following best explains this patient's elevated blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renin-angiotensin-aldosterone activation from focal ischemia around enlarging cysts"
+        },
+        {
+          "label": "B",
+          "text": "Excess catecholamine secretion from an adrenal medullary tumor"
+        },
+        {
+          "label": "C",
+          "text": "Autonomous aldosterone secretion from an adrenal cortical adenoma"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic stenosis of the main renal arteries"
+        },
+        {
+          "label": "E",
+          "text": "Mechanical narrowing of the aorta proximal to the renal arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypertension in ADPKD results from RAAS activation triggered by focal ischemia of renal parenchyma compressed by enlarging cysts.",
+        "whyCorrect": "This patient has classic ADPKD: adult-onset hematuria, flank pain, palpable kidneys, a positive family history, and bilateral cysts. The lecture explains that hypertension in ADPKD develops because enlarging cysts cause focal ischemia of renal parenchyma, which activates the renin-angiotensin-aldosterone system. This is also why ACE inhibitors, which directly block the RAAS, are first-line therapy.",
+        "whyWrongByChoice": {
+          "B": "Pheochromocytoma causes episodic catecholamine-driven hypertension and is unrelated to the bilateral renal cysts seen here.",
+          "C": "Primary hyperaldosteronism arises from an adrenal adenoma, not from cystic destruction of renal parenchyma.",
+          "D": "Renovascular hypertension from atherosclerosis typically affects older patients with diffuse vascular disease, not a young adult with polycystic kidneys.",
+          "E": "Aortic coarctation presents with upper-extremity hypertension and diminished femoral pulses, none of which are described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "hypertension",
+        "RAAS",
+        "pathophysiology"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-002",
+      "stem": "A 33-year-old man is diagnosed with autosomal dominant polycystic kidney disease after an episode of gross hematuria. His father and paternal uncle both required kidney transplantation before age 45. Molecular testing in this family is most likely to reveal a loss-of-function mutation in which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PKD1 on chromosome 16"
+        },
+        {
+          "label": "B",
+          "text": "PKD2 on chromosome 4"
+        },
+        {
+          "label": "C",
+          "text": "PKHD1 on chromosome 6"
+        },
+        {
+          "label": "D",
+          "text": "VHL on chromosome 3"
+        },
+        {
+          "label": "E",
+          "text": "TSC2 encoding tuberin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PKD1 mutations cause about 80% of ADPKD and are associated with more rapid progression to ESRD in the 30s or 40s.",
+        "whyCorrect": "ADPKD shows locus heterogeneity: PKD1 on chromosome 16 accounts for about 80% of cases and PKD2 on chromosome 4 for about 15%. PKD1 disease progresses to end-stage renal disease earlier, in the 30s or 40s rather than the 60s. A family reaching transplantation before 45 therefore points to PKD1.",
+        "whyWrongByChoice": {
+          "B": "PKD2 mutations cause a slower course, with ESRD typically arriving decades later than seen in this family.",
+          "C": "PKHD1 encodes fibrocystin and causes autosomal recessive PKD, which presents in infancy or childhood, not adult-onset dominant disease.",
+          "D": "VHL mutations cause von Hippel-Lindau disease, not the dominant polycystic kidney disease in this family.",
+          "E": "TSC2 mutations cause tuberous sclerosis; they are not the cause of classic familial ADPKD."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "genetics",
+        "PKD1",
+        "ESRD"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-003",
+      "stem": "A 30-year-old woman with a heterozygous germline PKD1 mutation undergoes imaging that shows multiple renal cysts, yet more than 90% of her nephrons remain structurally normal. Which of the following best explains why only a minority of her nephrons have formed cysts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A second somatic mutation has inactivated the normal allele in only a small subset of nephrons"
+        },
+        {
+          "label": "B",
+          "text": "The germline mutation is expressed only in nephrons derived from one embryonic cell line"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete penetrance prevents most nephrons from expressing the mutant allele"
+        },
+        {
+          "label": "D",
+          "text": "Random inactivation of one X chromosome silences the mutation in most nephrons"
+        },
+        {
+          "label": "E",
+          "text": "A separate PKD2 mutation is required in each nephron before any cyst can develop"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cyst formation in ADPKD follows a two-hit model: an inherited mutant copy plus an acquired second mutation in fewer than 10% of nephrons.",
+        "whyCorrect": "The lecture describes cyst development in ADPKD by the two-hit hypothesis, similar to tumor suppressor genes in cancer. Every cell carries one inherited mutant PKD1 copy, but only a small number of nephrons (<10%) acquire a mutation in the second copy. Nephrons retaining one normal copy stay normal, while the doubly mutated minority is enough to generate hundreds to thousands of cysts.",
+        "whyWrongByChoice": {
+          "B": "A germline mutation is present in every cell of the body, not restricted to one embryonic lineage.",
+          "C": "ADPKD has complete penetrance; all carriers develop cysts, so penetrance does not explain nephron-to-nephron variation.",
+          "D": "PKD1 is on chromosome 16, an autosome, so X-inactivation plays no role.",
+          "E": "The second hit occurs in the remaining normal copy of the same gene; a separate PKD2 mutation is not required."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "two-hit hypothesis",
+        "pathophysiology"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-004",
+      "stem": "A 43-year-old woman whose father and brother both have autosomal dominant polycystic kidney disease requests evaluation. She is normotensive with a normal serum creatinine. Renal ultrasounds performed at age 41 and again today show no renal cysts. Which of the following is the most accurate statement about her status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ADPKD is effectively ruled out at her age"
+        },
+        {
+          "label": "B",
+          "text": "She requires annual ultrasound until age 60"
+        },
+        {
+          "label": "C",
+          "text": "Diagnosis remains uncertain without a renal biopsy"
+        },
+        {
+          "label": "D",
+          "text": "She still carries a 50% chance of developing cysts"
+        },
+        {
+          "label": "E",
+          "text": "Only a normal CT scan can exclude the disease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In an at-risk individual older than 40, the absence of renal cysts on imaging rules out ADPKD.",
+        "whyCorrect": "Cysts in ADPKD are often visible by adolescence and increase through adulthood. The lecture states that the absence of cysts in an at-risk patient older than 40 years rules out ADPKD. At 43, with two cyst-free ultrasounds, this patient can be reassured.",
+        "whyWrongByChoice": {
+          "B": "Continued surveillance is unnecessary once cyst-free imaging past age 40 has excluded the disease.",
+          "C": "Renal biopsy plays no role in ADPKD diagnosis, which relies on imaging, labs, and genetics.",
+          "D": "The 50% figure is the inheritance risk at conception; her negative imaging after age 40 supersedes that prior probability.",
+          "E": "Ultrasound and CT both have high sensitivity and specificity for ADPKD, so a normal ultrasound is sufficient."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "diagnosis",
+        "ultrasound",
+        "screening"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-005",
+      "stem": "A 48-year-old man with autosomal dominant polycystic kidney disease presents with 4 days of fever, chills, and left flank pain. Urine culture grows Escherichia coli, and imaging suggests infection of a large renal cyst. Which of the following is the most appropriate antibiotic strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral ciprofloxacin continued for 4 to 6 weeks"
+        },
+        {
+          "label": "B",
+          "text": "Oral nitrofurantoin given for 5 days"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous vancomycin given for 2 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Oral amoxicillin continued for 10 days"
+        },
+        {
+          "label": "E",
+          "text": "Oral cephalexin continued for 7 days"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Infected cysts in ADPKD require 4 to 6 weeks of a lipid-soluble antibiotic such as a fluoroquinolone or TMP-SMX.",
+        "whyCorrect": "Cyst infections in ADPKD are typically caused by gram-negative organisms like E. coli. The lecture specifies prolonged therapy, 4 to 6 weeks, with lipid-soluble antibiotics such as fluoroquinolones or trimethoprim/sulfamethoxazole, which is exactly what a 4-6 week ciprofloxacin course provides.",
+        "whyWrongByChoice": {
+          "B": "A short nitrofurantoin course treats simple cystitis; it is neither long enough nor appropriate for an infected cyst.",
+          "C": "Vancomycin targets gram-positive organisms and does not cover the gram-negative bacteria that typically infect cysts.",
+          "D": "A 10-day amoxicillin course is too short, and amoxicillin is not the lipid-soluble agent recommended for cyst penetration.",
+          "E": "One week of cephalexin falls far short of the prolonged lipid-soluble therapy an infected cyst requires."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "cyst infection",
+        "antibiotics",
+        "management"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-006",
+      "stem": "A 41-year-old woman with autosomal dominant polycystic kidney disease is brought to the emergency department after the abrupt onset of an excruciating headache she describes as the worst of her life, followed by vomiting and neck stiffness. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Subarachnoid hemorrhage from a ruptured berry aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Migraine with aura from cortical spreading depression"
+        },
+        {
+          "label": "C",
+          "text": "Acute bacterial meningitis with meningeal inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic stroke of the middle cerebral artery territory"
+        },
+        {
+          "label": "E",
+          "text": "Tension-type headache from pericranial muscle spasm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A thunderclap headache in an ADPKD patient signals subarachnoid hemorrhage from a ruptured intracranial berry aneurysm.",
+        "whyCorrect": "Intracranial berry aneurysms are 4-5 times more likely in ADPKD and occur in about 10% of patients, with a rupture risk of roughly 1% per year. Rupture produces a sudden-onset thunderclap headache from subarachnoid hemorrhage, classically described as the worst headache of the patient's life.",
+        "whyWrongByChoice": {
+          "B": "Migraine builds more gradually and is not characteristically the abrupt, worst-ever headache seen here.",
+          "C": "Meningitis causes fever with a more gradual onset of headache and neck stiffness rather than an instantaneous thunderclap.",
+          "D": "Ischemic stroke presents with focal neurologic deficits, not primarily a sudden excruciating headache.",
+          "E": "Tension headaches are mild to moderate and band-like, entirely unlike this catastrophic presentation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "berry aneurysm",
+        "subarachnoid hemorrhage",
+        "extrarenal complications"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-007",
+      "stem": "A 52-year-old woman with autosomal dominant polycystic kidney disease and hypertension develops a persistent dry cough three weeks after starting lisinopril. Her blood pressure today is 150/92 mm Hg. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Switch lisinopril to losartan"
+        },
+        {
+          "label": "B",
+          "text": "Continue lisinopril unchanged until the cough fades"
+        },
+        {
+          "label": "C",
+          "text": "Switch lisinopril to tolvaptan for blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Stop antihypertensive therapy and restrict sodium only"
+        },
+        {
+          "label": "E",
+          "text": "Double the lisinopril dose to overcome the cough"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Angiotensin II receptor blockers are the recommended alternative for ADPKD patients who cannot tolerate ACE inhibitors.",
+        "whyCorrect": "ACE inhibitors are first-line for blood pressure control in ADPKD because they directly block the renin-angiotensin-aldosterone system, but a persistent dry cough is a recognized reason for intolerance. The lecture states that angiotensin II receptor blockers can be used in patients who cannot tolerate ACE inhibitors, so switching to losartan maintains RAAS blockade without the cough.",
+        "whyWrongByChoice": {
+          "B": "The cough is a class effect that persists on therapy; continuing unchanged leaves her both symptomatic and hypertensive.",
+          "C": "Tolvaptan is an ADH antagonist used to mitigate the decline in renal function, not a blood pressure medication.",
+          "D": "Sodium restriction is an adjunct to medication in ADPKD, not a replacement for antihypertensive therapy in an uncontrolled patient.",
+          "E": "Increasing the dose would intensify, not eliminate, an ACE inhibitor-induced cough."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "hypertension",
+        "ACE inhibitor",
+        "ARB",
+        "management"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-008",
+      "stem": "A 44-year-old man with autosomal dominant polycystic kidney disease and a declining glomerular filtration rate is started on a drug approved in the United States to mitigate the loss of renal function in ADPKD. Which of the following best describes this drug's mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antagonist at vasopressin V2 receptors"
+        },
+        {
+          "label": "B",
+          "text": "Antagonist at angiotensin II receptors"
+        },
+        {
+          "label": "C",
+          "text": "Inhibitor of angiotensin-converting enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Agonist at vasopressin V2 receptors"
+        },
+        {
+          "label": "E",
+          "text": "Antagonist at mineralocorticoid receptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tolvaptan, an ADH antagonist at V2 receptors, is approved to slow the decline in renal function in ADPKD.",
+        "whyCorrect": "The lecture identifies tolvaptan as the agent approved in the US to mitigate the decline in renal function in ADPKD. It works as an ADH (vasopressin) antagonist at V2 receptors and is also being evaluated for reducing hepatic cyst formation.",
+        "whyWrongByChoice": {
+          "B": "ARBs treat hypertension in ADPKD but are not the agent approved to slow renal function decline.",
+          "C": "ACE inhibitors are first-line for blood pressure control, a different role from cyst-directed therapy.",
+          "D": "Tolvaptan blocks rather than stimulates V2 receptors; an agonist would mimic ADH.",
+          "E": "Mineralocorticoid receptor antagonists such as spironolactone are not part of the ADPKD regimen described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "tolvaptan",
+        "pharmacology",
+        "management"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-009",
+      "stem": "A newborn boy develops severe respiratory distress minutes after delivery. The pregnancy was complicated by markedly decreased amniotic fluid. Examination shows a flattened nose, recessed chin, clubbed feet, and large bilateral flank masses. Which of the following is the most likely cause of his respiratory failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary hypoplasia resulting from oligohydramnios"
+        },
+        {
+          "label": "B",
+          "text": "Surfactant deficiency from lung immaturity"
+        },
+        {
+          "label": "C",
+          "text": "Aspiration of meconium during delivery"
+        },
+        {
+          "label": "D",
+          "text": "Herniation of abdominal viscera into the thorax"
+        },
+        {
+          "label": "E",
+          "text": "Retained fetal lung fluid after birth"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In ARPKD, poor fetal urine output causes oligohydramnios and Potter sequence, whose pulmonary hypoplasia drives neonatal respiratory failure.",
+        "whyCorrect": "Massive bilateral flank masses in a neonate with oligohydramnios point to autosomal recessive polycystic kidney disease. Poor fetal renal function decreases amniotic fluid, producing Potter sequence: limb deformities, facial abnormalities like a flattened nose and recessed chin, and pulmonary hypoplasia. Respiratory distress from hypoplastic lungs is the leading cause of neonatal morbidity and mortality, with 30%-50% of affected newborns dying shortly after birth.",
+        "whyWrongByChoice": {
+          "B": "Surfactant deficiency causes respiratory distress in premature infants and does not explain the oligohydramnios, facial features, or flank masses.",
+          "C": "Meconium aspiration requires meconium-stained fluid and does not produce Potter facies or limb deformities.",
+          "D": "Congenital diaphragmatic hernia causes a scaphoid abdomen and bowel in the chest, not bilateral flank masses.",
+          "E": "Transient tachypnea of the newborn is mild and self-limited, not the severe failure seen with Potter sequence."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARPKD",
+        "Potter sequence",
+        "oligohydramnios",
+        "pulmonary hypoplasia"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-010",
+      "stem": "A 6-month-old girl with autosomal recessive polycystic kidney disease is admitted for failure to thrive. Her kidneys show numerous small cysts arising from the collecting ducts, which impair her ability to dilute and acidify the urine. Which of the following laboratory patterns is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated creatinine, low sodium, acidemia, normal liver enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Elevated creatinine, high sodium, alkalemia, normal liver enzymes"
+        },
+        {
+          "label": "C",
+          "text": "Normal creatinine, low sodium, acidemia, elevated liver enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Elevated creatinine, high sodium, acidemia, elevated liver enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Normal creatinine, normal sodium, alkalemia, normal liver enzymes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ARPKD causes elevated creatinine with hyponatremia and acidemia, while liver function tests stay normal until late in the disease.",
+        "whyCorrect": "In ARPKD, patients have an elevated serum creatinine reflecting decreased renal function. Hyponatremia and acidemia develop because the cystic collecting ducts cannot dilute or acidify the urine. Despite progressive hepatic fibrosis, liver function tests usually remain in the normal range until late in the disease.",
+        "whyWrongByChoice": {
+          "B": "The inability to dilute urine produces low, not high, sodium, and the defect in acid excretion causes acidemia rather than alkalemia.",
+          "C": "Creatinine is elevated in ARPKD, and liver enzymes typically remain normal until late.",
+          "D": "Sodium falls rather than rises, and liver enzymes are usually normal at this stage.",
+          "E": "This entirely normal pattern is inconsistent with the renal dysfunction of ARPKD."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARPKD",
+        "laboratory findings",
+        "hyponatremia",
+        "acidemia"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-011",
+      "stem": "A 9-year-old boy with autosomal recessive polycystic kidney disease has hepatosplenomegaly, and surveillance upper endoscopy demonstrates esophageal varices that have never bled. Which of the following medications is most appropriate for primary prevention of variceal bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril"
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone"
+        },
+        {
+          "label": "E",
+          "text": "Tolvaptan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepatic portal hypertension in ARPKD is managed with endoscopic surveillance and nonspecific beta-blockers such as propranolol or nadolol to prevent variceal bleeding.",
+        "whyCorrect": "ARPKD causes progressive hepatic fibrosis and portal hypertension, with varices detected on periodic upper endoscopy. The lecture recommends primary prevention of variceal bleeding with nonspecific beta-blockers, naming propranolol and nadolol, or with banding; portosystemic shunting or liver transplant may be needed as disease progresses.",
+        "whyWrongByChoice": {
+          "B": "Metoprolol is a cardioselective (beta-1 specific) blocker, whereas variceal prophylaxis requires a nonspecific beta-blocker.",
+          "C": "ACE inhibitors treat the hypertension of PKD but do nothing to lower portal pressure or prevent variceal bleeding.",
+          "D": "Spironolactone is not the agent described for preventing variceal hemorrhage in these patients.",
+          "E": "Tolvaptan targets renal cyst-related decline in ADPKD and has no role in variceal prophylaxis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARPKD",
+        "portal hypertension",
+        "varices",
+        "beta-blocker"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en34-012",
+      "stem": "A 47-year-old man with autosomal dominant polycystic kidney disease presents with acute colicky right flank pain radiating to the groin, and imaging confirms an obstructing renal calculus. Stones in patients with this disease are most often composed of which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uric acid"
+        },
+        {
+          "label": "B",
+          "text": "Calcium oxalate"
+        },
+        {
+          "label": "C",
+          "text": "Magnesium ammonium phosphate"
+        },
+        {
+          "label": "D",
+          "text": "Cystine"
+        },
+        {
+          "label": "E",
+          "text": "Calcium phosphate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Renal stones occur in 20% to 25% of ADPKD patients and are most often uric acid stones.",
+        "whyCorrect": "The lecture lists renal stones among the renal complications of ADPKD, occurring in 20% to 25% of patients, and specifies that they are most often uric acid stones. Recurrent painful episodes in ADPKD relate to cyst rupture or stone formation.",
+        "whyWrongByChoice": {
+          "B": "Calcium oxalate is the most common stone in the general population, but ADPKD stones are most often uric acid.",
+          "C": "Struvite stones form with urease-producing infections and staghorn calculi, which is not the pattern described in ADPKD.",
+          "D": "Cystine stones occur in the inherited transport disorder cystinuria, not in ADPKD.",
+          "E": "Calcium phosphate stones are not the composition highlighted for ADPKD patients."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ADPKD",
+        "renal stones",
+        "uric acid",
+        "complications"
+      ],
+      "topicId": "polycystic-kidney-disease",
+      "topicName": "Polycystic Kidney Disease"
+    },
+    {
+      "id": "en35-001",
+      "stem": "A 28-year-old man has passed three calcium kidney stones over 4 years. CT shows multiple small cystic dilations confined to the renal medulla of both normal-sized kidneys; the cortex appears uninvolved. Which of the following processes best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of the renal tubules after birth"
+        },
+        {
+          "label": "B",
+          "text": "Dilatation of distal collecting ducts from a defective ureteric bud-metanephric blastema interface"
+        },
+        {
+          "label": "C",
+          "text": "Chronic obstruction of the ureteropelvic junction by a crossing vessel"
+        },
+        {
+          "label": "D",
+          "text": "Progressive cyst formation arising from the cortical nephron segments"
+        },
+        {
+          "label": "E",
+          "text": "Ischemic scarring of the medulla from long-standing hypertension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Medullary sponge kidney is a developmental malformation in which the distal collecting ducts dilate into medullary cysts.",
+        "whyCorrect": "MSK is thought to arise from a disruption in the interface between the ureteric bud and the metanephric blastema during embryogenesis. The result is tubular dilatation of the distal portion of the collecting ducts that resembles cysts. Both small and large medullary cysts form, but the cortex is not involved.",
+        "whyWrongByChoice": {
+          "A": "MSK is a congenital, developmental malformation, not an acquired autoimmune tubular disease.",
+          "C": "Ureteropelvic junction obstruction causes hydronephrosis, not diffuse medullary cystic dilation with a spared cortex.",
+          "D": "MSK cysts are medullary; the condition specifically does not involve the cortex.",
+          "E": "The dilations are congenital collecting-duct malformations, not ischemic scars, and the vignette gives no hypertensive damage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "embryology",
+        "collecting duct"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-002",
+      "stem": "A 34-year-old woman with recurrent calcium stones undergoes CT urography with intravenous contrast. Which of the following findings is most characteristic of medullary sponge kidney on this study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contrast pooling in dilated tubules producing a brush-like calyceal appearance"
+        },
+        {
+          "label": "B",
+          "text": "Massively enlarged kidneys with cysts throughout cortex and medulla"
+        },
+        {
+          "label": "C",
+          "text": "A wedge-shaped nonenhancing area at the upper pole"
+        },
+        {
+          "label": "D",
+          "text": "Symmetric cortical thinning with dilated calyces from reflux"
+        },
+        {
+          "label": "E",
+          "text": "A single large parapelvic cyst compressing the collecting system"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Contrast pooling in dilated medullary tubules gives the characteristic paintbrush or brush-like calyceal appearance of MSK.",
+        "whyCorrect": "CT with contrast shows cystic dilatations in the kidney with contrast pooling, producing a calyceal brush-like appearance. This streaky paintbrush appearance of dilated, contrast-filled tubules within the renal medulla on IVP or CT-IVU is characteristic of medullary sponge kidney.",
+        "whyWrongByChoice": {
+          "B": "MSK kidneys are typically normal sized and the cysts spare the cortex; diffuse bilateral cystic enlargement suggests a different cystic disease.",
+          "C": "A wedge-shaped nonenhancing region describes an infarct, not dilated contrast-filled medullary tubules.",
+          "D": "Cortical thinning with blunted calyces reflects reflux damage, not the contrast pooling of dilated collecting ducts.",
+          "E": "MSK causes many small medullary cystic dilations, not a solitary parapelvic cyst."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "imaging",
+        "CT"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-003",
+      "stem": "A 32-year-old woman with medullary sponge kidney has recurrent urinary tract infections and kidney stones. Routine labs show a decreased serum bicarbonate concentration. Which of the following mechanisms best explains this laboratory abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Poor secretion of hydrogen ions by the distal nephron"
+        },
+        {
+          "label": "B",
+          "text": "Excess loss of bicarbonate through the gastrointestinal tract"
+        },
+        {
+          "label": "C",
+          "text": "Overproduction of lactic acid from tissue hypoperfusion"
+        },
+        {
+          "label": "D",
+          "text": "Accumulation of ketoacids from insulin deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Retention of acid from a severely reduced glomerular filtration rate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MSK can cause distal renal tubular acidosis, defined by poor renal secretion of hydrogen ions.",
+        "whyCorrect": "Because of abnormal tubular function in the distal nephron, MSK complications include distal renal tubular acidosis, in which the kidney secretes hydrogen ions poorly. Retained acid consumes buffer, so serum bicarbonate falls.",
+        "whyWrongByChoice": {
+          "B": "There is no diarrhea or other gastrointestinal bicarbonate loss in this vignette; the defect is renal and tubular.",
+          "C": "Nothing suggests shock or hypoperfusion, and lactic acidosis is not a described complication of MSK.",
+          "D": "The patient has no diabetes or ketosis; MSK lowers bicarbonate through a distal tubular acidification defect.",
+          "E": "Kidney function in MSK is usually preserved; the acidosis comes from distal tubular dysfunction, not loss of filtration."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "renal tubular acidosis",
+        "acid-base"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-004",
+      "stem": "A 30-year-old man with medullary sponge kidney reports passing large volumes of dilute urine. His serum glucose is normal. Impaired function of which of the following processes is the most likely cause of his symptom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal concentration of the urine"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic synthesis of antidiuretic hormone"
+        },
+        {
+          "label": "C",
+          "text": "Glomerular filtration of plasma"
+        },
+        {
+          "label": "D",
+          "text": "Proximal tubular reabsorption of glucose"
+        },
+        {
+          "label": "E",
+          "text": "Regulation of thirst and water intake"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MSK can cause nephrogenic diabetes insipidus, a decrease in the kidney's own concentrating ability.",
+        "whyCorrect": "Abnormal tubular function in the distal nephron of MSK can produce nephrogenic diabetes insipidus, which the lecture defines as decreased renal concentrating ability. The kidney itself cannot concentrate urine, so the patient passes large volumes of dilute urine.",
+        "whyWrongByChoice": {
+          "B": "Deficient hypothalamic ADH production describes central diabetes insipidus; MSK causes a nephrogenic (renal) concentrating defect.",
+          "C": "Glomerular filtration is typically preserved in MSK; the problem lies in the distal tubule, not the filter.",
+          "D": "His glucose is normal, so an osmotic diuresis from glycosuria is not the cause.",
+          "E": "Primary polydipsia is a disorder of water intake; MSK produces a true renal concentrating defect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "complications",
+        "nephrogenic diabetes insipidus"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-005",
+      "stem": "A 26-year-old woman undergoes CT for abdominal pain from appendicitis. The report incidentally notes findings consistent with medullary sponge kidney. She has never had a kidney stone or urinary tract infection, and her examination is normal. Which of the following is the most likely lifelong course of her renal condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She will remain asymptomatic"
+        },
+        {
+          "label": "B",
+          "text": "She will progress to end-stage renal disease"
+        },
+        {
+          "label": "C",
+          "text": "She will develop nephrotic-range proteinuria"
+        },
+        {
+          "label": "D",
+          "text": "She will require nephrectomy of the affected kidney"
+        },
+        {
+          "label": "E",
+          "text": "She will develop malignant transformation of the cysts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Most patients with medullary sponge kidney are asymptomatic and remain so for life.",
+        "whyCorrect": "MSK is usually asymptomatic, and patients typically remain asymptomatic for life. The disease is benign with an excellent prognosis, and kidney function tends to remain normal in most patients.",
+        "whyWrongByChoice": {
+          "B": "End-stage renal disease is rare and occurs only in patients with recurrent obstruction or infections.",
+          "C": "Heavy proteinuria is a glomerular finding and is not part of MSK, which affects the medullary collecting ducts.",
+          "D": "MSK is managed by treating stones, infections, and pain when they occur; removal of the kidney is not part of its management.",
+          "E": "The lecture describes MSK as a benign disorder; malignant transformation is not among its complications."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prognosis",
+        "natural history"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-006",
+      "stem": "A kidney removed for an unrelated reason is examined microscopically. The medulla shows cystically dilated collecting ducts with dark interstitial calcifications, while the cortex appears normal. These findings are most consistent with which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Medullary sponge kidney"
+        },
+        {
+          "label": "B",
+          "text": "Acute pyelonephritis"
+        },
+        {
+          "label": "C",
+          "text": "Renal amyloidosis"
+        },
+        {
+          "label": "D",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Crescentic glomerulonephritis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The histology of MSK shows cystic dilations of medullary collecting ducts with interstitial calcifications and a spared cortex.",
+        "whyCorrect": "Histology in medullary sponge kidney demonstrates cystic dilations of the medullary collecting ducts along with interstitial calcifications. The disease is confined to the medulla and does not involve the cortex, matching the normal cortical appearance here.",
+        "whyWrongByChoice": {
+          "B": "Acute pyelonephritis shows neutrophilic infiltration of the parenchyma, not cystic duct dilation with calcifications.",
+          "C": "Amyloidosis deposits abnormal protein in glomeruli and vessels rather than dilating medullary collecting ducts.",
+          "D": "Acute tubular necrosis features injured, sloughed tubular epithelium, not chronic cystic dilation with interstitial calcification.",
+          "E": "Crescentic glomerulonephritis is a glomerular lesion; this specimen shows a purely medullary collecting-duct process."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "histopathology",
+        "diagnosis"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-007",
+      "stem": "A 19-year-old man with recurrent calcium kidney stones is diagnosed with medullary sponge kidney. His history is notable for an omphalocele repaired in infancy, hemihypertrophy, and macroglossia. Which of the following conditions best accounts for these additional findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beckwith-Wiedemann syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Ehlers-Danlos syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Prader-Willi syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Wiskott-Aldrich syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Klinefelter syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MSK may occur with Beckwith-Wiedemann syndrome, which features hemihypertrophy, macroglossia, omphalocele, and gigantism.",
+        "whyCorrect": "Less commonly, patients with MSK have symptoms of other congenital disorders. Beckwith-Wiedemann syndrome is one such association and presents with hemihypertrophy, macroglossia, omphalocele, and gigantism, matching this patient's features.",
+        "whyWrongByChoice": {
+          "B": "Ehlers-Danlos syndrome features joint hypermobility and skin fragility; it does not produce omphalocele, macroglossia, or hemihypertrophy.",
+          "C": "Prader-Willi syndrome causes hypotonia, hyperphagia, and obesity, not the overgrowth features described here.",
+          "D": "Wiskott-Aldrich syndrome is an immunodeficiency with eczema and thrombocytopenia; it has no association with these overgrowth findings.",
+          "E": "Klinefelter syndrome is not a described MSK association and does not account for these congenital anomalies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "associations",
+        "Beckwith-Wiedemann"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-008",
+      "stem": "A 25-year-old woman has had two calcium kidney stones. Renal ultrasound shows echogenic medullary pyramids that the radiologist describes as subtle and nonspecific. Which of the following is the most appropriate study to definitively establish the suspected diagnosis of medullary sponge kidney?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT urography with intravenous contrast"
+        },
+        {
+          "label": "B",
+          "text": "Percutaneous renal biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Repeat renal ultrasonography in 6 months"
+        },
+        {
+          "label": "D",
+          "text": "Measurement of serum bicarbonate and urine crystals"
+        },
+        {
+          "label": "E",
+          "text": "Cystoscopy with retrograde inspection of the bladder"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Imaging with contrast-enhanced CT definitively establishes the diagnosis of MSK.",
+        "whyCorrect": "Imaging studies are needed to definitively establish the diagnosis of MSK. A CT scan with contrast shows cystic dilatations with contrast pooling and a calyceal brush-like (paintbrush) appearance that is characteristic of the disease, whereas ultrasound findings of echogenic pyramids may be subtle.",
+        "whyWrongByChoice": {
+          "B": "The diagnosis is made by imaging; tissue sampling is not needed to identify MSK.",
+          "C": "Repeating an insensitive study delays diagnosis; ultrasound findings in MSK are often subtle, so contrast imaging is preferred.",
+          "D": "There are no diagnostic laboratory findings in MSK; labs may show only nonspecific changes like low bicarbonate or crystals.",
+          "E": "Cystoscopy evaluates the bladder and lower tract and cannot show the dilated medullary collecting ducts of MSK."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "imaging",
+        "ultrasound"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-009",
+      "stem": "A 40-year-old man is found to have medullary sponge kidney on CT performed after a single, spontaneously passed stone. He currently has no pain, no infection, and normal renal function. In addition to counseling about stone prevention, which of the following is the most appropriate management of his medullary sponge kidney itself?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No specific treatment directed at the malformation"
+        },
+        {
+          "label": "B",
+          "text": "Daily prophylactic antibiotics to prevent urinary infection"
+        },
+        {
+          "label": "C",
+          "text": "Surgical drainage of the medullary cysts"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of dialysis planning and transplant evaluation"
+        },
+        {
+          "label": "E",
+          "text": "A high-calcium diet with vitamin D supplementation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "MSK itself is not treated; therapy is given only for stones and their complications, UTIs, and flank pain.",
+        "whyCorrect": "The only treatment given in MSK is for renal stones and their complications, urinary tract infections (with appropriate antimicrobial therapy), and flank pain. An asymptomatic patient needs no therapy aimed at the malformation, which is benign with an excellent prognosis.",
+        "whyWrongByChoice": {
+          "B": "Antimicrobials are used to treat urinary tract infections when they occur, not as continuous prophylaxis in an uninfected patient.",
+          "C": "The medullary cystic dilations are not surgically drained; they are a congenital malformation with a benign course.",
+          "D": "Kidney function tends to remain normal in most patients; end-stage renal disease is rare and there is no indication for dialysis planning.",
+          "E": "MSK predisposes to calcium stones; loading calcium and vitamin D is not part of its management."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "treatment"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-010",
+      "stem": "A 36-year-old woman with medullary sponge kidney continues to form calcium stones despite increased fluid intake and dietary modification. Her physician adds a medication to reduce stone recurrence. Which of the following drugs and mechanisms is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrochlorothiazide, to lower urinary calcium excretion"
+        },
+        {
+          "label": "B",
+          "text": "Furosemide, to increase tubular flow through the medulla"
+        },
+        {
+          "label": "C",
+          "text": "Acetazolamide, to alkalinize the urine in the proximal tubule"
+        },
+        {
+          "label": "D",
+          "text": "Spironolactone, to block aldosterone in the collecting duct"
+        },
+        {
+          "label": "E",
+          "text": "Allopurinol, to reduce hepatic production of uric acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thiazide diuretics are used in MSK stone prevention because they lower urinary calcium excretion.",
+        "whyCorrect": "For prevention of recurrent kidney stones in MSK, therapy consists of lifestyle changes, drug therapy, or both, with specific recommendations based on 24-hour urine collection results. The drug therapy the lecture cites is a thiazide diuretic, which lowers urinary calcium excretion and thereby reduces calcium stone formation.",
+        "whyWrongByChoice": {
+          "B": "Loop diuretics are not the cited preventive therapy and do not lower urinary calcium the way thiazides do.",
+          "C": "Acetazolamide is not part of MSK stone prevention in this lecture, and MSK patients already risk acidosis from distal tubular dysfunction.",
+          "D": "Aldosterone blockade does not address urinary calcium excretion, the target of preventive drug therapy in MSK.",
+          "E": "The stones of MSK are calcium stones, so reducing uric acid production does not address their formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "management",
+        "thiazide",
+        "stone prevention"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-011",
+      "stem": "A 31-year-old man newly diagnosed with medullary sponge kidney asks whether he will eventually need dialysis. Which of the following is the most accurate response regarding his long-term kidney function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Function usually stays normal unless stones or infections recur repeatedly"
+        },
+        {
+          "label": "B",
+          "text": "Function declines steadily to kidney failure in most patients by middle age"
+        },
+        {
+          "label": "C",
+          "text": "Function is preserved only if the medullary cysts are drained early"
+        },
+        {
+          "label": "D",
+          "text": "Function is lost rapidly once the cysts extend into the renal cortex"
+        },
+        {
+          "label": "E",
+          "text": "Function depends chiefly on starting a thiazide at the time of diagnosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kidney function in MSK remains normal in most patients; ESRD is rare and tied to recurrent obstruction or infection.",
+        "whyCorrect": "Kidney function tends to remain normal in most patients with MSK unless they have repeated obstruction with stones or repeated infections. Only rarely, in patients with recurrent obstruction or infections, does end-stage renal disease develop. The overall prognosis is excellent.",
+        "whyWrongByChoice": {
+          "B": "Steady progression to renal failure is not the natural history; MSK is a benign disorder that usually spares kidney function.",
+          "C": "Cyst drainage is not part of MSK management and is not what preserves renal function.",
+          "D": "MSK does not involve the cortex; the disease is confined to the medulla.",
+          "E": "Thiazides help prevent recurrent stones but the disease's excellent prognosis does not hinge on starting one at diagnosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "prognosis",
+        "counseling"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    },
+    {
+      "id": "en35-012",
+      "stem": "Several members of a family have medullary sponge kidney, and investigators studying such families have proposed a candidate gene. A mutation in the gene encoding which of the following proteins has been suggested, though not proven, to cause this disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glial cell line-derived neurotrophic factor"
+        },
+        {
+          "label": "B",
+          "text": "Polycystin-1 transmembrane protein"
+        },
+        {
+          "label": "C",
+          "text": "Fibrillin-1 extracellular matrix protein"
+        },
+        {
+          "label": "D",
+          "text": "Type IV collagen alpha-5 chain"
+        },
+        {
+          "label": "E",
+          "text": "Aquaporin-2 collecting-duct water channel"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A GDNF mutation has been proposed as a cause of MSK, but no definitive genetic cause has been identified.",
+        "whyCorrect": "MSK can cluster in families, suggesting inheritable components, and some researchers have suggested that the cause might be a mutation in the gene for glial cell-derived neurotrophic factor (GDNF). However, a definitive genetic cause has not been identified, and the exact genetic basis remains unknown.",
+        "whyWrongByChoice": {
+          "B": "Polycystin mutations underlie polycystic kidney disease, not the proposed genetics of MSK.",
+          "C": "Fibrillin-1 mutations cause Marfan syndrome, an occasional MSK association, but fibrillin is not the candidate gene proposed for MSK itself.",
+          "D": "Type IV collagen defects cause hereditary glomerular basement membrane disease, not a collecting-duct malformation like MSK.",
+          "E": "Aquaporin-2 relates to renal water handling; it is not the gene suggested in familial MSK."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "GDNF"
+      ],
+      "topicId": "medullary-sponge-kidney",
+      "topicName": "Medullary Sponge Kidney"
+    }
+  ]
+}
