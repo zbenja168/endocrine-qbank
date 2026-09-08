@@ -1594,7 +1594,7 @@
       "correctAnswer": "A",
       "explanation": {
         "summary": "Longstanding hypoparathyroidism causes cataracts, a disease of the lens, not of the retina.",
-        "whyCorrect": "Chronic hypoparathyroidism can cause decreased vision from cataracts. A cataract is an opacity of the ocular lens, so lens clouding is the expected examination finding. This sits alongside basal ganglia calcification as a manifestation of longstanding hypocalcemia.",
+        "whyCorrect": "Chronic hypoparathyroidism can cause decreased vision from cataracts. A cataract is an opacity of the ocular lens, so lens clouding is the expected examination finding. This sits alongside basal ganglia calcification as a manifestation of longstanding hypoparathyroidism — the calcification reflects the high calcium-phosphate deposition burden of low PTH (hypocalcemia with phosphate retention), not hypocalcemia alone.",
         "whyWrongByChoice": {
           "B": "Retinal disease is not a feature of hypoparathyroidism; the lesion is at the lens.",
           "C": "Optic nerve pallor is not among the described ocular complications of chronic hypocalcemia.",
