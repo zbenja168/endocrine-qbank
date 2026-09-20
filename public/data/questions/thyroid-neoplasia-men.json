@@ -8,34 +8,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Follicular thyroid carcinoma"
-        },
-        {
-          "label": "B",
           "text": "Follicular adenoma"
         },
         {
-          "label": "C",
-          "text": "Papillary thyroid carcinoma"
+          "label": "B",
+          "text": "Follicular thyroid carcinoma"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Hashimoto thyroiditis with Hurthle cell change"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Hyperplastic nodule with cystic change"
+        },
+        {
+          "label": "E",
+          "text": "Papillary thyroid carcinoma"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Papillary thyroid carcinoma is a nuclear diagnosis with lymphatic spread to cervical nodes.",
         "whyCorrect": "Nuclear clearing (Orphan Annie eye nuclei), nuclear grooves, and intranuclear pseudoinclusions are the classic papillary nuclear phenotype, and the punctate echogenic foci correspond to psammoma bodies. Papillary carcinoma commonly spreads through lymphatics to cervical nodes even when the primary tumor is small, which explains the suspicious lateral node. Prior childhood or therapeutic head and neck radiation is an important risk clue for this tumor.",
         "whyWrongByChoice": {
-          "A": "Follicular carcinoma is defined by capsular or vascular invasion and spreads hematogenously, not by these nuclear features with nodal disease.",
-          "B": "Follicular adenoma is an encapsulated benign lesion without invasion and would not yield malignant cells or nodal metastasis.",
-          "D": "Hashimoto thyroiditis may show Hurthle cell change but does not produce malignant papillary nuclear features.",
-          "E": "A hyperplastic nodule with cystic change does not explain malignant cells with papillary-type nuclei."
+          "A": "Follicular adenoma is an encapsulated benign lesion without invasion and would not yield malignant cells or nodal metastasis.",
+          "B": "Follicular carcinoma is defined by capsular or vascular invasion and spreads hematogenously, not by these nuclear features with nodal disease.",
+          "C": "Hashimoto thyroiditis may show Hurthle cell change but does not produce malignant papillary nuclear features.",
+          "D": "A hyperplastic nodule with cystic change does not explain malignant cells with papillary-type nuclei."
         }
       },
       "difficulty": "easy",
@@ -54,34 +54,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Nuclear clearing and nuclear grooves"
-        },
-        {
-          "label": "B",
-          "text": "Metastatic cervical lymph nodes"
-        },
-        {
-          "label": "C",
-          "text": "Psammoma body formation"
-        },
-        {
-          "label": "D",
           "text": "Capsular or vascular invasion"
         },
         {
-          "label": "E",
+          "label": "B",
           "text": "Diffuse radioactive iodine uptake"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic cervical lymph nodes"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear clearing and nuclear grooves"
+        },
+        {
+          "label": "E",
+          "text": "Psammoma body formation"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Follicular thyroid carcinoma is an invasion-defined diagnosis, not a cytologic one.",
         "whyCorrect": "Follicular adenoma is an encapsulated follicular-pattern lesion without capsular or vascular invasion. Follicular carcinoma is defined by tumor breaching the capsule and/or invading blood vessels. Because that distinction is architectural, it requires tissue rather than cells alone.",
         "whyWrongByChoice": {
-          "A": "Nuclear clearing and grooves define papillary carcinoma and are not the criteria for follicular carcinoma.",
-          "B": "Nodal metastasis is typical of papillary carcinoma and is not required to diagnose follicular carcinoma.",
-          "C": "Psammoma bodies are a papillary carcinoma finding and do not establish follicular carcinoma.",
-          "E": "Diffuse iodine uptake reflects active hormone synthesis, as in Graves disease, not a carcinoma diagnosis."
+          "B": "Diffuse iodine uptake reflects active hormone synthesis, as in Graves disease, not a carcinoma diagnosis.",
+          "C": "Nodal metastasis is typical of papillary carcinoma and is not required to diagnose follicular carcinoma.",
+          "D": "Nuclear clearing and grooves define papillary carcinoma and are not the criteria for follicular carcinoma.",
+          "E": "Psammoma bodies are a papillary carcinoma finding and do not establish follicular carcinoma."
         }
       },
       "difficulty": "easy",
@@ -100,7 +100,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Aspiration samples cells and cannot assess the capsule and vessels"
+          "text": "Aspiration cannot be interpreted while thyroid-stimulating hormone is normal"
         },
         {
           "label": "B",
@@ -112,22 +112,22 @@
         },
         {
           "label": "D",
-          "text": "Malignant follicular cells lose thyroglobulin staining on cytology"
+          "text": "Aspiration samples cells and cannot assess the capsule and vessels"
         },
         {
           "label": "E",
-          "text": "Aspiration cannot be interpreted while thyroid-stimulating hormone is normal"
+          "text": "Malignant follicular cells lose thyroglobulin staining on cytology"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Cytology samples cells, but follicular carcinoma is defined by tissue architecture.",
         "whyCorrect": "Follicular carcinoma and follicular adenoma look the same cytologically because the malignant cells themselves are not distinctive. Carcinoma is defined by capsular and/or vascular invasion, and aspiration cannot reliably sample the entire capsule or the capsular vessels. This is the diagnostic bottleneck that drives molecular testing or diagnostic lobectomy.",
         "whyWrongByChoice": {
+          "A": "A normal thyroid-stimulating hormone level does not limit interpretation of a thyroid aspirate.",
           "B": "Aspiration of a follicular-pattern nodule readily recovers follicular cells; that is why the report can call it a follicular neoplasm.",
           "C": "Anti-thyroglobulin antibodies interfere with serum thyroglobulin surveillance, not with the cytology of an aspirate.",
-          "D": "Differentiated thyroid cancer cells retain thyroglobulin production, so loss of staining is not the issue.",
-          "E": "A normal thyroid-stimulating hormone level does not limit interpretation of a thyroid aspirate."
+          "E": "Differentiated thyroid cancer cells retain thyroglobulin production, so loss of staining is not the issue."
         }
       },
       "difficulty": "medium",
@@ -146,34 +146,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Central and lateral cervical lymph nodes"
-        },
-        {
-          "label": "B",
-          "text": "Lung and bone"
-        },
-        {
-          "label": "C",
-          "text": "Peritoneum and omentum"
-        },
-        {
-          "label": "D",
           "text": "Adrenal medulla and paraganglia"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "Central and lateral cervical lymph nodes"
+        },
+        {
+          "label": "C",
+          "text": "Lung and bone"
+        },
+        {
+          "label": "D",
           "text": "Mediastinal parathyroid glands"
+        },
+        {
+          "label": "E",
+          "text": "Peritoneum and omentum"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Follicular thyroid carcinoma spreads hematogenously, classically to lung and bone.",
         "whyCorrect": "Vascular invasion is part of how follicular carcinoma is defined, and it explains the tumor's blood-borne behavior. Follicular carcinoma more often metastasizes hematogenously than through lymphatics, with lung and bone the common distant sites.",
         "whyWrongByChoice": {
-          "A": "Cervical nodal metastasis is the characteristic pattern of papillary carcinoma, which spreads through lymphatics.",
-          "C": "Peritoneal spread is not a described pattern for differentiated thyroid cancer.",
-          "D": "Adrenal medullary and paraganglial tumors are a separate neuroendocrine problem, not follicular carcinoma metastasis.",
-          "E": "The parathyroid glands are not a metastatic target of follicular thyroid carcinoma."
+          "A": "Adrenal medullary and paraganglial tumors are a separate neuroendocrine problem, not follicular carcinoma metastasis.",
+          "B": "Cervical nodal metastasis is the characteristic pattern of papillary carcinoma, which spreads through lymphatics.",
+          "D": "The parathyroid glands are not a metastatic target of follicular thyroid carcinoma.",
+          "E": "Peritoneal spread is not a described pattern for differentiated thyroid cancer."
         }
       },
       "difficulty": "medium",
@@ -192,34 +192,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Complete remission with no residual thyroid tissue"
-        },
-        {
-          "label": "B",
           "text": "Antibody interference causing a falsely low result"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Autonomous hormone synthesis from a hot nodule"
         },
         {
+          "label": "C",
+          "text": "Complete remission with no residual thyroid tissue"
+        },
+        {
           "label": "D",
-          "text": "Postoperative scar tissue producing thyroglobulin"
+          "text": "Persistent or recurrent follicular-derived thyroid tissue"
         },
         {
           "label": "E",
-          "text": "Persistent or recurrent follicular-derived thyroid tissue"
+          "text": "Postoperative scar tissue producing thyroglobulin"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "After thyroidectomy and ablation, a rising thyroglobulin signals surviving follicular-derived tissue.",
         "whyCorrect": "Thyroglobulin is made by normal thyroid follicular cells and by differentiated thyroid cancer cells. Once surgery and radioactive iodine have removed or ablated the normal thyroid, thyroglobulin should be low or undetectable, so a rising level points to persistent or recurrent differentiated thyroid cancer. Negative anti-thyroglobulin antibodies mean the assay can be trusted here.",
         "whyWrongByChoice": {
-          "A": "Complete remission would be expected to show an undetectable or stably very low thyroglobulin, not a rising one.",
-          "B": "Antibodies can distort thyroglobulin interpretation, but the stem states that they are negative.",
-          "C": "A hot nodule is a preoperative functional diagnosis and cannot explain findings after total thyroidectomy.",
-          "D": "Surgical scar tissue does not produce thyroglobulin; only follicular-derived cells do."
+          "A": "Antibodies can distort thyroglobulin interpretation, but the stem states that they are negative.",
+          "B": "A hot nodule is a preoperative functional diagnosis and cannot explain findings after total thyroidectomy.",
+          "C": "Complete remission would be expected to show an undetectable or stably very low thyroglobulin, not a rising one.",
+          "E": "Surgical scar tissue does not produce thyroglobulin; only follicular-derived cells do."
         }
       },
       "difficulty": "medium",
@@ -238,34 +238,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Recurrence is excluded by the undetectable thyroglobulin"
+          "text": "Radioactive iodine failure is confirmed by these results"
         },
         {
           "label": "B",
-          "text": "The thyroglobulin level proves a new thyroid primary"
+          "text": "Recurrence is excluded by the undetectable thyroglobulin"
         },
         {
           "label": "C",
-          "text": "Thyroglobulin interpretation is unreliable in this setting"
+          "text": "The thyroglobulin level proves a new thyroid primary"
         },
         {
           "label": "D",
-          "text": "Thyroid-stimulating hormone no longer affects tumor biology"
+          "text": "Thyroglobulin interpretation is unreliable in this setting"
         },
         {
           "label": "E",
-          "text": "Radioactive iodine failure is confirmed by these results"
+          "text": "Thyroid-stimulating hormone no longer affects tumor biology"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Anti-thyroglobulin antibodies interfere with the thyroglobulin assay, so a low value is not reassuring.",
         "whyCorrect": "Anti-thyroglobulin antibodies must be measured whenever thyroglobulin is used for surveillance precisely because they distort the result. When antibodies are present and rising, an undetectable thyroglobulin cannot be taken at face value, and follow-up must lean on antibody trend and neck ultrasound.",
         "whyWrongByChoice": {
-          "A": "Recurrence cannot be excluded because the interfering antibodies make the thyroglobulin value uninterpretable.",
-          "B": "Thyroglobulin indicates follicular-derived tissue in general and does not establish a new primary tumor.",
-          "D": "Differentiated thyroid cancer cells may retain thyroid-stimulating hormone responsiveness, which is why suppression is used.",
-          "E": "An uninterpretable thyroglobulin confirms neither success nor failure of radioactive iodine therapy."
+          "A": "An uninterpretable thyroglobulin confirms neither success nor failure of radioactive iodine therapy.",
+          "B": "Recurrence cannot be excluded because the interfering antibodies make the thyroglobulin value uninterpretable.",
+          "C": "Thyroglobulin indicates follicular-derived tissue in general and does not establish a new primary tumor.",
+          "E": "Differentiated thyroid cancer cells may retain thyroid-stimulating hormone responsiveness, which is why suppression is used."
         }
       },
       "difficulty": "medium",
@@ -284,34 +284,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "They secrete calcitonin, which concentrates iodine in tumor"
-        },
-        {
-          "label": "B",
-          "text": "They retain iodine-handling machinery from follicular cells"
-        },
-        {
-          "label": "C",
-          "text": "They lack the ability to repair any radiation-induced damage"
-        },
-        {
-          "label": "D",
           "text": "They express receptors that bind circulating thyroglobulin"
         },
         {
-          "label": "E",
+          "label": "B",
+          "text": "They lack the ability to repair any radiation-induced damage"
+        },
+        {
+          "label": "C",
           "text": "They proliferate faster than any other thyroid malignancy"
+        },
+        {
+          "label": "D",
+          "text": "They retain iodine-handling machinery from follicular cells"
+        },
+        {
+          "label": "E",
+          "text": "They secrete calcitonin, which concentrates iodine in tumor"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Radioactive iodine works because differentiated tumor cells still take up iodine like normal follicular cells.",
         "whyCorrect": "Papillary and follicular carcinomas are called differentiated because they arise from follicular epithelium and retain follicular-cell behaviors, including iodine uptake. Radioactive iodine is therefore used selectively, and it is most useful when residual or metastatic disease is iodine-avid.",
         "whyWrongByChoice": {
-          "A": "Calcitonin is a product of parafollicular C cells in medullary carcinoma and has no role in iodine uptake.",
-          "C": "Selectivity comes from iodine trapping by differentiated thyroid cells, not from a defect in DNA repair.",
-          "D": "Thyroglobulin is secreted as a tumor marker; there is no thyroglobulin receptor mediating this therapy.",
-          "E": "Growth rate is not the basis for radioiodine selectivity, and these tumors are not the fastest-growing thyroid cancers."
+          "A": "Thyroglobulin is secreted as a tumor marker; there is no thyroglobulin receptor mediating this therapy.",
+          "B": "Selectivity comes from iodine trapping by differentiated thyroid cells, not from a defect in DNA repair.",
+          "C": "Growth rate is not the basis for radioiodine selectivity, and these tumors are not the fastest-growing thyroid cancers.",
+          "E": "Calcitonin is a product of parafollicular C cells in medullary carcinoma and has no role in iodine uptake."
         }
       },
       "difficulty": "medium",
@@ -330,34 +330,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Levothyroxine is directly cytotoxic to residual carcinoma cells"
-        },
-        {
-          "label": "B",
-          "text": "Suppression prevents anti-thyroglobulin antibodies from forming"
-        },
-        {
-          "label": "C",
           "text": "Higher levothyroxine doses increase tumor iodine trapping"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Levothyroxine is directly cytotoxic to residual carcinoma cells"
+        },
+        {
+          "label": "C",
           "text": "Residual tumor cells may still respond to thyroid-stimulating hormone"
         },
         {
-          "label": "E",
+          "label": "D",
           "text": "Suppression is needed to keep serum calcium in the normal range"
+        },
+        {
+          "label": "E",
+          "text": "Suppression prevents anti-thyroglobulin antibodies from forming"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Thyroid-stimulating hormone suppression exploits retained TSH responsiveness of differentiated tumor cells.",
         "whyCorrect": "Differentiated thyroid cancer cells may retain responsiveness to thyroid-stimulating hormone, so lowering that stimulus with levothyroxine removes a growth signal from residual disease. The depth of suppression is risk-adapted rather than maximal, because suppression carries cardiac and skeletal costs.",
         "whyWrongByChoice": {
-          "A": "Levothyroxine is not a cytotoxic drug; it acts by lowering thyroid-stimulating hormone through feedback.",
-          "B": "Anti-thyroglobulin antibody formation is not prevented by thyroid hormone dosing.",
-          "C": "Suppressing thyroid-stimulating hormone reduces rather than increases stimulation of iodine trapping.",
-          "E": "Serum calcium after thyroid surgery reflects parathyroid function, which levothyroxine does not control."
+          "A": "Suppressing thyroid-stimulating hormone reduces rather than increases stimulation of iodine trapping.",
+          "B": "Levothyroxine is not a cytotoxic drug; it acts by lowering thyroid-stimulating hormone through feedback.",
+          "D": "Serum calcium after thyroid surgery reflects parathyroid function, which levothyroxine does not control.",
+          "E": "Anti-thyroglobulin antibody formation is not prevented by thyroid hormone dosing."
         }
       },
       "difficulty": "medium",
@@ -376,33 +376,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Follicular carcinoma, with the TERT mutation raising risk concern"
-        },
-        {
-          "label": "B",
-          "text": "Papillary carcinoma, with molecular results outweighing the morphology"
-        },
-        {
-          "label": "C",
           "text": "Follicular adenoma, since RAS-like findings exclude carcinoma"
         },
         {
-          "label": "D",
+          "label": "B",
+          "text": "Follicular carcinoma, with the TERT mutation raising risk concern"
+        },
+        {
+          "label": "C",
           "text": "Hyperplastic nodule, since capsular invasion is common in goiter"
+        },
+        {
+          "label": "D",
+          "text": "Papillary carcinoma, with molecular results outweighing the morphology"
         },
         {
           "label": "E",
           "text": "Recurrent carcinoma, since thyroglobulin has not yet been checked"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Invasion establishes follicular carcinoma; TERT promoter mutations flag aggressive behavior, not the diagnosis.",
         "whyCorrect": "Capsular and vascular invasion in a follicular-pattern tumor establishes follicular thyroid carcinoma regardless of the molecular result. A RAS mutation supports follicular-pattern biology but cannot by itself prove carcinoma. TERT promoter mutations matter chiefly as markers of more aggressive differentiated thyroid cancer behavior.",
         "whyWrongByChoice": {
-          "B": "Papillary carcinoma requires its nuclear phenotype, which is explicitly absent; molecular findings do not override morphology.",
-          "C": "RAS-like results occur in follicular-pattern tumors of either kind and cannot exclude carcinoma once invasion is present.",
-          "D": "Capsular and vascular invasion are not features of a benign hyperplastic nodule or nodular goiter.",
+          "A": "RAS-like results occur in follicular-pattern tumors of either kind and cannot exclude carcinoma once invasion is present.",
+          "C": "Capsular and vascular invasion are not features of a benign hyperplastic nodule or nodular goiter.",
+          "D": "Papillary carcinoma requires its nuclear phenotype, which is explicitly absent; molecular findings do not override morphology.",
           "E": "Thyroglobulin is a post-treatment surveillance marker and is not needed to make the initial diagnosis."
         }
       },
@@ -422,7 +422,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Follicular carcinoma, since the initial cytology pattern sets the diagnosis"
+          "text": "Chronic thyroiditis, since pseudoinclusions reflect autoimmune injury"
         },
         {
           "label": "B",
@@ -430,11 +430,11 @@
         },
         {
           "label": "C",
-          "text": "Hyperplastic nodule, since the involved cervical node is reactive"
+          "text": "Follicular carcinoma, since the initial cytology pattern sets the diagnosis"
         },
         {
           "label": "D",
-          "text": "Chronic thyroiditis, since pseudoinclusions reflect autoimmune injury"
+          "text": "Hyperplastic nodule, since the involved cervical node is reactive"
         },
         {
           "label": "E",
@@ -446,10 +446,10 @@
         "summary": "Aspiration cytology can be indeterminate; papillary carcinoma is settled by nuclear morphology and lymphatic spread.",
         "whyCorrect": "Aspiration may read as a follicular-pattern lesion, but the final diagnosis rests on the full cytologic, histologic, molecular, and clinical picture. Papillary architecture with nuclear clearing, grooves, and pseudoinclusions is the defining papillary phenotype, and cervical nodal metastasis fits the lymphatic route of spread. BRAF V600E sits in the MAPK-pathway pattern that supports papillary carcinoma.",
         "whyWrongByChoice": {
-          "A": "Follicular-pattern cytology does not by itself determine the diagnosis, and follicular carcinoma requires invasion with hematogenous spread.",
+          "A": "Chronic thyroiditis produces inflammatory and Hurthle cell change, not papillary nuclei with nodal metastasis.",
           "B": "Follicular adenoma is benign, and BRAF V600E supports papillary carcinoma rather than a benign lesion.",
-          "C": "A hyperplastic nodule cannot account for malignant nuclear features or metastatic thyroid cells in a node.",
-          "D": "Chronic thyroiditis produces inflammatory and Hurthle cell change, not papillary nuclei with nodal metastasis."
+          "C": "Follicular-pattern cytology does not by itself determine the diagnosis, and follicular carcinoma requires invasion with hematogenous spread.",
+          "D": "A hyperplastic nodule cannot account for malignant nuclear features or metastatic thyroid cells in a node."
         }
       },
       "difficulty": "hard",
@@ -468,15 +468,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is an inherited variant, so relatives need RET testing now"
-        },
-        {
-          "label": "B",
           "text": "It indicates medullary carcinoma, so calcitonin should be measured"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "It is a tumor alteration in papillary carcinoma, unrelated to MEN2"
+        },
+        {
+          "label": "C",
+          "text": "It is an inherited variant, so relatives need RET testing now"
         },
         {
           "label": "D",
@@ -487,13 +487,13 @@
           "text": "It warrants prophylactic thyroidectomy for her young children"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "A RET fusion in papillary carcinoma is not the same as a germline activating RET variant in MEN2.",
         "whyCorrect": "RET fusions belong to the MAPK-pathway molecular pattern of papillary thyroid carcinoma, a follicular-cell tumor. Germline activating RET variants instead drive MEN2-associated medullary thyroid carcinoma, which arises from parafollicular C cells and follows entirely different disease logic. Same gene name, different disease.",
         "whyWrongByChoice": {
-          "A": "The fusion described is a tumor alteration in a follicular-cell cancer and does not establish an inherited syndrome.",
-          "B": "Calcitonin tracks medullary carcinoma of C-cell origin, which this patient does not have.",
+          "A": "Calcitonin tracks medullary carcinoma of C-cell origin, which this patient does not have.",
+          "C": "The fusion described is a tumor alteration in a follicular-cell cancer and does not establish an inherited syndrome.",
           "D": "Pheochromocytoma screening belongs to MEN2 evaluation driven by a germline RET variant.",
           "E": "Prophylactic thyroidectomy in childhood is a MEN2 strategy tied to germline RET risk, not to a papillary tumor fusion."
         }
@@ -518,30 +518,30 @@
         },
         {
           "label": "B",
-          "text": "Differentiated thyroid carcinoma"
-        },
-        {
-          "label": "C",
-          "text": "Toxic follicular adenoma"
-        },
-        {
-          "label": "D",
           "text": "Destructive thyroiditis with follicular injury"
         },
         {
-          "label": "E",
+          "label": "C",
+          "text": "Differentiated thyroid carcinoma"
+        },
+        {
+          "label": "D",
           "text": "Nonfunctioning hyperplastic thyroid nodule"
+        },
+        {
+          "label": "E",
+          "text": "Toxic follicular adenoma"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Differentiated thyroid cancers arise from follicular epithelium and retain follicular-cell behaviors.",
         "whyCorrect": "Papillary and follicular thyroid carcinoma are the differentiated thyroid cancers, so named because they come from follicular epithelial cells and retain enough of that biology to take up iodine, respond to thyroid-stimulating hormone, and produce thyroglobulin. Those retained behaviors are exactly what radioactive iodine, thyroid-stimulating hormone suppression, and thyroglobulin surveillance exploit.",
         "whyWrongByChoice": {
           "A": "A benign follicular adenoma is follicular-cell derived but is not a carcinoma.",
-          "C": "A toxic follicular adenoma is a hyperfunctioning benign nodule rather than a malignancy.",
-          "D": "Destructive thyroiditis injures follicular cells and releases preformed hormone but is inflammatory, not malignant.",
-          "E": "A nonfunctioning hyperplastic nodule is a benign nodule and not a follicular-cell carcinoma."
+          "B": "Destructive thyroiditis injures follicular cells and releases preformed hormone but is inflammatory, not malignant.",
+          "D": "A nonfunctioning hyperplastic nodule is a benign nodule and not a follicular-cell carcinoma.",
+          "E": "A toxic follicular adenoma is a hyperfunctioning benign nodule rather than a malignancy."
         }
       },
       "difficulty": "easy",
@@ -560,7 +560,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Papillary thyroid carcinoma"
+          "text": "Follicular adenoma"
         },
         {
           "label": "B",
@@ -568,26 +568,26 @@
         },
         {
           "label": "C",
-          "text": "Medullary thyroid carcinoma"
+          "text": "Hashimoto thyroiditis"
         },
         {
           "label": "D",
-          "text": "Follicular adenoma"
+          "text": "Medullary thyroid carcinoma"
         },
         {
           "label": "E",
-          "text": "Hashimoto thyroiditis"
+          "text": "Papillary thyroid carcinoma"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Calcitonin positivity, neuroendocrine markers, and stromal amyloid identify a parafollicular C-cell carcinoma.",
         "whyCorrect": "Medullary thyroid carcinoma arises from parafollicular C cells, which produce calcitonin. It has a neuroendocrine phenotype with nests, trabeculae, or sheets of cells in fibrous stroma, and stains for calcitonin, chromogranin, and synaptophysin. The amyloid in the stroma is derived from altered calcitonin and is a high-yield pathologic clue.",
         "whyWrongByChoice": {
-          "A": "Papillary thyroid carcinoma arises from follicular epithelial cells and shows nuclear clearing, grooves, pseudoinclusions, and psammoma bodies rather than calcitonin-positive amyloid-rich nests.",
+          "A": "Follicular adenoma is a benign follicular-cell tumor and lacks malignant calcitonin-positive neuroendocrine features.",
           "B": "Follicular thyroid carcinoma arises from follicular epithelial cells and is diagnosed by capsular or vascular invasion, not by calcitonin positivity or amyloid stroma.",
-          "D": "Follicular adenoma is a benign follicular-cell tumor and lacks malignant calcitonin-positive neuroendocrine features.",
-          "E": "Hashimoto thyroiditis is autoimmune thyroiditis with lymphocytic inflammation and Hürthle cell change, not a calcitonin-positive carcinoma."
+          "C": "Hashimoto thyroiditis is autoimmune thyroiditis with lymphocytic inflammation and Hürthle cell change, not a calcitonin-positive carcinoma.",
+          "E": "Papillary thyroid carcinoma arises from follicular epithelial cells and shows nuclear clearing, grooves, pseudoinclusions, and psammoma bodies rather than calcitonin-positive amyloid-rich nests."
         }
       },
       "difficulty": "easy",
@@ -606,34 +606,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Thyroglobulin"
+          "text": "Anti-thyroid peroxidase antibody"
         },
         {
           "label": "B",
-          "text": "Thyroid-stimulating hormone"
-        },
-        {
-          "label": "C",
-          "text": "Thyroid-binding globulin"
-        },
-        {
-          "label": "D",
           "text": "Calcitonin"
         },
         {
+          "label": "C",
+          "text": "Thyroglobulin"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid-binding globulin"
+        },
+        {
           "label": "E",
-          "text": "Anti-thyroid peroxidase antibody"
+          "text": "Thyroid-stimulating hormone"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Medullary thyroid carcinoma is followed with calcitonin and carcinoembryonic antigen, not with follicular-cell markers.",
         "whyCorrect": "The immunoprofile identifies a parafollicular C-cell neuroendocrine carcinoma. Because C cells produce calcitonin, serum calcitonin tracks tumor burden and is used for both diagnosis and monitoring. Carcinoembryonic antigen is the other marker used in monitoring this tumor.",
         "whyWrongByChoice": {
-          "A": "Thyroglobulin is a follicular-cell product used to survey differentiated thyroid cancers; a C-cell tumor does not make it.",
-          "B": "Thyroid-stimulating hormone assesses thyroid function and is used in suppression strategies for differentiated cancer, not as a medullary tumor marker.",
-          "C": "Thyroid-binding globulin alters total thyroid hormone levels and says nothing about C-cell tumor burden.",
-          "E": "Anti-thyroid peroxidase antibodies support autoimmune thyroiditis rather than tracking a thyroid malignancy."
+          "A": "Anti-thyroid peroxidase antibodies support autoimmune thyroiditis rather than tracking a thyroid malignancy.",
+          "C": "Thyroglobulin is a follicular-cell product used to survey differentiated thyroid cancers; a C-cell tumor does not make it.",
+          "D": "Thyroid-binding globulin alters total thyroid hormone levels and says nothing about C-cell tumor burden.",
+          "E": "Thyroid-stimulating hormone assesses thyroid function and is used in suppression strategies for differentiated cancer, not as a medullary tumor marker."
         }
       },
       "difficulty": "easy",
@@ -652,15 +652,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inspissated colloid extruded from ruptured thyroid follicles"
+          "text": "Deposition derived from altered calcitonin made by the tumor"
         },
         {
           "label": "B",
-          "text": "Thyroglobulin leaked from adjacent follicular epithelial cells"
+          "text": "Immunoglobulin light chains from a lymphocytic infiltrate"
         },
         {
           "label": "C",
-          "text": "Immunoglobulin light chains from a lymphocytic infiltrate"
+          "text": "Inspissated colloid extruded from ruptured thyroid follicles"
         },
         {
           "label": "D",
@@ -668,18 +668,18 @@
         },
         {
           "label": "E",
-          "text": "Deposition derived from altered calcitonin made by the tumor"
+          "text": "Thyroglobulin leaked from adjacent follicular epithelial cells"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "The stromal amyloid of medullary thyroid carcinoma is derived from the calcitonin the tumor secretes.",
         "whyCorrect": "Parafollicular C cells produce calcitonin, and in medullary thyroid carcinoma altered calcitonin deposits in the surrounding fibrous stroma as amyloid. This is why amyloid is such a specific pathologic clue in a calcitonin-positive neuroendocrine thyroid tumor rather than a nonspecific finding.",
         "whyWrongByChoice": {
-          "A": "Colloid is the storage material inside follicles of follicular-cell lesions and is not the source of amyloid in this tumor.",
-          "B": "Thyroglobulin is a follicular-cell protein used for differentiated cancer surveillance and does not form the amyloid seen here.",
-          "C": "Light-chain deposition is not the mechanism described for the amyloid of a parafollicular C-cell carcinoma.",
-          "D": "Keratin from squamous metaplasia is unrelated to the calcitonin-derived stromal deposits of this tumor."
+          "B": "Light-chain deposition is not the mechanism described for the amyloid of a parafollicular C-cell carcinoma.",
+          "C": "Colloid is the storage material inside follicles of follicular-cell lesions and is not the source of amyloid in this tumor.",
+          "D": "Keratin from squamous metaplasia is unrelated to the calcitonin-derived stromal deposits of this tumor.",
+          "E": "Thyroglobulin is a follicular-cell protein used for differentiated cancer surveillance and does not form the amyloid seen here."
         }
       },
       "difficulty": "medium",
@@ -698,34 +698,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Radioactive iodine uptake scan of the thyroid bed"
+          "text": "Beta-adrenergic blockade started the morning of surgery"
         },
         {
           "label": "B",
-          "text": "Plasma free or 24-hour urinary fractionated metanephrines"
-        },
-        {
-          "label": "C",
-          "text": "Serial serum thyroglobulin measurement"
-        },
-        {
-          "label": "D",
           "text": "Levothyroxine suppression of thyroid-stimulating hormone"
         },
         {
+          "label": "C",
+          "text": "Plasma free or 24-hour urinary fractionated metanephrines"
+        },
+        {
+          "label": "D",
+          "text": "Radioactive iodine uptake scan of the thyroid bed"
+        },
+        {
           "label": "E",
-          "text": "Beta-adrenergic blockade started the morning of surgery"
+          "text": "Serial serum thyroglobulin measurement"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Medullary thyroid carcinoma with adrenergic spells requires biochemical exclusion of pheochromocytoma before thyroidectomy.",
         "whyCorrect": "Episodic headache, sweating, palpitations, pallor, and hypertension in a patient with medullary thyroid carcinoma suggest MEN2 with a coexisting pheochromocytoma. Anesthesia or surgery on an unrecognized pheochromocytoma can trigger sudden catecholamine release with severe hypertension, arrhythmia, myocardial injury, stroke, or cardiovascular collapse. Screening is done with plasma free metanephrines or 24-hour urinary fractionated metanephrines.",
         "whyWrongByChoice": {
-          "A": "Iodine uptake scanning follows differentiated follicular-cell cancer logic and does not address the perioperative catecholamine hazard.",
-          "C": "Thyroglobulin is the surveillance marker for differentiated thyroid cancer and detects neither medullary disease nor pheochromocytoma.",
-          "D": "Thyroid-stimulating hormone suppression is used in selected differentiated thyroid cancer settings and does not prevent catecholamine crisis.",
-          "E": "Beta blockade given before alpha blockade can worsen unopposed alpha-adrenergic vasoconstriction if a pheochromocytoma is present."
+          "A": "Beta blockade given before alpha blockade can worsen unopposed alpha-adrenergic vasoconstriction if a pheochromocytoma is present.",
+          "B": "Thyroid-stimulating hormone suppression is used in selected differentiated thyroid cancer settings and does not prevent catecholamine crisis.",
+          "D": "Iodine uptake scanning follows differentiated follicular-cell cancer logic and does not address the perioperative catecholamine hazard.",
+          "E": "Thyroglobulin is the surveillance marker for differentiated thyroid cancer and detects neither medullary disease nor pheochromocytoma."
         }
       },
       "difficulty": "medium",
@@ -744,7 +744,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Proceed with thyroidectomy first to remove the thyroid malignancy"
+          "text": "Begin alpha-adrenergic blockade with volume preparation"
         },
         {
           "label": "B",
@@ -752,26 +752,26 @@
         },
         {
           "label": "C",
-          "text": "Give radioactive iodine first to reduce thyroid tumor burden"
+          "text": "Follow serial thyroglobulin levels to decide whether surgery is needed"
         },
         {
           "label": "D",
-          "text": "Begin alpha-adrenergic blockade with volume preparation"
+          "text": "Give radioactive iodine first to reduce thyroid tumor burden"
         },
         {
           "label": "E",
-          "text": "Follow serial thyroglobulin levels to decide whether surgery is needed"
+          "text": "Proceed with thyroidectomy first to remove the thyroid malignancy"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "In MEN2 with a confirmed pheochromocytoma, alpha blockade and volume repletion precede beta blockade and thyroid surgery.",
         "whyCorrect": "Mucosal neuromas with a marfanoid habitus and medullary thyroid carcinoma indicate MEN2B, and the elevated metanephrines confirm a pheochromocytoma. The pheochromocytoma must be prepared before thyroidectomy because anesthesia and surgery can provoke life-threatening catecholamine release. Alpha-adrenergic blockade with volume preparation comes first in that sequence.",
         "whyWrongByChoice": {
-          "A": "Operating before the pheochromocytoma is prepared is exactly what precipitates perioperative catecholamine crisis.",
           "B": "Beta blockade without prior alpha blockade leaves alpha-adrenergic vasoconstriction unopposed and can worsen hypertension.",
-          "C": "Radioactive iodine is not the treatment logic for a C-cell tumor or for a pheochromocytoma.",
-          "E": "Thyroglobulin applies to differentiated follicular-cell cancers and would not guide management of this patient."
+          "C": "Thyroglobulin applies to differentiated follicular-cell cancers and would not guide management of this patient.",
+          "D": "Radioactive iodine is not the treatment logic for a C-cell tumor or for a pheochromocytoma.",
+          "E": "Operating before the pheochromocytoma is prepared is exactly what precipitates perioperative catecholamine crisis."
         }
       },
       "difficulty": "medium",
@@ -790,34 +790,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Screen relatives with thyroid-stimulating hormone alone"
+          "text": "Defer family evaluation until symptoms develop"
         },
         {
           "label": "B",
-          "text": "Offer genetic counseling with targeted RET testing"
-        },
-        {
-          "label": "C",
           "text": "Monitor relatives with serial thyroglobulin levels"
         },
         {
+          "label": "C",
+          "text": "Offer genetic counseling with targeted RET testing"
+        },
+        {
           "label": "D",
-          "text": "Treat relatives empirically with radioactive iodine"
+          "text": "Screen relatives with thyroid-stimulating hormone alone"
         },
         {
           "label": "E",
-          "text": "Defer family evaluation until symptoms develop"
+          "text": "Treat relatives empirically with radioactive iodine"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "A germline activating RET variant makes medullary thyroid carcinoma a family-risk diagnosis.",
         "whyCorrect": "Germline activating RET variants cause MEN2 or familial medullary thyroid carcinoma, so relatives may carry the same variant. They should be offered genetic counseling and targeted RET testing. Identifying carriers changes surveillance, pheochromocytoma screening, prophylactic thyroidectomy timing, and testing of further relatives.",
         "whyWrongByChoice": {
-          "A": "Thyroid-stimulating hormone reflects thyroid function and does not assess inherited RET risk.",
-          "C": "Thyroglobulin is used for differentiated thyroid cancer surveillance and does not detect inherited C-cell risk.",
-          "D": "Radioactive iodine is not a preventive therapy for relatives who may carry a RET variant.",
-          "E": "Waiting for symptoms forfeits the preventive value of recognizing inherited risk early."
+          "A": "Waiting for symptoms forfeits the preventive value of recognizing inherited risk early.",
+          "B": "Thyroglobulin is used for differentiated thyroid cancer surveillance and does not detect inherited C-cell risk.",
+          "D": "Thyroid-stimulating hormone reflects thyroid function and does not assess inherited RET risk.",
+          "E": "Radioactive iodine is not a preventive therapy for relatives who may carry a RET variant."
         }
       },
       "difficulty": "easy",
@@ -848,11 +848,11 @@
         },
         {
           "label": "D",
-          "text": "The alteration predicts response to radioactive iodine ablation"
+          "text": "The alteration means thyroglobulin should replace calcitonin monitoring"
         },
         {
           "label": "E",
-          "text": "The alteration means thyroglobulin should replace calcitonin monitoring"
+          "text": "The alteration predicts response to radioactive iodine ablation"
         }
       ],
       "correctAnswer": "C",
@@ -862,8 +862,8 @@
         "whyWrongByChoice": {
           "A": "MEN2 requires a germline activating RET variant, and her germline testing was negative.",
           "B": "Medullary thyroid carcinoma arises from parafollicular C cells regardless of whether the RET alteration is germline or somatic.",
-          "D": "Iodine avidity belongs to differentiated follicular-cell cancers and is not predicted by a RET alteration.",
-          "E": "Calcitonin and carcinoembryonic antigen remain the monitoring markers; thyroglobulin tracks follicular-cell tumors."
+          "D": "Calcitonin and carcinoembryonic antigen remain the monitoring markers; thyroglobulin tracks follicular-cell tumors.",
+          "E": "Iodine avidity belongs to differentiated follicular-cell cancers and is not predicted by a RET alteration."
         }
       },
       "difficulty": "hard",
@@ -882,15 +882,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Benign colloid nodular goiter"
+          "text": "Anaplastic thyroid carcinoma"
         },
         {
           "label": "B",
-          "text": "Toxic thyroid adenoma"
+          "text": "Benign colloid nodular goiter"
         },
         {
           "label": "C",
-          "text": "Anaplastic thyroid carcinoma"
+          "text": "Follicular thyroid adenoma"
         },
         {
           "label": "D",
@@ -898,18 +898,18 @@
         },
         {
           "label": "E",
-          "text": "Follicular thyroid adenoma"
+          "text": "Toxic thyroid adenoma"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "A rapidly enlarging hard thyroid mass with compressive symptoms in an older adult is anaplastic carcinoma until proven otherwise.",
         "whyCorrect": "Anaplastic thyroid carcinoma classically presents in older adults as a rapidly enlarging hard neck mass with hoarseness, dysphagia, dyspnea, and stridor. Tracheal compression and invasion of adjacent soft tissue reflect its rapidly invasive behavior. It is treated as an urgent clinical problem rather than a nodule to be surveyed.",
         "whyWrongByChoice": {
-          "A": "A benign colloid nodule does not grow invasively over weeks or compress the trachea.",
-          "B": "A toxic adenoma causes hormone excess from a hyperfunctioning nodule, not aggressive local invasion.",
+          "B": "A benign colloid nodule does not grow invasively over weeks or compress the trachea.",
+          "C": "Follicular adenoma is benign and cannot explain rapid growth with airway compromise.",
           "D": "Subacute thyroiditis is a painful inflammatory process, often after a viral illness, and does not create an invasive neck mass.",
-          "E": "Follicular adenoma is benign and cannot explain rapid growth with airway compromise."
+          "E": "A toxic adenoma causes hormone excess from a hyperfunctioning nodule, not aggressive local invasion."
         }
       },
       "difficulty": "easy",
@@ -928,7 +928,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Urgent airway assessment with multidisciplinary treatment planning"
+          "text": "Observation until the growth pattern confirms aggressive disease"
         },
         {
           "label": "B",
@@ -944,18 +944,18 @@
         },
         {
           "label": "E",
-          "text": "Observation until the growth pattern confirms aggressive disease"
+          "text": "Urgent airway assessment with multidisciplinary treatment planning"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Anaplastic thyroid carcinoma is an airway emergency, so airway assessment is part of the first response.",
         "whyCorrect": "Rapid growth, hoarseness, stridor, tracheal narrowing, and undifferentiated histology define an airway-threatening oncologic emergency. Airway assessment, laryngoscopy, contrast imaging, tissue diagnosis, molecular profiling, and rapid multidisciplinary planning proceed urgently. Airway evaluation is not a later staging detail in this disease.",
         "whyWrongByChoice": {
+          "A": "The aggressive course is already evident from the rapid growth, stridor, and undifferentiated histology.",
           "B": "Deferred surveillance is unsafe when the tumor is already narrowing the trachea.",
           "C": "Anaplastic thyroid carcinoma does not follow the iodine-avid differentiated cancer pathway.",
-          "D": "Calcitonin and germline RET testing belong to medullary thyroid carcinoma and would delay airway care here.",
-          "E": "The aggressive course is already evident from the rapid growth, stridor, and undifferentiated histology."
+          "D": "Calcitonin and germline RET testing belong to medullary thyroid carcinoma and would delay airway care here."
         }
       },
       "difficulty": "medium",
@@ -974,34 +974,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "TP53 loss establishes that the lesion is benign"
+          "text": "BRAF V600E may identify an option for targeted therapy"
         },
         {
           "label": "B",
-          "text": "The profile identifies inherited risk requiring testing of relatives"
-        },
-        {
-          "label": "C",
-          "text": "The TERT mutation predicts a favorable response to radioactive iodine"
-        },
-        {
-          "label": "D",
           "text": "The absence of a RET variant excludes anaplastic thyroid carcinoma"
         },
         {
+          "label": "C",
+          "text": "The profile identifies inherited risk requiring testing of relatives"
+        },
+        {
+          "label": "D",
+          "text": "The TERT mutation predicts a favorable response to radioactive iodine"
+        },
+        {
           "label": "E",
-          "text": "BRAF V600E may identify an option for targeted therapy"
+          "text": "TP53 loss establishes that the lesion is benign"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "In anaplastic thyroid carcinoma, tumor profiling asks whether an actionable alteration can guide urgent therapy.",
         "whyCorrect": "Anaplastic thyroid carcinoma reflects dedifferentiation with accumulated alterations such as TP53, TERT promoter, RAS pathway, PI3K pathway, and CDKN2A/CDKN2B changes. Molecular profiling is urgent because some alterations are therapeutically actionable, and BRAF V600E in particular can guide targeted therapy in selected advanced or unresectable cases.",
         "whyWrongByChoice": {
-          "A": "TP53 alteration is a marker of aggressive tumor biology, not of a benign lesion.",
-          "B": "These are somatic tumor alterations; inherited-risk questions in thyroid cancer center on germline RET in medullary disease.",
-          "C": "Anaplastic thyroid carcinoma is not managed along the iodine-avid differentiated cancer pathway.",
-          "D": "RET variants are not required for anaplastic thyroid carcinoma; they belong to the medullary carcinoma pathway."
+          "B": "RET variants are not required for anaplastic thyroid carcinoma; they belong to the medullary carcinoma pathway.",
+          "C": "These are somatic tumor alterations; inherited-risk questions in thyroid cancer center on germline RET in medullary disease.",
+          "D": "Anaplastic thyroid carcinoma is not managed along the iodine-avid differentiated cancer pathway.",
+          "E": "TP53 alteration is a marker of aggressive tumor biology, not of a benign lesion."
         }
       },
       "difficulty": "hard",
@@ -1020,34 +1020,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Her tumor arises from follicular epithelium that has lost differentiation"
-        },
-        {
-          "label": "B",
-          "text": "Her tumor arises from parafollicular C cells rather than follicular epithelium"
-        },
-        {
-          "label": "C",
           "text": "Her tumor arises from adrenal medullary chromaffin cells"
         },
         {
+          "label": "B",
+          "text": "Her tumor arises from follicular epithelium that has lost differentiation"
+        },
+        {
+          "label": "C",
+          "text": "Her tumor arises from lymphocytes infiltrating the thyroid gland"
+        },
+        {
           "label": "D",
-          "text": "Her tumor arises from parathyroid chief cells within the thyroid bed"
+          "text": "Her tumor arises from parafollicular C cells rather than follicular epithelium"
         },
         {
           "label": "E",
-          "text": "Her tumor arises from lymphocytes infiltrating the thyroid gland"
+          "text": "Her tumor arises from parathyroid chief cells within the thyroid bed"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Iodine handling, thyroid-stimulating hormone responsiveness, and thyroglobulin belong to follicular-cell cancers, not to a C-cell tumor.",
         "whyCorrect": "Papillary and follicular thyroid carcinomas arise from follicular epithelial cells and may retain follicular-cell functions, so their management can use iodine handling, thyroid-stimulating hormone responsiveness, and thyroglobulin surveillance. Medullary thyroid carcinoma arises from parafollicular C cells, so its markers are calcitonin and carcinoembryonic antigen instead, and differentiated-cell strategies do not apply.",
         "whyWrongByChoice": {
-          "A": "Loss of differentiation from a follicular-cell cancer describes anaplastic thyroid carcinoma, not a calcitonin-positive tumor.",
-          "C": "Chromaffin cells give rise to pheochromocytoma, which is an adrenal tumor rather than a thyroid carcinoma.",
-          "D": "Parathyroid chief cells produce parathyroid hormone and do not give rise to a calcitonin-secreting thyroid carcinoma.",
-          "E": "Lymphocytic involvement characterizes autoimmune thyroiditis rather than a calcitonin-positive carcinoma."
+          "A": "Chromaffin cells give rise to pheochromocytoma, which is an adrenal tumor rather than a thyroid carcinoma.",
+          "B": "Loss of differentiation from a follicular-cell cancer describes anaplastic thyroid carcinoma, not a calcitonin-positive tumor.",
+          "C": "Lymphocytic involvement characterizes autoimmune thyroiditis rather than a calcitonin-positive carcinoma.",
+          "E": "Parathyroid chief cells produce parathyroid hormone and do not give rise to a calcitonin-secreting thyroid carcinoma."
         }
       },
       "difficulty": "medium",
@@ -1066,7 +1066,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Mucosal neuromas of the lips and tongue"
+          "text": "Elevated serum thyroglobulin from follicular tumor"
         },
         {
           "label": "B",
@@ -1078,22 +1078,22 @@
         },
         {
           "label": "D",
-          "text": "Primary hyperparathyroidism with hypercalcemia"
+          "text": "Mucosal neuromas of the lips and tongue"
         },
         {
           "label": "E",
-          "text": "Elevated serum thyroglobulin from follicular tumor"
+          "text": "Primary hyperparathyroidism with hypercalcemia"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "MEN2A is medullary thyroid carcinoma plus pheochromocytoma plus primary hyperparathyroidism.",
         "whyCorrect": "An activating germline RET variant with medullary thyroid carcinoma and pheochromocytoma, without neuromas or marfanoid features, fits MEN2A. The third component of MEN2A is primary hyperparathyroidism, which produces hypercalcemia. Recognizing the pattern matters because it directs surveillance and family testing.",
         "whyWrongByChoice": {
-          "A": "Mucosal neuromas belong to MEN2B, and the stem states they are absent.",
+          "A": "Thyroglobulin reflects follicular-cell tumors and is not a component of any MEN2 pattern.",
           "B": "Intestinal ganglioneuromatosis is a MEN2B feature rather than part of the MEN2A pattern.",
           "C": "Marfanoid habitus is a MEN2B feature, and the stem states he does not have it.",
-          "E": "Thyroglobulin reflects follicular-cell tumors and is not a component of any MEN2 pattern."
+          "D": "Mucosal neuromas belong to MEN2B, and the stem states they are absent."
         }
       },
       "difficulty": "medium",
@@ -1112,34 +1112,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Multiple endocrine neoplasia type 1"
+          "text": "Familial medullary thyroid carcinoma"
         },
         {
           "label": "B",
-          "text": "Multiple endocrine neoplasia type 2A"
+          "text": "Multiple endocrine neoplasia type 1"
         },
         {
           "label": "C",
-          "text": "Multiple endocrine neoplasia type 2B"
+          "text": "Multiple endocrine neoplasia type 2A"
         },
         {
           "label": "D",
-          "text": "Multiple endocrine neoplasia type 4"
+          "text": "Multiple endocrine neoplasia type 2B"
         },
         {
           "label": "E",
-          "text": "Familial medullary thyroid carcinoma"
+          "text": "Multiple endocrine neoplasia type 4"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "MEN1 is the parathyroid-pituitary-pancreatic/duodenal neuroendocrine tumor constellation, the classic 3 Ps.",
         "whyCorrect": "Primary hyperparathyroidism explains the hypercalcemia and nephrolithiasis and is often the earliest MEN1 manifestation. Recurrent ulcers with diarrhea point to a gastrinoma with Zollinger-Ellison syndrome, the duodenal/pancreatic neuroendocrine limb. A first-degree relative with a pituitary tumor completes the parathyroid-pituitary-pancreatic pattern and supports inherited MEN1.",
         "whyWrongByChoice": {
-          "B": "MEN2A centers on medullary thyroid carcinoma and pheochromocytoma; this patient has neither a thyroid tumor nor adrenergic symptoms.",
-          "C": "MEN2B requires mucosal neuromas, marfanoid habitus, and gastrointestinal dysmotility, none of which are described here.",
-          "D": "MEN4 is MEN1-like but is considered mainly when MEN1 testing is negative; it is not the first syndrome invoked for a classic untested MEN1 pattern.",
-          "E": "Familial medullary thyroid carcinoma produces C-cell thyroid cancer without parathyroid, pituitary, or gastrinoma disease."
+          "A": "Familial medullary thyroid carcinoma produces C-cell thyroid cancer without parathyroid, pituitary, or gastrinoma disease.",
+          "C": "MEN2A centers on medullary thyroid carcinoma and pheochromocytoma; this patient has neither a thyroid tumor nor adrenergic symptoms.",
+          "D": "MEN2B requires mucosal neuromas, marfanoid habitus, and gastrointestinal dysmotility, none of which are described here.",
+          "E": "MEN4 is MEN1-like but is considered mainly when MEN1 testing is negative; it is not the first syndrome invoked for a classic untested MEN1 pattern."
         }
       },
       "difficulty": "easy",
@@ -1158,34 +1158,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loss of the tumor suppressor menin encoded by MEN1"
-        },
-        {
-          "label": "B",
-          "text": "Loss of the cell-cycle inhibitor p27Kip1 encoded by CDKN1B"
-        },
-        {
-          "label": "C",
           "text": "Gain-of-function signaling through the RET receptor tyrosine kinase"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Loss of hypoxia-response regulation by the VHL tumor suppressor"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Loss of neurofibromin encoded by the NF1 tumor suppressor"
+        },
+        {
+          "label": "D",
+          "text": "Loss of the cell-cycle inhibitor p27Kip1 encoded by CDKN1B"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the tumor suppressor menin encoded by MEN1"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "MEN2A and MEN2B are activating RET proto-oncogene syndromes, in contrast with the tumor-suppressor logic of MEN1 and MEN4.",
         "whyCorrect": "Medullary thyroid carcinoma with catecholamine-excess symptoms and primary hyperparathyroidism is the MEN2A constellation. MEN2 is caused by activating pathogenic variants in RET, a receptor tyrosine kinase proto-oncogene, so the inherited variant increases growth signaling rather than disabling a tumor suppressor. RET predisposes neural crest-related endocrine tissues, especially thyroid parafollicular C cells and adrenal medullary chromaffin cells.",
         "whyWrongByChoice": {
-          "A": "MEN1/menin loss produces parathyroid, pituitary, and pancreatic/duodenal tumors, not medullary thyroid carcinoma.",
-          "B": "CDKN1B/p27Kip1 loss underlies MEN4, a MEN1-like syndrome of parathyroid and pituitary tumors.",
-          "D": "VHL is not one of the MEN genes and does not explain the medullary thyroid carcinoma in this constellation.",
-          "E": "NF1 is not a MEN gene and does not account for medullary thyroid carcinoma with hyperparathyroidism."
+          "B": "VHL is not one of the MEN genes and does not explain the medullary thyroid carcinoma in this constellation.",
+          "C": "NF1 is not a MEN gene and does not account for medullary thyroid carcinoma with hyperparathyroidism.",
+          "D": "CDKN1B/p27Kip1 loss underlies MEN4, a MEN1-like syndrome of parathyroid and pituitary tumors.",
+          "E": "MEN1/menin loss produces parathyroid, pituitary, and pancreatic/duodenal tumors, not medullary thyroid carcinoma."
         }
       },
       "difficulty": "medium",
@@ -1254,30 +1254,30 @@
         },
         {
           "label": "B",
-          "text": "Obtain pituitary magnetic resonance imaging"
+          "text": "Measure a fasting serum insulin level"
         },
         {
           "label": "C",
-          "text": "Start dopamine agonist therapy"
-        },
-        {
-          "label": "D",
           "text": "Measure plasma free metanephrines"
         },
         {
+          "label": "D",
+          "text": "Obtain pituitary magnetic resonance imaging"
+        },
+        {
           "label": "E",
-          "text": "Measure a fasting serum insulin level"
+          "text": "Start dopamine agonist therapy"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "In suspected MEN2, pheochromocytoma must be identified before thyroidectomy to prevent a perioperative catecholamine crisis.",
         "whyCorrect": "Medullary thyroid carcinoma with adrenergic spells and severe hypertension suggests MEN2 with a coexisting pheochromocytoma. Screening uses plasma free metanephrines or 24-hour urinary fractionated metanephrines. If an unrecognized catecholamine-secreting tumor is present, anesthesia and surgery can precipitate severe hypertension, arrhythmia, or cardiovascular collapse.",
         "whyWrongByChoice": {
           "A": "Medullary thyroid carcinoma arises from parafollicular C cells and does not respond to radioactive iodine like iodine-avid follicular-cell cancers.",
-          "B": "Pituitary imaging is relevant to MEN1-associated pituitary disease, not to this MEN2 safety question.",
-          "C": "Dopamine agonists treat prolactinoma and do nothing for the catecholamine risk at hand.",
-          "E": "Fasting insulin evaluates a possible insulinoma, part of the MEN1 pancreatic/duodenal pattern."
+          "B": "Fasting insulin evaluates a possible insulinoma, part of the MEN1 pancreatic/duodenal pattern.",
+          "D": "Pituitary imaging is relevant to MEN1-associated pituitary disease, not to this MEN2 safety question.",
+          "E": "Dopamine agonists treat prolactinoma and do nothing for the catecholamine risk at hand."
         }
       },
       "difficulty": "medium",
@@ -1296,34 +1296,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Thyroglobulin"
-        },
-        {
-          "label": "B",
-          "text": "Calcitonin"
-        },
-        {
-          "label": "C",
-          "text": "Thyroid-stimulating hormone"
-        },
-        {
-          "label": "D",
           "text": "Alpha-fetoprotein"
         },
         {
-          "label": "E",
+          "label": "B",
           "text": "Beta-human chorionic gonadotropin"
+        },
+        {
+          "label": "C",
+          "text": "Calcitonin"
+        },
+        {
+          "label": "D",
+          "text": "Thyroglobulin"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid-stimulating hormone"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Medullary thyroid carcinoma arises from calcitonin-producing parafollicular C cells, making calcitonin its key marker.",
         "whyCorrect": "Parafollicular C cells produce calcitonin, so calcitonin is the biochemical marker used for diagnosis and follow-up of medullary thyroid carcinoma, with carcinoembryonic antigen also used in monitoring. Calcitonin levels additionally help guide surveillance intensity and prophylactic thyroidectomy timing in RET-associated disease.",
         "whyWrongByChoice": {
-          "A": "Thyroglobulin is made by follicular cells and tracks differentiated follicular-cell-derived thyroid cancers.",
-          "C": "Thyroid-stimulating hormone is a pituitary hormone and does not reflect hereditary C-cell tumor burden.",
-          "D": "Alpha-fetoprotein is associated with hepatocellular carcinoma and some germ cell tumors.",
-          "E": "Beta-human chorionic gonadotropin is associated with pregnancy and trophoblastic or germ cell tumors."
+          "A": "Alpha-fetoprotein is associated with hepatocellular carcinoma and some germ cell tumors.",
+          "B": "Beta-human chorionic gonadotropin is associated with pregnancy and trophoblastic or germ cell tumors.",
+          "D": "Thyroglobulin is made by follicular cells and tracks differentiated follicular-cell-derived thyroid cancers.",
+          "E": "Thyroid-stimulating hormone is a pituitary hormone and does not reflect hereditary C-cell tumor burden."
         }
       },
       "difficulty": "easy",
@@ -1342,34 +1342,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "RET"
-        },
-        {
-          "label": "B",
-          "text": "CDKN1B"
-        },
-        {
-          "label": "C",
-          "text": "RB1"
-        },
-        {
-          "label": "D",
           "text": "APC"
         },
         {
-          "label": "E",
+          "label": "B",
           "text": "BRCA1"
+        },
+        {
+          "label": "C",
+          "text": "CDKN1B"
+        },
+        {
+          "label": "D",
+          "text": "RB1"
+        },
+        {
+          "label": "E",
+          "text": "RET"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "MEN4 is a rare CDKN1B/p27Kip1-associated syndrome considered when a MEN1-like phenotype lacks a MEN1 variant.",
         "whyCorrect": "MEN4 results from pathogenic variants in CDKN1B, which encodes the cell-cycle regulator p27Kip1, and follows tumor-suppressor logic like MEN1. Its phenotype overlaps MEN1 through primary hyperparathyroidism and pituitary adenomas, with gastroenteropancreatic neuroendocrine tumors reported less commonly. Compared with MEN1 it is rarer, later in onset, and potentially less penetrant.",
         "whyWrongByChoice": {
-          "A": "RET variants cause MEN2A and MEN2B, which are centered on medullary thyroid carcinoma and pheochromocytoma, not this phenotype.",
-          "C": "RB1 is not one of the MEN genes and does not produce a parathyroid-pituitary tumor pattern.",
-          "D": "APC is not a MEN gene and does not explain hereditary parathyroid and pituitary tumors.",
-          "E": "BRCA1 is not associated with the multiple endocrine neoplasia tumor constellations."
+          "A": "APC is not a MEN gene and does not explain hereditary parathyroid and pituitary tumors.",
+          "B": "BRCA1 is not associated with the multiple endocrine neoplasia tumor constellations.",
+          "D": "RB1 is not one of the MEN genes and does not produce a parathyroid-pituitary tumor pattern.",
+          "E": "RET variants cause MEN2A and MEN2B, which are centered on medullary thyroid carcinoma and pheochromocytoma, not this phenotype."
         }
       },
       "difficulty": "medium",
@@ -1388,34 +1388,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Screen relatives with serum thyroid-stimulating hormone and thyroglobulin only"
-        },
-        {
-          "label": "B",
           "text": "Defer testing of every relative until each one reaches adulthood"
         },
         {
-          "label": "C",
-          "text": "Test the relatives for MEN1 pathogenic variants before any RET testing"
+          "label": "B",
+          "text": "Offer genetic counseling and targeted testing for the familial RET variant"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Reassure relatives that testing is unnecessary without thyroid nodules"
         },
         {
+          "label": "D",
+          "text": "Screen relatives with serum thyroid-stimulating hormone and thyroglobulin only"
+        },
+        {
           "label": "E",
-          "text": "Offer genetic counseling and targeted testing for the familial RET variant"
+          "text": "Test the relatives for MEN1 pathogenic variants before any RET testing"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Once a familial pathogenic variant is identified, at-risk relatives are offered counseling and targeted cascade testing for that variant.",
         "whyCorrect": "MEN syndromes are autosomal dominant with high penetrance, typically 90% or greater, so each child of an affected parent is at substantial risk. Cascade testing for the known familial RET variant lets carriers begin syndrome-specific surveillance and prophylactic planning while sparing non-carriers lifelong MEN surveillance. In MEN2A families, testing is recommended by age 5.",
         "whyWrongByChoice": {
-          "A": "Thyroid-stimulating hormone and thyroglobulin do not assess hereditary C-cell risk; calcitonin and RET testing do.",
-          "B": "Delaying to adulthood is unsafe because RET-associated medullary thyroid carcinoma can develop in childhood.",
-          "C": "MEN1 testing is irrelevant once a causative RET variant has been identified in the proband.",
-          "D": "Waiting for a palpable nodule forfeits the preventive value of testing, since MTC can progress before it is clinically obvious."
+          "A": "Delaying to adulthood is unsafe because RET-associated medullary thyroid carcinoma can develop in childhood.",
+          "C": "Waiting for a palpable nodule forfeits the preventive value of testing, since MTC can progress before it is clinically obvious.",
+          "D": "Thyroid-stimulating hormone and thyroglobulin do not assess hereditary C-cell risk; calcitonin and RET testing do.",
+          "E": "MEN1 testing is irrelevant once a causative RET variant has been identified in the proband."
         }
       },
       "difficulty": "medium",
@@ -1434,34 +1434,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Total thyroidectomy at about age 5 years"
+          "text": "Annual neck ultrasound with surgery in adolescence"
         },
         {
           "label": "B",
-          "text": "Thyroidectomy only once serum calcitonin rises"
-        },
-        {
-          "label": "C",
-          "text": "Total thyroidectomy during infancy"
-        },
-        {
-          "label": "D",
           "text": "Radioactive iodine ablation in early childhood"
         },
         {
+          "label": "C",
+          "text": "Thyroidectomy only once serum calcitonin rises"
+        },
+        {
+          "label": "D",
+          "text": "Total thyroidectomy at about age 5 years"
+        },
+        {
           "label": "E",
-          "text": "Annual neck ultrasound with surgery in adolescence"
+          "text": "Total thyroidectomy during infancy"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Highest-risk RET variants, especially MEN2B-associated M918T, require prophylactic thyroidectomy in infancy.",
         "whyCorrect": "In MEN2, the specific RET variant is assigned an American Thyroid Association risk category that drives surveillance intensity and the timing of preventive surgery. M918T falls in the highest-risk category because medullary thyroid carcinoma can develop very early and behave aggressively, so thyroidectomy is performed in infancy rather than waiting for detectable disease. This is also why MEN2B families are offered testing as soon as possible after birth.",
         "whyWrongByChoice": {
-          "A": "Surgery by age 5 is the schedule for high-risk variants, which is too late for the highest-risk M918T variant.",
-          "B": "Calcitonin-guided timing is used for moderate-risk variants; waiting for a rise in the highest-risk group risks advanced disease.",
-          "D": "Radioactive iodine does not treat or prevent parafollicular C-cell tumors, which are not iodine-avid.",
-          "E": "Ultrasound surveillance into adolescence delays a preventive operation that is indicated in infancy here."
+          "A": "Ultrasound surveillance into adolescence delays a preventive operation that is indicated in infancy here.",
+          "B": "Radioactive iodine does not treat or prevent parafollicular C-cell tumors, which are not iodine-avid.",
+          "C": "Calcitonin-guided timing is used for moderate-risk variants; waiting for a rise in the highest-risk group risks advanced disease.",
+          "D": "Surgery by age 5 is the schedule for high-risk variants, which is too late for the highest-risk M918T variant."
         }
       },
       "difficulty": "hard",
@@ -1488,15 +1488,15 @@
         },
         {
           "label": "C",
-          "text": "Parathyroid carcinoma in the large majority of affected patients"
+          "text": "Normal glands, with hypercalcemia from a thyroid C-cell tumor"
         },
         {
           "label": "D",
-          "text": "Reactive gland hyperplasia driven by chronic kidney disease"
+          "text": "Parathyroid carcinoma in the large majority of affected patients"
         },
         {
           "label": "E",
-          "text": "Normal glands, with hypercalcemia from a thyroid C-cell tumor"
+          "text": "Reactive gland hyperplasia driven by chronic kidney disease"
         }
       ],
       "correctAnswer": "B",
@@ -1505,9 +1505,9 @@
         "whyCorrect": "Unlike sporadic disease, which is usually a single-gland adenoma, MEN1-associated parathyroid disease often involves multigland hyperplasia or multiple adenomas. That distinction matters because recurrence risk and the extent of surgery differ from isolated sporadic primary hyperparathyroidism. Primary hyperparathyroidism is also the earliest and most common MEN1 manifestation, so it is often the finding that opens the syndrome work-up.",
         "whyWrongByChoice": {
           "A": "Single-gland adenoma is the sporadic pattern; assuming it in MEN1 underestimates the extent of disease.",
-          "C": "Parathyroid carcinoma is not the expected MEN1 lesion; the disease is typically benign but multiglandular.",
-          "D": "Reactive hyperplasia from kidney disease is secondary hyperparathyroidism, which would not present with hypercalcemia here.",
-          "E": "Calcitonin-producing C-cell tumors belong to MEN2 and do not explain hypercalcemia with elevated PTH."
+          "C": "Calcitonin-producing C-cell tumors belong to MEN2 and do not explain hypercalcemia with elevated PTH.",
+          "D": "Parathyroid carcinoma is not the expected MEN1 lesion; the disease is typically benign but multiglandular.",
+          "E": "Reactive hyperplasia from kidney disease is secondary hyperparathyroidism, which would not present with hypercalcemia here."
         }
       },
       "difficulty": "medium",
@@ -1526,15 +1526,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Well-differentiated morphology excludes a high-grade neuroendocrine tumor"
+          "text": "Grade in neuroendocrine tumors is determined by tumor size and stage"
         },
         {
           "label": "B",
-          "text": "The Ki-67 index reclassifies the tumor as poorly differentiated carcinoma"
+          "text": "Salt-and-pepper chromatin establishes that the lesion is low grade"
         },
         {
           "label": "C",
-          "text": "Grade in neuroendocrine tumors is determined by tumor size and stage"
+          "text": "The Ki-67 index reclassifies the tumor as poorly differentiated carcinoma"
         },
         {
           "label": "D",
@@ -1542,7 +1542,7 @@
         },
         {
           "label": "E",
-          "text": "Salt-and-pepper chromatin establishes that the lesion is low grade"
+          "text": "Well-differentiated morphology excludes a high-grade neuroendocrine tumor"
         }
       ],
       "correctAnswer": "D",
@@ -1550,10 +1550,10 @@
         "summary": "Grade in neuroendocrine tumors comes from proliferative activity and is distinct from differentiation.",
         "whyCorrect": "MEN1-associated pancreatic and duodenal tumors are usually well-differentiated neuroendocrine neoplasms with organoid, nested, trabecular, or islet-like architecture and salt-and-pepper chromatin. Grade is determined by proliferative activity, particularly mitotic count and the Ki-67 index, which estimates the fraction of tumor cells actively cycling. A well-differentiated tumor can therefore still be higher grade, as here.",
         "whyWrongByChoice": {
-          "A": "Differentiation and grade are separate axes, so good differentiation does not cap the grade.",
-          "B": "Poor differentiation requires morphologic features such as marked pleomorphism, necrosis, and small-cell or large-cell morphology, none of which are present.",
-          "C": "Size and stage describe extent of disease, not the proliferation-based grade of a neuroendocrine tumor.",
-          "E": "Salt-and-pepper chromatin is a marker of neuroendocrine differentiation and says nothing about proliferative rate."
+          "A": "Size and stage describe extent of disease, not the proliferation-based grade of a neuroendocrine tumor.",
+          "B": "Salt-and-pepper chromatin is a marker of neuroendocrine differentiation and says nothing about proliferative rate.",
+          "C": "Poor differentiation requires morphologic features such as marked pleomorphism, necrosis, and small-cell or large-cell morphology, none of which are present.",
+          "E": "Differentiation and grade are separate axes, so good differentiation does not cap the grade."
         }
       },
       "difficulty": "hard",
@@ -1572,15 +1572,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Thyroidectomy first, with adrenalectomy performed afterward"
+          "text": "Adrenalectomy first, with thyroidectomy performed afterward"
         },
         {
           "label": "B",
-          "text": "Simultaneous thyroidectomy and adrenalectomy at one operation"
+          "text": "Radioactive iodine therapy first, then adrenalectomy later"
         },
         {
           "label": "C",
-          "text": "Adrenalectomy first, with thyroidectomy performed afterward"
+          "text": "Simultaneous thyroidectomy and adrenalectomy at one operation"
         },
         {
           "label": "D",
@@ -1588,18 +1588,18 @@
         },
         {
           "label": "E",
-          "text": "Radioactive iodine therapy first, then adrenalectomy later"
+          "text": "Thyroidectomy first, with adrenalectomy performed afterward"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "When a pheochromocytoma is found in MEN2, it is resected before thyroidectomy or other major surgery.",
         "whyCorrect": "An unrecognized or untreated catecholamine-secreting tumor can cause severe hypertension, arrhythmia, or cardiovascular collapse during anesthesia. For that reason pheochromocytoma is screened for with plasma free or 24-hour urinary fractionated metanephrines, and if identified it is treated by adrenalectomy before thyroidectomy. Only after the catecholamine source is removed is the medullary thyroid carcinoma addressed surgically.",
         "whyWrongByChoice": {
-          "A": "Operating on the thyroid first exposes the patient to a catecholamine crisis from the untreated pheochromocytoma.",
-          "B": "Combining the operations still means inducing anesthesia with an active catecholamine-secreting tumor in place.",
+          "B": "Radioactive iodine does not treat medullary thyroid carcinoma, which is not iodine-avid, and delays definitive care.",
+          "C": "Combining the operations still means inducing anesthesia with an active catecholamine-secreting tumor in place.",
           "D": "Surveillance imaging leaves a functioning pheochromocytoma untreated in a patient who needs thyroid surgery.",
-          "E": "Radioactive iodine does not treat medullary thyroid carcinoma, which is not iodine-avid, and delays definitive care."
+          "E": "Operating on the thyroid first exposes the patient to a catecholamine crisis from the untreated pheochromocytoma."
         }
       },
       "difficulty": "medium",
@@ -1618,15 +1618,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Thyroid parafollicular C cells"
+          "text": "Adrenal medullary chromaffin cells"
         },
         {
           "label": "B",
-          "text": "Pancreatic islet endocrine cells"
+          "text": "Anterior pituitary lactotroph cells"
         },
         {
           "label": "C",
-          "text": "Anterior pituitary lactotroph cells"
+          "text": "Pancreatic islet endocrine cells"
         },
         {
           "label": "D",
@@ -1634,18 +1634,18 @@
         },
         {
           "label": "E",
-          "text": "Adrenal medullary chromaffin cells"
+          "text": "Thyroid parafollicular C cells"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Zellballen nests with S-100-positive sustentacular cells are the histologic signature of pheochromocytoma, a chromaffin cell tumor.",
         "whyCorrect": "Pheochromocytomas consist of polygonal or spindle cells arranged in small nests called Zellballen, surrounded by sustentacular cells best seen with an S-100 immunostain, with nests separated by delicate fibrovascular stroma and nuclei showing prominent nucleoli. RET activation predisposes to tumors of neural crest-related endocrine tissue, including adrenal medullary chromaffin cells, which is why pheochromocytoma is a core MEN2 tumor.",
         "whyWrongByChoice": {
-          "A": "Parafollicular C-cell tumors arise in the thyroid and show solid nests in fibrous stroma with amyloid, not an adrenal Zellballen pattern.",
-          "B": "Islet-derived neuroendocrine tumors arise in the pancreas and belong to the MEN1 pattern, not an adrenal mass.",
-          "C": "Lactotroph tumors are pituitary prolactinomas and are part of the MEN1 pattern rather than a RET-associated adrenal tumor.",
-          "D": "Parathyroid chief cell tumors cause hypercalcemia with elevated PTH and do not form adrenal Zellballen nests."
+          "B": "Lactotroph tumors are pituitary prolactinomas and are part of the MEN1 pattern rather than a RET-associated adrenal tumor.",
+          "C": "Islet-derived neuroendocrine tumors arise in the pancreas and belong to the MEN1 pattern, not an adrenal mass.",
+          "D": "Parathyroid chief cell tumors cause hypercalcemia with elevated PTH and do not form adrenal Zellballen nests.",
+          "E": "Parafollicular C-cell tumors arise in the thyroid and show solid nests in fibrous stroma with amyloid, not an adrenal Zellballen pattern."
         }
       },
       "difficulty": "medium",
@@ -1664,33 +1664,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fine-needle aspiration of the nodule"
+          "text": "Empiric levothyroxine suppression therapy"
         },
         {
           "label": "B",
-          "text": "Radionuclide thyroid scan"
+          "text": "Fine-needle aspiration of the nodule"
         },
         {
           "label": "C",
-          "text": "Serum thyroglobulin measurement"
+          "text": "Radionuclide thyroid scan"
         },
         {
           "label": "D",
-          "text": "Empiric levothyroxine suppression therapy"
+          "text": "Serum thyroglobulin measurement"
         },
         {
           "label": "E",
           "text": "Total thyroidectomy"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "A suppressed TSH is the branch point that sends a thyroid nodule to radionuclide scanning before any structural or cytologic workup.",
         "whyCorrect": "Low TSH raises the possibility of autonomous thyroid hormone production by the nodule. Radionuclide scanning determines whether the lesion is hyperfunctioning (hot) or nonfunctioning (cold), and that answer decides whether the patient is worked up for hormone excess or returned to ultrasound-based risk stratification. The lecture's sequence is function first, suspicion second, cytology only when indicated.",
         "whyWrongByChoice": {
-          "A": "Biopsy is not the first move when TSH is suppressed, because a hot nodule usually does not need FNA for malignancy evaluation.",
-          "C": "Thyroglobulin is not an initial diagnostic test for a newly detected thyroid nodule.",
-          "D": "Levothyroxine would add hormone to a patient who may already have autonomous production and could worsen thyrotoxicosis.",
+          "A": "Levothyroxine would add hormone to a patient who may already have autonomous production and could worsen thyrotoxicosis.",
+          "B": "Biopsy is not the first move when TSH is suppressed, because a hot nodule usually does not need FNA for malignancy evaluation.",
+          "D": "Thyroglobulin is not an initial diagnostic test for a newly detected thyroid nodule.",
           "E": "Surgery is not appropriate before functional and structural risk have been assessed."
         }
       },
@@ -1710,33 +1710,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Radionuclide thyroid scan"
-        },
-        {
-          "label": "B",
           "text": "Fine-needle aspiration of the nodule"
         },
         {
+          "label": "B",
+          "text": "Levothyroxine suppression therapy"
+        },
+        {
           "label": "C",
-          "text": "Repeat ultrasound in five years"
+          "text": "Radionuclide thyroid scan"
         },
         {
           "label": "D",
-          "text": "Levothyroxine suppression therapy"
+          "text": "Repeat ultrasound in five years"
         },
         {
           "label": "E",
           "text": "Serum calcitonin measurement"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "When TSH is normal, the ultrasound risk pattern and nodule size decide whether fine-needle aspiration is indicated.",
         "whyCorrect": "Solid hypoechoic composition, irregular margins, and punctate echogenic foci are suspicious features, and risk rises when several appear together. A suspicious pattern carries a lower size threshold for biopsy, and this nodule is well above subcentimeter. Cytology is therefore the step that will change management.",
         "whyWrongByChoice": {
-          "A": "Radionuclide scanning is reserved for a low TSH; with a normal TSH it is not the first step.",
-          "C": "Deferring for five years abandons a nodule whose ultrasound pattern already meets criteria for tissue sampling.",
-          "D": "Suppression therapy neither evaluates nor treats a structurally suspicious nodule.",
+          "B": "Suppression therapy neither evaluates nor treats a structurally suspicious nodule.",
+          "C": "Radionuclide scanning is reserved for a low TSH; with a normal TSH it is not the first step.",
+          "D": "Deferring for five years abandons a nodule whose ultrasound pattern already meets criteria for tissue sampling.",
           "E": "Calcitonin is relevant when medullary carcinoma is specifically suspected and does not substitute for tissue sampling here."
         }
       },
@@ -1756,15 +1756,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Observation, because the thyroid nodule is subcentimeter"
-        },
-        {
-          "label": "B",
           "text": "Fine-needle aspiration of the abnormal cervical lymph node"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Levothyroxine suppression therapy for the thyroid nodule"
+        },
+        {
+          "label": "C",
+          "text": "Observation, because the thyroid nodule is subcentimeter"
         },
         {
           "label": "D",
@@ -1775,13 +1775,13 @@
           "text": "Reassurance, because small nodules are not clinically important"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "A suspicious cervical lymph node overrides nodule-size thresholds and is evaluated directly.",
         "whyCorrect": "The cervical node survey is part of thyroid nodule risk stratification, not an optional add-on. Microcalcifications and cystic change in a lateral neck node are classic for metastatic papillary thyroid carcinoma, which commonly spreads to cervical nodes. That node should be sampled directly even though the thyroid nodule itself is small.",
         "whyWrongByChoice": {
-          "A": "Size of the thyroid nodule does not excuse an abnormal node; the node is what shifts the workup.",
-          "C": "Suppression therapy does nothing to address suspicious lymphadenopathy.",
+          "B": "Suppression therapy does nothing to address suspicious lymphadenopathy.",
+          "C": "Size of the thyroid nodule does not excuse an abnormal node; the node is what shifts the workup.",
           "D": "Scanning is prompted by a low TSH, and this patient's TSH is normal.",
           "E": "A small thyroid nodule can still be clinically important when a suspicious node is present."
         }
@@ -1802,11 +1802,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is hot; management targets hormone excess and FNA is usually unnecessary"
+          "text": "It is cold; malignancy should be assumed until biopsy proves otherwise"
         },
         {
           "label": "B",
-          "text": "It is cold; malignancy should be assumed until biopsy proves otherwise"
+          "text": "It is hot; management targets hormone excess and FNA is usually unnecessary"
         },
         {
           "label": "C",
@@ -1814,22 +1814,22 @@
         },
         {
           "label": "D",
-          "text": "It requires serum thyroglobulin measurement before any treatment decision"
+          "text": "It makes further neck ultrasound unnecessary now that uptake is known"
         },
         {
           "label": "E",
-          "text": "It makes further neck ultrasound unnecessary now that uptake is known"
+          "text": "It requires serum thyroglobulin measurement before any treatment decision"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Focal increased uptake matching the lesion defines a hyperfunctioning nodule, which is usually lower risk for malignancy.",
         "whyCorrect": "A hot nodule autonomously makes thyroid hormone, which lowers TSH and suppresses tracer uptake in the surrounding gland. When the hot focus corresponds to the nodule being evaluated, malignancy risk is usually low and FNA is generally not required for that lesion. The clinical priority becomes the thyrotoxicosis, which can cause atrial fibrillation, bone loss, and cardiovascular complications.",
         "whyWrongByChoice": {
-          "B": "A cold nodule shows decreased, not focally increased, uptake relative to surrounding tissue.",
+          "A": "A cold nodule shows decreased, not focally increased, uptake relative to surrounding tissue.",
           "C": "Radionuclide uptake patterns do not diagnose medullary thyroid carcinoma.",
-          "D": "Thyroglobulin is not the required next test in the evaluation of a hyperfunctioning nodule.",
-          "E": "Ultrasound still characterizes the gland and any additional nodules, which matters in multinodular disease."
+          "D": "Ultrasound still characterizes the gland and any additional nodules, which matters in multinodular disease.",
+          "E": "Thyroglobulin is not the required next test in the evaluation of a hyperfunctioning nodule."
         }
       },
       "difficulty": "medium",
@@ -1848,34 +1848,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Carcinoma is defined by capsular or vascular invasion, not by cell morphology"
-        },
-        {
-          "label": "B",
-          "text": "Carcinoma is diagnosed only by an elevated serum calcitonin level"
-        },
-        {
-          "label": "C",
-          "text": "Carcinoma is defined by the nuclear features of papillary lesions"
-        },
-        {
-          "label": "D",
           "text": "Adenoma is defined by a suppressed thyroid-stimulating hormone level"
         },
         {
-          "label": "E",
+          "label": "B",
           "text": "Carcinoma cannot be identified even on surgical histologic examination"
+        },
+        {
+          "label": "C",
+          "text": "Carcinoma is defined by capsular or vascular invasion, not by cell morphology"
+        },
+        {
+          "label": "D",
+          "text": "Carcinoma is defined by the nuclear features of papillary lesions"
+        },
+        {
+          "label": "E",
+          "text": "Carcinoma is diagnosed only by an elevated serum calcitonin level"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Follicular carcinoma is an architectural diagnosis, so aspirated cells alone cannot separate it from follicular adenoma.",
         "whyCorrect": "Follicular carcinoma is distinguished from follicular adenoma by capsular and/or vascular invasion. Fine-needle aspiration samples cells but does not preserve the tissue architecture needed to demonstrate invasion. That is why a Bethesda follicular neoplasm result typically leads to molecular testing or diagnostic lobectomy rather than a simple benign-versus-malignant cytology answer.",
         "whyWrongByChoice": {
-          "B": "Calcitonin is the marker of medullary thyroid carcinoma, which arises from parafollicular C cells.",
-          "C": "Papillary nuclear features characterize papillary carcinoma and are not what defines follicular carcinoma.",
-          "D": "Follicular adenomas are not defined by their effect on thyroid-stimulating hormone.",
-          "E": "Histologic examination does establish the diagnosis once invasion is demonstrated."
+          "A": "Follicular adenomas are not defined by their effect on thyroid-stimulating hormone.",
+          "B": "Histologic examination does establish the diagnosis once invasion is demonstrated.",
+          "D": "Papillary nuclear features characterize papillary carcinoma and are not what defines follicular carcinoma.",
+          "E": "Calcitonin is the marker of medullary thyroid carcinoma, which arises from parafollicular C cells."
         }
       },
       "difficulty": "hard",
@@ -1894,7 +1894,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Papillary carcinoma; cervical lymphatic spread is the dominant concern"
+          "text": "Anaplastic carcinoma; rapid local invasion will drive the prognosis"
         },
         {
           "label": "B",
@@ -1906,7 +1906,7 @@
         },
         {
           "label": "D",
-          "text": "Anaplastic carcinoma; rapid local invasion will drive the prognosis"
+          "text": "Papillary carcinoma; cervical lymphatic spread is the dominant concern"
         },
         {
           "label": "E",
@@ -1918,9 +1918,9 @@
         "summary": "Calcitonin-positive malignant cytology means medullary thyroid carcinoma, which carries a MEN2/RET association.",
         "whyCorrect": "Medullary thyroid carcinoma arises from parafollicular C cells and is associated with calcitonin production, so calcitonin positivity in Bethesda VI cytology identifies it. Medullary carcinoma may be sporadic or MEN2/RET-associated, and a family history of pheochromocytoma raises that syndromic possibility. Syndromic and genetic evaluation, including attention to pheochromocytoma risk, therefore becomes the next concern.",
         "whyWrongByChoice": {
-          "A": "Papillary carcinoma does favor cervical nodal spread, but it is not calcitonin-producing and does not explain the family history.",
+          "A": "Anaplastic carcinoma presents with rapid neck enlargement and local invasion, which this patient does not have.",
           "B": "The invasion problem applies to follicular-pattern cytology, not to cytology already diagnostic of malignancy.",
-          "D": "Anaplastic carcinoma presents with rapid neck enlargement and local invasion, which this patient does not have.",
+          "D": "Papillary carcinoma does favor cervical nodal spread, but it is not calcitonin-producing and does not explain the family history.",
           "E": "Toxic adenoma is a functional diagnosis based on low TSH and focal increased uptake, not on malignant cytology."
         }
       },
@@ -1948,15 +1948,15 @@
         },
         {
           "label": "C",
-          "text": "Radionuclide thyroid scan to exclude a hyperfunctioning nodule"
+          "text": "Radioactive iodine ablation because of the nodule's size"
         },
         {
           "label": "D",
-          "text": "Thyroid lobectomy to obtain a definitive tissue diagnosis"
+          "text": "Radionuclide thyroid scan to exclude a hyperfunctioning nodule"
         },
         {
           "label": "E",
-          "text": "Radioactive iodine ablation because of the nodule's size"
+          "text": "Thyroid lobectomy to obtain a definitive tissue diagnosis"
         }
       ],
       "correctAnswer": "B",
@@ -1965,9 +1965,9 @@
         "whyCorrect": "The biopsy threshold follows risk rather than size alone; lower-risk sonographic patterns require larger size before biopsy is even considered, and a purely cystic nodule does not require diagnostic FNA at all. Aspiration of such a cyst is done for symptomatic or cosmetic reasons, not to obtain a diagnosis. A larger purely cystic nodule can be less concerning than a small solid hypoechoic one with irregular margins.",
         "whyWrongByChoice": {
           "A": "Size alone does not trigger biopsy when the sonographic pattern is purely cystic.",
-          "C": "Radionuclide scanning follows a low TSH, and this patient's TSH is normal.",
-          "D": "Surgery is not indicated for an asymptomatic benign-appearing cystic lesion.",
-          "E": "Radioiodine treats selected functional thyroid disorders, not a normal-TSH cystic nodule."
+          "C": "Radioiodine treats selected functional thyroid disorders, not a normal-TSH cystic nodule.",
+          "D": "Radionuclide scanning follows a low TSH, and this patient's TSH is normal.",
+          "E": "Surgery is not indicated for an asymptomatic benign-appearing cystic lesion."
         }
       },
       "difficulty": "medium",
@@ -1986,34 +1986,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Spongiform composition with smooth margins"
-        },
-        {
-          "label": "B",
-          "text": "Solid, very hypoechoic composition"
-        },
-        {
-          "label": "C",
           "text": "Irregular, infiltrative margins"
         },
         {
+          "label": "B",
+          "text": "Punctate echogenic foci within the nodule"
+        },
+        {
+          "label": "C",
+          "text": "Solid, very hypoechoic composition"
+        },
+        {
           "label": "D",
-          "text": "Taller-than-wide shape on transverse imaging"
+          "text": "Spongiform composition with smooth margins"
         },
         {
           "label": "E",
-          "text": "Punctate echogenic foci within the nodule"
+          "text": "Taller-than-wide shape on transverse imaging"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Spongiform architecture and smooth margins are benign-leaning ultrasound features.",
         "whyCorrect": "Benign-leaning findings include purely cystic or spongiform composition, smooth margins, comet-tail artifact, and a wider-than-tall shape. A spongiform nodule is a very-low-suspicion pattern for which observation is often reasonable in the absence of suspicious lymph nodes. Higher-risk patterns, by contrast, lower the size threshold for biopsy.",
         "whyWrongByChoice": {
-          "B": "Solid, very hypoechoic composition is one of the core suspicious features.",
-          "C": "Irregular or infiltrative margins are a suspicious feature.",
-          "D": "Taller-than-wide shape is suspicious; wider-than-tall is the reassuring orientation.",
-          "E": "Punctate echogenic foci are a suspicious finding, unlike comet-tail artifact."
+          "A": "Irregular or infiltrative margins are a suspicious feature.",
+          "B": "Punctate echogenic foci are a suspicious finding, unlike comet-tail artifact.",
+          "C": "Solid, very hypoechoic composition is one of the core suspicious features.",
+          "E": "Taller-than-wide shape is suspicious; wider-than-tall is the reassuring orientation."
         }
       },
       "difficulty": "easy",
@@ -2032,34 +2032,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Papillary thyroid carcinoma"
-        },
-        {
-          "label": "B",
-          "text": "Follicular thyroid carcinoma"
-        },
-        {
-          "label": "C",
-          "text": "Medullary thyroid carcinoma"
-        },
-        {
-          "label": "D",
           "text": "Anaplastic thyroid carcinoma"
         },
         {
-          "label": "E",
+          "label": "B",
           "text": "Benign colloid nodule"
+        },
+        {
+          "label": "C",
+          "text": "Follicular thyroid carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Medullary thyroid carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Papillary thyroid carcinoma"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "A",
       "explanation": {
         "summary": "Rapid neck enlargement with local invasive symptoms is the classic presentation of anaplastic thyroid carcinoma.",
         "whyCorrect": "Anaplastic thyroid carcinoma is highly aggressive and may present with rapid neck enlargement, local invasion, hoarseness, dysphagia, dyspnea, and a poor prognosis. Rapid growth, a fixed or hard mass, hoarseness, and dysphagia or dyspnea are all red flags in thyroid nodule evaluation, and here they cluster together over weeks. That tempo and degree of local invasion is not typical of the differentiated thyroid cancers.",
         "whyWrongByChoice": {
-          "A": "Papillary carcinoma usually presents as a thyroid nodule with possible cervical nodal spread, not fulminant local invasion.",
-          "B": "Follicular carcinoma is defined by capsular and vascular invasion and spreads hematogenously to lung and bone.",
-          "C": "Medullary carcinoma arises from C cells and is suggested by calcitonin production or a MEN2 family history.",
-          "E": "A benign colloid nodule does not grow rapidly, become fixed, or cause hoarseness and stridor."
+          "B": "A benign colloid nodule does not grow rapidly, become fixed, or cause hoarseness and stridor.",
+          "C": "Follicular carcinoma is defined by capsular and vascular invasion and spreads hematogenously to lung and bone.",
+          "D": "Medullary carcinoma arises from C cells and is suggested by calcitonin production or a MEN2 family history.",
+          "E": "Papillary carcinoma usually presents as a thyroid nodule with possible cervical nodal spread, not fulminant local invasion."
         }
       },
       "difficulty": "easy",
@@ -2078,15 +2078,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Hematogenous spread to lung and bone"
+          "text": "Direct invasion of trachea and larynx within weeks"
         },
         {
           "label": "B",
-          "text": "Lymphatic spread to cervical lymph nodes"
+          "text": "Hematogenous spread to lung and bone"
         },
         {
           "label": "C",
-          "text": "Direct invasion of trachea and larynx within weeks"
+          "text": "Lymphatic spread to cervical lymph nodes"
         },
         {
           "label": "D",
@@ -2097,13 +2097,13 @@
           "text": "Spread limited to within the thyroid capsule"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Follicular thyroid carcinoma, defined by capsular and vascular invasion, disseminates through the bloodstream.",
         "whyCorrect": "Capsular and/or vascular invasion is the defining feature of follicular thyroid carcinoma, which is why the lobectomy was needed to make the diagnosis. Tumor entry into vessels within the capsule is the anatomic basis for its behavior. Follicular carcinoma tends to spread hematogenously, especially to lung and bone.",
         "whyWrongByChoice": {
-          "B": "Cervical nodal spread is characteristic of papillary thyroid carcinoma.",
-          "C": "Rapid local invasion of airway structures characterizes anaplastic carcinoma.",
+          "A": "Rapid local invasion of airway structures characterizes anaplastic carcinoma.",
+          "C": "Cervical nodal spread is characteristic of papillary thyroid carcinoma.",
           "D": "Peritoneal seeding is not a described route of spread for thyroid carcinoma.",
           "E": "The demonstrated capsular and vascular invasion is precisely what makes this tumor capable of distant spread."
         }
@@ -2124,15 +2124,15 @@
       "choices": [
         {
           "label": "A",
-          "text": "Proceed to total thyroidectomy, since cold nodules are malignant"
+          "text": "Levothyroxine suppression with a repeat scan in six months"
         },
         {
           "label": "B",
-          "text": "Ultrasound risk stratification, with FNA if criteria are met"
+          "text": "No further evaluation, since cold nodules are usually benign"
         },
         {
           "label": "C",
-          "text": "No further evaluation, since cold nodules are usually benign"
+          "text": "Proceed to total thyroidectomy, since cold nodules are malignant"
         },
         {
           "label": "D",
@@ -2140,18 +2140,18 @@
         },
         {
           "label": "E",
-          "text": "Levothyroxine suppression with a repeat scan in six months"
+          "text": "Ultrasound risk stratification, with FNA if criteria are met"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "A cold nodule is neither dismissed nor assumed malignant; it re-enters the ultrasound-based pathway.",
         "whyCorrect": "A nonfunctioning nodule shows decreased uptake relative to surrounding thyroid tissue, which answers the functional question but not the structural one. Cold nodules are not automatically malignant, so the workup returns to ultrasound risk stratification. Fine-needle aspiration follows only when nodule size, sonographic pattern, lymph-node findings, and clinical context meet criteria.",
         "whyWrongByChoice": {
-          "A": "Cold uptake does not establish malignancy and does not by itself justify thyroidectomy.",
-          "C": "Stopping here skips the structural assessment that determines whether biopsy is needed.",
-          "D": "Radioiodine treats hyperfunctioning thyroid tissue; a cold nodule would not concentrate it.",
-          "E": "Suppression and a repeat scan neither characterize the nodule structurally nor obtain tissue."
+          "A": "Suppression and a repeat scan neither characterize the nodule structurally nor obtain tissue.",
+          "B": "Stopping here skips the structural assessment that determines whether biopsy is needed.",
+          "C": "Cold uptake does not establish malignancy and does not by itself justify thyroidectomy.",
+          "D": "Radioiodine treats hyperfunctioning thyroid tissue; a cold nodule would not concentrate it."
         }
       },
       "difficulty": "medium",
@@ -2170,7 +2170,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "No biopsy, since the hot nodule explains the suppressed TSH"
+          "text": "Fine-needle aspiration of the hyperfunctioning right-lobe nodule"
         },
         {
           "label": "B",
@@ -2178,15 +2178,15 @@
         },
         {
           "label": "C",
-          "text": "Fine-needle aspiration of the hyperfunctioning right-lobe nodule"
+          "text": "No biopsy, since the hot nodule explains the suppressed TSH"
         },
         {
           "label": "D",
-          "text": "Total thyroidectomy without further assessment of either nodule"
+          "text": "Repeat radionuclide scanning in six months before any biopsy"
         },
         {
           "label": "E",
-          "text": "Repeat radionuclide scanning in six months before any biopsy"
+          "text": "Total thyroidectomy without further assessment of either nodule"
         }
       ],
       "correctAnswer": "B",
@@ -2194,10 +2194,10 @@
         "summary": "In multinodular disease, a hot nodule explains the low TSH but does not clear the other nodules.",
         "whyCorrect": "One hyperfunctioning nodule can account for a suppressed thyroid-stimulating hormone, yet other nonfunctioning or suspicious nodules still require ultrasound-based assessment. The left-lobe lesion is solid and hypoechoic with irregular margins and punctate echogenic foci, a suspicious pattern that carries a low size threshold for biopsy. It should be aspirated while the hormone excess from the hot nodule is managed separately.",
         "whyWrongByChoice": {
-          "A": "Explaining the low TSH does not settle the structural risk of a separate, sonographically suspicious nodule.",
-          "C": "The hyperfunctioning nodule is usually lower risk for malignancy and does not typically require FNA.",
-          "D": "Surgery is premature before the suspicious nodule has been characterized cytologically.",
-          "E": "Delaying six months leaves a nodule that already meets criteria for tissue sampling unevaluated."
+          "A": "The hyperfunctioning nodule is usually lower risk for malignancy and does not typically require FNA.",
+          "C": "Explaining the low TSH does not settle the structural risk of a separate, sonographically suspicious nodule.",
+          "D": "Delaying six months leaves a nodule that already meets criteria for tissue sampling unevaluated.",
+          "E": "Surgery is premature before the suspicious nodule has been characterized cytologically."
         }
       },
       "difficulty": "hard",

@@ -8,11 +8,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased ghrelin secretion from the gastric fundus"
+          "text": "Decreased catecholamine signaling in the hypothalamus"
         },
         {
           "label": "B",
-          "text": "Increased leptin secretion from adipose tissue"
+          "text": "Increased ghrelin secretion from the gastric fundus"
         },
         {
           "label": "C",
@@ -20,22 +20,22 @@
         },
         {
           "label": "D",
-          "text": "Increased PYY secretion from the ileum and colon"
+          "text": "Increased leptin secretion from adipose tissue"
         },
         {
           "label": "E",
-          "text": "Decreased catecholamine signaling in the hypothalamus"
+          "text": "Increased PYY secretion from the ileum and colon"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Weight loss triggers a rise in ghrelin that increases hunger and promotes weight regain.",
         "whyCorrect": "Ghrelin, released from gastric secretions in the fundus, increases food intake and decreases energy expenditure, and its levels rise before meals. Although ghrelin is generally lower in obese individuals, negative energy balance is interpreted as depletion of energy stores, and ghrelin rises again with weight loss, driving hunger and weight regain.",
         "whyWrongByChoice": {
-          "B": "Leptin falls, not rises, after weight loss because fat mass shrinks; the falling leptin reduces satiety and increases hunger.",
+          "A": "The lecture describes hormonal signals (ghrelin, leptin, GLP-1, PYY) acting on the arcuate nucleus as the drivers of post-weight-loss hunger, not a loss of catecholamine signaling.",
           "C": "GLP-1 is a satiety signal that decreases after weight loss; an increase would suppress, not stimulate, hunger.",
-          "D": "PYY also decreases after weight loss; increased PYY would reduce food intake rather than cause hunger.",
-          "E": "The lecture describes hormonal signals (ghrelin, leptin, GLP-1, PYY) acting on the arcuate nucleus as the drivers of post-weight-loss hunger, not a loss of catecholamine signaling."
+          "D": "Leptin falls, not rises, after weight loss because fat mass shrinks; the falling leptin reduces satiety and increases hunger.",
+          "E": "PYY also decreases after weight loss; increased PYY would reduce food intake rather than cause hunger."
         }
       },
       "difficulty": "medium",
@@ -58,7 +58,7 @@
         },
         {
           "label": "B",
-          "text": "Resistance to leptin activation of its hypothalamic pathways"
+          "text": "Elevated ghrelin secretion from his expanded fat mass"
         },
         {
           "label": "C",
@@ -70,18 +70,18 @@
         },
         {
           "label": "E",
-          "text": "Elevated ghrelin secretion from his expanded fat mass"
+          "text": "Resistance to leptin activation of its hypothalamic pathways"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Obesity is characterized by high circulating leptin with leptin resistance at its hypothalamic targets.",
         "whyCorrect": "Leptin is secreted by fat cells in proportion to the body's energy excess and normally reduces food intake. In obese individuals, leptin levels are paradoxically high without appetite suppression because the pathways normally activated by leptin become resistant to activation, a state called leptin resistance.",
         "whyWrongByChoice": {
           "A": "His leptin is markedly elevated, which excludes absent leptin production.",
+          "B": "Ghrelin originates from gastric secretions in the fundus of the stomach, not from adipose tissue, and ghrelin levels are generally lower in obese individuals.",
           "C": "Leptin acts to reduce food intake; it does not stimulate appetite even at high levels.",
-          "D": "Abundant adipose tissue stimulated leptin secretion appropriately here, as shown by the elevated level; the defect is downstream of secretion.",
-          "E": "Ghrelin originates from gastric secretions in the fundus of the stomach, not from adipose tissue, and ghrelin levels are generally lower in obese individuals."
+          "D": "Abundant adipose tissue stimulated leptin secretion appropriately here, as shown by the elevated level; the defect is downstream of secretion."
         }
       },
       "difficulty": "medium",
@@ -100,11 +100,11 @@
       "choices": [
         {
           "label": "A",
-          "text": "GLP-1 and GIP"
+          "text": "Ghrelin and CCK"
         },
         {
           "label": "B",
-          "text": "PYY and CCK"
+          "text": "GLP-1 and GIP"
         },
         {
           "label": "C",
@@ -116,18 +116,18 @@
         },
         {
           "label": "E",
-          "text": "Ghrelin and CCK"
+          "text": "PYY and CCK"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "GLP-1 and GIP are the incretins, gut hormones that stimulate insulin release after glucose ingestion.",
         "whyCorrect": "GLP-1 and GIP are known as incretins, a class of hormones secreted from the intestine in the presence of digested food that stimulate the release of insulin following ingestion of glucose. Because of their combined effects to decrease appetite and increase insulin secretion, incretin agonists have become popular medications for obesity and T2D.",
         "whyWrongByChoice": {
-          "B": "PYY and CCK reduce food intake but are not classified as incretins and do not account for the augmented insulin response to oral glucose.",
+          "A": "Ghrelin increases food intake and CCK reduces it; neither is an incretin.",
           "C": "Leptin (from fat cells) and ghrelin (from the gastric fundus) regulate energy intake at the hypothalamus rather than stimulating glucose-dependent insulin release.",
           "D": "Leptin and PYY are satiety signals, not the intestinal hormones responsible for enhanced insulin secretion after oral glucose.",
-          "E": "Ghrelin increases food intake and CCK reduces it; neither is an incretin."
+          "E": "PYY and CCK reduce food intake but are not classified as incretins and do not account for the augmented insulin response to oral glucose."
         }
       },
       "difficulty": "easy",
@@ -146,34 +146,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Normal range"
-        },
-        {
-          "label": "B",
-          "text": "Overweight"
-        },
-        {
-          "label": "C",
           "text": "Class 1 obesity"
         },
         {
-          "label": "D",
+          "label": "B",
           "text": "Class 2 obesity"
         },
         {
-          "label": "E",
+          "label": "C",
           "text": "Class 3 obesity"
+        },
+        {
+          "label": "D",
+          "text": "Normal range"
+        },
+        {
+          "label": "E",
+          "text": "Overweight"
         }
       ],
-      "correctAnswer": "D",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "A BMI of 35.0-39.9 kg/m2 defines class 2 obesity.",
         "whyCorrect": "BMI is calculated as weight in kilograms divided by height in meters squared, and individuals are allocated into six categories. A BMI of 36.7 kg/m2 falls in the 35.0-39.9 kg/m2 range, which is class 2 obesity.",
         "whyWrongByChoice": {
-          "A": "The normal range is 18.5-24.9 kg/m2, far below her value.",
-          "B": "Overweight is a BMI of 25.0-29.9 kg/m2.",
-          "C": "Class 1 obesity is a BMI of 30.0-34.9 kg/m2; her BMI exceeds this range.",
-          "E": "Class 3 obesity requires a BMI above 40.0 kg/m2."
+          "A": "Class 1 obesity is a BMI of 30.0-34.9 kg/m2; her BMI exceeds this range.",
+          "C": "Class 3 obesity requires a BMI above 40.0 kg/m2.",
+          "D": "The normal range is 18.5-24.9 kg/m2, far below her value.",
+          "E": "Overweight is a BMI of 25.0-29.9 kg/m2."
         }
       },
       "difficulty": "easy",
@@ -192,34 +192,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "One"
+          "text": "Five"
         },
         {
           "label": "B",
-          "text": "Two"
-        },
-        {
-          "label": "C",
-          "text": "Three"
-        },
-        {
-          "label": "D",
           "text": "Four"
         },
         {
+          "label": "C",
+          "text": "One"
+        },
+        {
+          "label": "D",
+          "text": "Three"
+        },
+        {
           "label": "E",
-          "text": "Five"
+          "text": "Two"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "She meets three criteria (waist, blood pressure via antihypertensive therapy, and low HDL), which is diagnostic of metabolic syndrome.",
         "whyCorrect": "Her waist circumference exceeds the female cutoff of 35 inches, her HDL is below the female cutoff of 50 mg/dL, and the blood pressure criterion is satisfied because antihypertensive therapy counts even when the measured pressure is controlled. Three or more criteria define metabolic syndrome under AHA/NHLBI criteria.",
         "whyWrongByChoice": {
-          "A": "This undercounts; waist circumference, HDL, and the treated-hypertension criterion are all met.",
-          "B": "This misses that antihypertensive therapy satisfies the blood pressure criterion despite her controlled reading of 122/76 mm Hg.",
-          "D": "Her fasting triglycerides of 138 mg/dL are below the >150 mg/dL cutoff, so that criterion is not met.",
-          "E": "Her fasting glucose of 96 mg/dL is below the >100 mg/dL cutoff, so that criterion is also not met."
+          "A": "Her fasting glucose of 96 mg/dL is below the >100 mg/dL cutoff, so that criterion is also not met.",
+          "B": "Her fasting triglycerides of 138 mg/dL are below the >150 mg/dL cutoff, so that criterion is not met.",
+          "C": "This undercounts; waist circumference, HDL, and the treated-hypertension criterion are all met.",
+          "E": "This misses that antihypertensive therapy satisfies the blood pressure criterion despite her controlled reading of 122/76 mm Hg."
         }
       },
       "difficulty": "hard",
@@ -242,15 +242,15 @@
         },
         {
           "label": "B",
-          "text": "Increased estradiol secretion by ovarian follicles"
-        },
-        {
-          "label": "C",
           "text": "Direct estrogen secretion by the adrenal cortex"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Hepatic conversion of cholesterol to estradiol"
+        },
+        {
+          "label": "D",
+          "text": "Increased estradiol secretion by ovarian follicles"
         },
         {
           "label": "E",
@@ -262,9 +262,9 @@
         "summary": "After menopause, adipose tissue becomes the primary source of estrogen via aromatization of androgens to estrone.",
         "whyCorrect": "After menopause, adrenal (and some ovarian) androgens are converted by aromatase in adipose tissue into estrone, making adipose tissue the primary source of estrogen. This is why obese postmenopausal women have higher estrogen levels than nonobese postmenopausal women, and increased estrogen production from aromatization is one mechanism linking obesity to cancers such as postmenopausal breast and endometrial cancer.",
         "whyWrongByChoice": {
-          "B": "Ovarian follicular estradiol production is not the source after menopause; estrogen instead derives from peripheral conversion of androgens.",
-          "C": "The adrenal glands supply androgen precursors, but the estrogen itself is generated by aromatase in adipose tissue, not secreted directly by the adrenal cortex.",
-          "D": "The lecture attributes postmenopausal estrogen to aromatization in adipose tissue, not to hepatic synthesis of estradiol from cholesterol.",
+          "B": "The adrenal glands supply androgen precursors, but the estrogen itself is generated by aromatase in adipose tissue, not secreted directly by the adrenal cortex.",
+          "C": "The lecture attributes postmenopausal estrogen to aromatization in adipose tissue, not to hepatic synthesis of estradiol from cholesterol.",
+          "D": "Ovarian follicular estradiol production is not the source after menopause; estrogen instead derives from peripheral conversion of androgens.",
           "E": "Pituitary gonadotropins do not restore ovarian estrogen output after menopause and do not explain the difference between obese and lean women."
         }
       },
@@ -285,7 +285,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Olanzapine"
+          "text": "Albuterol"
         },
         {
           "label": "B",
@@ -297,22 +297,22 @@
         },
         {
           "label": "D",
-          "text": "Albuterol"
+          "text": "None; the gain reflects primary obesity"
         },
         {
           "label": "E",
-          "text": "None; the gain reflects primary obesity"
+          "text": "Olanzapine"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Antipsychotics such as olanzapine are a recognized medication cause of secondary obesity.",
         "whyCorrect": "Secondary obesity results from underlying disease or medications. The weight-promoting medications include insulin, antipsychotics (thioridazine, clozapine, olanzapine), tricyclic antidepressants, and antiseizure medications (valproate, carbamazepine, gabapentin). Clinicians should review medications and, when possible, replace weight-promoting drugs with weight-neutral or weight-reducing alternatives.",
         "whyWrongByChoice": {
+          "A": "As-needed albuterol is not listed among medications that cause secondary obesity.",
           "B": "Lisinopril is not among the weight-promoting drug classes described.",
           "C": "Metformin reduces insulin resistance and improves glucose levels; it is not a weight-promoting agent.",
-          "D": "As-needed albuterol is not listed among medications that cause secondary obesity.",
-          "E": "The temporal association with starting a known weight-promoting antipsychotic points to medication-related secondary obesity rather than purely behavioral or genetic primary obesity."
+          "D": "The temporal association with starting a known weight-promoting antipsychotic points to medication-related secondary obesity rather than purely behavioral or genetic primary obesity."
         }
       },
       "difficulty": "medium",
@@ -339,7 +339,7 @@
         },
         {
           "label": "C",
-          "text": "Personal history of hypothyroidism on levothyroxine"
+          "text": "Family history of type 2 diabetes mellitus"
         },
         {
           "label": "D",
@@ -347,7 +347,7 @@
         },
         {
           "label": "E",
-          "text": "Family history of type 2 diabetes mellitus"
+          "text": "Personal history of hypothyroidism on levothyroxine"
         }
       ],
       "correctAnswer": "A",
@@ -356,9 +356,9 @@
         "whyCorrect": "GLP-1 receptor agonists such as semaglutide and liraglutide, and the dual GIP/GLP-1 agonist tirzepatide, should be avoided in patients with a personal or family history of medullary thyroid carcinoma or MEN2. A family history of medullary thyroid carcinoma therefore precludes this therapy.",
         "whyWrongByChoice": {
           "B": "The avoidance applies specifically to medullary thyroid carcinoma and MEN2, not papillary thyroid carcinoma.",
-          "C": "Hypothyroidism on replacement therapy is not a stated reason to avoid incretin-based agents.",
+          "C": "Incretin agonists improve glucose-dependent insulin secretion and are used in T2D; a family history of diabetes favors rather than precludes their use.",
           "D": "GERD is not listed as a contraindication; the important adverse effects are nausea, vomiting, bowel changes, and delayed gastric emptying, with rare gallbladder disease and pancreatitis.",
-          "E": "Incretin agonists improve glucose-dependent insulin secretion and are used in T2D; a family history of diabetes favors rather than precludes their use."
+          "E": "Hypothyroidism on replacement therapy is not a stated reason to avoid incretin-based agents."
         }
       },
       "difficulty": "medium",
@@ -378,7 +378,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of gastric and pancreatic lipases"
+          "text": "Activation of both GIP and GLP-1 receptors"
         },
         {
           "label": "B",
@@ -386,26 +386,26 @@
         },
         {
           "label": "C",
-          "text": "Increased hypothalamic catecholamine signaling"
-        },
-        {
-          "label": "D",
           "text": "Antagonism of opioid-mediated reward pathways"
         },
         {
+          "label": "D",
+          "text": "Increased hypothalamic catecholamine signaling"
+        },
+        {
           "label": "E",
-          "text": "Activation of both GIP and GLP-1 receptors"
+          "text": "Inhibition of gastric and pancreatic lipases"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "Orlistat inhibits gastric and pancreatic lipases, causing GI fat-related side effects and reduced fat-soluble vitamin absorption.",
         "whyCorrect": "Orlistat inhibits gastric and pancreatic lipases and decreases intestinal absorption of dietary triglycerides. Because unabsorbed fat remains in the intestinal lumen, adverse effects are primarily gastrointestinal (oily stools, fecal urgency, flatulence, steatorrhea), and reduced absorption of fat-soluble vitamins may require supplementation, explaining the multivitamin recommendation.",
         "whyWrongByChoice": {
+          "A": "Tirzepatide's dual incretin agonism produces GI upset like nausea and vomiting, not luminal fat malabsorption requiring vitamin supplementation.",
           "B": "GLP-1 receptor agonists cause nausea, vomiting, and delayed gastric emptying rather than oily stools, and they do not deplete fat-soluble vitamins.",
-          "C": "Phentermine's sympathomimetic appetite suppression does not produce steatorrhea or vitamin malabsorption.",
-          "D": "Naltrexone-bupropion acts on appetite and reward pathways; its notable adverse effects are insomnia, dry mouth, increased heart rate or blood pressure, and neuropsychiatric effects.",
-          "E": "Tirzepatide's dual incretin agonism produces GI upset like nausea and vomiting, not luminal fat malabsorption requiring vitamin supplementation."
+          "C": "Naltrexone-bupropion acts on appetite and reward pathways; its notable adverse effects are insomnia, dry mouth, increased heart rate or blood pressure, and neuropsychiatric effects.",
+          "D": "Phentermine's sympathomimetic appetite suppression does not produce steatorrhea or vitamin malabsorption."
         }
       },
       "difficulty": "easy",
@@ -428,7 +428,7 @@
         },
         {
           "label": "B",
-          "text": "Well-controlled hypothyroidism"
+          "text": "A strong family history of type 2 diabetes"
         },
         {
           "label": "C",
@@ -436,11 +436,11 @@
         },
         {
           "label": "D",
-          "text": "A strong family history of type 2 diabetes"
+          "text": "Prior cholecystectomy for gallstones"
         },
         {
           "label": "E",
-          "text": "Prior cholecystectomy for gallstones"
+          "text": "Well-controlled hypothyroidism"
         }
       ],
       "correctAnswer": "A",
@@ -448,10 +448,10 @@
         "summary": "Naltrexone-bupropion should be avoided in patients with seizure risk or chronic opioid use.",
         "whyCorrect": "Naltrexone-bupropion ER acts centrally on hypothalamic appetite pathways and mesolimbic reward pathways, making it a later-line option suited to craving- and reward-driven eating. However, it should be avoided in patients with seizure risk or chronic opioid use, so her seizure history makes it inappropriate.",
         "whyWrongByChoice": {
-          "B": "Hypothyroidism is a cause of secondary obesity but is not a stated reason to avoid naltrexone-bupropion.",
+          "B": "A family history of T2D is a reason to pursue weight loss, not a contraindication to this agent.",
           "C": "Osteoarthritis is an orthopedic complication of obesity, not a barrier to this medication; weight loss would likely help it.",
-          "D": "A family history of T2D is a reason to pursue weight loss, not a contraindication to this agent.",
-          "E": "Gallbladder concerns are noted for incretin-based therapies, and she no longer has a gallbladder in any case."
+          "D": "Gallbladder concerns are noted for incretin-based therapies, and she no longer has a gallbladder in any case.",
+          "E": "Hypothyroidism is a cause of secondary obesity but is not a stated reason to avoid naltrexone-bupropion."
         }
       },
       "difficulty": "medium",
@@ -470,7 +470,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loss of the gastric fundus, the primary source of ghrelin"
+          "text": "Diversion of nutrients away from duodenal GIP-secreting cells"
         },
         {
           "label": "B",
@@ -478,7 +478,7 @@
         },
         {
           "label": "C",
-          "text": "Diversion of nutrients away from duodenal GIP-secreting cells"
+          "text": "Loss of the gastric fundus, the primary source of ghrelin"
         },
         {
           "label": "D",
@@ -489,13 +489,13 @@
           "text": "Reduced insulin secretion lowering hypothalamic satiety signaling"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Sleeve gastrectomy removes the gastric fundus, the primary source of ghrelin, so hunger signaling falls along with gastric volume.",
         "whyCorrect": "Sleeve gastrectomy is a restrictive procedure that removes about 80% of the stomach including the fundus, which is the primary source of ghrelin. Volume restriction combined with decreased ghrelin levels markedly reduces hunger signaling, and such gut hormone changes are now understood to be major drivers of sustained weight loss after bariatric surgery.",
         "whyWrongByChoice": {
+          "A": "Sleeve gastrectomy does not reroute the intestine; nutrient diversion past the duodenum describes Roux-en-Y gastric bypass anatomy.",
           "B": "Leptin comes from fat cells and would decline as fat mass falls after surgery; it does not surge to explain the reduced hunger.",
-          "C": "Sleeve gastrectomy does not reroute the intestine; nutrient diversion past the duodenum describes Roux-en-Y gastric bypass anatomy.",
           "D": "There is no bypassed bowel segment in a sleeve gastrectomy; malabsorption is a feature of RYGB.",
           "E": "The procedure's hunger reduction is attributed to decreased ghrelin, not to reduced insulin secretion; bariatric surgery actually improves insulin secretion via increased GLP-1."
         }
@@ -520,7 +520,7 @@
         },
         {
           "label": "B",
-          "text": "Leptin resistance"
+          "text": "Cold-induced thermogenesis"
         },
         {
           "label": "C",
@@ -532,7 +532,7 @@
         },
         {
           "label": "E",
-          "text": "Cold-induced thermogenesis"
+          "text": "Leptin resistance"
         }
       ],
       "correctAnswer": "A",
@@ -540,10 +540,10 @@
         "summary": "Adaptive thermogenesis is the fall in energy expenditure after weight loss beyond what body-mass changes alone would predict.",
         "whyCorrect": "After weight loss, resting energy expenditure falls more than expected, a process called adaptive thermogenesis (metabolic adaptation), defined as a change in energy expenditure beyond what body-mass changes alone would predict. In the weight-loss context the term denotes energy-sparing, these changes can persist for months to years, and they help explain why lifestyle interventions often yield only modest, hard-to-maintain weight loss.",
         "whyWrongByChoice": {
-          "B": "Leptin resistance describes hypothalamic insensitivity to high leptin in obesity; her finding is a measured drop in energy expenditure, not failed leptin signaling despite high levels.",
+          "B": "In temperature-regulation physiology during cold exposure, thermogenesis denotes an increase in energy expenditure, the opposite of this energy-sparing adaptation.",
           "C": "The phenomenon here is reduced resting expenditure out of proportion to mass, not the energy cost of processing meals.",
           "D": "Insulin resistance impairs glucose and fatty acid utilization and drives metabolic syndrome; it does not describe a disproportionate fall in resting energy expenditure.",
-          "E": "In temperature-regulation physiology during cold exposure, thermogenesis denotes an increase in energy expenditure, the opposite of this energy-sparing adaptation."
+          "E": "Leptin resistance describes hypothalamic insensitivity to high leptin in obesity; her finding is a measured drop in energy expenditure, not failed leptin signaling despite high levels."
         }
       },
       "difficulty": "hard",
@@ -562,34 +562,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Add basal insulin at bedtime"
+          "text": "Add basal insulin at bedtime and titrate it to his fasting glucose"
         },
         {
           "label": "B",
-          "text": "Refer him for diabetes self-management education and support"
+          "text": "Increase the metformin to the maximum tolerated dose as monotherapy"
         },
         {
           "label": "C",
-          "text": "Instruct him to eat smaller portions at every meal"
+          "text": "Instruct him at this visit to eat smaller portions at every meal"
         },
         {
           "label": "D",
-          "text": "Repeat the hemoglobin A1c in 6 months"
+          "text": "Refer him for diabetes self-management education and support"
         },
         {
           "label": "E",
-          "text": "Increase the metformin to the maximum tolerated dose"
+          "text": "Repeat the hemoglobin A1c in 6 months and reassess his control then"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "A patient with a gap in reaching glycemic targets who has never received structured education should be referred for DSMES.",
         "whyCorrect": "Structured Diabetes Self-Management Education and Support lowers A1c, reduces hospitalizations, improves medication adherence and quality of life, and reduces complications. A gap in reaching target goals is one of the four critical referral times, and this patient has never received any structured training despite 12 years of disease.",
         "whyWrongByChoice": {
           "A": "Escalating therapy without addressing his absent self-care skills repeats the pattern that failed him; the DCCT-era lesson is to equip the patient with knowledge and skills, not only to add medication.",
+          "B": "Medication cannot work well in isolation when the patient lacks the self-care skills that determine long-term outcomes; the education gap is the identified problem.",
           "C": "A single directive about portions is not structured education; effective eating guidance involves referral for medical nutrition therapy and skills such as carb counting and label reading.",
-          "D": "Waiting 6 months delays intervention in a patient who is above goal now and is actively asking for help.",
-          "E": "Medication cannot work well in isolation when the patient lacks the self-care skills that determine long-term outcomes; the education gap is the identified problem."
+          "E": "Waiting 6 months delays intervention in a patient who is above goal now and is actively asking for help."
         }
       },
       "difficulty": "medium",
@@ -608,34 +608,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Intensive self-management reduced development and progression of microvascular complications by 35-76%"
+          "text": "An A1c near 9% was sufficient to prevent blindness, kidney disease, and neuropathy"
         },
         {
           "label": "B",
-          "text": "Intensive glycemic control eliminated the need for annual complication screening"
-        },
-        {
-          "label": "C",
           "text": "Conventional therapy produced equivalent outcomes at a lower cost of patient effort"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Frequent blood glucose monitoring improved A1c without changing complication rates"
         },
         {
+          "label": "D",
+          "text": "Intensive glycemic control eliminated the need for annual complication screening"
+        },
+        {
           "label": "E",
-          "text": "An A1c near 9% was sufficient to prevent blindness, kidney disease, and neuropathy"
+          "text": "Intensive self-management reduced development and progression of microvascular complications by 35-76%"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
         "summary": "The DCCT showed intensive self-management cut microvascular complications by 35-76% versus conventional therapy.",
         "whyCorrect": "Intensive management — frequent glucose monitoring, individualized insulin adjustment, nutrition counseling, and ongoing patient education — reduced development and progression of retinopathy, nephropathy, and neuropathy by 35-76%. It demonstrated that maintaining A1c closer to 7% rather than the prior standard of 9% dramatically reduces organ damage, and it underpins modern DSMES and glucose monitoring.",
         "whyWrongByChoice": {
-          "B": "Annual testing remains a core self-care skill precisely because early detection of complications is when intervention works best; the DCCT did not remove the need for screening.",
-          "C": "Conventional therapy was inferior: intensive self-management substantially reduced complications compared with it.",
-          "D": "The trial's central finding was a large reduction in complication rates, not a cosmetic A1c change.",
-          "E": "The DCCT showed the opposite — moving from the old standard near 9% to an A1c closer to 7% dramatically reduced risk to vulnerable organs."
+          "A": "The DCCT showed the opposite — moving from the old standard near 9% to an A1c closer to 7% dramatically reduced risk to vulnerable organs.",
+          "B": "Conventional therapy was inferior: intensive self-management substantially reduced complications compared with it.",
+          "C": "The trial's central finding was a large reduction in complication rates, not a cosmetic A1c change.",
+          "D": "Annual testing remains a core self-care skill precisely because early detection of complications is when intervention works best; the DCCT did not remove the need for screening."
         }
       },
       "difficulty": "easy",
@@ -658,19 +658,19 @@
         },
         {
           "label": "B",
-          "text": "Exercise increases pancreatic beta-cell insulin secretion after each meal"
+          "text": "Repeated exercise increases pancreatic beta-cell insulin secretion after every evening meal"
         },
         {
           "label": "C",
-          "text": "Physical activity increases renal excretion of filtered glucose"
+          "text": "Repeated exercise suppresses hepatic glucose output by raising circulating cortisol levels"
         },
         {
           "label": "D",
-          "text": "Walking slows gastric emptying and delays carbohydrate absorption"
+          "text": "Physical activity increases renal excretion of filtered glucose in the proximal renal tubule"
         },
         {
           "label": "E",
-          "text": "Exercise suppresses hepatic glucose output by raising cortisol levels"
+          "text": "Walking slows gastric emptying and delays carbohydrate absorption from the small intestinal lumen"
         }
       ],
       "correctAnswer": "A",
@@ -679,9 +679,9 @@
         "whyCorrect": "Skeletal muscle contraction stimulates glucose uptake via GLUT-4 translocation by a pathway that does not require insulin, so it is preserved even in insulin-resistant patients. Exercise also increases insulin sensitivity for 24-72 hours, reduces visceral adiposity, and improves mitochondrial function, which is why movement is considered a therapeutic for insulin resistance and type 2 diabetes.",
         "whyWrongByChoice": {
           "B": "The benefit of exercise in insulin resistance is that it bypasses insulin signaling; it is not attributed to augmented post-meal insulin secretion.",
-          "C": "Renal glucose reabsorption is a drug target (e.g., of medications acting on renal glucose handling), not the mechanism by which exercise lowers glucose.",
-          "D": "Slowed gastric emptying is how meal composition (fiber, protein, healthy fats) blunts post-prandial excursions, not how muscle activity works.",
-          "E": "Cortisol promotes insulin resistance and hepatic glucose output — it raises glucose rather than mediating the benefit of exercise."
+          "C": "Cortisol promotes insulin resistance and hepatic glucose output — it raises glucose rather than mediating the benefit of exercise.",
+          "D": "Renal glucose reabsorption is a drug target (e.g., of medications acting on renal glucose handling), not the mechanism by which exercise lowers glucose.",
+          "E": "Slowed gastric emptying is how meal composition (fiber, protein, healthy fats) blunts post-prandial excursions, not how muscle activity works."
         }
       },
       "difficulty": "medium",
@@ -700,33 +700,33 @@
       "choices": [
         {
           "label": "A",
-          "text": "Consuming alcohol without eating food"
+          "text": "Being less physically active than usual that day"
         },
         {
           "label": "B",
-          "text": "Eating more carbohydrate than his usual amount"
+          "text": "Consuming alcohol without eating food"
         },
         {
           "label": "C",
-          "text": "Skipping his glucose-lowering medication that morning"
+          "text": "Eating more carbohydrate than his usual amount"
         },
         {
           "label": "D",
-          "text": "Being less physically active than usual that day"
+          "text": "Skipping his glucose-lowering medication that morning"
         },
         {
           "label": "E",
           "text": "The dawn phenomenon raising his morning glucose"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Drinking alcohol without eating is a classic precipitant of hypoglycemia in patients on glucose-lowering medication.",
         "whyCorrect": "Common causes of hypoglycemia include taking some medicines, eating less than usual, skipped or delayed meals, more physical activity than usual, and drinking alcohol without eating. This patient combined a glucose-lowering medication with alcohol and no food, producing symptomatic hypoglycemia. Teaching patients to recognize their symptoms and likely causes is a core problem-solving skill that prevents life-threatening episodes.",
         "whyWrongByChoice": {
-          "B": "Extra carbohydrate intake would push glucose up, not down to 52 mg/dL.",
-          "C": "Missing a dose of glucose-lowering medication would leave glucose higher than usual, not cause hypoglycemia.",
-          "D": "Reduced activity lessens glucose utilization; it is more activity than usual that predisposes to hypoglycemia.",
+          "A": "Reduced activity lessens glucose utilization; it is more activity than usual that predisposes to hypoglycemia.",
+          "C": "Extra carbohydrate intake would push glucose up, not down to 52 mg/dL.",
+          "D": "Missing a dose of glucose-lowering medication would leave glucose higher than usual, not cause hypoglycemia.",
           "E": "The dawn phenomenon elevates morning blood glucose; it does not explain an evening low."
         }
       },
@@ -746,34 +746,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "1 carb choice"
+          "text": "0 carb choices, because rice is a free food"
         },
         {
           "label": "B",
-          "text": "2 carb choices"
+          "text": "1 carb choice"
         },
         {
           "label": "C",
-          "text": "3 carb choices"
+          "text": "2 carb choices"
         },
         {
           "label": "D",
-          "text": "4 carb choices"
+          "text": "3 carb choices"
         },
         {
           "label": "E",
-          "text": "0 carb choices, because rice is a free food"
+          "text": "4 carb choices"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "One cup of cooked rice equals 3 carb choices, since 1/3 cup of rice is one 15-gram carb choice.",
         "whyCorrect": "In the starch exchange, 1/3 cup of rice or pasta equals 15 grams of carbohydrate, which is 1 carb choice. A full cup of rice therefore equals 3 carb choices — the entire carbohydrate allotment for a 45-gram meal, leaving the rest of the plate for non-starchy vegetables, protein, and fat.",
         "whyWrongByChoice": {
-          "A": "One carb choice of rice is only 1/3 cup, not a full cup.",
-          "B": "Two carb choices would be about 2/3 cup of rice; a large wrap is an example of a 2-carb-choice starch.",
-          "D": "A cup of rice contains about 45 grams of carbohydrate, which is 3 choices, not 4.",
-          "E": "Free foods are leafy greens, non-starchy vegetables, and many condiments; rice is a carbohydrate-dense starch."
+          "A": "Free foods are leafy greens, non-starchy vegetables, and many condiments; rice is a carbohydrate-dense starch.",
+          "B": "One carb choice of rice is only 1/3 cup, not a full cup.",
+          "C": "Two carb choices would be about 2/3 cup of rice; a large wrap is an example of a 2-carb-choice starch.",
+          "E": "A cup of rice contains about 45 grams of carbohydrate, which is 3 choices, not 4."
         }
       },
       "difficulty": "easy",
@@ -804,11 +804,11 @@
         },
         {
           "label": "D",
-          "text": "Potatoes, rice, and other starchy sides"
+          "text": "Popped popcorn and other whole grains"
         },
         {
           "label": "E",
-          "text": "Popped popcorn and other whole grains"
+          "text": "Potatoes, rice, and other starchy sides"
         }
       ],
       "correctAnswer": "A",
@@ -818,8 +818,8 @@
         "whyWrongByChoice": {
           "B": "Fruit is a carbohydrate exchange — a small peach or a cup of melon each counts as one carb choice, not a free food.",
           "C": "Milk and yogurt carry about 12 g of carbohydrate per serving, which counts as a carb choice.",
-          "D": "Starches are the classic carbohydrate exchange; half a cup of potato is a full carb choice.",
-          "E": "Popcorn is a whole grain but still a starch — three cups equal one carb choice."
+          "D": "Popcorn is a whole grain but still a starch — three cups equal one carb choice.",
+          "E": "Starches are the classic carbohydrate exchange; half a cup of potato is a full carb choice."
         }
       },
       "difficulty": "easy",
@@ -838,34 +838,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Diabetes distress; identify its specific sources and address them within routine diabetes care"
+          "text": "A psychiatric emergency; arrange urgent inpatient behavioral health admission"
         },
         {
           "label": "B",
-          "text": "Major depression; begin antidepressant pharmacotherapy at this visit"
-        },
-        {
-          "label": "C",
-          "text": "Medication nonadherence; schedule more frequent A1c testing to enforce accountability"
-        },
-        {
-          "label": "D",
           "text": "An expected mood phase; reassure her that no specific action is required"
         },
         {
+          "label": "C",
+          "text": "Diabetes distress; identify its specific sources and address them within routine diabetes care"
+        },
+        {
+          "label": "D",
+          "text": "Major depression; begin antidepressant pharmacotherapy at this visit"
+        },
+        {
           "label": "E",
-          "text": "A psychiatric emergency; arrange urgent inpatient behavioral health admission"
+          "text": "Medication nonadherence; schedule more frequent A1c testing to enforce accountability"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Diabetes distress is distinct from depression and should be screened, sourced, and managed within routine diabetes care.",
         "whyCorrect": "Diabetes distress — the emotional burden of managing diabetes, including burnout, fear of complications, and regimen burden — is common, distinct from clinical depression, and strongly associated with poorer glycemic control, reduced adherence, and less effective self-management. Screening should not end with a score: it should identify the specific sources of distress (feeling overwhelmed, regimen burden, fear of complications, lack of support) so care can be individualized, treating distress as a normal response to a demanding chronic disease.",
         "whyWrongByChoice": {
-          "B": "Her screening indicates distress without meeting criteria for depression; the two are distinct entities, and depression treatment is not the indicated response here.",
-          "C": "Framing the problem as nonadherence to be policed is judging and shaming, which erodes trust; her reduced self-care is a consequence of distress.",
-          "D": "Distress is strongly linked to worse glycemic control and adherence, so dismissing it forfeits the chance to individualize support.",
-          "E": "Nothing described is an emergency; distress is addressed with supportive conversation, coping skills, and referral as needed, not hospitalization."
+          "A": "Nothing described is an emergency; distress is addressed with supportive conversation, coping skills, and referral as needed, not hospitalization.",
+          "B": "Distress is strongly linked to worse glycemic control and adherence, so dismissing it forfeits the chance to individualize support.",
+          "D": "Her screening indicates distress without meeting criteria for depression; the two are distinct entities, and depression treatment is not the indicated response here.",
+          "E": "Framing the problem as nonadherence to be policed is judging and shaming, which erodes trust; her reduced self-care is a consequence of distress."
         }
       },
       "difficulty": "medium",
@@ -888,11 +888,11 @@
         },
         {
           "label": "B",
-          "text": "Inability to afford her insulin supplies"
+          "text": "Hypoglycemia unawareness from frequent lows"
         },
         {
           "label": "C",
-          "text": "Hypoglycemia unawareness from frequent lows"
+          "text": "Inability to afford her insulin supplies"
         },
         {
           "label": "D",
@@ -908,8 +908,8 @@
         "summary": "Up to 10-30% of late-teen and young adult women with diabetes admit to deliberately omitting insulin to control weight.",
         "whyCorrect": "Weight loss with rising A1c, cancelled boluses on pump download, evasiveness about dosing, and intense weight focus in a young woman with type 1 diabetes point to intentional insulin omission, a recognized eating-disorder behavior in this population. Recognizing it matters because it severely worsens glycemic control and health outcomes and calls for supportive, non-shaming engagement and appropriate referral.",
         "whyWrongByChoice": {
-          "B": "Cost barriers are an important structural determinant, but her boluses are being actively cancelled rather than unavailable, and she is evasive rather than reporting access problems.",
-          "C": "Hypoglycemia unawareness involves unrecognized lows; her pattern is sustained hyperglycemia from missing insulin.",
+          "B": "Hypoglycemia unawareness involves unrecognized lows; her pattern is sustained hyperglycemia from missing insulin.",
+          "C": "Cost barriers are an important structural determinant, but her boluses are being actively cancelled rather than unavailable, and she is evasive rather than reporting access problems.",
           "D": "Carb miscounting causes erratic post-meal excursions, not systematically cancelled boluses paired with weight preoccupation.",
           "E": "The dawn phenomenon raises morning glucose; it does not explain all-day hyperglycemia, weight loss, and cancelled doses."
         }
@@ -930,34 +930,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Urine albumin-to-creatinine ratio and estimated GFR"
-        },
-        {
-          "label": "B",
           "text": "A 24-hour urine collection for total protein"
         },
         {
-          "label": "C",
+          "label": "B",
           "text": "Renal ultrasonography of both kidneys"
         },
         {
+          "label": "C",
+          "text": "Serum electrolytes with a random urine sodium"
+        },
+        {
           "label": "D",
-          "text": "Urine culture with microscopic sediment analysis"
+          "text": "Urine albumin-to-creatinine ratio and estimated GFR"
         },
         {
           "label": "E",
-          "text": "Serum electrolytes with a random urine sodium"
+          "text": "Urine culture with microscopic sediment analysis"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Annual kidney protection in diabetes uses the urine albumin-to-creatinine ratio (UACR) plus eGFR to detect CKD early.",
         "whyCorrect": "The risk-reduction table pairs each vulnerable organ with a screening test: kidneys are protected by annual UACR plus eGFR, which identify chronic kidney disease at a stage when intervention is most effective. This sits alongside the annual dilated eye exam, foot exams, BP/lipid/ASCVD assessment, dental exams, vaccinations, and diabetes distress screening.",
         "whyWrongByChoice": {
-          "B": "A 24-hour urine protein is not the recommended routine screen; the spot UACR with eGFR is the standard annual test.",
-          "C": "Imaging is not part of routine annual diabetes kidney screening.",
-          "D": "Urine culture and sediment evaluate infection or other renal disease, not early diabetic kidney disease screening.",
-          "E": "Electrolytes and urine sodium do not detect early diabetic kidney damage; albuminuria and eGFR do."
+          "A": "A 24-hour urine protein is not the recommended routine screen; the spot UACR with eGFR is the standard annual test.",
+          "B": "Imaging is not part of routine annual diabetes kidney screening.",
+          "C": "Electrolytes and urine sodium do not detect early diabetic kidney damage; albuminuria and eGFR do.",
+          "E": "Urine culture and sediment evaluate infection or other renal disease, not early diabetic kidney disease screening."
         }
       },
       "difficulty": "easy",
@@ -976,31 +976,31 @@
       "choices": [
         {
           "label": "A",
-          "text": "Refer her to DSMES now, because a transition in care is a critical referral time"
+          "text": "Defer any referral to DSMES, because her A1c has remained at target"
         },
         {
           "label": "B",
-          "text": "Defer any referral, because her A1c remains at target"
+          "text": "Refer her to DSMES now, because a transition in care is a critical referral time"
         },
         {
           "label": "C",
-          "text": "Refer only if her A1c rises above goal on two consecutive checks"
+          "text": "Refer her to DSMES only if her A1c rises above goal on two consecutive checks"
         },
         {
           "label": "D",
-          "text": "Reserve DSMES for patients at initial diagnosis of diabetes"
+          "text": "Reserve DSMES for patients at the initial diagnosis of diabetes, not later"
         },
         {
           "label": "E",
-          "text": "Substitute a printed diet handout for formal DSMES referral"
+          "text": "Substitute a printed diet and exercise handout for a formal DSMES referral at this visit"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Transitions in care, such as after hospitalization, are one of the four critical times to refer for DSMES.",
         "whyCorrect": "The four critical times for DSMES referral are: at diagnosis; annually or when there is a gap in reaching target goals; when new complicating factors develop; and at transitions in care, with post-hospitalization given as the example. Her recent hospitalization with regimen changes is exactly such a transition, so referral is indicated even with an at-target A1c.",
         "whyWrongByChoice": {
-          "B": "An at-goal A1c does not remove the indication; the transition of care itself is a referral trigger.",
+          "A": "An at-goal A1c does not remove the indication; the transition of care itself is a referral trigger.",
           "C": "Waiting for repeated above-goal values delays support during the vulnerable post-discharge period the referral is designed to cover.",
           "D": "Diagnosis is only one of four critical times; annual gaps, new complicating factors, and care transitions also warrant referral.",
           "E": "DSMES is a structured, insurer-covered program shown to lower A1c and hospitalizations; a handout is not a substitute."
@@ -1022,34 +1022,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "\"Many people find it difficult to take medicines every day. What, if anything, gets in the way for you?\""
+          "text": "\"Are you taking all of your medications every day, exactly the way I prescribed them for you?\""
         },
         {
           "label": "B",
-          "text": "\"Are you taking your medications the way I prescribed them?\""
+          "text": "\"I will order more frequent lab work every month so that we can verify you are actually taking them.\""
         },
         {
           "label": "C",
-          "text": "\"You know your sugars will stay high if you keep skipping pills, right?\""
+          "text": "\"Many people find it difficult to take medicines every day. What, if anything, gets in the way for you?\""
         },
         {
           "label": "D",
-          "text": "\"I will order more frequent lab work so we can verify you are taking them.\""
+          "text": "\"Should I ask a family member at home to watch you take each of your doses every single morning?\""
         },
         {
           "label": "E",
-          "text": "\"Should I ask a family member to watch you take your doses each morning?\""
+          "text": "\"You know your sugars are going to stay high and you will end up with complications if you keep skipping pills, right?\""
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Normalize the difficulty and ask an open-ended question about barriers instead of the closed \"Are you taking your medications?\"",
         "whyCorrect": "The clinical pearl is to avoid asking \"Are you taking your medications?\" and instead use coaching communication: \"Many people find it difficult to take medicines every day. What, if anything, gets in the way for you?\" This normalizes the struggle, avoids judgment, and uncovers actual barriers; patients who understand the why and how of their medicines, engaged through shared decision-making, have lower diabetes distress and better adherence.",
         "whyWrongByChoice": {
-          "B": "This is the exact closed, yes/no phrasing the pearl says to avoid — it invites a socially desirable \"yes\" rather than the truth.",
-          "C": "Shaming and judging damage physician-patient trust and reduce honest disclosure and self-care.",
-          "D": "Framing labs as surveillance is adversarial rather than partnering and does not identify what actually gets in the way.",
-          "E": "Imposing supervision bypasses shared decision-making and treats the patient as noncompliant rather than exploring barriers."
+          "A": "This is the exact closed, yes/no phrasing the pearl says to avoid — it invites a socially desirable \"yes\" rather than the truth.",
+          "B": "Framing labs as surveillance is adversarial rather than partnering and does not identify what actually gets in the way.",
+          "D": "Imposing supervision bypasses shared decision-making and treats the patient as noncompliant rather than exploring barriers.",
+          "E": "Shaming and judging damage physician-patient trust and reduce honest disclosure and self-care."
         }
       },
       "difficulty": "medium",
@@ -1068,34 +1068,34 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cortisol and catecholamines from HPA-axis and sympathetic activation are increasing insulin resistance and hepatic glucose output"
+          "text": "Chronic stress is enhancing GLUT-4 translocation in skeletal muscle and depleting hepatic glycogen stores overnight"
         },
         {
           "label": "B",
-          "text": "Chronic stress is enhancing GLUT-4 translocation in skeletal muscle and depleting glycogen stores"
+          "text": "Cortisol and catecholamines from HPA-axis and sympathetic activation are increasing insulin resistance and hepatic glucose output"
         },
         {
           "label": "C",
-          "text": "Stress-induced incretin excess is amplifying post-prandial insulin secretion and rebound fasting hyperglycemia"
+          "text": "Parasympathetic overactivity from poor sleep is suppressing pancreatic insulin release during the overnight fast"
         },
         {
           "label": "D",
-          "text": "Parasympathetic overactivity is suppressing pancreatic insulin release during overnight fasting"
+          "text": "Reduced renal glucose reabsorption from stress hormones is shifting glucose out of the urine back into the circulation"
         },
         {
           "label": "E",
-          "text": "Reduced renal glucose reabsorption is shifting glucose from the urine back into the circulation"
+          "text": "Stress-induced incretin excess is amplifying post-prandial insulin secretion and producing rebound fasting hyperglycemia overnight"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Chronic psychological stress raises cortisol and catecholamines via the SNS and HPA axis, promoting insulin resistance and hepatic glucose output.",
         "whyCorrect": "Chronic psychological stress activates the sympathetic nervous system and the hypothalamic-pituitary-adrenal axis, increasing cortisol and catecholamines. These hormones promote insulin resistance and hepatic glucose production — and stress also erodes adherence to self-care — which is the scientific rationale for Healthy Coping as one of the Self-Care 7 skills.",
         "whyWrongByChoice": {
-          "B": "Enhanced GLUT-4 translocation is the glucose-lowering mechanism of exercise; stress hormones raise glucose, not muscle uptake.",
-          "C": "Incretin dysfunction is a drug target in diabetes; stress hyperglycemia is mediated by counter-regulatory hormones, not incretin excess.",
-          "D": "Stress activates the sympathetic, not the parasympathetic, arm, and the observed physiology is hormone-driven glucose elevation.",
-          "E": "Renal glucose handling is not the mechanism of stress hyperglycemia, and reduced reabsorption would lower, not raise, blood glucose."
+          "A": "Enhanced GLUT-4 translocation is the glucose-lowering mechanism of exercise; stress hormones raise glucose, not muscle uptake.",
+          "C": "Stress activates the sympathetic, not the parasympathetic, arm, and the observed physiology is hormone-driven glucose elevation.",
+          "D": "Renal glucose handling is not the mechanism of stress hyperglycemia, and reduced reabsorption would lower, not raise, blood glucose.",
+          "E": "Incretin dysfunction is a drug target in diabetes; stress hyperglycemia is mediated by counter-regulatory hormones, not incretin excess."
         }
       },
       "difficulty": "medium",
