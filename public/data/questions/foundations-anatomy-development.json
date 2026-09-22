@@ -200,7 +200,7 @@
         },
         {
           "label": "C",
-          "text": "Insulin is a steroid that is inactivated by hepatic first-pass metabolism"
+          "text": "Insulin is a steroid that must be injected to bypass hepatic first-pass metabolism"
         },
         {
           "label": "D",
@@ -1576,7 +1576,7 @@
         },
         {
           "label": "B",
-          "text": "Failure of the dorsal and ventral pancreatic buds to fuse"
+          "text": "Failure of the dorsal and ventral pancreatic buds to fuse alongside the duodenum"
         },
         {
           "label": "C",
@@ -1768,14 +1768,14 @@
         },
         {
           "label": "D",
-          "text": "Loss of vasopressin release from the posterior pituitary"
+          "text": "Ischemic infarction of the anterior pituitary"
         },
         {
           "label": "E",
-          "text": "Postpartum infarction of the anterior pituitary"
+          "text": "Loss of vasopressin release from the posterior pituitary"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Sheehan syndrome infarcts the anterior pituitary, so every tropic hormone falls together with its target hormone while the posterior lobe is spared.",
         "whyCorrect": "Postpartum pituitary infarction knocks out the whole anterior lobe at once, producing global secondary failure: TSH, ACTH, LH, FSH, and GH all drop alongside their target hormones. Failed lactation from loss of prolactin is often the first clue. The posterior pituitary has a separate blood supply and is typically spared, which is why her urine output and sodium are normal.",
@@ -1783,7 +1783,7 @@
           "A": "Primary adrenal failure produces low cortisol with a high ACTH, the opposite of the pattern here.",
           "B": "Primary thyroid failure would raise TSH as the intact pituitary compensates, and it would not explain the low ACTH and low gonadotropins.",
           "C": "An autonomous cortisol-secreting adenoma raises cortisol and suppresses ACTH, whereas this patient's cortisol is low.",
-          "D": "Loss of ADH causes polyuria with dilute urine and rising sodium, neither of which is present."
+          "E": "Loss of ADH causes polyuria with dilute urine and rising sodium, neither of which is present."
         }
       },
       "difficulty": "hard",
@@ -2040,7 +2040,7 @@
         },
         {
           "label": "C",
-          "text": "Long-loop feedback from a hormone secreted by the kidney"
+          "text": "Long-loop feedback from a renal hormone released as plasma osmolality falls"
         },
         {
           "label": "D",
@@ -2810,7 +2810,7 @@
     },
     {
       "id": "en06-002",
-      "stem": "A 10-year-old boy is brought in because he is the shortest child in his class. His height is at the 5th percentile and his growth velocity over the past year has been 5.5 cm. His father is 165 cm tall and his mother is 158 cm tall. He has no chronic symptoms, and physical examination is normal. Which of the following is the most likely explanation for his stature?",
+      "stem": "A 10-year-old boy is brought in because he is the shortest child in his class. His height is at the 5th percentile and his growth velocity over the past year has been 5.5 cm. His father is 165 cm tall and his mother is 158 cm tall. He has no chronic symptoms, and physical examination is normal. Which of the following is the most likely explanation for his growth pattern?",
       "choices": [
         {
           "label": "A",
@@ -2902,7 +2902,7 @@
     },
     {
       "id": "en06-004",
-      "stem": "A neonate born at term has a birth length and weight appropriate for gestational age. Which of the following signaling systems was the principal driver of this infant's linear growth during intrauterine life?",
+      "stem": "A neonate born at term has a birth length and weight appropriate for gestational age. Which of the following was the principal driver of this infant's linear growth during intrauterine life?",
       "choices": [
         {
           "label": "A",

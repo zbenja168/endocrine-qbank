@@ -476,7 +476,7 @@
         },
         {
           "label": "C",
-          "text": "Biopsy is routine for any adrenal mass in a patient with known cancer"
+          "text": "Biopsy is routine for any adrenal mass in a patient with known cancer, whatever the imaging shows"
         },
         {
           "label": "D",
@@ -564,7 +564,7 @@
         },
         {
           "label": "B",
-          "text": "Dilutional hyponatremia from water shifting into the extracellular space"
+          "text": "Dilutional hyponatremia lowering her effective serum osmolality"
         },
         {
           "label": "C",
@@ -585,7 +585,7 @@
         "whyCorrect": "This patient meets criteria for hyperosmolar hyperglycemic state: glucose above 600 mg/dL, pH above 7.3, and effective osmolality above 320 mOsm/kg with essentially absent ketones. Mental status changes are the dominant neurologic feature of HHS and range from lethargy to stupor and frank coma, with focal deficits and seizures possible at extreme osmolality. Clinically, the degree of neurologic impairment correlates with how far osmolality is elevated.",
         "whyWrongByChoice": {
           "A": "Her ketones are only trace; residual insulin in HHS suppresses lipolysis, so ketone accumulation is not driving her presentation.",
-          "B": "Any dilutional drop in measured sodium would be corrected upward by the hyperglycemia and does not explain coma at this osmolality.",
+          "B": "Her effective serum osmolality is markedly elevated rather than lowered, and the measured sodium is diluted by hyperglycemia and corrects upward.",
           "C": "Hypokalemia causes weakness and arrhythmia rather than obtundation, and her potassium was not reported as low.",
           "E": "Her pH is 7.37 with a bicarbonate of 23 mEq/L, so no significant acidosis is present to explain the obtundation."
         }

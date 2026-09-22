@@ -1212,26 +1212,26 @@
         },
         {
           "label": "C",
-          "text": "Herniation of cerebrospinal fluid into the sella turcica"
+          "text": "Hemorrhage into the gland with rapid expansion"
         },
         {
           "label": "D",
-          "text": "Ischemic infarction of the gland after obstetric hemorrhage"
+          "text": "Herniation of cerebrospinal fluid into the sella turcica"
         },
         {
           "label": "E",
-          "text": "Sudden hemorrhage into the pituitary gland"
+          "text": "Ischemic infarction of the gland after obstetric hemorrhage"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Pituitary apoplexy is sudden hemorrhage into the pituitary gland, often occurring within an existing adenoma.",
         "whyCorrect": "Apoplexy classically produces an abrupt, excruciating headache with diplopia from pressure on the oculomotor nerves, together with acute hypopituitarism. Loss of ACTH and therefore cortisol explains his hypotension, and severe cases progress to cardiovascular collapse, loss of consciousness, and death. It requires urgent assessment of visual acuity and fields, cranial nerve function, and level of consciousness, plus endocrinology and neurosurgical consultation.",
         "whyWrongByChoice": {
           "A": "That epithelial lining describes a Rathke cleft cyst, which enlarges gradually rather than causing a thunderclap presentation.",
           "B": "Granulomatous involvement of the sella by sarcoidosis or granulomatosis with polyangiitis compresses the gland over time, not in minutes.",
-          "C": "CSF filling the sella describes empty sella syndrome, an incidental finding that usually causes no symptoms.",
-          "D": "Infarction of the gland after postpartum hemorrhage describes Sheehan syndrome, which cannot apply to this patient."
+          "D": "CSF filling the sella describes empty sella syndrome, an incidental finding that usually causes no symptoms.",
+          "E": "Infarction of the gland after postpartum hemorrhage describes Sheehan syndrome, which cannot apply to this patient."
         }
       },
       "difficulty": "medium",
@@ -1300,7 +1300,7 @@
         },
         {
           "label": "B",
-          "text": "Pituitary macroadenoma"
+          "text": "Pituitary macroadenoma expanding the sella"
         },
         {
           "label": "C",

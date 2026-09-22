@@ -373,7 +373,7 @@
     },
     {
       "id": "en23-009",
-      "stem": "Delta cells are scattered throughout the islets of Langerhans and secrete growth hormone-inhibiting hormone, also known as somatostatin. Within the islet itself, this peptide most directly does which of the following?",
+      "stem": "Delta cells are scattered throughout the islets of Langerhans and secrete somatostatin. Within the islet itself, this peptide most directly does which of the following?",
       "choices": [
         {
           "label": "A",
@@ -847,7 +847,7 @@
         },
         {
           "label": "B",
-          "text": "Diagnose diabetes on this single value and begin therapy"
+          "text": "Diagnose diabetes on this single fasting value and begin therapy"
         },
         {
           "label": "C",
@@ -1223,11 +1223,11 @@
         },
         {
           "label": "B",
-          "text": "Excess glycogen synthase activity trapping glucose inside myocytes"
+          "text": "Defective insulin-stimulated translocation of GLUT4 to the cell surface"
         },
         {
           "label": "C",
-          "text": "Impaired insulin-stimulated translocation of GLUT4 to the cell surface"
+          "text": "Excess glycogen synthase activity trapping glucose inside myocytes"
         },
         {
           "label": "D",
@@ -1238,13 +1238,13 @@
           "text": "Reduced delivery of glucose to muscle from capillary loss"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Muscle insulin resistance is a failure of insulin-stimulated GLUT4 translocation to the membrane.",
         "whyCorrect": "Glucose uptake in skeletal muscle normally depends on insulin-stimulated movement of GLUT4 transporters to the cell surface. In insulin resistance this translocation is impaired, so muscle cannot take up and use glucose as fuel even when insulin is present. Because muscle is the body's major site of glucose disposal, this defect contributes heavily to the rise in circulating glucose.",
         "whyWrongByChoice": {
           "A": "Insulin is normal or high in early T2D; complete insulin absence describes type 1 diabetes rather than resistance.",
-          "B": "Increased intracellular glucose trapping would enhance, not impair, net glucose uptake by muscle.",
+          "C": "Increased intracellular glucose trapping would enhance, not impair, net glucose uptake by muscle.",
           "D": "Adipose tissue shares the same GLUT4 defect and takes up less, not more, glucose in insulin resistance.",
           "E": "The lecture attributes impaired muscle glucose disposal to a transporter signaling defect, not to loss of capillary delivery."
         }
@@ -1563,7 +1563,7 @@
         },
         {
           "label": "E",
-          "text": "The proportion of filtered glucose that is lost in the urine daily"
+          "text": "The fraction of circulating hemoglobin replaced by new red cells each month"
         }
       ],
       "correctAnswer": "C",
@@ -1574,7 +1574,7 @@
           "A": "Remaining beta-cell reserve is inferred from C-peptide and clinical course, not from the A1c value.",
           "B": "Endogenous insulin secretion is assessed with insulin or C-peptide levels rather than glycated hemoglobin.",
           "D": "A point-in-time plasma glucose is what the random or fasting glucose measures, not the A1c.",
-          "E": "Urinary glucose loss is not what the A1c quantifies; it measures hemoglobin glycation in the blood."
+          "E": "Red cell turnover affects how an A1c is interpreted, but the test reports the glycated fraction rather than hemoglobin replacement."
         }
       },
       "difficulty": "easy",
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "en26-007",
-      "stem": "Water permeability of the collecting duct is regulated by hormonal insertion of channels into the apical membrane of principal cells. Which of the following best describes the pathway that directly increases collecting duct water permeability?",
+      "stem": "Water permeability of the collecting duct is regulated by hormonal insertion of water channels into principal cells. Which of the following best describes the pathway that directly increases collecting duct water permeability?",
       "choices": [
         {
           "label": "A",
@@ -2016,29 +2016,29 @@
         },
         {
           "label": "B",
-          "text": "Desmopressin to replace the deficient hormonal signal"
-        },
-        {
-          "label": "C",
           "text": "Discontinuation of any agent causing renal resistance to vasopressin"
         },
         {
-          "label": "D",
+          "label": "C",
           "text": "Free-water restriction to reduce ongoing water retention"
+        },
+        {
+          "label": "D",
+          "text": "Long-term vasopressin analog therapy to replace the deficient hormone"
         },
         {
           "label": "E",
           "text": "Mineralocorticoid receptor antagonist to block renal sodium retention"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "Postoperative dilute polyuria with hypernatremia that concentrates the urine after desmopressin is vasopressin deficiency, treated by replacing the hormone.",
         "whyCorrect": "Pituitary surgery is a classic cause of arginine vasopressin deficiency, traditionally called central diabetes insipidus. Without vasopressin, aquaporin-2 is not inserted into collecting duct principal cells, so free water is lost as large volumes of dilute urine and serum sodium and osmolality rise. The rise in urine osmolality after desmopressin proves the kidney can still respond, so treatment simply supplies the missing signal.",
         "whyWrongByChoice": {
           "A": "Excess intake defines primary polydipsia, which lowers rather than raises serum sodium and osmolality.",
-          "C": "Drug-induced renal resistance underlies nephrogenic diabetes insipidus, but here the kidney responded normally to desmopressin.",
-          "D": "Restricting water in a hypernatremic patient losing free water would worsen the deficit; fluid restriction is used for water excess.",
+          "B": "Drug-induced renal resistance underlies nephrogenic diabetes insipidus, but here the kidney responded normally to desmopressin.",
+          "C": "Restricting water in a hypernatremic patient losing free water would worsen the deficit; fluid restriction is used for water excess.",
           "E": "Blocking the mineralocorticoid receptor targets aldosterone excess, a salt-volume disorder, and would not correct free-water loss."
         }
       },
@@ -2161,26 +2161,26 @@
         },
         {
           "label": "C",
-          "text": "Inadequate posterior pituitary release of vasopressin after hypothalamic injury"
+          "text": "Fluid intake exceeding need, appropriately suppressing vasopressin release"
         },
         {
           "label": "D",
-          "text": "Persistent vasopressin effect despite low measured plasma osmolality"
+          "text": "Inadequate posterior pituitary release of vasopressin after hypothalamic injury"
         },
         {
           "label": "E",
-          "text": "Water intake exceeding need, appropriately suppressing vasopressin release"
+          "text": "Persistent vasopressin effect despite low measured plasma osmolality"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
         "summary": "Primary polydipsia is excess water intake that lowers plasma osmolality and appropriately switches off vasopressin, giving dilute polyuria with low-normal sodium.",
         "whyCorrect": "In primary polydipsia the endocrine axis is intact and behaving correctly. Excess intake lowers plasma osmolality, hypothalamic osmoreceptors reduce vasopressin release, aquaporin-2 is withdrawn, and the kidney excretes the surplus water as large volumes of dilute urine. Serum sodium and osmolality are therefore low or low-normal, and during water deprivation urine begins to concentrate as endogenous vasopressin rises.",
         "whyWrongByChoice": {
           "A": "Aldosterone excess is a salt-volume disorder recognized by hypertension, hypokalemia, and metabolic alkalosis.",
           "B": "Renal resistance likewise produces free-water loss with a tendency to hypernatremia rather than a low serum osmolality.",
-          "C": "Deficient hormone release causes free-water loss with high or high-normal serum sodium and high serum osmolality, not hypotonic values.",
-          "D": "Persistent antidiuretic effect would produce concentrated urine in the face of hyponatremia, whereas her urine is dilute."
+          "D": "Deficient hormone release causes free-water loss with high or high-normal serum sodium and high serum osmolality, not hypotonic values.",
+          "E": "Persistent antidiuretic effect would produce concentrated urine in the face of hyponatremia, whereas her urine is dilute."
         }
       },
       "difficulty": "medium",

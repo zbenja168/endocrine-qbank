@@ -246,15 +246,15 @@
         },
         {
           "label": "C",
-          "text": "Nutritional vitamin D rickets"
+          "text": "Malignant infantile osteopetrosis"
         },
         {
           "label": "D",
-          "text": "Osteitis fibrosa cystica generalisata"
+          "text": "Nutritional vitamin D rickets"
         },
         {
           "label": "E",
-          "text": "Malignant infantile osteopetrosis"
+          "text": "Osteitis fibrosa cystica generalisata"
         }
       ],
       "correctAnswer": "B",
@@ -263,9 +263,9 @@
         "whyCorrect": "Mutations of ANKH at 5p15.2 disrupt the osteocytic osteocytes that coordinate osteoblast and osteoclast activity. Craniofacial hyperostosis resembles craniodiaphyseal dysplasia, but the long bones show metaphyseal flaring of the distal femur rather than a night stick shape. There are no distinctive laboratory features, so diagnosis is clinical and radiographic, confirmed by DNA testing.",
         "whyWrongByChoice": {
           "A": "Craniodiaphyseal dysplasia gives night stick femurs and elevated PTH and alkaline phosphatase, both absent here.",
-          "C": "Nutritional rickets softens bone with bowing and a rachitic rosary rather than causing hyperostosis.",
-          "D": "Osteitis fibrosa cystica is driven by excessive PTH, which is normal in this boy.",
-          "E": "Osteopetrosis features generalized dense bone with fractures and marrow failure, not isolated metaphyseal flaring."
+          "C": "Osteopetrosis features generalized dense bone with fractures and marrow failure, not isolated metaphyseal flaring.",
+          "D": "Nutritional rickets softens bone with bowing and a rachitic rosary rather than causing hyperostosis.",
+          "E": "Osteitis fibrosa cystica is driven by excessive PTH, which is normal in this boy."
         }
       },
       "difficulty": "medium",
@@ -284,7 +284,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bone marrow transplantation"
+          "text": "Allogeneic stem cell transplantation"
         },
         {
           "label": "B",
@@ -338,25 +338,25 @@
         },
         {
           "label": "C",
-          "text": "Enlargement of unmineralized cartilage at the growth junctions"
+          "text": "Excess bone laid down by hyperfunctioning osteoblasts"
         },
         {
           "label": "D",
-          "text": "Excess bone laid down by hyperfunctioning osteoblasts"
+          "text": "Expansion of unmineralized cartilage at the growth plate"
         },
         {
           "label": "E",
           "text": "Subperiosteal bone resorption driven by excess PTH"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "D",
       "explanation": {
         "summary": "The rachitic rosary of rickets reflects unmineralized cartilage and bone enlarging at the costochondral junctions.",
         "whyCorrect": "In rickets the cartilage and bone at growth plates enlarge because they are not mineralizing normally, and the costochondral junctions become palpable beads. The same failure of mineralization produces bowed legs, thickened wrists and ankles, bone pain, delayed walking, and dental problems. This is the classic pediatric counterpart to adult osteomalacia.",
         "whyWrongByChoice": {
           "A": "Fracture callus would be irregular and asymmetric rather than a symmetric row of beads along the junctions.",
           "B": "Ectopic calcification is a feature of Albright hereditary osteodystrophy, not of rickets.",
-          "D": "Osteoblast hyperfunction causes hyperostotic dysplasias with dense bone, not soft bowing bones in a toddler.",
+          "C": "Osteoblast hyperfunction causes hyperostotic dysplasias with dense bone, not soft bowing bones in a toddler.",
           "E": "Subperiosteal resorption reflects excessive PTH and osteitis fibrosa cystica, a different disease process."
         }
       },
@@ -384,7 +384,7 @@
         },
         {
           "label": "C",
-          "text": "Inability to convert vitamin D to its active form"
+          "text": "Inability to convert vitamin D to the active form that drives phosphate absorption"
         },
         {
           "label": "D",
@@ -944,7 +944,7 @@
         },
         {
           "label": "E",
-          "text": "Silencing of the PTH gene, so the tumor secretes less hormone than normal tissue"
+          "text": "Silencing of the cyclin D1 gene, so the tumor proliferates less than normal tissue"
         }
       ],
       "correctAnswer": "D",
@@ -955,7 +955,7 @@
           "A": "RET activation drives medullary thyroid carcinoma from thyroid C cells; C cells are not parathyroid tissue.",
           "B": "Loss of the calcium receptor is not the described genetic abnormality in parathyroid adenoma.",
           "C": "Biallelic MEN1 inactivation is a separate mechanism, found in about 20% to 30% of sporadic parathyroid tumors, and is not what this inversion does.",
-          "E": "The rearrangement hijacks the PTH regulatory elements to overexpress cyclin D1; the resulting tumor over-secretes PTH rather than under-secreting it."
+          "E": "The inversion places cyclin D1 under active PTH regulatory elements, which drives its expression up rather than silencing it."
         }
       },
       "difficulty": "hard",
@@ -974,7 +974,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It binds dietary phosphate in the gut lumen so it passes out in the stool"
+          "text": "It binds ingested phosphate in the gut lumen so it passes out in the stool"
         },
         {
           "label": "B",
@@ -1066,7 +1066,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Appropriate gland response to chronic hypocalcemia from vitamin D deficiency"
+          "text": "Appropriate gland response to chronic hypocalcemia"
         },
         {
           "label": "B",
@@ -1174,7 +1174,7 @@
         },
         {
           "label": "E",
-          "text": "Start a thiazide diuretic"
+          "text": "Start a thiazide diuretic to reduce urinary magnesium loss"
         }
       ],
       "correctAnswer": "D",
@@ -1185,7 +1185,7 @@
           "A": "The elevated phosphate is a consequence of the low PTH and resolves as the magnesium and PTH are restored.",
           "B": "Intravenous calcium is reserved for acute hypocalcemia with tetany or other urgent neuromuscular findings, which this patient does not have.",
           "C": "Removing the parathyroid glands would worsen a state that already has too little PTH.",
-          "E": "Thiazides are an adjunct in chronic hypoparathyroidism, not the treatment for a reversible magnesium-driven cause."
+          "E": "Thiazides lower urinary calcium, not urinary magnesium; they are an adjunct in chronic hypoparathyroidism rather than the treatment for a reversible magnesium-driven cause."
         }
       },
       "difficulty": "medium",
@@ -1480,7 +1480,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "AIRE, the autoimmune regulator gene"
+          "text": "AIRE, the thymic tolerance regulator"
         },
         {
           "label": "B",

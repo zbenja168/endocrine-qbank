@@ -714,7 +714,7 @@
         },
         {
           "label": "E",
-          "text": "Excess adrenal androgens do not alter the genitalia of an already virilized male fetus"
+          "text": "Excess adrenal androgens produce no visible anomaly in an already virilized male fetus"
         }
       ],
       "correctAnswer": "E",
@@ -786,7 +786,7 @@
     },
     {
       "id": "en21-006",
-      "stem": "An experimental compound is applied to cultured adrenal cortical cells. Within minutes, transfer of cholesterol into mitochondria stops and synthesis of aldosterone, cortisol, and adrenal androgens all decline. Which of the following proteins was most likely inhibited?",
+      "stem": "An experimental compound is applied to cultured adrenal cortical cells. Within minutes, transfer of cholesterol into mitochondria stops and synthesis of aldosterone, cortisol, and adrenal androgens all decline. Which of the following was most likely inhibited?",
       "choices": [
         {
           "label": "A",
@@ -928,7 +928,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "ACTH is the dominant long-term stimulus for aldosterone synthesis in the zona glomerulosa"
+          "text": "ACTH, rather than serum potassium, is the dominant long-term stimulus for aldosterone synthesis"
         },
         {
           "label": "B",

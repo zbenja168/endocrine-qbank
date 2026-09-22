@@ -250,7 +250,7 @@
         },
         {
           "label": "D",
-          "text": "Thyroglobulin interpretation is unreliable in this setting"
+          "text": "The thyroglobulin result is unreliable in this setting"
         },
         {
           "label": "E",
@@ -380,7 +380,7 @@
         },
         {
           "label": "B",
-          "text": "Follicular carcinoma, with the TERT mutation raising risk concern"
+          "text": "Follicular carcinoma, with the TERT result raising risk concern"
         },
         {
           "label": "C",
@@ -422,7 +422,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chronic thyroiditis, since pseudoinclusions reflect autoimmune injury"
+          "text": "Chronic thyroiditis, since papillary nuclear changes reflect autoimmune injury"
         },
         {
           "label": "B",
@@ -472,7 +472,7 @@
         },
         {
           "label": "B",
-          "text": "It is a tumor alteration in papillary carcinoma, unrelated to MEN2"
+          "text": "It is a somatic alteration in the cancer itself, unrelated to MEN2"
         },
         {
           "label": "C",
@@ -518,11 +518,11 @@
         },
         {
           "label": "B",
-          "text": "Destructive thyroiditis with follicular injury"
+          "text": "Differentiated thyroid carcinoma"
         },
         {
           "label": "C",
-          "text": "Differentiated thyroid carcinoma"
+          "text": "Medullary thyroid carcinoma"
         },
         {
           "label": "D",
@@ -533,13 +533,13 @@
           "text": "Toxic follicular adenoma"
         }
       ],
-      "correctAnswer": "C",
+      "correctAnswer": "B",
       "explanation": {
         "summary": "Differentiated thyroid cancers arise from follicular epithelium and retain follicular-cell behaviors.",
         "whyCorrect": "Papillary and follicular thyroid carcinoma are the differentiated thyroid cancers, so named because they come from follicular epithelial cells and retain enough of that biology to take up iodine, respond to thyroid-stimulating hormone, and produce thyroglobulin. Those retained behaviors are exactly what radioactive iodine, thyroid-stimulating hormone suppression, and thyroglobulin surveillance exploit.",
         "whyWrongByChoice": {
           "A": "A benign follicular adenoma is follicular-cell derived but is not a carcinoma.",
-          "B": "Destructive thyroiditis injures follicular cells and releases preformed hormone but is inflammatory, not malignant.",
+          "C": "Medullary carcinoma arises from parafollicular C cells, so it neither takes up iodine nor produces thyroglobulin.",
           "D": "A nonfunctioning hyperplastic nodule is a benign nodule and not a follicular-cell carcinoma.",
           "E": "A toxic follicular adenoma is a hyperfunctioning benign nodule rather than a malignancy."
         }
@@ -602,7 +602,7 @@
     },
     {
       "id": "en14-002",
-      "stem": "A 45-year-old man undergoes total thyroidectomy for a tumor whose cells stained for calcitonin, chromogranin, and synaptophysin. He now needs a plan for postoperative disease monitoring. Which of the following is the most appropriate marker to follow?",
+      "stem": "A 45-year-old man undergoes total thyroidectomy for a tumor of parafollicular C-cell origin whose cells stained for chromogranin and synaptophysin. He now needs a plan for postoperative disease monitoring. Which of the following is the most appropriate marker to follow?",
       "choices": [
         {
           "label": "A",
@@ -1756,7 +1756,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Fine-needle aspiration of the abnormal cervical lymph node"
+          "text": "Fine-needle aspiration of the abnormal neck node"
         },
         {
           "label": "B",
@@ -1902,7 +1902,7 @@
         },
         {
           "label": "C",
-          "text": "Medullary carcinoma; evaluation for MEN2 and pheochromocytoma is needed"
+          "text": "Medullary carcinoma; germline RET testing and MEN2 evaluation are needed"
         },
         {
           "label": "D",
@@ -1936,7 +1936,7 @@
     },
     {
       "id": "en16-007",
-      "stem": "A 52-year-old woman has a 3.2-cm purely cystic thyroid nodule found on ultrasound performed for an unrelated reason. She has no compressive symptoms and no cosmetic concerns. Serum thyroid-stimulating hormone is normal, and no suspicious cervical lymph nodes are seen. Which of the following is the most appropriate management?",
+      "stem": "A 52-year-old woman has a 3.2-cm purely cystic thyroid nodule found on ultrasound performed for an unrelated reason. She reports no neck pressure, no difficulty swallowing, and no concern about how her neck looks. Serum thyroid-stimulating hormone is normal, and no suspicious cervical lymph nodes are seen. Which of the following is the most appropriate management?",
       "choices": [
         {
           "label": "A",

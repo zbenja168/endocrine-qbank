@@ -96,7 +96,7 @@
     },
     {
       "id": "en10-003",
-      "stem": "A 68-year-old man has palpitations, tremor, and a 6-kg weight loss. Examination shows an irregularly enlarged, multinodular thyroid gland and no eye or shin findings. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Radioactive iodine uptake shows multiple irregular areas of increased uptake. Which of the following is the most likely diagnosis?",
+      "stem": "A 68-year-old man has palpitations, tremor, and a 6-kg weight loss. Examination shows an irregularly enlarged thyroid gland with several palpable nodules and no eye or shin findings. Laboratory studies show a suppressed thyroid-stimulating hormone concentration and an elevated free thyroxine concentration. Radioactive iodine uptake shows multiple irregular areas of increased uptake. Which of the following is the most likely diagnosis?",
       "choices": [
         {
           "label": "A",
@@ -936,7 +936,7 @@
         },
         {
           "label": "E",
-          "text": "Thyroid-stimulating hormone is an unreliable monitoring signal in central hypothyroidism"
+          "text": "Thyroid-stimulating hormone is an unreliable monitoring signal in this setting"
         }
       ],
       "correctAnswer": "E",
@@ -1200,7 +1200,7 @@
         },
         {
           "label": "C",
-          "text": "Failure to oxidize iodide at the apical surface of the follicular cell"
+          "text": "Failure to iodinate thyroglobulin at the apical surface of the follicular cell"
         },
         {
           "label": "D",
@@ -1217,7 +1217,7 @@
         "whyCorrect": "Newly formed T3 and T4 stay bound to thyroglobulin in the colloid until TSH stimulates the follicular cell to endocytose the iodinated protein. Lysosomes then digest it to liberate free hormone. If proteolysis is blocked, hormone continues to be built and stored but cannot be released, so iodinated thyroglobulin accumulates.",
         "whyWrongByChoice": {
           "B": "Iodide entry is mediated by the sodium-iodide symporter, which the scenario also describes as intact.",
-          "C": "Oxidation of iodide is a thyroid peroxidase function, and the scenario states peroxidase activity is intact.",
+          "C": "Iodination of thyroglobulin is a thyroid peroxidase function, and the scenario states peroxidase activity and organification are intact.",
           "D": "Thyroid-binding globulin is a plasma protein made outside the thyroid and is unrelated to intrafollicular storage or release.",
           "E": "Conversion of T4 to T3 occurs through deiodinases in peripheral target tissues and would not compensate for blocked release."
         }
@@ -1330,7 +1330,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Altered peripheral deiodination of thyroxine during severe systemic illness"
+          "text": "Altered peripheral deiodination of thyroid hormone during critical illness"
         },
         {
           "label": "B",
