@@ -46,7 +46,8 @@
         "thyroiditis"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-002",
@@ -92,7 +93,8 @@
         "autoimmune"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-003",
@@ -138,7 +140,8 @@
         "nodular disease"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-004",
@@ -184,7 +187,8 @@
         "radioactive iodine uptake"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-005",
@@ -230,7 +234,8 @@
         "low uptake"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-006",
@@ -276,7 +281,8 @@
         "beta-blocker"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-007",
@@ -322,7 +328,8 @@
         "emergency"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-008",
@@ -368,7 +375,8 @@
         "pharmacology"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-009",
@@ -414,7 +422,8 @@
         "thionamide"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-010",
@@ -460,7 +469,8 @@
         "testing trap"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-011",
@@ -506,7 +516,8 @@
         "diagnostic workup"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en10-012",
@@ -552,7 +563,8 @@
         "lab interpretation"
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
-      "topicName": "Hyperthyroidism and Thyroid Storm"
+      "topicName": "Hyperthyroidism and Thyroid Storm",
+      "tier": "core"
     },
     {
       "id": "en11-001",
@@ -597,7 +609,8 @@
         "TSH and free T4 interpretation"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-002",
@@ -642,7 +655,8 @@
         "inappropriately normal TSH"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-003",
@@ -687,7 +701,8 @@
         "histology"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-004",
@@ -732,7 +747,8 @@
         "anti-TPO antibodies"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-005",
@@ -777,7 +793,8 @@
         "TSH and free T4 interpretation"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-006",
@@ -822,7 +839,8 @@
         "glycosaminoglycans"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-007",
@@ -867,7 +885,8 @@
         "Graves dermopathy"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-008",
@@ -912,7 +931,8 @@
         "drug and food interactions"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-009",
@@ -957,7 +977,8 @@
         "levothyroxine monitoring"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-010",
@@ -1002,7 +1023,8 @@
         "emergency management"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-011",
@@ -1047,7 +1069,8 @@
         "adrenal insufficiency"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en11-012",
@@ -1092,7 +1115,8 @@
         "newborn screening"
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
-      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma"
+      "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
+      "tier": "core"
     },
     {
       "id": "en12-001",
@@ -1138,7 +1162,8 @@
         "HPT axis"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-002",
@@ -1184,7 +1209,8 @@
         "pharmacology"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-003",
@@ -1230,7 +1256,8 @@
         "synthesis steps"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-004",
@@ -1276,7 +1303,8 @@
         "MIT and DIT"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-005",
@@ -1322,7 +1350,8 @@
         "thyroglobulin"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-006",
@@ -1368,7 +1397,8 @@
         "deiodinases"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-007",
@@ -1414,7 +1444,8 @@
         "total versus free hormone"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-008",
@@ -1460,7 +1491,8 @@
         "total versus free hormone"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-009",
@@ -1506,7 +1538,8 @@
         "HPT axis"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-010",
@@ -1552,7 +1585,8 @@
         "central dysfunction"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-011",
@@ -1598,7 +1632,8 @@
         "test interpretation"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     },
     {
       "id": "en12-012",
@@ -1644,7 +1679,8 @@
         "HPT axis"
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
-      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing"
+      "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
+      "tier": "core"
     }
   ]
 }

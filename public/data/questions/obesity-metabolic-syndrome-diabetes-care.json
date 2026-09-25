@@ -46,7 +46,8 @@
         "weight-regain"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-002",
@@ -92,7 +93,8 @@
         "obesity-pathophysiology"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-003",
@@ -138,7 +140,8 @@
         "GIP"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-004",
@@ -184,7 +187,8 @@
         "diagnosis"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-005",
@@ -230,7 +234,8 @@
         "diagnosis"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-006",
@@ -277,7 +282,8 @@
         "cancer-risk"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-007",
@@ -323,7 +329,8 @@
         "medication-induced-weight-gain"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-008",
@@ -370,7 +377,8 @@
         "MEN2"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-009",
@@ -416,7 +424,8 @@
         "fat-soluble-vitamins"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-010",
@@ -462,7 +471,8 @@
         "obesity-pharmacotherapy"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-011",
@@ -508,7 +518,8 @@
         "bariatric-surgery"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en32-012",
@@ -554,7 +565,8 @@
         "set-point"
       ],
       "topicId": "obesity-and-metabolic-syndrome",
-      "topicName": "Obesity and Metabolic Syndrome"
+      "topicName": "Obesity and Metabolic Syndrome",
+      "tier": "core"
     },
     {
       "id": "en33-001",
@@ -600,7 +612,8 @@
         "self-management"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-002",
@@ -646,7 +659,8 @@
         "evidence"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-003",
@@ -692,7 +706,8 @@
         "insulin resistance"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-004",
@@ -738,7 +753,8 @@
         "alcohol"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-005",
@@ -784,7 +800,8 @@
         "nutrition"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-006",
@@ -830,7 +847,8 @@
         "nutrition"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-007",
@@ -876,7 +894,8 @@
         "screening"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-008",
@@ -922,7 +941,8 @@
         "type 1 diabetes"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-009",
@@ -968,7 +988,8 @@
         "chronic kidney disease"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-010",
@@ -1014,7 +1035,8 @@
         "referral timing"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-011",
@@ -1060,7 +1082,8 @@
         "coaching"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     },
     {
       "id": "en33-012",
@@ -1106,7 +1129,8 @@
         "HPA axis"
       ],
       "topicId": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
-      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes"
+      "topicName": "Fighting the Diabetes Epidemic: Partnering with Patients for Better Outcomes",
+      "tier": "core"
     }
   ]
 }

@@ -46,7 +46,8 @@
         "biopsy safety"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-002",
@@ -92,7 +93,8 @@
         "biochemical workup"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-003",
@@ -138,7 +140,8 @@
         "adrenal incidentaloma"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-004",
@@ -184,7 +187,8 @@
         "lipid-rich adenoma"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-005",
@@ -230,7 +234,8 @@
         "adrenal imaging"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-006",
@@ -276,7 +281,8 @@
         "virilization"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-007",
@@ -322,7 +328,8 @@
         "calcification"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-008",
@@ -368,7 +375,8 @@
         "lipid-poor adenoma"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-009",
@@ -414,7 +422,8 @@
         "aldosteronoma"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-010",
@@ -460,7 +469,8 @@
         "catecholamine surge"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-011",
@@ -506,7 +516,8 @@
         "cancer history"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en28-012",
@@ -552,7 +563,8 @@
         "benign features"
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
-      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors"
+      "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
+      "tier": "core"
     },
     {
       "id": "en29-001",
@@ -599,7 +611,8 @@
         "diagnosis"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-002",
@@ -646,7 +659,8 @@
         "lipolysis"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-003",
@@ -693,7 +707,8 @@
         "ketogenesis"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-004",
@@ -740,7 +755,8 @@
         "insulin therapy"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-005",
@@ -787,7 +803,8 @@
         "insulin therapy"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-006",
@@ -834,7 +851,8 @@
         "electrolytes"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-007",
@@ -881,7 +899,8 @@
         "insulin therapy"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-008",
@@ -928,7 +947,8 @@
         "anion gap closure"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-009",
@@ -975,7 +995,8 @@
         "basal insulin"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-010",
@@ -1022,7 +1043,8 @@
         "glucocorticoids"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-011",
@@ -1069,7 +1091,8 @@
         "electrolytes"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en29-012",
@@ -1116,7 +1139,8 @@
         "volume depletion"
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
-      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)"
+      "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
+      "tier": "core"
     },
     {
       "id": "en30-001",
@@ -1163,7 +1187,8 @@
         "microvascular"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-002",
@@ -1210,7 +1235,8 @@
         "monitoring"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-003",
@@ -1257,7 +1283,8 @@
         "autonomic neuropathy"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-004",
@@ -1304,7 +1331,8 @@
         "foot"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-005",
@@ -1351,7 +1379,8 @@
         "macrovascular"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-006",
@@ -1398,7 +1427,8 @@
         "management"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-007",
@@ -1445,7 +1475,8 @@
         "vitreous hemorrhage"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-008",
@@ -1492,7 +1523,8 @@
         "microaneurysm"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-009",
@@ -1539,7 +1571,8 @@
         "management"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-010",
@@ -1586,7 +1619,8 @@
         "foot exam"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-011",
@@ -1633,7 +1667,8 @@
         "gastric emptying study"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en30-012",
@@ -1680,7 +1715,8 @@
         "midodrine"
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
-      "topicName": "Chronic Complications of Diabetes Mellitus"
+      "topicName": "Chronic Complications of Diabetes Mellitus",
+      "tier": "core"
     },
     {
       "id": "en31-001",
@@ -1726,7 +1762,8 @@
         "fasting hypoglycemia"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-002",
@@ -1772,7 +1809,8 @@
         "NADH"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-003",
@@ -1818,7 +1856,8 @@
         "postprandial"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-004",
@@ -1864,7 +1903,8 @@
         "proinsulin"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-005",
@@ -1910,7 +1950,8 @@
         "proinsulin"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-006",
@@ -1956,7 +1997,8 @@
         "glucose threshold"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-007",
@@ -2002,7 +2044,8 @@
         "fasting hypoglycemia"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-008",
@@ -2048,7 +2091,8 @@
         "clinical presentation"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-009",
@@ -2094,7 +2138,8 @@
         "hypoglycemia awareness"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-010",
@@ -2140,7 +2185,8 @@
         "glucagon"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-011",
@@ -2186,7 +2232,8 @@
         "alpha-glucosidase inhibitor"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     },
     {
       "id": "en31-012",
@@ -2232,7 +2279,8 @@
         "fasting hypoglycemia"
       ],
       "topicId": "hypoglycemia",
-      "topicName": "Hypoglycemia"
+      "topicName": "Hypoglycemia",
+      "tier": "core"
     }
   ]
 }

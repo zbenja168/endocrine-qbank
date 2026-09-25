@@ -46,7 +46,8 @@
         "beta cell"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-002",
@@ -92,7 +93,8 @@
         "proinsulin"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-003",
@@ -138,7 +140,8 @@
         "signal transduction"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-004",
@@ -185,7 +188,8 @@
         "glycogenolysis"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-005",
@@ -231,7 +235,8 @@
         "alpha cell"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-006",
@@ -277,7 +282,8 @@
         "type 1 diabetes"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-007",
@@ -323,7 +329,8 @@
         "GIP"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-008",
@@ -369,7 +376,8 @@
         "pharmacology"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-009",
@@ -415,7 +423,8 @@
         "paracrine regulation"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-010",
@@ -461,7 +470,8 @@
         "clinical correlation"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-011",
@@ -507,7 +517,8 @@
         "fuel storage"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en23-012",
@@ -553,7 +564,8 @@
         "insulin secretion"
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
-      "topicName": "Structure and Function of the Endocrine Pancreas"
+      "topicName": "Structure and Function of the Endocrine Pancreas",
+      "tier": "core"
     },
     {
       "id": "en24-001",
@@ -600,7 +612,8 @@
         "T1DM vs T2DM"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-002",
@@ -647,7 +660,8 @@
         "weight loss"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-003",
@@ -694,7 +708,8 @@
         "clinical presentation"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-004",
@@ -741,7 +756,8 @@
         "hypersensitivity"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-005",
@@ -788,7 +804,8 @@
         "exogenous insulin"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-006",
@@ -835,7 +852,8 @@
         "beta-cell loss"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-007",
@@ -882,7 +900,8 @@
         "confirmatory testing"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-008",
@@ -929,7 +948,8 @@
         "lab pitfalls"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-009",
@@ -976,7 +996,8 @@
         "pharmacology"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-010",
@@ -1023,7 +1044,8 @@
         "acute complications"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-011",
@@ -1070,7 +1092,8 @@
         "management"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en24-012",
@@ -1117,7 +1140,8 @@
         "autoantibodies"
       ],
       "topicId": "type-1-diabetes-mellitus",
-      "topicName": "Type 1 Diabetes Mellitus (T1DM)"
+      "topicName": "Type 1 Diabetes Mellitus (T1DM)",
+      "tier": "core"
     },
     {
       "id": "en25-001",
@@ -1164,7 +1188,8 @@
         "insulin resistance"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-002",
@@ -1211,7 +1236,8 @@
         "beta-cell compensation"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-003",
@@ -1258,7 +1284,8 @@
         "skeletal muscle"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-004",
@@ -1305,7 +1332,8 @@
         "fasting hyperglycemia"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-005",
@@ -1352,7 +1380,8 @@
         "lipotoxicity"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-006",
@@ -1399,7 +1428,8 @@
         "pathophysiology"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-007",
@@ -1445,7 +1475,8 @@
         "diagnostic criteria"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-008",
@@ -1492,7 +1523,8 @@
         "acute complications"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-009",
@@ -1539,7 +1571,8 @@
         "OGTT"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-010",
@@ -1585,7 +1618,8 @@
         "monitoring"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-011",
@@ -1632,7 +1666,8 @@
         "LADA"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en25-012",
@@ -1679,7 +1714,8 @@
         "insulin therapy"
       ],
       "topicId": "type-2-diabetes-mellitus",
-      "topicName": "Type 2 Diabetes Mellitus (T2D)"
+      "topicName": "Type 2 Diabetes Mellitus (T2D)",
+      "tier": "core"
     },
     {
       "id": "en26-001",
@@ -1726,7 +1762,8 @@
         "renin"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-002",
@@ -1773,7 +1810,8 @@
         "metabolic alkalosis"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-003",
@@ -1819,7 +1857,8 @@
         "resistant hypertension"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-004",
@@ -1865,7 +1904,8 @@
         "primary aldosteronism"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-005",
@@ -1911,7 +1951,8 @@
         "mineralocorticoid receptor antagonist"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-006",
@@ -1957,7 +1998,8 @@
         "renal artery stenosis"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-007",
@@ -2004,7 +2046,8 @@
         "collecting duct"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-008",
@@ -2051,7 +2094,8 @@
         "hypernatremia"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-009",
@@ -2098,7 +2142,8 @@
         "desmopressin"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-010",
@@ -2145,7 +2190,8 @@
         "small cell lung carcinoma"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-011",
@@ -2191,7 +2237,8 @@
         "free water"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en26-012",
@@ -2237,7 +2284,8 @@
         "primary aldosteronism"
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus"
+      "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+      "tier": "core"
     },
     {
       "id": "en27-001",
@@ -2283,7 +2331,8 @@
         "contraindications"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-002",
@@ -2329,7 +2378,8 @@
         "drug selection"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-003",
@@ -2375,7 +2425,8 @@
         "basal-bolus"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-004",
@@ -2421,7 +2472,8 @@
         "route of administration"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-005",
@@ -2467,7 +2519,8 @@
         "glycosuria"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-006",
@@ -2513,7 +2566,8 @@
         "beta-cell physiology"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-007",
@@ -2559,7 +2613,8 @@
         "pharmacology"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-008",
@@ -2605,7 +2660,8 @@
         "type 1 diabetes"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-009",
@@ -2651,7 +2707,8 @@
         "adverse effects"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-010",
@@ -2697,7 +2754,8 @@
         "obesity"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-011",
@@ -2743,7 +2801,8 @@
         "adverse effects"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     },
     {
       "id": "en27-012",
@@ -2789,7 +2848,8 @@
         "hypoglycemia risk"
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
-      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents"
+      "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
+      "tier": "core"
     }
   ]
 }

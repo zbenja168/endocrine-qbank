@@ -46,7 +46,8 @@
         "primary hypothyroidism"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-002",
@@ -92,7 +93,8 @@
         "TRH stimulation"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-003",
@@ -138,7 +140,8 @@
         "TRH stimulation"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-004",
@@ -184,7 +187,8 @@
         "feedback bypass"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-005",
@@ -230,7 +234,8 @@
         "route of administration"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-006",
@@ -276,7 +281,8 @@
         "onset of action"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-007",
@@ -322,7 +328,8 @@
         "sensor"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-008",
@@ -368,7 +375,8 @@
         "disruption patterns"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-009",
@@ -414,7 +422,8 @@
         "feedback mechanisms"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-010",
@@ -460,7 +469,8 @@
         "pathway logic"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-011",
@@ -506,7 +516,8 @@
         "nuclear receptors"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en01-012",
@@ -552,7 +563,8 @@
         "pathway architecture"
       ],
       "topicId": "functional-endocrine-pathways",
-      "topicName": "Functional Endocrine Pathways"
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
     },
     {
       "id": "en02-001",
@@ -598,7 +610,8 @@
         "optic chiasm"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-002",
@@ -644,7 +657,8 @@
         "pituitary tumor"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-003",
@@ -690,7 +704,8 @@
         "sphenoid sinus"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-004",
@@ -736,7 +751,8 @@
         "anterior pituitary"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-005",
@@ -782,7 +798,8 @@
         "physical examination"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-006",
@@ -828,7 +845,8 @@
         "thyroid relationships"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-007",
@@ -874,7 +892,8 @@
         "postoperative hypocalcemia"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-008",
@@ -920,7 +939,8 @@
         "adrenal vein sampling"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-009",
@@ -966,7 +986,8 @@
         "middle adrenal artery"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-010",
@@ -1012,7 +1033,8 @@
         "adrenal structure"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-011",
@@ -1058,7 +1080,8 @@
         "pancreatic regions"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en02-012",
@@ -1104,7 +1127,8 @@
         "venous drainage"
       ],
       "topicId": "anatomy-of-the-endocrine-system",
-      "topicName": "Anatomy of the Endocrine System"
+      "topicName": "Anatomy of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-001",
@@ -1150,7 +1174,8 @@
         "neck mass"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-002",
@@ -1196,7 +1221,8 @@
         "management"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-003",
@@ -1242,7 +1268,8 @@
         "craniopharyngioma"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-004",
@@ -1288,7 +1315,8 @@
         "neuroectoderm"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-005",
@@ -1334,7 +1362,8 @@
         "DiGeorge syndrome"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-006",
@@ -1380,7 +1409,8 @@
         "hyperparathyroidism"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-007",
@@ -1426,7 +1456,8 @@
         "anatomy"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-008",
@@ -1472,7 +1503,8 @@
         "congenital adrenal hyperplasia"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-009",
@@ -1518,7 +1550,8 @@
         "cortical maturation"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-010",
@@ -1564,7 +1597,8 @@
         "cortical zones"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-011",
@@ -1610,7 +1644,8 @@
         "bud rotation"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en03-012",
@@ -1656,7 +1691,8 @@
         "germ layers"
       ],
       "topicId": "development-of-the-endocrine-system",
-      "topicName": "Development of the Endocrine System"
+      "topicName": "Development of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en04-001",
@@ -1702,7 +1738,8 @@
         "stalk compression"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-002",
@@ -1748,7 +1785,8 @@
         "tropic hormone"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-003",
@@ -1794,7 +1832,8 @@
         "secondary failure"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-004",
@@ -1840,7 +1879,8 @@
         "autonomous stimulation"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-005",
@@ -1886,7 +1926,8 @@
         "exogenous glucocorticoids"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-006",
@@ -1932,7 +1973,8 @@
         "failure-level map"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-007",
@@ -1978,7 +2020,8 @@
         "central diabetes insipidus"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-008",
@@ -2024,7 +2067,8 @@
         "posterior pituitary"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-009",
@@ -2070,7 +2114,8 @@
         "negative feedback"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-010",
@@ -2116,7 +2161,8 @@
         "anterior pituitary"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-011",
@@ -2162,7 +2208,8 @@
         "H-P axis anatomy"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en04-012",
@@ -2208,7 +2255,8 @@
         "long-loop feedback"
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
-      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1"
+      "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
+      "tier": "core"
     },
     {
       "id": "en05-001",
@@ -2254,7 +2302,8 @@
         "growth hormone"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-002",
@@ -2300,7 +2349,8 @@
         "B-FLAT"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-003",
@@ -2346,7 +2396,8 @@
         "staining"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-004",
@@ -2392,7 +2443,8 @@
         "ADH"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-005",
@@ -2438,7 +2490,8 @@
         "colloid"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-006",
@@ -2484,7 +2537,8 @@
         "calcitonin"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-007",
@@ -2530,7 +2584,8 @@
         "hypocalcemia"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-008",
@@ -2576,7 +2631,8 @@
         "aging"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-009",
@@ -2622,7 +2678,8 @@
         "beta cells"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-010",
@@ -2668,7 +2725,8 @@
         "ghrelin"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-011",
@@ -2714,7 +2772,8 @@
         "DHEA"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en05-012",
@@ -2760,7 +2819,8 @@
         "epinephrine"
       ],
       "topicId": "histology-of-the-endocrine-system",
-      "topicName": "Histology of the Endocrine System"
+      "topicName": "Histology of the Endocrine System",
+      "tier": "core"
     },
     {
       "id": "en06-001",
@@ -2806,7 +2866,8 @@
         "physical examination"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-002",
@@ -2852,7 +2913,8 @@
         "growth velocity"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-003",
@@ -2898,7 +2960,8 @@
         "bone age"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-004",
@@ -2944,7 +3007,8 @@
         "hormonal regulation"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-005",
@@ -2990,7 +3054,8 @@
         "adult height prediction"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-006",
@@ -3036,7 +3101,8 @@
         "laboratory evaluation"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-007",
@@ -3082,7 +3148,8 @@
         "final adult height"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-008",
@@ -3128,7 +3195,8 @@
         "IGF-1"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-009",
@@ -3174,7 +3242,8 @@
         "growth parameters"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-010",
@@ -3220,7 +3289,8 @@
         "Marfan syndrome"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-011",
@@ -3266,7 +3336,8 @@
         "growth assessment"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     },
     {
       "id": "en06-012",
@@ -3312,7 +3383,8 @@
         "sexual dimorphism"
       ],
       "topicId": "normal-growth-and-sexual-development",
-      "topicName": "Normal Growth and Sexual Development"
+      "topicName": "Normal Growth and Sexual Development",
+      "tier": "core"
     }
   ]
 }

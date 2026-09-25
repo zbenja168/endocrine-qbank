@@ -46,7 +46,8 @@
         "DEXA"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-002",
@@ -92,7 +93,8 @@
         "pseudofracture"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-003",
@@ -138,7 +140,8 @@
         "osteopenia"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-004",
@@ -184,7 +187,8 @@
         "cranial nerve entrapment"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-005",
@@ -230,7 +234,8 @@
         "hyperostosis"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-006",
@@ -276,7 +281,8 @@
         "Erlenmeyer flask"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-007",
@@ -322,7 +328,8 @@
         "bone marrow transplant"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-008",
@@ -368,7 +375,8 @@
         "mineralization"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-009",
@@ -414,7 +422,8 @@
         "phosphate wasting"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-010",
@@ -460,7 +469,8 @@
         "genetics"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-011",
@@ -506,7 +516,8 @@
         "Gs-alpha"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en17-012",
@@ -552,7 +563,8 @@
         "fibrous dysplasia"
       ],
       "topicId": "endocrine-bone-disorders",
-      "topicName": "Endocrine Bone Disorders"
+      "topicName": "Endocrine Bone Disorders",
+      "tier": "core"
     },
     {
       "id": "en18-001",
@@ -598,7 +610,8 @@
         "parathyroid adenoma"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-002",
@@ -644,7 +657,8 @@
         "calcitriol"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-003",
@@ -690,7 +704,8 @@
         "parathyroidectomy"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-004",
@@ -736,7 +751,8 @@
         "bone resorption"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-005",
@@ -782,7 +798,8 @@
         "primary hyperparathyroidism"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-006",
@@ -828,7 +845,8 @@
         "hypocalcemia"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-007",
@@ -874,7 +892,8 @@
         "hypercalcemia treatment"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-008",
@@ -920,7 +939,8 @@
         "parathyroid adenoma"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-009",
@@ -966,7 +986,8 @@
         "MEN1"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-010",
@@ -1012,7 +1033,8 @@
         "secondary hyperparathyroidism"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-011",
@@ -1058,7 +1080,8 @@
         "PTH physiology"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en18-012",
@@ -1104,7 +1127,8 @@
         "malabsorption"
       ],
       "topicId": "hyperparathyroidism",
-      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary"
+      "topicName": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
+      "tier": "core"
     },
     {
       "id": "en19-001",
@@ -1150,7 +1174,8 @@
         "hypocalcemia"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-002",
@@ -1196,7 +1221,8 @@
         "alcohol overuse"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-003",
@@ -1242,7 +1268,8 @@
         "hypoparathyroidism"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-004",
@@ -1288,7 +1315,8 @@
         "pediatrics"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-005",
@@ -1334,7 +1362,8 @@
         "diagnosis"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-006",
@@ -1380,7 +1409,8 @@
         "complications"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-007",
@@ -1426,7 +1456,8 @@
         "chronic hypoparathyroidism"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-008",
@@ -1472,7 +1503,8 @@
         "treatment"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-009",
@@ -1518,7 +1550,8 @@
         "polyglandular"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-010",
@@ -1564,7 +1597,8 @@
         "pathophysiology"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-011",
@@ -1610,7 +1644,8 @@
         "hypoparathyroidism"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     },
     {
       "id": "en19-012",
@@ -1656,7 +1691,8 @@
         "workup"
       ],
       "topicId": "hypoparathyroidism",
-      "topicName": "Hypoparathyroidism"
+      "topicName": "Hypoparathyroidism",
+      "tier": "core"
     }
   ]
 }

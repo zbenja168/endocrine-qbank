@@ -46,7 +46,8 @@
         "hyperpigmentation"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-002",
@@ -92,7 +93,8 @@
         "management"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-003",
@@ -138,7 +140,8 @@
         "mechanism"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-004",
@@ -184,7 +187,8 @@
         "central adrenal insufficiency"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-005",
@@ -230,7 +234,8 @@
         "evaluation"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-006",
@@ -276,7 +281,8 @@
         "circadian rhythm"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-007",
@@ -322,7 +328,8 @@
         "Cushing syndrome"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-008",
@@ -368,7 +375,8 @@
         "ectopic ACTH"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-009",
@@ -414,7 +422,8 @@
         "mineralocorticoid effect"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-010",
@@ -460,7 +469,8 @@
         "primary adrenal insufficiency"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-011",
@@ -506,7 +516,8 @@
         "ACTH"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en20-012",
@@ -552,7 +563,8 @@
         "glucocorticoid replacement"
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction"
+      "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+      "tier": "core"
     },
     {
       "id": "en21-001",
@@ -598,7 +610,8 @@
         "salt wasting"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-002",
@@ -644,7 +657,8 @@
         "hypertension"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-003",
@@ -690,7 +704,8 @@
         "amenorrhea"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-004",
@@ -736,7 +751,8 @@
         "virilization"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-005",
@@ -782,7 +798,8 @@
         "pathway logic"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-006",
@@ -828,7 +845,8 @@
         "steroidogenesis"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-007",
@@ -874,7 +892,8 @@
         "anatomy"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-008",
@@ -920,7 +939,8 @@
         "cortisol"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-009",
@@ -966,7 +986,8 @@
         "secondary adrenal insufficiency"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-010",
@@ -1012,7 +1033,8 @@
         "HPA axis"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-011",
@@ -1058,7 +1080,8 @@
         "corticomedullary integration"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en21-012",
@@ -1104,7 +1127,8 @@
         "17,20-lyase"
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
-      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies"
+      "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+      "tier": "core"
     },
     {
       "id": "en22-001",
@@ -1150,7 +1174,8 @@
         "pheochromocytoma"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-002",
@@ -1196,7 +1221,8 @@
         "COMT"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-003",
@@ -1242,7 +1268,8 @@
         "metanephrines"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-004",
@@ -1288,7 +1315,8 @@
         "diagnostic sequence"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-005",
@@ -1334,7 +1362,8 @@
         "PPGL"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-006",
@@ -1380,7 +1409,8 @@
         "hypertensive crisis"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-007",
@@ -1426,7 +1456,8 @@
         "imaging"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-008",
@@ -1472,7 +1503,8 @@
         "staging"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-009",
@@ -1518,7 +1550,8 @@
         "nonsecretory"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-010",
@@ -1564,7 +1597,8 @@
         "SDHx"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-011",
@@ -1610,7 +1644,8 @@
         "metastatic potential"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     },
     {
       "id": "en22-012",
@@ -1656,7 +1691,8 @@
         "catecholamine withdrawal"
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
-      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma"
+      "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
+      "tier": "core"
     }
   ]
 }

@@ -46,7 +46,8 @@
         "lymphatic spread"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-002",
@@ -92,7 +93,8 @@
         "diagnosis"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-003",
@@ -138,7 +140,8 @@
         "diagnostic limits"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-004",
@@ -184,7 +187,8 @@
         "metastasis"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-005",
@@ -230,7 +234,8 @@
         "recurrence"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-006",
@@ -276,7 +281,8 @@
         "surveillance"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-007",
@@ -322,7 +328,8 @@
         "treatment"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-008",
@@ -368,7 +375,8 @@
         "management"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-009",
@@ -414,7 +422,8 @@
         "follicular thyroid carcinoma"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-010",
@@ -460,7 +469,8 @@
         "diagnostic integration"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-011",
@@ -506,7 +516,8 @@
         "MEN2 distinction"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en13-012",
@@ -552,7 +563,8 @@
         "thyroglobulin"
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
-      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma"
+      "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+      "tier": "core"
     },
     {
       "id": "en14-001",
@@ -598,7 +610,8 @@
         "amyloid"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-002",
@@ -644,7 +657,8 @@
         "surveillance"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-003",
@@ -690,7 +704,8 @@
         "pathology"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-004",
@@ -736,7 +751,8 @@
         "perioperative safety"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-005",
@@ -782,7 +798,8 @@
         "alpha blockade"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-006",
@@ -828,7 +845,8 @@
         "hereditary risk"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-007",
@@ -874,7 +892,8 @@
         "sporadic disease"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-008",
@@ -920,7 +939,8 @@
         "diagnosis"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-009",
@@ -966,7 +986,8 @@
         "emergency"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-010",
@@ -1012,7 +1033,8 @@
         "BRAF V600E"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-011",
@@ -1058,7 +1080,8 @@
         "management logic"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en14-012",
@@ -1104,7 +1127,8 @@
         "hyperparathyroidism"
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
-      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease"
+      "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
+      "tier": "core"
     },
     {
       "id": "en15-001",
@@ -1150,7 +1174,8 @@
         "gastrinoma"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-002",
@@ -1196,7 +1221,8 @@
         "genetics"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-003",
@@ -1242,7 +1268,8 @@
         "physical examination"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-004",
@@ -1288,7 +1315,8 @@
         "perioperative safety"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-005",
@@ -1334,7 +1362,8 @@
         "tumor markers"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-006",
@@ -1380,7 +1409,8 @@
         "genetic testing"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-007",
@@ -1426,7 +1456,8 @@
         "family counseling"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-008",
@@ -1472,7 +1503,8 @@
         "MEN2B"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-009",
@@ -1518,7 +1550,8 @@
         "multigland disease"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-010",
@@ -1564,7 +1597,8 @@
         "grade versus differentiation"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-011",
@@ -1610,7 +1644,8 @@
         "surgical sequencing"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en15-012",
@@ -1656,7 +1691,8 @@
         "RET"
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
-      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4"
+      "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+      "tier": "core"
     },
     {
       "id": "en16-001",
@@ -1702,7 +1738,8 @@
         "radionuclide scan"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-002",
@@ -1748,7 +1785,8 @@
         "suspicious pattern"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-003",
@@ -1794,7 +1832,8 @@
         "papillary carcinoma"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-004",
@@ -1840,7 +1879,8 @@
         "thyrotoxicosis"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-005",
@@ -1886,7 +1926,8 @@
         "cytology limits"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-006",
@@ -1932,7 +1973,8 @@
         "MEN2"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-007",
@@ -1978,7 +2020,8 @@
         "benign pattern"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-008",
@@ -2024,7 +2067,8 @@
         "spongiform"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-009",
@@ -2070,7 +2114,8 @@
         "thyroid cancer"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-010",
@@ -2116,7 +2161,8 @@
         "metastasis"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-011",
@@ -2162,7 +2208,8 @@
         "algorithm"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     },
     {
       "id": "en16-012",
@@ -2208,7 +2255,8 @@
         "FNA decision"
       ],
       "topicId": "thyroid-nodule-evaluation",
-      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology"
+      "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+      "tier": "core"
     }
   ]
 }
