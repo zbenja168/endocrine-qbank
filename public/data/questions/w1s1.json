@@ -1,0 +1,570 @@
+{
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "en01-001",
+      "stem": "A 32-year-old woman presents with several months of fatigue, weight gain, and cold intolerance. Laboratory studies show a serum TSH of 24 microunits/mL (elevated) and a low free T4. Which node of the hypothalamic-pituitary-thyroid axis is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior pituitary thyrotrophs"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic TRH-secreting neurons"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear thyroid hormone receptors in target cells"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral T4-to-T3 converting tissue"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid follicular cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "High TSH with low thyroid hormone localizes the lesion to the thyroid gland itself (primary hypothyroidism).",
+        "whyCorrect": "When the thyroid cannot make T3/T4, the negative feedback that normally suppresses TRH and TSH is lost, so the intact hypothalamus and pituitary drive TSH upward while thyroid hormone stays low. This high-TSH/low-T4 fingerprint is the signature of failure at the peripheral gland. Her fatigue, weight gain, and cold intolerance are the effector-output consequences of reduced metabolic rate and thermogenesis.",
+        "whyWrongByChoice": {
+          "A": "Pituitary failure removes the TSH signal, so TSH and thyroid hormone fall together rather than diverging.",
+          "B": "Loss of hypothalamic TRH would lower the drive to the pituitary, producing low TSH along with low T3/T4.",
+          "C": "Receptor-level resistance blunts downstream effect while circulating thyroid hormone stays normal or high, not low.",
+          "D": "Impaired peripheral conversion lowers T3 while T4 is maintained and would not markedly raise TSH."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "node disruption",
+        "primary hypothyroidism"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-002",
+      "stem": "A 47-year-old man is evaluated for fatigue and cold intolerance. Serum TSH is low and free T4 is low. Exogenous TRH is administered, and serum TSH remains flat over the next hour. Which node is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior pituitary TSH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic TRH secretion"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral conversion of T4 to T3"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid follicular cell hormone synthesis"
+        },
+        {
+          "label": "E",
+          "text": "TSH receptors on the thyroid gland"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Low TSH with low T4 and no TSH response to exogenous TRH localizes the failure to the pituitary thyrotroph.",
+        "whyCorrect": "Secondary hypothyroidism arises when the pituitary cannot generate the TSH signal, leaving the thyroid unstimulated and both hormones low. Supplying TRH from outside tests whether the pituitary can respond; a flat TSH shows the defect is in the pituitary itself rather than upstream.",
+        "whyWrongByChoice": {
+          "B": "A hypothalamic lesion also gives low TSH and low T4, but the pituitary is intact, so exogenous TRH would raise TSH.",
+          "C": "A conversion defect lowers T3 selectively and does not suppress TSH secretion.",
+          "D": "Failure of the gland removes feedback inhibition and drives TSH high, the opposite of the pattern shown.",
+          "E": "Loss of thyroid TSH receptors leaves the pituitary free to secrete, so TSH would be elevated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "secondary hypothyroidism",
+        "TRH stimulation"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-003",
+      "stem": "A 39-year-old woman has low serum TSH and low free T4. After exogenous TRH is given, serum TSH rises briskly. Which node is most likely disrupted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior pituitary TSH secretion"
+        },
+        {
+          "label": "B",
+          "text": "Hypothalamic TRH secretion"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear thyroid hormone receptors in target tissue"
+        },
+        {
+          "label": "D",
+          "text": "Thyroid follicular cell hormone synthesis"
+        },
+        {
+          "label": "E",
+          "text": "TSH receptors on the thyroid gland"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pituitary that responds normally to exogenous TRH places the defect one level higher, in the hypothalamus.",
+        "whyCorrect": "The hypothalamus is the integrating center that secretes TRH into the portal system to drive pituitary thyrotrophs. If it fails, TRH is absent, so TSH and thyroid hormone are both low; the thyrotrophs themselves are intact, so replacing TRH from outside restores the TSH rise.",
+        "whyWrongByChoice": {
+          "A": "A failed pituitary cannot respond to TRH, so TSH would remain flat after the stimulus.",
+          "C": "Target-cell receptor loss leaves circulating hormone normal or high rather than low.",
+          "D": "Gland failure produces high TSH with low thyroid hormone because feedback inhibition is lost.",
+          "E": "Loss of thyroid TSH receptors leaves pituitary output unopposed, so TSH would be high."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "hypothalamus",
+        "TRH stimulation"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-004",
+      "stem": "A 44-year-old woman has palpitations, heat intolerance, and weight loss. Serum TSH is elevated and free T4 and T3 are both elevated. MRI shows a sellar mass. Which mechanism best explains this hormone pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent pituitary signal leaving the thyroid unstimulated"
+        },
+        {
+          "label": "B",
+          "text": "Autonomous TSH secretion that bypasses negative feedback"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the hypothalamus to release its tropic hormone"
+        },
+        {
+          "label": "D",
+          "text": "Loss of thyroid hormone output that removes feedback inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Reduced target-cell receptor sensitivity to thyroid hormone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High TSH together with high T3/T4 indicates a tumor secreting TSH independently of the feedback loop.",
+        "whyCorrect": "Normally rising T3/T4 would suppress TSH, so elevated TSH in the face of elevated thyroid hormone can only occur if the source of TSH ignores the feedback signal. A TSH-secreting pituitary adenoma produces the hormone autonomously, driving continued thyroid stimulation and thyrotoxic symptoms.",
+        "whyWrongByChoice": {
+          "A": "An absent pituitary signal drives TSH and T3/T4 down together.",
+          "C": "A hypothalamic lesion lowers TRH, so TSH and thyroid hormone both fall.",
+          "D": "Loss of gland output raises TSH but leaves T3/T4 low, not elevated.",
+          "E": "Receptor resistance blunts the tissue response and does not by itself raise circulating T3/T4 with hyperthyroid symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "pituitary adenoma",
+        "feedback bypass"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-005",
+      "stem": "A 58-year-old woman with type 1 diabetes mellitus and hypothyroidism asks why her levothyroxine is a daily tablet while her insulin must be injected. Which of the following best explains the difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin acts on nuclear receptors that require slow sustained delivery"
+        },
+        {
+          "label": "B",
+          "text": "Insulin is a peptide and must be injected to preserve its structure"
+        },
+        {
+          "label": "C",
+          "text": "Insulin is a steroid that must be injected to bypass hepatic first-pass metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Levothyroxine is a peptide that resists degradation in the stomach"
+        },
+        {
+          "label": "E",
+          "text": "Levothyroxine is hydrophilic and therefore absorbed across the gut"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Route of administration follows hormone class: peptides must be given parenterally, while lipophilic steroid and thyroid hormones can be taken orally.",
+        "whyCorrect": "Insulin is a hydrophilic peptide hormone that requires injection to preserve structure and function, after which it acts through surface receptor cascades within minutes. Thyroid hormone is lipophilic, survives oral administration, and works by altering gene expression over hours to days, which is why replacement is titrated gradually.",
+        "whyWrongByChoice": {
+          "A": "Insulin binds cell-surface receptors coupled to second messengers, not nuclear receptors.",
+          "C": "Insulin is a peptide synthesized as a prohormone, not a cholesterol-derived steroid.",
+          "D": "Levothyroxine is an iodinated amine derivative, not a peptide hormone.",
+          "E": "Thyroid hormones are lipophilic, not hydrophilic; that lipid solubility is what permits oral dosing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone classes",
+        "pharmacology",
+        "route of administration"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-006",
+      "stem": "A 45-year-old man with an asthma exacerbation receives inhaled albuterol and oral prednisone. His wheezing improves within minutes, but the anti-inflammatory benefit of the prednisone is not apparent for many hours. Which property of steroid hormones best explains this delay?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They act as ligand-activated transcription factors altering gene expression"
+        },
+        {
+          "label": "B",
+          "text": "They activate membrane G-protein-coupled receptors and second messengers"
+        },
+        {
+          "label": "C",
+          "text": "They are secreted as prohormones requiring cleavage before activity"
+        },
+        {
+          "label": "D",
+          "text": "They must be delivered through a portal circulation to reach targets"
+        },
+        {
+          "label": "E",
+          "text": "They require peripheral deiodination before binding their receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lipophilic steroid hormones signal through intracellular nuclear receptors, so their effects unfold over hours to days.",
+        "whyCorrect": "Steroids are synthesized from cholesterol and cross the membrane to bind intracellular ligand-activated transcription factors. Because the effector output is a change in gene expression rather than a preexisting enzyme cascade, the physiological response is delayed, which is exactly why corticosteroid onset lags behind a fast surface-receptor drug.",
+        "whyWrongByChoice": {
+          "B": "Membrane receptor cascades are the fast pathway used by peptides and catecholamines, producing effects within minutes.",
+          "C": "Prohormone processing characterizes peptide hormone synthesis, not steroid synthesis.",
+          "D": "Portal delivery describes the hypothalamic-pituitary link, not the reason corticosteroids act slowly.",
+          "E": "Deiodination applies to thyroid hormone conversion, not to cholesterol-derived steroids."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone classes",
+        "steroids",
+        "onset of action"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-007",
+      "stem": "In a simple endocrine reflex, an endocrine cell directly detects a fall in a circulating substrate and secretes its hormone in response without any input from the central nervous system. Which statement about the control elements of this pathway is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The endocrine cell serves as both the sensor and the integrating center"
+        },
+        {
+          "label": "B",
+          "text": "The hypothalamus serves as the integrating center for the reflex"
+        },
+        {
+          "label": "C",
+          "text": "The pathway operates without any feedback signal at all"
+        },
+        {
+          "label": "D",
+          "text": "The secreted hormone functions as the sensor for the reflex"
+        },
+        {
+          "label": "E",
+          "text": "The target tissue serves as the integrating center for the reflex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In simple endocrine reflexes the same endocrine cell both detects the change and compares it against the set point.",
+        "whyCorrect": "The sensor detects the stimulus and the integrating center compares input to a set point; these are usually separate structures, but in a simple endocrine reflex an endocrine cell monitoring a circulating substrate performs both roles. The four control elements (stimulus, sensor, integrating center, feedback signal) are still present, only collapsed into fewer structures.",
+        "whyWrongByChoice": {
+          "B": "The hypothalamus is the integrating center in neuroendocrine and multi-tiered axes, not in a reflex with no CNS input.",
+          "C": "The hormone's effect on the substrate still loops back as the feedback signal that closes the circuit.",
+          "D": "The hormone is a molecular signaling component that carries the message, not the structure that detects change.",
+          "E": "The target tissue generates the effector output; it does not compare input against a set point."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "control elements",
+        "simple endocrine reflex",
+        "sensor"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-008",
+      "stem": "A 54-year-old man with obesity has a fasting plasma glucose of 168 mg/dL and a markedly elevated fasting serum insulin concentration. Which type of pathway disruption best accounts for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent second messengers because the hormone never reaches circulation"
+        },
+        {
+          "label": "B",
+          "text": "Autonomous hormone secretion from a tumor that bypasses feedback"
+        },
+        {
+          "label": "C",
+          "text": "Destruction of the hormone-secreting cells with intact target receptors"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the integrating center to release its tropic hormone"
+        },
+        {
+          "label": "E",
+          "text": "Reduced target-cell receptor sensitivity with compensatory hormone secretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "High circulating hormone with a deficient downstream effect is the fingerprint of receptor-level disruption.",
+        "whyCorrect": "When receptors are downregulated or mutated, effector output falls even though hormone levels are normal or high; the pathway senses the inadequate response and secretes more hormone. In type 2 diabetes, reduced insulin receptor sensitivity produces compensatory hyperinsulinemia while glucose uptake remains impaired.",
+        "whyWrongByChoice": {
+          "A": "Insulin is clearly reaching the circulation here, since its measured concentration is high.",
+          "B": "Autonomous secretion from a tumor would drive glucose down rather than leave it elevated.",
+          "C": "Loss of the secreting cells would produce low, not markedly elevated, circulating insulin.",
+          "D": "Insulin release is a simple endocrine reflex from the pancreas, and a missing tropic signal would lower insulin."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "receptor resistance",
+        "type 2 diabetes",
+        "disruption patterns"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-009",
+      "stem": "A 26-year-old woman is undergoing ovulation monitoring. Mid-cycle, her serum estradiol rises steadily and is followed by an abrupt surge in luteinizing hormone and then ovulation. Which regulatory mechanism does this sequence illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Negative feedback, in which output suppresses the upstream drive"
+        },
+        {
+          "label": "B",
+          "text": "Positive feedback, in which output amplifies the signal that produced it"
+        },
+        {
+          "label": "C",
+          "text": "Receptor downregulation, in which target cells lose responsiveness"
+        },
+        {
+          "label": "D",
+          "text": "Set-point resetting, in which the integrating center is bypassed"
+        },
+        {
+          "label": "E",
+          "text": "Signal amplification, in which each tier magnifies the tier above"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The mid-cycle LH surge is the classic example of positive feedback in an endocrine axis.",
+        "whyCorrect": "Positive feedback amplifies rather than suppresses the original signal, so rising estrogen stimulates further LH release until ovulation is triggered. It is inherently unstable and therefore reserved for rapid, all-or-nothing events rather than sustained homeostatic control.",
+        "whyWrongByChoice": {
+          "A": "Negative feedback would have rising estrogen shut LH secretion down, not drive it to surge.",
+          "C": "Receptor downregulation reduces the response to a hormone; here responsiveness is escalating.",
+          "D": "The hypothalamic-pituitary integrating center is participating in this response, not being bypassed.",
+          "E": "Amplification across tiers describes how a small signal is magnified, but it does not explain the self-reinforcing rise."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "positive feedback",
+        "LH surge",
+        "feedback mechanisms"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-010",
+      "stem": "A healthy adult moves into a cold environment, and circulating thyroid hormone falls below its set point. Which sequence correctly orders the hypothalamic-pituitary-thyroid axis from stimulus to effector output?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low T3/T4, then T3/T4, then TRH, then TSH, then metabolic effects"
+        },
+        {
+          "label": "B",
+          "text": "Low T3/T4, then TRH, then metabolic effects, then TSH, then T3/T4"
+        },
+        {
+          "label": "C",
+          "text": "Low T3/T4, then TRH, then TSH, then T3/T4, then metabolic effects"
+        },
+        {
+          "label": "D",
+          "text": "Low T3/T4, then TSH, then T3/T4, then metabolic effects, then TRH"
+        },
+        {
+          "label": "E",
+          "text": "Low T3/T4, then TSH, then TRH, then T3/T4, then metabolic effects"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The HPT axis runs top down: hypothalamus, then anterior pituitary, then thyroid, then target tissue.",
+        "whyCorrect": "Hypothalamic neurons sense the low thyroid hormone and secrete TRH into the portal system; TRH binds G-protein-coupled receptors on pituitary thyrotrophs to release TSH; TSH stimulates thyroid follicular cells to make T4 and T3; T3 then binds nuclear receptors in target cells to change gene expression and metabolic rate.",
+        "whyWrongByChoice": {
+          "A": "Thyroid hormone cannot rise before the tropic signals that stimulate its synthesis.",
+          "B": "Metabolic effects cannot precede the secretion of the hormone that produces them.",
+          "D": "This omits the hypothalamic step from the efferent limb and appends TRH after the response.",
+          "E": "This places pituitary TSH before hypothalamic TRH, reversing the anatomic hierarchy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "sequencing",
+        "pathway logic"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-011",
+      "stem": "A hormone is synthesized from the amino acid tyrosine and exerts its effects by entering the nucleus of target cells and binding a transcription factor receptor. Which hormone has these properties?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cortisol"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Follicle-stimulating hormone"
+        },
+        {
+          "label": "D",
+          "text": "Insulin"
+        },
+        {
+          "label": "E",
+          "text": "Thyroxine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thyroid hormones are the amine-derived hormones that are lipophilic and act on nuclear receptors.",
+        "whyCorrect": "Amine hormones are built from tyrosine, tryptophan, or histidine, and most of them are hydrophilic and use membrane receptors. Thyroid hormones are the exception: they are lipophilic amine derivatives whose receptors are nuclear transcription factors, so T3 enters the nucleus and modulates gene expression governing metabolism, thermogenesis, and cardiac function.",
+        "whyWrongByChoice": {
+          "A": "Cortisol acts on an intracellular receptor but is synthesized from cholesterol rather than an amino acid.",
+          "B": "Epinephrine is also tyrosine-derived but is hydrophilic and signals through cell membrane receptors.",
+          "C": "Follicle-stimulating hormone is a protein hormone acting at membrane receptors on target cells.",
+          "D": "Insulin is a peptide made as a prohormone and binds a cell-surface receptor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hormone classes",
+        "thyroid hormone",
+        "nuclear receptors"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    },
+    {
+      "id": "en01-012",
+      "stem": "In the hypothalamic-pituitary-thyroid axis, an extremely small quantity of TRH delivered through the portal system produces a much larger mass of circulating thyroid hormone and a body-wide change in metabolic rate. Which property of multi-tiered endocrine axes best explains this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Each anatomical level amplifies the signal received from the level above"
+        },
+        {
+          "label": "B",
+          "text": "Each anatomical level dampens the signal to protect the target tissue"
+        },
+        {
+          "label": "C",
+          "text": "Positive feedback at each tier sustains the response once initiated"
+        },
+        {
+          "label": "D",
+          "text": "The hypothalamus releases its hormone directly into systemic circulation"
+        },
+        {
+          "label": "E",
+          "text": "Tropic hormones act on adjacent cells by paracrine diffusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amplification at every tier lets a small hypothalamic input drive a large, coordinated peripheral response.",
+        "whyCorrect": "In a multi-tiered axis the hypothalamus signals the anterior pituitary, which signals a peripheral gland, which acts on target tissue, and each transition magnifies the signal from the level above. That is why tiny hypothalamic outputs produce system-wide effects, and why each level is also a discrete point of regulation and of potential disruption.",
+        "whyWrongByChoice": {
+          "B": "Dampening at each step would make the axis progressively less effective, the opposite of what occurs.",
+          "C": "The HPT axis is governed by negative feedback; rising T3/T4 suppresses TRH and TSH.",
+          "D": "Hypothalamic releasing hormones travel through the hypothalamic-pituitary portal system, not the systemic circulation.",
+          "E": "Endocrine pathways are defined by delivery through circulation to distant targets rather than paracrine diffusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HPT axis",
+        "amplification",
+        "pathway architecture"
+      ],
+      "topicId": "functional-endocrine-pathways",
+      "topicName": "Functional Endocrine Pathways",
+      "tier": "core"
+    }
+  ]
+}

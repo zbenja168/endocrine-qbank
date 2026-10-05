@@ -1,13 +1,38 @@
 {
   "categories": [
     {
-      "id": "foundations-anatomy-development",
-      "name": "Foundations, Anatomy & Development",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "functional-endocrine-pathways",
           "name": "Functional Endocrine Pathways",
           "sourceFile": "Endocrine Brick 1",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "development-of-the-endocrine-system",
+          "name": "Development of the Endocrine System",
+          "sourceFile": "Endocrine Brick 3",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        },
+        {
+          "id": "histology-of-the-endocrine-system",
+          "name": "Histology of the Endocrine System",
+          "sourceFile": "Endocrine Brick 5",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -21,25 +46,9 @@
           "questionCount": 12
         },
         {
-          "id": "development-of-the-endocrine-system",
-          "name": "Development of the Endocrine System",
-          "sourceFile": "Endocrine Brick 3",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
           "id": "hypothalamic-pituitary-axis-1",
           "name": "Hypothalamic-Pituitary (H-P) Axis 1",
           "sourceFile": "Endocrine Brick 4",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
-          "id": "histology-of-the-endocrine-system",
-          "name": "Histology of the Endocrine System",
-          "sourceFile": "Endocrine Brick 5",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -55,20 +64,12 @@
       ],
       "week": 1,
       "weekName": "Week 1",
-      "weekSubtitle": "Foundations, Anatomy & the Pituitary"
+      "weekSubtitle": ""
     },
     {
-      "id": "pituitary-disorders",
-      "name": "Pituitary Disorders",
+      "id": "w1s3",
+      "name": "Session 3",
       "topics": [
-        {
-          "id": "growth-hormone-deficiency-and-excess",
-          "name": "Growth Hormone Deficiency and Excess",
-          "sourceFile": "Endocrine Brick 7",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
         {
           "id": "hyperpituitarism",
           "name": "Hyperpituitarism",
@@ -84,20 +85,28 @@
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
+        },
+        {
+          "id": "growth-hormone-deficiency-and-excess",
+          "name": "Growth Hormone Deficiency and Excess",
+          "sourceFile": "Endocrine Brick 7",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
         }
       ],
       "week": 1,
       "weekName": "Week 1",
-      "weekSubtitle": "Foundations, Anatomy & the Pituitary"
+      "weekSubtitle": ""
     },
     {
-      "id": "thyroid-physiology-dysfunction",
-      "name": "Thyroid Physiology & Dysfunction",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
-          "id": "hyperthyroidism-and-thyroid-storm",
-          "name": "Hyperthyroidism and Thyroid Storm",
-          "sourceFile": "Endocrine Brick 10",
+          "id": "thyroid-hormone-synthesis-regulation-and-testing",
+          "name": "Thyroid Hormone Synthesis, Regulation, and Testing",
+          "sourceFile": "Endocrine Brick 12",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -111,9 +120,9 @@
           "questionCount": 12
         },
         {
-          "id": "thyroid-hormone-synthesis-regulation-and-testing",
-          "name": "Thyroid Hormone Synthesis, Regulation, and Testing",
-          "sourceFile": "Endocrine Brick 12",
+          "id": "hyperthyroidism-and-thyroid-storm",
+          "name": "Hyperthyroidism and Thyroid Storm",
+          "sourceFile": "Endocrine Brick 10",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -121,16 +130,16 @@
       ],
       "week": 2,
       "weekName": "Week 2",
-      "weekSubtitle": "Thyroid, Parathyroid & Bone"
+      "weekSubtitle": ""
     },
     {
-      "id": "thyroid-neoplasia-men",
-      "name": "Thyroid Neoplasia & MEN Syndromes",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
-          "id": "differentiated-thyroid-cancers-papillary-and-follicular",
-          "name": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
-          "sourceFile": "Endocrine Brick 13",
+          "id": "thyroid-nodule-evaluation",
+          "name": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
+          "sourceFile": "Endocrine Brick 16",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -144,17 +153,17 @@
           "questionCount": 12
         },
         {
-          "id": "multiple-endocrine-neoplasia-syndromes",
-          "name": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
-          "sourceFile": "Endocrine Brick 15",
+          "id": "differentiated-thyroid-cancers-papillary-and-follicular",
+          "name": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
+          "sourceFile": "Endocrine Brick 13",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
         },
         {
-          "id": "thyroid-nodule-evaluation",
-          "name": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
-          "sourceFile": "Endocrine Brick 16",
+          "id": "multiple-endocrine-neoplasia-syndromes",
+          "name": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
+          "sourceFile": "Endocrine Brick 15",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -162,20 +171,12 @@
       ],
       "week": 2,
       "weekName": "Week 2",
-      "weekSubtitle": "Thyroid, Parathyroid & Bone"
+      "weekSubtitle": ""
     },
     {
-      "id": "parathyroid-calcium-bone",
-      "name": "Parathyroid, Calcium & Bone",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
-        {
-          "id": "endocrine-bone-disorders",
-          "name": "Endocrine Bone Disorders",
-          "sourceFile": "Endocrine Brick 17",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
         {
           "id": "hyperparathyroidism",
           "name": "Hyperparathyroidism: Primary, Secondary, and Tertiary",
@@ -191,28 +192,36 @@
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
+        },
+        {
+          "id": "endocrine-bone-disorders",
+          "name": "Endocrine Bone Disorders",
+          "sourceFile": "Endocrine Brick 17",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
         }
       ],
       "week": 2,
       "weekName": "Week 2",
-      "weekSubtitle": "Thyroid, Parathyroid & Bone"
+      "weekSubtitle": ""
     },
     {
-      "id": "adrenal-cortex-medulla",
-      "name": "Adrenal Cortex & Medulla",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
-          "id": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
-          "name": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
-          "sourceFile": "Endocrine Brick 20",
+          "id": "adrenal-steroid-biosynthesis-and-regulation",
+          "name": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
+          "sourceFile": "Endocrine Brick 21",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
         },
         {
-          "id": "adrenal-steroid-biosynthesis-and-regulation",
-          "name": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
-          "sourceFile": "Endocrine Brick 21",
+          "id": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
+          "name": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
+          "sourceFile": "Endocrine Brick 20",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -228,12 +237,20 @@
       ],
       "week": 3,
       "weekName": "Week 3",
-      "weekSubtitle": "Adrenal, Pancreas & Diabetes"
+      "weekSubtitle": ""
     },
     {
-      "id": "endocrine-pancreas-diabetes",
-      "name": "Endocrine Pancreas & Diabetes",
+      "id": "w3s2",
+      "name": "Session 2",
       "topics": [
+        {
+          "id": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
+          "name": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
+          "sourceFile": "Endocrine Brick 26",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        },
         {
           "id": "structure-and-function-of-the-endocrine-pancreas",
           "name": "Structure and Function of the Endocrine Pancreas",
@@ -259,14 +276,6 @@
           "questionCount": 12
         },
         {
-          "id": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
-          "name": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
-          "sourceFile": "Endocrine Brick 26",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
-        },
-        {
           "id": "treatment-of-diabetes-with-glucose-lowering-agents",
           "name": "Treatment of Diabetes with Glucose-Lowering Agents",
           "sourceFile": "Endocrine Brick 27",
@@ -277,16 +286,24 @@
       ],
       "week": 3,
       "weekName": "Week 3",
-      "weekSubtitle": "Adrenal, Pancreas & Diabetes"
+      "weekSubtitle": ""
     },
     {
-      "id": "adrenal-masses-diabetes-emergencies",
-      "name": "Adrenal Masses, Diabetes Emergencies & Complications",
+      "id": "w3s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
           "name": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
           "sourceFile": "Endocrine Brick 28",
+          "coreCount": 12,
+          "extraCount": 0,
+          "questionCount": 12
+        },
+        {
+          "id": "hypoglycemia",
+          "name": "Hypoglycemia",
+          "sourceFile": "Endocrine Brick 31",
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
@@ -306,23 +323,15 @@
           "coreCount": 12,
           "extraCount": 0,
           "questionCount": 12
-        },
-        {
-          "id": "hypoglycemia",
-          "name": "Hypoglycemia",
-          "sourceFile": "Endocrine Brick 31",
-          "coreCount": 12,
-          "extraCount": 0,
-          "questionCount": 12
         }
       ],
       "week": 3,
       "weekName": "Week 3",
-      "weekSubtitle": "Adrenal, Pancreas & Diabetes"
+      "weekSubtitle": ""
     },
     {
-      "id": "obesity-metabolic-syndrome-diabetes-care",
-      "name": "Obesity, Metabolic Syndrome & Diabetes Care",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "obesity-and-metabolic-syndrome",
@@ -343,7 +352,7 @@
       ],
       "week": 4,
       "weekName": "Week 4",
-      "weekSubtitle": "Obesity, Metabolic Syndrome & Diabetes Care"
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 396
