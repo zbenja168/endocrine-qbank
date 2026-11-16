@@ -47,7 +47,8 @@
       ],
       "topicId": "functional-endocrine-pathways",
       "topicName": "Functional Endocrine Pathways",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en01-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "functional-endocrine-pathways",
       "topicName": "Functional Endocrine Pathways",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en01-003",
@@ -329,7 +331,8 @@
       ],
       "topicId": "functional-endocrine-pathways",
       "topicName": "Functional Endocrine Pathways",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en01-008",
@@ -470,7 +473,8 @@
       ],
       "topicId": "functional-endocrine-pathways",
       "topicName": "Functional Endocrine Pathways",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en01-011",

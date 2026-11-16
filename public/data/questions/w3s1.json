@@ -47,7 +47,8 @@
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
       "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en21-002",
@@ -282,7 +283,8 @@
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
       "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en21-007",
@@ -329,7 +331,8 @@
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
       "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en21-008",
@@ -423,7 +426,8 @@
       ],
       "topicId": "adrenal-steroid-biosynthesis-and-regulation",
       "topicName": "Adrenal Steroid Biosynthesis and Regulation: Zones, Pathways, and Enzyme Deficiencies",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en21-010",
@@ -611,7 +615,8 @@
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
       "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en20-002",
@@ -658,7 +663,8 @@
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
       "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en20-003",
@@ -705,7 +711,8 @@
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
       "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en20-004",
@@ -893,7 +900,8 @@
       ],
       "topicId": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
       "topicName": "Adrenal Insufficiency, Cushing Syndrome, and Cushing Disease: Localizing HPA Axis Dysfunction",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en20-008",
@@ -1175,7 +1183,8 @@
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
       "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en22-002",
@@ -1222,7 +1231,8 @@
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
       "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en22-003",
@@ -1316,7 +1326,8 @@
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
       "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en22-005",
@@ -1363,7 +1374,8 @@
       ],
       "topicId": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
       "topicName": "Catecholamine Excess and Endocrine Hypertension: Pheochromocytoma and Paraganglioma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en22-006",

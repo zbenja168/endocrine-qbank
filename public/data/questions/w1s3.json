@@ -47,7 +47,8 @@
       ],
       "topicId": "hyperpituitarism",
       "topicName": "Hyperpituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en08-002",
@@ -188,7 +189,8 @@
       ],
       "topicId": "hyperpituitarism",
       "topicName": "Hyperpituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en08-005",
@@ -235,7 +237,8 @@
       ],
       "topicId": "hyperpituitarism",
       "topicName": "Hyperpituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en08-006",
@@ -329,7 +332,8 @@
       ],
       "topicId": "hyperpituitarism",
       "topicName": "Hyperpituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en08-008",
@@ -611,7 +615,8 @@
       ],
       "topicId": "hypopituitarism",
       "topicName": "Hypopituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en09-002",
@@ -658,7 +663,8 @@
       ],
       "topicId": "hypopituitarism",
       "topicName": "Hypopituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en09-003",
@@ -705,7 +711,8 @@
       ],
       "topicId": "hypopituitarism",
       "topicName": "Hypopituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en09-004",
@@ -752,7 +759,8 @@
       ],
       "topicId": "hypopituitarism",
       "topicName": "Hypopituitarism",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en09-005",
@@ -1175,7 +1183,8 @@
       ],
       "topicId": "growth-hormone-deficiency-and-excess",
       "topicName": "Growth Hormone Deficiency and Excess",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en07-002",
@@ -1269,7 +1278,8 @@
       ],
       "topicId": "growth-hormone-deficiency-and-excess",
       "topicName": "Growth Hormone Deficiency and Excess",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en07-004",
@@ -1457,7 +1467,8 @@
       ],
       "topicId": "growth-hormone-deficiency-and-excess",
       "topicName": "Growth Hormone Deficiency and Excess",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en07-008",
@@ -1692,7 +1703,8 @@
       ],
       "topicId": "growth-hormone-deficiency-and-excess",
       "topicName": "Growth Hormone Deficiency and Excess",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     }
   ]
 }

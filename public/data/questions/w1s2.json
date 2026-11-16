@@ -47,7 +47,8 @@
       ],
       "topicId": "development-of-the-endocrine-system",
       "topicName": "Development of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en03-002",
@@ -141,7 +142,8 @@
       ],
       "topicId": "development-of-the-endocrine-system",
       "topicName": "Development of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en03-004",
@@ -235,7 +237,8 @@
       ],
       "topicId": "development-of-the-endocrine-system",
       "topicName": "Development of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en03-006",
@@ -376,7 +379,8 @@
       ],
       "topicId": "development-of-the-endocrine-system",
       "topicName": "Development of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en03-009",
@@ -611,7 +615,8 @@
       ],
       "topicId": "histology-of-the-endocrine-system",
       "topicName": "Histology of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en05-002",
@@ -658,7 +663,8 @@
       ],
       "topicId": "histology-of-the-endocrine-system",
       "topicName": "Histology of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en05-003",
@@ -893,7 +899,8 @@
       ],
       "topicId": "histology-of-the-endocrine-system",
       "topicName": "Histology of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en05-008",
@@ -1081,7 +1088,8 @@
       ],
       "topicId": "histology-of-the-endocrine-system",
       "topicName": "Histology of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en05-012",
@@ -1175,7 +1183,8 @@
       ],
       "topicId": "anatomy-of-the-endocrine-system",
       "topicName": "Anatomy of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en02-002",
@@ -1316,7 +1325,8 @@
       ],
       "topicId": "anatomy-of-the-endocrine-system",
       "topicName": "Anatomy of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en02-005",
@@ -1410,7 +1420,8 @@
       ],
       "topicId": "anatomy-of-the-endocrine-system",
       "topicName": "Anatomy of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en02-007",
@@ -1457,7 +1468,8 @@
       ],
       "topicId": "anatomy-of-the-endocrine-system",
       "topicName": "Anatomy of the Endocrine System",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en02-008",
@@ -1739,7 +1751,8 @@
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
       "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en04-002",
@@ -1786,7 +1799,8 @@
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
       "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en04-003",
@@ -1927,7 +1941,8 @@
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
       "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en04-006",
@@ -2021,7 +2036,8 @@
       ],
       "topicId": "hypothalamic-pituitary-axis-1",
       "topicName": "Hypothalamic-Pituitary (H-P) Axis 1",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en04-008",
@@ -2350,7 +2366,8 @@
       ],
       "topicId": "normal-growth-and-sexual-development",
       "topicName": "Normal Growth and Sexual Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en06-003",
@@ -2397,7 +2414,8 @@
       ],
       "topicId": "normal-growth-and-sexual-development",
       "topicName": "Normal Growth and Sexual Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en06-004",
@@ -2585,7 +2603,8 @@
       ],
       "topicId": "normal-growth-and-sexual-development",
       "topicName": "Normal Growth and Sexual Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en06-008",
@@ -2773,7 +2792,8 @@
       ],
       "topicId": "normal-growth-and-sexual-development",
       "topicName": "Normal Growth and Sexual Development",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en06-012",

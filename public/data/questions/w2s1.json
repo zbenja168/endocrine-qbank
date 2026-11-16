@@ -94,7 +94,8 @@
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
       "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en12-003",
@@ -329,7 +330,8 @@
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
       "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en12-008",
@@ -423,7 +425,8 @@
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
       "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en12-010",
@@ -470,7 +473,8 @@
       ],
       "topicId": "thyroid-hormone-synthesis-regulation-and-testing",
       "topicName": "Thyroid Hormone Synthesis, Regulation, and Testing",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en12-011",
@@ -656,7 +660,8 @@
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
       "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en11-003",
@@ -702,7 +707,8 @@
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
       "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en11-004",
@@ -932,7 +938,8 @@
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
       "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en11-009",
@@ -1024,7 +1031,8 @@
       ],
       "topicId": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
       "topicName": "Hypothyroidism: Primary and Central Patterns, Hashimoto Thyroiditis, and Myxedema Coma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en11-011",
@@ -1163,7 +1171,8 @@
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
       "topicName": "Hyperthyroidism and Thyroid Storm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en10-002",
@@ -1210,7 +1219,8 @@
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
       "topicName": "Hyperthyroidism and Thyroid Storm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en10-003",
@@ -1398,7 +1408,8 @@
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
       "topicName": "Hyperthyroidism and Thyroid Storm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en10-007",
@@ -1445,7 +1456,8 @@
       ],
       "topicId": "hyperthyroidism-and-thyroid-storm",
       "topicName": "Hyperthyroidism and Thyroid Storm",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en10-008",

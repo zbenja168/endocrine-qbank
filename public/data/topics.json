@@ -10,7 +10,9 @@
           "sourceFile": "Endocrine Brick 1",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 1,
@@ -27,7 +29,9 @@
           "sourceFile": "Endocrine Brick 3",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "histology-of-the-endocrine-system",
@@ -35,7 +39,9 @@
           "sourceFile": "Endocrine Brick 5",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "anatomy-of-the-endocrine-system",
@@ -43,7 +49,9 @@
           "sourceFile": "Endocrine Brick 2",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "hypothalamic-pituitary-axis-1",
@@ -51,7 +59,9 @@
           "sourceFile": "Endocrine Brick 4",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "normal-growth-and-sexual-development",
@@ -59,7 +69,9 @@
           "sourceFile": "Endocrine Brick 6",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 1,
@@ -76,7 +88,9 @@
           "sourceFile": "Endocrine Brick 8",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "hypopituitarism",
@@ -84,7 +98,9 @@
           "sourceFile": "Endocrine Brick 9",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "growth-hormone-deficiency-and-excess",
@@ -92,7 +108,9 @@
           "sourceFile": "Endocrine Brick 7",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 1,
@@ -109,7 +127,9 @@
           "sourceFile": "Endocrine Brick 12",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "hypothyroidism-hashimoto-thyroiditis-and-myxedema-coma",
@@ -117,7 +137,9 @@
           "sourceFile": "Endocrine Brick 11",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "hyperthyroidism-and-thyroid-storm",
@@ -125,7 +147,9 @@
           "sourceFile": "Endocrine Brick 10",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 2,
@@ -142,7 +166,9 @@
           "sourceFile": "Endocrine Brick 16",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "medullary-and-anaplastic-thyroid-carcinomas",
@@ -150,7 +176,9 @@
           "sourceFile": "Endocrine Brick 14",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "differentiated-thyroid-cancers-papillary-and-follicular",
@@ -158,7 +186,9 @@
           "sourceFile": "Endocrine Brick 13",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "multiple-endocrine-neoplasia-syndromes",
@@ -166,7 +196,9 @@
           "sourceFile": "Endocrine Brick 15",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 2,
@@ -183,7 +215,9 @@
           "sourceFile": "Endocrine Brick 18",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "hypoparathyroidism",
@@ -191,7 +225,9 @@
           "sourceFile": "Endocrine Brick 19",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "endocrine-bone-disorders",
@@ -199,7 +235,9 @@
           "sourceFile": "Endocrine Brick 17",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 2,
@@ -216,7 +254,9 @@
           "sourceFile": "Endocrine Brick 21",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "adrenal-insufficiency-cushing-syndrome-and-cushing-disease",
@@ -224,7 +264,9 @@
           "sourceFile": "Endocrine Brick 20",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "catecholamine-excess-pheochromocytoma-and-paraganglioma",
@@ -232,7 +274,9 @@
           "sourceFile": "Endocrine Brick 22",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 3,
@@ -249,7 +293,9 @@
           "sourceFile": "Endocrine Brick 26",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "structure-and-function-of-the-endocrine-pancreas",
@@ -257,7 +303,9 @@
           "sourceFile": "Endocrine Brick 23",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "type-1-diabetes-mellitus",
@@ -265,7 +313,9 @@
           "sourceFile": "Endocrine Brick 24",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "type-2-diabetes-mellitus",
@@ -273,7 +323,9 @@
           "sourceFile": "Endocrine Brick 25",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "treatment-of-diabetes-with-glucose-lowering-agents",
@@ -281,7 +333,9 @@
           "sourceFile": "Endocrine Brick 27",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 3,
@@ -298,7 +352,9 @@
           "sourceFile": "Endocrine Brick 28",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "hypoglycemia",
@@ -306,7 +362,9 @@
           "sourceFile": "Endocrine Brick 31",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
@@ -314,7 +372,9 @@
           "sourceFile": "Endocrine Brick 29",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "chronic-complications-of-diabetes-mellitus",
@@ -322,7 +382,9 @@
           "sourceFile": "Endocrine Brick 30",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 3,
@@ -339,7 +401,9 @@
           "sourceFile": "Endocrine Brick 32",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         },
         {
           "id": "fighting-the-diabetes-epidemic-partnering-with-patients-for-better-outcomes",
@@ -347,7 +411,9 @@
           "sourceFile": "Endocrine Brick 33",
           "coreCount": 12,
           "extraCount": 0,
-          "questionCount": 12
+          "questionCount": 12,
+          "hyCount": 4,
+          "hyCoreCount": 4
         }
       ],
       "week": 4,

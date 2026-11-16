@@ -47,7 +47,8 @@
       ],
       "topicId": "thyroid-nodule-evaluation",
       "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en16-002",
@@ -94,7 +95,8 @@
       ],
       "topicId": "thyroid-nodule-evaluation",
       "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en16-003",
@@ -188,7 +190,8 @@
       ],
       "topicId": "thyroid-nodule-evaluation",
       "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en16-005",
@@ -235,7 +238,8 @@
       ],
       "topicId": "thyroid-nodule-evaluation",
       "topicName": "Thyroid Nodule Evaluation: TSH Testing, Ultrasound Risk Stratification, Fine-Needle Aspiration, and Bethesda Cytology",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en16-006",
@@ -611,7 +615,8 @@
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
       "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en14-002",
@@ -752,7 +757,8 @@
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
       "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en14-005",
@@ -846,7 +852,8 @@
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
       "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en14-007",
@@ -940,7 +947,8 @@
       ],
       "topicId": "medullary-and-anaplastic-thyroid-carcinomas",
       "topicName": "Medullary and Anaplastic Thyroid Carcinomas: C-Cell Biology, Inherited Risk, and Aggressive Neck Disease",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en14-009",
@@ -1175,7 +1183,8 @@
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
       "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en13-002",
@@ -1222,7 +1231,8 @@
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
       "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en13-003",
@@ -1316,7 +1326,8 @@
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
       "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en13-005",
@@ -1363,7 +1374,8 @@
       ],
       "topicId": "differentiated-thyroid-cancers-papillary-and-follicular",
       "topicName": "Differentiated Thyroid Cancers: Papillary and Follicular Thyroid Carcinoma",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en13-006",
@@ -1739,7 +1751,8 @@
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
       "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en15-002",
@@ -1786,7 +1799,8 @@
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
       "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en15-003",
@@ -1833,7 +1847,8 @@
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
       "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en15-004",
@@ -1880,7 +1895,8 @@
       ],
       "topicId": "multiple-endocrine-neoplasia-syndromes",
       "topicName": "Multiple Endocrine Neoplasia Syndromes: MEN1, MEN2A, MEN2B, and MEN4",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en15-005",

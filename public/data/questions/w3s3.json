@@ -47,7 +47,8 @@
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
       "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en28-002",
@@ -141,7 +142,8 @@
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
       "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en28-004",
@@ -282,7 +284,8 @@
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
       "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en28-007",
@@ -329,7 +332,8 @@
       ],
       "topicId": "adrenal-masses-incidentaloma-functional-workup-and-adrenal-tumors",
       "topicName": "Adrenal Masses: Incidentaloma, Functional Workup, and Adrenal Tumors",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en28-008",
@@ -611,7 +615,8 @@
       ],
       "topicId": "hypoglycemia",
       "topicName": "Hypoglycemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en31-002",
@@ -658,7 +663,8 @@
       ],
       "topicId": "hypoglycemia",
       "topicName": "Hypoglycemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en31-003",
@@ -705,7 +711,8 @@
       ],
       "topicId": "hypoglycemia",
       "topicName": "Hypoglycemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en31-004",
@@ -799,7 +806,8 @@
       ],
       "topicId": "hypoglycemia",
       "topicName": "Hypoglycemia",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en31-006",
@@ -1176,7 +1184,8 @@
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
       "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en29-002",
@@ -1272,7 +1281,8 @@
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
       "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en29-004",
@@ -1368,7 +1378,8 @@
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
       "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en29-006",
@@ -1656,7 +1667,8 @@
       ],
       "topicId": "diabetic-ketoacidosis-and-hyperosmolar-hyperglycemic-state",
       "topicName": "Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycemic State (HHS)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en29-012",
@@ -1752,7 +1764,8 @@
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
       "topicName": "Chronic Complications of Diabetes Mellitus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en30-002",
@@ -1992,7 +2005,8 @@
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
       "topicName": "Chronic Complications of Diabetes Mellitus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en30-007",
@@ -2040,7 +2054,8 @@
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
       "topicName": "Chronic Complications of Diabetes Mellitus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en30-008",
@@ -2184,7 +2199,8 @@
       ],
       "topicId": "chronic-complications-of-diabetes-mellitus",
       "topicName": "Chronic Complications of Diabetes Mellitus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en30-011",

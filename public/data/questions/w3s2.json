@@ -48,7 +48,8 @@
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
       "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en26-002",
@@ -332,7 +333,8 @@
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
       "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en26-008",
@@ -380,7 +382,8 @@
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
       "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en26-009",
@@ -476,7 +479,8 @@
       ],
       "topicId": "endocrine-messages-to-the-kidney-hyperaldosteronism-adh-disorders-and-diabetes-insipidus",
       "topicName": "Endocrine Messages to the Kidney: Hyperaldosteronism, ADH Disorders, and Diabetes Insipidus",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en26-011",
@@ -664,7 +668,8 @@
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
       "topicName": "Structure and Function of the Endocrine Pancreas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en23-003",
@@ -711,7 +716,8 @@
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
       "topicName": "Structure and Function of the Endocrine Pancreas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en23-004",
@@ -994,7 +1000,8 @@
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
       "topicName": "Structure and Function of the Endocrine Pancreas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en23-010",
@@ -1135,7 +1142,8 @@
       ],
       "topicId": "structure-and-function-of-the-endocrine-pancreas",
       "topicName": "Structure and Function of the Endocrine Pancreas",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en24-001",
@@ -1183,7 +1191,8 @@
       ],
       "topicId": "type-1-diabetes-mellitus",
       "topicName": "Type 1 Diabetes Mellitus (T1DM)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en24-002",
@@ -1231,7 +1240,8 @@
       ],
       "topicId": "type-1-diabetes-mellitus",
       "topicName": "Type 1 Diabetes Mellitus (T1DM)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en24-003",
@@ -1279,7 +1289,8 @@
       ],
       "topicId": "type-1-diabetes-mellitus",
       "topicName": "Type 1 Diabetes Mellitus (T1DM)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en24-004",
@@ -1567,7 +1578,8 @@
       ],
       "topicId": "type-1-diabetes-mellitus",
       "topicName": "Type 1 Diabetes Mellitus (T1DM)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en24-010",
@@ -1759,7 +1771,8 @@
       ],
       "topicId": "type-2-diabetes-mellitus",
       "topicName": "Type 2 Diabetes Mellitus (T2D)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en25-002",
@@ -1807,7 +1820,8 @@
       ],
       "topicId": "type-2-diabetes-mellitus",
       "topicName": "Type 2 Diabetes Mellitus (T2D)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en25-003",
@@ -2094,7 +2108,8 @@
       ],
       "topicId": "type-2-diabetes-mellitus",
       "topicName": "Type 2 Diabetes Mellitus (T2D)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en25-009",
@@ -2237,7 +2252,8 @@
       ],
       "topicId": "type-2-diabetes-mellitus",
       "topicName": "Type 2 Diabetes Mellitus (T2D)",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en25-012",
@@ -2332,7 +2348,8 @@
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
       "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en27-002",
@@ -2379,7 +2396,8 @@
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
       "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en27-003",
@@ -2426,7 +2444,8 @@
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
       "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en27-004",
@@ -2520,7 +2539,8 @@
       ],
       "topicId": "treatment-of-diabetes-with-glucose-lowering-agents",
       "topicName": "Treatment of Diabetes with Glucose-Lowering Agents",
-      "tier": "core"
+      "tier": "core",
+      "hy": true
     },
     {
       "id": "en27-006",
